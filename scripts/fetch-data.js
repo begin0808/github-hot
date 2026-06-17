@@ -47,7 +47,7 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 async function fetchTopGithubProjects(daysAgo) {
   const dateStr = getDateStringAgo(daysAgo);
   const query = `created:>=${dateStr}`;
-  const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=10`;
+  const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=12`;
   
   const headers = {
     'User-Agent': 'github-popular-timeline-app',
@@ -159,7 +159,7 @@ async function main() {
       
       for (let i = 0; i < rawRepos.length; i++) {
         const repo = rawRepos[i];
-        console.log(`[${i + 1}/10] 處理專案: ${repo.full_name}`);
+        console.log(`[${i + 1}/12] 處理專案: ${repo.full_name}`);
         
         let zhName = repo.name;
         let features = repo.description || '無描述';
