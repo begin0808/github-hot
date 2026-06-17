@@ -333,6 +333,62 @@ h1 {
   box-shadow: var(--shadow-glow);
 }
 
+/* Custom Rank Tinted Backgrounds for Top 3 (Dark Mode) */
+.card-rank-1 {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.08) 0%, rgba(17, 24, 39, 0.55) 100%);
+  border-color: rgba(245, 158, 11, 0.25);
+}
+.card-rank-1:hover {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.15) 0%, rgba(30, 41, 59, 0.7) 100%);
+  border-color: rgba(245, 158, 11, 0.45);
+}
+
+.card-rank-2 {
+  background: linear-gradient(135deg, rgba(148, 163, 184, 0.08) 0%, rgba(17, 24, 39, 0.55) 100%);
+  border-color: rgba(148, 163, 184, 0.25);
+}
+.card-rank-2:hover {
+  background: linear-gradient(135deg, rgba(148, 163, 184, 0.15) 0%, rgba(30, 41, 59, 0.7) 100%);
+  border-color: rgba(148, 163, 184, 0.45);
+}
+
+.card-rank-3 {
+  background: linear-gradient(135deg, rgba(180, 83, 9, 0.08) 0%, rgba(17, 24, 39, 0.55) 100%);
+  border-color: rgba(180, 83, 9, 0.25);
+}
+.card-rank-3:hover {
+  background: linear-gradient(135deg, rgba(180, 83, 9, 0.15) 0%, rgba(30, 41, 59, 0.7) 100%);
+  border-color: rgba(180, 83, 9, 0.45);
+}
+
+/* Custom Rank Tinted Backgrounds for Top 3 (Light Mode) */
+body.light-theme .card-rank-1 {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.09) 0%, rgba(255, 255, 255, 0.7) 100%);
+  border-color: rgba(245, 158, 11, 0.25);
+}
+body.light-theme .card-rank-1:hover {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.16) 0%, rgba(255, 255, 255, 0.9) 100%);
+  border-color: rgba(245, 158, 11, 0.45);
+}
+
+body.light-theme .card-rank-2 {
+  background: linear-gradient(135deg, rgba(148, 163, 184, 0.09) 0%, rgba(255, 255, 255, 0.7) 100%);
+  border-color: rgba(148, 163, 184, 0.25);
+}
+body.light-theme .card-rank-2:hover {
+  background: linear-gradient(135deg, rgba(148, 163, 184, 0.16) 0%, rgba(255, 255, 255, 0.9) 100%);
+  border-color: rgba(148, 163, 184, 0.45);
+}
+
+body.light-theme .card-rank-3 {
+  background: linear-gradient(135deg, rgba(180, 83, 9, 0.09) 0%, rgba(255, 255, 255, 0.7) 100%);
+  border-color: rgba(180, 83, 9, 0.22);
+}
+body.light-theme .card-rank-3:hover {
+  background: linear-gradient(135deg, rgba(180, 83, 9, 0.16) 0%, rgba(255, 255, 255, 0.9) 100%);
+  border-color: rgba(180, 83, 9, 0.4);
+}
+
 /* Rank Badges */
 .rank-badge {
   position: absolute;
@@ -475,6 +531,10 @@ h1 {
 
 .label-applications {
   color: var(--accent-purple);
+}
+
+.label-license {
+  color: var(--text-muted);
 }
 
 .summary-content {

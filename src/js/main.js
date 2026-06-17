@@ -74,13 +74,22 @@ function renderProjects(period) {
   
   projects.forEach(repo => {
     const card = document.createElement('div');
-    card.className = 'project-card';
     
-    // Determine rank styles
+    // Determine rank styles and card backgrounds
     let rankClass = 'rank-other';
-    if (repo.rank === 1) rankClass = 'rank-1';
-    else if (repo.rank === 2) rankClass = 'rank-2';
-    else if (repo.rank === 3) rankClass = 'rank-3';
+    let cardRankClass = '';
+    if (repo.rank === 1) {
+      rankClass = 'rank-1';
+      cardRankClass = 'card-rank-1';
+    } else if (repo.rank === 2) {
+      rankClass = 'rank-2';
+      cardRankClass = 'card-rank-2';
+    } else if (repo.rank === 3) {
+      rankClass = 'rank-3';
+      cardRankClass = 'card-rank-3';
+    }
+    
+    card.className = `project-card ${cardRankClass}`.trim();
 
     // Format Language (escaped)
     const languageBadge = repo.language 
@@ -90,6 +99,11 @@ function renderProjects(period) {
     // Sanitize URLs
     const repoUrl = sanitizeUrl(repo.html_url);
     const avatarUrl = sanitizeUrl(repo.owner?.avatar_url) || 'https://github.com/identicons/github.png';
+
+    // Format License text
+    const licenseText = repo.license 
+      ? (repo.license.spdx_id || repo.license.name || '未指定') 
+      : '未指定';
 
     card.innerHTML = `
       <div class="rank-badge ${rankClass}">#${escapeHtml(repo.rank)}</div>
@@ -122,6 +136,10 @@ function renderProjects(period) {
         <div class="summary-section">
           <span class="summary-label label-applications">實際應用場景</span>
           <p class="summary-content">${escapeHtml(repo.applications || '無應用描述')}</p>
+        </div>
+        <div class="summary-section">
+          <span class="summary-label label-license">開源授權條款</span>
+          <p class="summary-content license-text">${escapeHtml(licenseText)}</p>
         </div>
       </div>
 

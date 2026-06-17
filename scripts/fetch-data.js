@@ -257,6 +257,10 @@ async function main() {
             login: repo.owner?.login,
             avatar_url: repo.owner?.avatar_url
           },
+          license: repo.license ? {
+            name: repo.license.name,
+            spdx_id: repo.license.spdx_id
+          } : null,
           zhName,
           features,
           applications
