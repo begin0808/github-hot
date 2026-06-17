@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T11:43:37.836Z",
+  "lastUpdated": "2026-06-17T11:48:55.015Z",
   "periods": {
     "week": [
       {
@@ -8,15 +8,15 @@
         "full_name": "DietrichGebert/ponytail",
         "html_url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stargazers_count": 28590,
+        "stargazers_count": 28616,
         "language": "JavaScript",
         "owner": {
           "login": "DietrichGebert",
           "avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
         },
-        "zhName": "ponytail (AI 代碼精簡助手)",
-        "features": "模擬資深開發人員的懶惰哲學，優先思考如何減少程式碼編寫量。專注於透過刪減不必要的實作來優化專案，奉行『不寫程式碼才是最好的程式碼』之原則。",
-        "applications": "適合追求極致簡潔與低維護成本的專案，幫助開發者在 AI 輔助開發中避免過度設計。"
+        "zhName": "ponytail (AI 代碼極簡化工具)",
+        "features": "透過模擬懶惰資深開發者的思維模式，旨在最大程度減少不必要的代碼編寫。強調「最好的代碼就是從未被寫下的代碼」，以極簡主義優化開發效率。",
+        "applications": "適合尋求極致代碼瘦身與高效解決方案的開發者，減少冗餘開發工作。"
       },
       {
         "rank": 2,
@@ -30,9 +30,9 @@
           "login": "XiaomiMiMo",
           "avatar_url": "https://avatars.githubusercontent.com/u/208276378?v=4"
         },
-        "zhName": "MiMo-Code (小米 MiMo 程式碼專案)",
-        "features": "由小米團隊開發的 TypeScript 專案，旨在提供高效率的開發工具或框架支援。專注於現代化 Web 開發流程的優化與標準化。",
-        "applications": "適合需要整合小米技術生態或參考大型企業級 TypeScript 專案架構的開發者使用。"
+        "zhName": "MiMo-Code (小米 MiMo 代碼專案)",
+        "features": "由小米 MiMo 團隊開發的 TypeScript 專案。雖然官方描述較為簡略，但其架構致力於提升開發流程的標準化與執行效率。",
+        "applications": "適用於需要深入研究小米開源技術架構，或尋求特定 TypeScript 工具鏈的開發環境。"
       },
       {
         "rank": 3,
@@ -40,15 +40,15 @@
         "full_name": "shadcn/improve",
         "html_url": "https://github.com/shadcn/improve",
         "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-        "stargazers_count": 5062,
+        "stargazers_count": 5063,
         "language": null,
         "owner": {
           "login": "shadcn",
           "avatar_url": "https://avatars.githubusercontent.com/u/124599?v=4"
         },
-        "zhName": "improve (AI 代碼審計與重構計畫)",
-        "features": "利用高階 AI 模型對現有程式碼進行深入審計，並自動制定重構計畫。透過將複雜邏輯拆解，指引較低成本的模型執行實際編寫工作。",
-        "applications": "適用於需要優化大型舊有專案的團隊，能有效降低人工審查成本並提升程式碼品質。"
+        "zhName": "improve (AI 代碼審計與規劃工具)",
+        "features": "利用高階模型進行深度代碼審計，並自動生成執行規劃。讓低成本模型能根據規劃精準執行任務，達到品質與成本的最佳平衡。",
+        "applications": "適用於需要大規模程式碼重構或優化，但希望能控制 AI 成本的企業級開發團隊。"
       },
       {
         "rank": 4,
@@ -56,15 +56,15 @@
         "full_name": "omnigent-ai/omnigent",
         "html_url": "https://github.com/omnigent-ai/omnigent",
         "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-        "stargazers_count": 3244,
+        "stargazers_count": 3247,
         "language": "Python",
         "owner": {
           "login": "omnigent-ai",
           "avatar_url": "https://avatars.githubusercontent.com/u/292215228?v=4"
         },
-        "zhName": "omnigent (通用 AI 代理編排框架)",
-        "features": "為各類 AI 代理提供統一的接入層，支援 Claude Code、Codex 等多種模型框架的切換與整合。具備策略控管、沙盒環境以及跨裝置即時協作功能。",
-        "applications": "適合開發複雜 AI 工作流的工程師，解決因模型變更導致的底層邏輯重寫困擾。"
+        "zhName": "omnigent (AI 智能體統一框架)",
+        "features": "提供跨平台的 AI 智能體統一介面，支援 Claude Code、Codex 與自定義智能體。具備沙盒機制、政策控管以及跨裝置即時協作功能。",
+        "applications": "適合需要整合多種 AI 工具流，或在複雜開發環境中進行遠端 AI 協作的技術團隊。"
       },
       {
         "rank": 5,
@@ -72,15 +72,15 @@
         "full_name": "tamnd/kage",
         "html_url": "https://github.com/tamnd/kage",
         "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
-        "stargazers_count": 1815,
+        "stargazers_count": 1817,
         "language": "Go",
         "owner": {
           "login": "tamnd",
           "avatar_url": "https://avatars.githubusercontent.com/u/1218621?v=4"
         },
-        "zhName": "kage (網頁離線鏡像工具)",
-        "features": "能夠將指定網站內容進行完全離線鏡像存儲，並自動移除網頁中的所有 JavaScript 程式碼。確保離線瀏覽時保持內容完整與高度安全性。",
-        "applications": "適用於需要長期備份特定網站資料，或在無法連網的環境下閱讀網頁內容的場景。"
+        "zhName": "kage (網頁離線存檔工具)",
+        "features": "能夠將網頁內容精簡化並儲存，特別移除了所有 JavaScript 程式碼。確保網頁內容在離線狀態下也能穩定瀏覽。",
+        "applications": "適合需要長期保存網頁資訊、進行內容分析或在網路不穩定環境下閱讀的用戶。"
       },
       {
         "rank": 6,
@@ -94,9 +94,9 @@
           "login": "lenucksi",
           "avatar_url": "https://avatars.githubusercontent.com/u/2451899?v=4"
         },
-        "zhName": "aur-malware-check (AUR 惡意程式檢測工具)",
-        "features": "針對 AUR (Arch User Repository) 供應鏈攻擊設計的偵測腳本，整合了社群回報的技術方案。專門用於識別 atomic-lockfile 等相關漏洞。",
-        "applications": "適合使用 Arch Linux 並頻繁從 AUR 安裝套件的用戶，用以維護系統安全性與檢查軟體完整性。"
+        "zhName": "aur-malware-check (AUR 供應鏈惡意軟體檢測工具)",
+        "features": "專為檢測 June 2026 atomic-lockfile 供應鏈攻擊而設計的安全性工具。整合了社群提供的防禦腳本，協助辨識惡意套件。",
+        "applications": "適用於 Arch Linux 系統管理者，用於稽核 AUR 套件安全性以防止潛在的系統入侵。"
       },
       {
         "rank": 7,
@@ -110,9 +110,9 @@
           "login": "SkyBlue997",
           "avatar_url": "https://avatars.githubusercontent.com/u/74125386?v=4"
         },
-        "zhName": "enableMacosAI (macOS Apple 智慧功能解鎖工具)",
-        "features": "一鍵啟用中國行貨 Mac 設備上的完整 Apple Intelligence 功能，包括端側運算與 Private Cloud Compute。專為 Apple Silicon 晶片設備優化。",
-        "applications": "適合持有特定地區限制設備，但希望體驗完整 macOS AI 智慧功能的進階用戶。"
+        "zhName": "enableMacosAI (macOS Apple 智能啟用器)",
+        "features": "專為中國大陸版 Mac 設計，一鍵開啟 Apple 智能（Apple Intelligence）功能。支援端側 AI 與私有雲計算 (Private Cloud Compute) 的完整體驗。",
+        "applications": "適合使用中國區 macOS 裝置，但希望使用蘋果 AI 功能的進階用戶。"
       },
       {
         "rank": 8,
@@ -120,15 +120,15 @@
         "full_name": "EEliberto/IPA-Download",
         "html_url": "https://github.com/EEliberto/IPA-Download",
         "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
-        "stargazers_count": 940,
+        "stargazers_count": 941,
         "language": "Swift",
         "owner": {
           "login": "EEliberto",
           "avatar_url": "https://avatars.githubusercontent.com/u/74881807?v=4"
         },
-        "zhName": "IPA-Download (IPA 歷史版本下載助手)",
-        "features": "提供 IPA 歷史版本應用的搜尋與下載，並內建數據包捕獲功能。支援透過 AirDrop 直接傳輸至 iOS 裝置進行安裝。",
-        "applications": "適合需要回溯舊版 App 功能或進行 App 相容性測試的測試人員與開發者。"
+        "zhName": "IPA-Download (iOS 歷史版本安裝工具)",
+        "features": "協助用戶下載並安裝 App Store 的舊版 IPA 應用程式。具備數據封包自動捕獲能力，並支援透過 AirDrop 直接傳輸至 iOS 裝置。",
+        "applications": "適合需要測試舊版軟體相容性，或希望找回特定被移除功能的 App 開發者與使用者。"
       },
       {
         "rank": 9,
@@ -142,9 +142,9 @@
           "login": "levy-street",
           "avatar_url": "https://avatars.githubusercontent.com/u/149554763?v=4"
         },
-        "zhName": "world-of-claudecraft (Claude 代理生態專案)",
-        "features": "專注於 Claude AI 代理開發與應用場景的擴展，提供了一系列與 Claude 模型協作的開發工具與實驗性功能。",
-        "applications": "適合熱衷於使用 Claude 模型進行自動化開發或構建 AI 輔助編程流程的工程師。"
+        "zhName": "world-of-claudecraft (Claude 輔助開發專案)",
+        "features": "基於 TypeScript 的開發輔助工具，旨在優化 Claude 模型在程式開發流程中的互動與應用效率。",
+        "applications": "適用於深度依賴 Claude 進行自動化程式設計與技術驗證的開發者。"
       },
       {
         "rank": 10,
@@ -152,15 +152,15 @@
         "full_name": "loc567/loc567",
         "html_url": "https://github.com/loc567/loc567",
         "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
-        "stargazers_count": 887,
+        "stargazers_count": 888,
         "language": "C",
         "owner": {
           "login": "loc567",
           "avatar_url": "https://avatars.githubusercontent.com/u/292671063?v=4"
         },
-        "zhName": "loc567 (Web 端 iOS 定位模擬器)",
-        "features": "一款完全開源且免費的純網頁版 iOS 虛擬定位工具，無需複雜安裝即可在瀏覽器上操作。提供簡單直觀的座標模擬與設定介面。",
-        "applications": "適合 iOS 開發測試人員，用於驗證地理位置相關功能的 App 功能表現。"
+        "zhName": "loc567 (iOS 網頁版模擬定位工具)",
+        "features": "完全開源且免費的純網頁端 iOS 位置模擬解決方案。使用者可透過線上平台操作，快速達成地理位置虛擬化需求。",
+        "applications": "適合需要進行地理位置測試或隱私保護場景的開發者與一般用戶。"
       },
       {
         "rank": 11,
@@ -174,9 +174,9 @@
           "login": "orange2ai",
           "avatar_url": "https://avatars.githubusercontent.com/u/77816124?v=4"
         },
-        "zhName": "renwei-writing (人味兒 AI 寫作修正器)",
-        "features": "專注於『保留作者靈魂』的 AI 寫作優化工具，避免 AI 潤飾導致文字失去個人特色。在提升文句通順度的同時，確保維持作者原本的語氣與風格。",
-        "applications": "適合部落客、文字創作者或需要 AI 輔助但又不想失去個人風格的內容工作者。"
+        "zhName": "renwei-writing (AI 人味兒寫作優化器)",
+        "features": "專注於 AI 內容潤飾的智能體技能，在優化文句的同時保留作者的個人風格與情感。避免 AI 產出過於機械化的文本。",
+        "applications": "適合內容創作者與編輯，協助在保持 AI 高效產出的同時，兼顧文章的溫暖與人性。"
       },
       {
         "rank": 12,
@@ -190,9 +190,9 @@
           "login": "BuilderIO",
           "avatar_url": "https://avatars.githubusercontent.com/u/35700027?v=4"
         },
-        "zhName": "skills (BuilderIO 代理開發技能集)",
-        "features": "由 BuilderIO 推出的 AI 代理專用技能庫，提供了一系列可重用的模組與功能，賦予 AI 代理執行特定開發任務的能力。",
-        "applications": "適合正在構建客製化 AI 開發助手，希望快速擴充代理功能並提高任務執行成功率的開發者。"
+        "zhName": "skills (BuilderIO 開發智能體技能集)",
+        "features": "由 BuilderIO 推出的開發者智能體技能包。提供了一組標準化介面，讓程式設計 AI 能更精準地操作與處理軟體工程任務。",
+        "applications": "適用於正在開發 AI Coding Agent，並希望導入成熟解決方案以提升 AI 程式能力的開發團隊。"
       }
     ],
     "month": [
@@ -202,15 +202,15 @@
         "full_name": "pewdiepie-archdaemon/odysseus",
         "html_url": "https://github.com/pewdiepie-archdaemon/odysseus",
         "description": "Self-hosted AI workspace. ",
-        "stargazers_count": 72733,
+        "stargazers_count": 72736,
         "language": "Python",
         "owner": {
           "login": "pewdiepie-archdaemon",
           "avatar_url": "https://avatars.githubusercontent.com/u/229018391?v=4"
         },
-        "zhName": "odysseus (自託管 AI 工作空間)",
-        "features": "提供一個完全自託管的 AI 開發環境，讓開發者能在隱私與安全可控的前提下調用各類模型。它整合了 AI 助手與開發工具，旨在提升程式碼編寫與專案管理的效率。",
-        "applications": "適合重視資料隱私與安全性，希望在企業內部或個人伺服器上架設專屬 AI 輔助開發環境的工程師。"
+        "zhName": "odysseus (AI 工作空間平台)",
+        "features": "這是一個專為 AI 模型設計的自託管工作空間。它能夠讓使用者在封閉環境中整合多種 AI 工具，強化隱私與作業彈性。",
+        "applications": "適合重視資料隱私與自主控制權的開發者，用於架構私有的 AI 應用開發環境。"
       },
       {
         "rank": 2,
@@ -218,15 +218,15 @@
         "full_name": "DietrichGebert/ponytail",
         "html_url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stargazers_count": 28590,
+        "stargazers_count": 28617,
         "language": "JavaScript",
         "owner": {
           "login": "DietrichGebert",
           "avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
         },
-        "zhName": "ponytail (AI 程式碼優化工具)",
-        "features": "採用「懶惰資深工程師」哲學的 AI 代理工具，強調透過減少撰寫程式碼來提升整體效能。它會自動審視開發需求，並利用 AI 邏輯提供最簡約的解決方案。",
-        "applications": "適合追求極致程式碼效率、希望利用 AI 減少重複性代碼撰寫並自動化最佳化決策的開發者。"
+        "zhName": "ponytail (AI 程式碼簡化工具)",
+        "features": "透過模擬『最懶惰資深開發者』的思維，優先考慮減少程式碼編寫量。它強調以最小化的程式碼實現功能，落實不寫程式碼即是最佳解的哲學。",
+        "applications": "適合極簡主義開發者，用於自動優化與刪減冗餘的軟體專案需求。"
       },
       {
         "rank": 3,
@@ -240,9 +240,9 @@
           "login": "XiaomiMiMo",
           "avatar_url": "https://avatars.githubusercontent.com/u/208276378?v=4"
         },
-        "zhName": "MiMo-Code (小米代碼管理工具)",
-        "features": "基於 TypeScript 開發的程式碼處理工具，提供結構化的代碼解析與管理能力。專案設計旨在協助開發流程中的自動化與標準化作業。",
-        "applications": "適用於需要進行程式碼掃描、自動化重構或大型專案代碼管理的開發團隊。"
+        "zhName": "MiMo-Code (小米 MiMo 程式碼工具)",
+        "features": "這是一個基於 TypeScript 的開發輔助工具。儘管目前詳細文件較少，但其定位於小米生態系的開發者工具鏈中。",
+        "applications": "適合小米生態系或相關架構的開發者，用於提升特定領域的開發效率。"
       },
       {
         "rank": 4,
@@ -257,8 +257,8 @@
           "avatar_url": "https://avatars.githubusercontent.com/u/261740341?v=4"
         },
         "zhName": "sdk-js (Astrid OS 開發套件)",
-        "features": "為 Astrid OS 專用膠囊（Capsules）提供的 JavaScript 與 TypeScript 開發套件。它與 Rust 版本的 SDK 搭配使用，確保跨語言開發的一致性與介面標準化。",
-        "applications": "適用於 Astrid OS 生態系統中的開發者，用於構建各類擴充功能模組或應用程式。"
+        "features": "這是 Astrid OS 膠囊（capsules）開發專用的 JavaScript/TypeScript SDK。它與 Rust 版本的 SDK 互補，實現了跨語言的模組建構支援。",
+        "applications": "適合有意為 Astrid OS 平台開發應用模組的開發者使用。"
       },
       {
         "rank": 5,
@@ -273,8 +273,8 @@
           "avatar_url": "https://avatars.githubusercontent.com/u/1961952?v=4"
         },
         "zhName": "open-code-review (阿里巴巴程式碼審查工具)",
-        "features": "結合確定性管線與 LLM 代理的混合架構審查系統，具備行級評論與精確的規則集檢查能力。內建針對 NPE、執行緒安全及安全性漏洞（SQL 注入/XSS）的專業偵測規則。",
-        "applications": "適合大型開發團隊在 CI/CD 流程中引入自動化審查，提升程式碼品質並降低安全性風險。"
+        "features": "結合確定性管線與 LLM Agent 的混合架構審查工具。內建了針對常見資安問題如 SQL 注入與執行緒安全的偵測規則。",
+        "applications": "適合中大型企業團隊，用於大規模自動化程式碼品質管控與安全性審查。"
       },
       {
         "rank": 6,
@@ -288,9 +288,9 @@
           "login": "anthropics",
           "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
         },
-        "zhName": "defending-code-reference-harness (Anthropic 安全威脅防禦工具)",
-        "features": "提供威脅建模、自動掃描與弱點修補的完整解決方案，並包含一個可自定義的自主安全掃描模組。旨在協助開發者主動識別並排除程式碼中的安全隱患。",
-        "applications": "適合負責應用程式安全（AppSec）的工程師，用於強化程式碼安全性並自動化處理威脅修復作業。"
+        "zhName": "defending-code-reference-harness (Anthropic 資安掃描框架)",
+        "features": "由 Anthropic 開發的威脅建模與自動化掃描框架。它提供了從掃描、分類到自動修補的完整流程，並支援高度的客製化。",
+        "applications": "適合資安工程師與安全開發人員，用於建立自主化的軟體漏洞防禦系統。"
       },
       {
         "rank": 7,
@@ -298,15 +298,15 @@
         "full_name": "shadcn/improve",
         "html_url": "https://github.com/shadcn/improve",
         "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-        "stargazers_count": 5062,
+        "stargazers_count": 5063,
         "language": null,
         "owner": {
           "login": "shadcn",
           "avatar_url": "https://avatars.githubusercontent.com/u/124599?v=4"
         },
-        "zhName": "improve (shadcn 程式碼審計優化器)",
-        "features": "利用高效能的大型模型對程式碼庫進行審計，並制定詳細的優化計畫，再交由低成本模型進行實際執行。透過兩段式 AI 處理，在品質與運算成本之間取得最佳平衡。",
-        "applications": "適用於需要定期大規模維護與重構程式碼，同時希望嚴格控制 AI 模型使用成本的開發團隊。"
+        "zhName": "improve (AI 程式碼稽核與規劃工具)",
+        "features": "運用高效能 AI 模型來稽核專案程式碼，並自動撰寫開發規劃書。隨後交由較輕量的模型執行規劃，達成效能與成本的最佳平衡。",
+        "applications": "適合軟體架構師或開發主管，用於優化程式碼品質同時節省 AI 使用成本。"
       },
       {
         "rank": 8,
@@ -320,9 +320,9 @@
           "login": "AprilNEA",
           "avatar_url": "https://avatars.githubusercontent.com/u/37977109?v=4"
         },
-        "zhName": "OpenLogi (開源羅技滑鼠控制器)",
-        "features": "採用 Rust 編寫的本地端原生替代方案，無需任何雲端帳號或遙測功能。完整支援 Logitech Options+ 的核心功能，如按鍵映射、DPI 調整與 SmartShift 切換。",
-        "applications": "適合重視隱私與輕量化工具的羅技滑鼠用戶，希望擺脫官方臃腫軟體控制的 Linux 或系統調優愛好者。"
+        "zhName": "OpenLogi (羅技裝置開源設定工具)",
+        "features": "以 Rust 編寫的 Logitech Options+ 本地替代方案，實現了完全的本地優先與無遙測機制。支援自定義滑鼠按鍵映射、DPI 調整及 SmartShift 功能。",
+        "applications": "適合 Linux 用戶或不希望安裝臃腫官方軟體的羅技硬體使用者。"
       },
       {
         "rank": 9,
@@ -336,9 +336,9 @@
           "login": "helloianneo",
           "avatar_url": "https://avatars.githubusercontent.com/u/89686060?v=4"
         },
-        "zhName": "ian-xiaohei-illustrations (小黑怪誕插畫生成器)",
-        "features": "專為產生「怪誕風格」手繪插畫設計的 AI 模型 Skill，採用 16:9 比例與獨特的色彩標註系統。適合用於文章內容配圖，賦予文字更具識別度的視覺效果。",
-        "applications": "適合內容創作者、部落客或社群媒體編輯，用於自動生成具備藝術感且風格統一的配圖。"
+        "zhName": "ian-xiaohei-illustrations (AI 怪誕風格配圖生成)",
+        "features": "一款專門生成中文文章配圖的 Codex Skill 工具。產出的圖片具有獨特的手繪風格，並帶有少量的紅、橙、藍色批註，比例為 16:9。",
+        "applications": "適合自媒體創作者或部落客，用於快速生成具有個人特色的文章視覺素材。"
       },
       {
         "rank": 10,
@@ -353,8 +353,8 @@
           "avatar_url": "https://avatars.githubusercontent.com/u/6014068?v=4"
         },
         "zhName": "chinese-buy-us-stock-guide (美股投資指南)",
-        "features": "針對華人投資者整理的美股交易指南，提供開戶流程、工具介紹與風險提示。該專案結構化了複雜的金融資訊，降低了跨國投資的學習門檻。",
-        "applications": "適合剛開始接觸美國股市，希望獲取正確開戶與交易觀念的初學者。"
+        "features": "這是一個彙整美股投資相關知識與流程的指南。提供關於如何開戶、交易規則與投資策略的詳細說明。",
+        "applications": "適合有意跨入美股市場的華語投資新手，提供入門知識與操作指引。"
       },
       {
         "rank": 11,
@@ -368,9 +368,9 @@
           "login": "perplexityai",
           "avatar_url": "https://avatars.githubusercontent.com/u/185426709?v=4"
         },
-        "zhName": "bumblebee (軟體供應鏈安全掃描器)",
-        "features": "由 Perplexity AI 開發的唯讀終端掃描工具，專注於檢測磁碟上的套件、擴充套件與工具元數據。旨在即時發現並預防軟體供應鏈中已知的安全損害與風險。",
-        "applications": "適用於 DevOps 與資安工程師，用於定期審查開發環境中的套件庫安全性，防止潛在的供應鏈攻擊。"
+        "zhName": "bumblebee (軟體供應鏈掃描工具)",
+        "features": "由 Perplexity AI 開發，專門掃描磁碟上的套件與開發工具元資料。主要用於檢測專案是否暴露於已知的軟體供應鏈攻擊風險中。",
+        "applications": "適合 DevOps 與資安工程師，用於監控專案依賴庫的安全性與合規性。"
       },
       {
         "rank": 12,
@@ -378,15 +378,15 @@
         "full_name": "KunAgent/Kun",
         "html_url": "https://github.com/KunAgent/Kun",
         "description": "AI agent workspace with Code and Write modes built into your application.",
-        "stargazers_count": 4382,
+        "stargazers_count": 4383,
         "language": "TypeScript",
         "owner": {
           "login": "KunAgent",
           "avatar_url": "https://avatars.githubusercontent.com/u/292492812?v=4"
         },
-        "zhName": "Kun (AI Agent 工作空間)",
-        "features": "為應用程式量身打造的整合式 AI Agent 工作空間，支援程式碼編寫（Code）與文檔寫作（Write）兩種核心模式。它能夠深度嵌入應用流程，提供即時的 AI 輔助支援。",
-        "applications": "適合開發者將 AI 能力整合進自家產品，或需要一個多用途 AI 工作空間來處理程式開發與內容創作的用戶。"
+        "zhName": "Kun (AI 程式碼撰寫與編輯工作空間)",
+        "features": "一個內建於應用程式中的 AI 代理工作空間，提供專門的程式碼開發（Code）與文章撰寫（Write）模式。提升了開發者在應用內進行 AI 協作的體驗。",
+        "applications": "適合開發者將 AI 能力整合進自己的應用軟體中，作為強大的 AI 助手後端。"
       }
     ],
     "three_months": [
@@ -402,9 +402,9 @@
           "login": "ultraworkers",
           "avatar_url": "https://avatars.githubusercontent.com/u/272961631?v=4"
         },
-        "zhName": "claw-code",
-        "features": "一個由 AI 自主管理的博物館展覽專案，完全使用 Rust 開發。其特色在於無需人類介入，即可實現自動化的程式維護與運作。",
-        "applications": "適合研究全自動化自主軟體系統的開發者，探索無人值守的軟體生命週期管理。"
+        "zhName": "claw-code (自動化博物館展覽系統)",
+        "features": "這是一個由 AI 代理自主管理的博物館展覽專案，使用 Rust 語言編寫。其最大特色在於整個開發與維護過程完全無需人為干預。",
+        "applications": "適用於探索全自動化軟體維護與無人化數位展覽展示的場景。"
       },
       {
         "rank": 2,
@@ -418,9 +418,9 @@
           "login": "VoltAgent",
           "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
         },
-        "zhName": "awesome-design-md",
-        "features": "收集各大品牌設計系統的 DESIGN.md 規範分析集合。透過提供結構化檔案，協助 AI 程式代理自動生成符合特定品牌風格的 UI。",
-        "applications": "適合前端開發人員與 UI/UX 設計師，用於加速跨產品線的一致性介面開發。"
+        "zhName": "awesome-design-md (設計系統轉程式碼工具)",
+        "features": "蒐集並分析各大品牌設計系統的 DESIGN.md 文件。開發者只需將其放入專案中，AI 代理即可根據該文件自動生成匹配的 UI 介面。",
+        "applications": "適合前端工程師快速同步並實作特定品牌設計規範，大幅縮短開發週期。"
       },
       {
         "rank": 3,
@@ -428,15 +428,15 @@
         "full_name": "JuliusBrussee/caveman",
         "html_url": "https://github.com/JuliusBrussee/caveman",
         "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "stargazers_count": 73826,
+        "stargazers_count": 73830,
         "language": "JavaScript",
         "owner": {
           "login": "JuliusBrussee",
           "avatar_url": "https://avatars.githubusercontent.com/u/104168679?v=4"
         },
-        "zhName": "caveman",
-        "features": "專為 Claude Code 設計的優化技能，透過簡化指令語言（類穴居人模式）顯著降低 65% 的 Token 消耗。在保持效能的同時大幅提升成本效益。",
-        "applications": "適合大量使用 LLM 代理進行開發、希望節省 API 成本並追求極致提示詞效率的工程師。"
+        "zhName": "caveman (Claude Code 精簡指令集)",
+        "features": "透過模仿穴居人的精簡語言模式與 Claude Code 溝通，能減少高達 65% 的 Token 使用量。在保持任務完成度的同時極大化優化資源消耗。",
+        "applications": "適合需要降低 AI 使用成本的開發者，以及在資源受限環境下進行 AI 協作的場景。"
       },
       {
         "rank": 4,
@@ -444,15 +444,15 @@
         "full_name": "pewdiepie-archdaemon/odysseus",
         "html_url": "https://github.com/pewdiepie-archdaemon/odysseus",
         "description": "Self-hosted AI workspace. ",
-        "stargazers_count": 72733,
+        "stargazers_count": 72737,
         "language": "Python",
         "owner": {
           "login": "pewdiepie-archdaemon",
           "avatar_url": "https://avatars.githubusercontent.com/u/229018391?v=4"
         },
-        "zhName": "odysseus",
-        "features": "一個輕量級的開源 AI 工作區解決方案。主打在地化部署，讓開發者能完全掌控數據隱私與工作環境。",
-        "applications": "適合對隱私要求極高，或需要在離線與自建伺服器環境下進行 AI 輔助開發的團隊。"
+        "zhName": "odysseus (自託管 AI 工作空間)",
+        "features": "提供一個完全自託管的 AI 開發工作環境。用戶可以掌握數據與運算的控制權，確保隱私與運作自主性。",
+        "applications": "適合追求資安隱私、希望擁有完整本地端控制權的軟體工程師與團隊。"
       },
       {
         "rank": 5,
@@ -466,9 +466,9 @@
           "login": "safishamsi",
           "avatar_url": "https://avatars.githubusercontent.com/u/216348667?v=4"
         },
-        "zhName": "graphify",
-        "features": "能將各類專案檔案（程式碼、SQL、文件、影音）自動轉換為可查詢的知識圖譜。支援多種主流 AI 編碼工具與 CLI 整合。",
-        "applications": "適合需要快速釐清大型複雜專案結構與依賴關係的工程師，實現跨格式的系統架構視覺化。"
+        "zhName": "graphify (程式碼知識圖譜生成器)",
+        "features": "將程式碼庫、SQL 架構、文件及多媒體內容轉換為可查詢的知識圖譜。支援多種主流 AI 編碼助手，將專案結構與基礎設施關聯整合。",
+        "applications": "適用於複雜大型系統的架構梳理，協助開發者快速查詢專案關聯與技術債分佈。"
       },
       {
         "rank": 6,
@@ -476,15 +476,15 @@
         "full_name": "nexu-io/open-design",
         "html_url": "https://github.com/nexu-io/open-design",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
-        "stargazers_count": 66326,
+        "stargazers_count": 66330,
         "language": "TypeScript",
         "owner": {
           "login": "nexu-io",
           "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
         },
-        "zhName": "open-design",
-        "features": "一套在地優先、開源的 Claude Design 替代方案，具備原生的桌面應用程式介面。支援 259 種以上技能與多種格式的快速預覽與匯出。",
-        "applications": "適合產品經理與設計師，用於快速原型設計、簡報產出及多樣化的數位內容展示。"
+        "zhName": "open-design (開源 Claude 設計平台)",
+        "features": "一個本地優先的桌面應用程式，提供超過 259 種技能與 142 個設計系統支援。具備沙盒預覽功能並可輸出為多種格式如 PDF、PPTX 與 MP4。",
+        "applications": "適合設計師與開發者進行跨平台原型設計，以及自動化產出各種格式的簡報與媒體資產。"
       },
       {
         "rank": 7,
@@ -492,15 +492,15 @@
         "full_name": "MemPalace/mempalace",
         "html_url": "https://github.com/MemPalace/mempalace",
         "description": "The best-benchmarked open-source AI memory system. And it's free.",
-        "stargazers_count": 55798,
+        "stargazers_count": 55799,
         "language": "Python",
         "owner": {
           "login": "MemPalace",
           "avatar_url": "https://avatars.githubusercontent.com/u/275135684?v=4"
         },
-        "zhName": "mempalace",
-        "features": "目前開源領域中最具效能基準指標的 AI 記憶系統。提供免費且高擴充性的記憶管理方案。",
-        "applications": "適合開發長期記憶 AI 代理或複雜問答系統的開發者，用於儲存並檢索跨對話的長期知識。"
+        "zhName": "mempalace (AI 記憶系統)",
+        "features": "一個經過嚴格基準測試且完全開源的 AI 記憶管理系統。致力於提升 AI 處理長期記憶的效率與準確度。",
+        "applications": "適合構建需要長效記憶功能的智慧代理系統，解決 AI 遺忘對話歷史或上下文的問題。"
       },
       {
         "rank": 8,
@@ -508,15 +508,15 @@
         "full_name": "santifer/career-ops",
         "html_url": "https://github.com/santifer/career-ops",
         "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-        "stargazers_count": 54331,
+        "stargazers_count": 54332,
         "language": "JavaScript",
         "owner": {
           "login": "santifer",
           "avatar_url": "https://avatars.githubusercontent.com/u/256850418?v=4"
         },
-        "zhName": "career-ops",
-        "features": "基於 Claude Code 建構的 AI 求職與招募管理系統。支援多種技能模式、工作儀表板管理及自動化 PDF 文件處理。",
-        "applications": "適合求職者自動化管理職缺投遞，或招募人員進行高效能的職位媒合與審核。"
+        "zhName": "career-ops (AI 求職輔助系統)",
+        "features": "基於 Claude Code 構建的自動化求職系統。提供 14 種技能模式，包含儀表板監控、PDF 自動生成及批次處理功能。",
+        "applications": "適合求職者自動化管理職缺搜尋、優化履歷生成流程並提升求職效率。"
       },
       {
         "rank": 9,
@@ -530,9 +530,9 @@
           "login": "Gitlawb",
           "avatar_url": "https://avatars.githubusercontent.com/u/268502891?v=4"
         },
-        "zhName": "openclaude",
-        "features": "強調高度可攜性與相容性的 AI 代理框架。其核心宗旨為「隨處執行、對接萬物」，提供極具彈性的運作架構。",
-        "applications": "適合需要在異質運算環境或多種 AI 模型間靈活切換的開發者。"
+        "zhName": "openclaude (通用 Claude 執行引擎)",
+        "features": "具備高移植性，可在任何環境下運行，並能靈活串接各類底層技術資源。提供極度彈性的執行架構。",
+        "applications": "適合需要在異質環境中部署 AI 代理的開發者，追求高度靈活性與跨平台兼容性。"
       },
       {
         "rank": 10,
@@ -540,15 +540,15 @@
         "full_name": "DietrichGebert/ponytail",
         "html_url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stargazers_count": 28590,
+        "stargazers_count": 28617,
         "language": "JavaScript",
         "owner": {
           "login": "DietrichGebert",
           "avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
         },
-        "zhName": "ponytail",
-        "features": "一套能讓 AI 代理採取「懶人工程師」思維的優化工具。專注於透過簡約代碼解決問題，落實「最好的程式碼就是不需要寫的程式碼」之核心價值。",
-        "applications": "適合希望優化開發效率、減少冗餘代碼並追求極簡設計哲學的軟體架構師。"
+        "zhName": "ponytail (懶惰資深工程師 AI 代理)",
+        "features": "模擬團隊中最懶惰的資深開發者思維，核心理念是「最好的程式碼就是你根本不用寫的那些」。它會優先尋求最精簡的解決方案以達成任務。",
+        "applications": "適合希望透過簡化思維來減少多餘程式碼、提高維護效率的開發專案。"
       },
       {
         "rank": 11,
@@ -556,15 +556,15 @@
         "full_name": "alchaincyf/nuwa-skill",
         "html_url": "https://github.com/alchaincyf/nuwa-skill",
         "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-        "stargazers_count": 24687,
+        "stargazers_count": 24689,
         "language": "Python",
         "owner": {
           "login": "alchaincyf",
           "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
         },
-        "zhName": "nuwa-skill",
-        "features": "專注於「數位心智蒸餾」的專案，旨在擷取並複製任何人的思維模型、決策啟發式邏輯與表達習慣。透過學習他人經驗來強化 AI 的決策能力。",
-        "applications": "適合致力於開發個人化 AI 替身或專業領域決策支援系統的開發者。"
+        "zhName": "nuwa-skill (人類思維蒸餾器)",
+        "features": "不僅限於技術，更能透過蒸餾方式學習任何人的決策啟發式模型與思維 DNA。將個體的專業經驗轉化為可執行與模擬的 AI 模型。",
+        "applications": "適合企業進行知識管理、培訓傳承，或將專家的決策邏輯嵌入自動化代理中。"
       },
       {
         "rank": 12,
@@ -578,9 +578,9 @@
           "login": "garrytan",
           "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
         },
-        "zhName": "gbrain",
-        "features": "Garry Tan 觀點下的 OpenClaw 與 Hermes 代理大腦。專注於整合性的決策邏輯與特定的 AI 工作流程設定。",
-        "applications": "適合喜愛 Garry Tan 風格、尋求具備高效執行力與特定 AI 行為模式的開發者使用。"
+        "zhName": "gbrain (Garry Tan 的意見化 AI 大腦)",
+        "features": "由 Garry Tan 定義的一套關於 OpenClaw 與 Hermes 的代理架構。注入了特定的專業判斷與工作流程邏輯。",
+        "applications": "適合認同特定軟體工程哲學的開發者，希望透過經過驗證的 Agent Brain 來優化工作流。"
       }
     ]
   }
