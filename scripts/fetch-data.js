@@ -72,8 +72,8 @@ async function fetchTopGithubProjects(daysAgo) {
 }
 
 // 2. 使用 Gemini API 批次翻譯與精煉專案內容 (一次翻譯整個時段的 12 個專案，避免 API 限流並大幅提升速度)
-async function translateAndSummarizeBatch(repos, apiKey) {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key=${apiKey}`;
+async function translateAndSummarizeBatch(repos, apiKey, modelName = 'gemini-3.5-flash') {
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:generateContent?key=${apiKey}`;
   
   const projectListStr = repos.map((repo, idx) => `
 專案 ${idx + 1}:
@@ -142,25 +142,53 @@ ${projectListStr}
   return JSON.parse(textResponse.trim());
 }
 
-// 3. 具備自動重試與指數退避功能的批次翻譯包裝器 (處理 429 限流與 503 伺服器繁忙)
-async function translateAndSummarizeBatchWithRetry(repos, apiKey, retries = 3, delay = 12000) {
-  for (let i = 0; i < retries; i++) {
-    try {
-      return await translateAndSummarizeBatch(repos, apiKey);
-    } catch (error) {
-      const isRateLimit = error.message.includes('429') || 
-                          error.message.includes('RESOURCE_EXHAUSTED') || 
-                          error.message.includes('503') || 
-                          error.message.includes('UNAVAILABLE');
-      if (isRateLimit && i < retries - 1) {
-        console.warn(`    ⚠️ [API 限流或繁忙] 批次翻譯失敗。將在 ${delay / 1000} 秒後進行第 ${i + 1}/${retries} 次重試...`);
-        await sleep(delay);
-        delay *= 2; // 指數退避，每次等待加倍
-      } else {
-        throw error;
+// 3. 具備自動重試、指數退避與多模型備援（Fallback）功能的批次翻譯包裝器
+async function translateAndSummarizeBatchWithRetry(repos, apiKey, retries = 3, delay = 10000) {
+  const models = ['gemini-3.5-flash', 'gemini-3.1-flash-lite', 'gemini-2.5-flash'];
+  
+  for (const model of models) {
+    console.log(`  -> 嘗試使用 AI 模型: ${model}`);
+    let currentDelay = delay;
+    
+    for (let i = 0; i < retries; i++) {
+      try {
+        return await translateAndSummarizeBatch(repos, apiKey, model);
+      } catch (error) {
+        const errorMsg = error.message;
+        const isDailyQuotaExceeded = errorMsg.includes('GenerateRequestsPerDay') || 
+                                     errorMsg.includes('PerDay') || 
+                                     errorMsg.includes('daily limit') ||
+                                     errorMsg.includes('quotaId') ||
+                                     (errorMsg.includes('429') && errorMsg.includes('requests'));
+                                     
+        if (isDailyQuotaExceeded) {
+          console.warn(`    ❌ [每日額度用盡] 模型 ${model} 已達每日額度上限。準備切換至下一個備用模型...`);
+          break; // 跳出當前模型的重試迴圈，進入外層的下一個模型
+        }
+        
+        const isRateLimit = errorMsg.includes('429') || 
+                            errorMsg.includes('RESOURCE_EXHAUSTED') || 
+                            errorMsg.includes('503') || 
+                            errorMsg.includes('UNAVAILABLE');
+                            
+        if (isRateLimit && i < retries - 1) {
+          console.warn(`    ⚠️ [API 限流或繁忙] 批次翻譯失敗。將在 ${currentDelay / 1000} 秒後進行第 ${i + 1}/${retries} 次重試...`);
+          await sleep(currentDelay);
+          currentDelay *= 2; // 指數退避，每次等待加倍
+        } else {
+          // 如果是最後一次重試失敗，或者不是限流錯誤
+          if (model === models[models.length - 1]) {
+            // 如果是最後一個模型也失敗了，拋出錯誤
+            throw error;
+          } else {
+            console.warn(`    ⚠️ [模型錯誤] 模型 ${model} 發生錯誤: ${error.message}。準備切換至下一個備用模型...`);
+            break; // 跳到下一個模型
+          }
+        }
       }
     }
   }
+  throw new Error('所有可用的備用模型（gemini-3.5-flash、gemini-3.1-flash-lite、gemini-2.5-flash）皆已嘗試，仍無法完成翻譯。');
 }
 
 // 主程式
