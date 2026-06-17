@@ -101,9 +101,15 @@ function renderProjects(period) {
     const avatarUrl = sanitizeUrl(repo.owner?.avatar_url) || 'https://github.com/identicons/github.png';
 
     // Format License text
-    const licenseText = repo.license 
-      ? (repo.license.spdx_id || repo.license.name || '未指定') 
-      : '未指定';
+    let licenseText = '未指定';
+    if (repo.license) {
+      const spdx = repo.license.spdx_id;
+      if (spdx === 'NOASSERTION') {
+        licenseText = '自訂/其他授權';
+      } else {
+        licenseText = spdx || repo.license.name || '未指定';
+      }
+    }
 
     card.innerHTML = `
       <div class="rank-badge ${rankClass}">#${escapeHtml(repo.rank)}</div>
