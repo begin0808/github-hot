@@ -374,7 +374,7 @@ h1 {
 }
 
 .summary-label {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   font-weight: 700;
   letter-spacing: 0.05em;
   text-transform: uppercase;
@@ -389,9 +389,9 @@ h1 {
 }
 
 .summary-content {
-  font-size: 0.925rem;
+  font-size: 1.05rem;
   color: var(--text-primary);
-  line-height: 1.6;
+  line-height: 1.7;
 }
 
 /* Expandable Original Description Details */
