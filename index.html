@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub 熱門開源專案時間線 - 繁中精選</title>
+  <!-- Google Fonts: Outfit (English headings) & Noto Sans TC (Traditional Chinese body) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Link Stylesheet -->
+  <script type="module" crossorigin src="./assets/index-_8X8CvgD.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-rZP8O-lH.css">
+</head>
+<body>
+  <!-- Decorative background elements -->
+  <div class="bg-glow bg-glow-1"></div>
+  <div class="bg-glow bg-glow-2"></div>
+  
+  <div class="container">
+    <header class="app-header">
+      <div class="logo-area">
+        <svg class="github-icon animate-pulse" viewBox="0 0 16 16" version="1.1" width="32" height="32" aria-hidden="true">
+          <path fill="currentColor" d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.35 3.12.88.01.47.01.84.01.93 0 .22-.15.47-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path>
+        </svg>
+        <span class="logo-text">GitTrend.tw</span>
+      </div>
+      <h1>GitHub 熱門開源專案時間線</h1>
+      <p class="subtitle">每週六定期更新，使用 AI 繁體中文深度精煉，發掘最近崛起的最強開源能量</p>
+      
+      <!-- Last updated badge -->
+      <div id="last-updated" class="last-updated-badge">
+        載入中...
+      </div>
+    </header>
+
+    <!-- Navigation Tabs -->
+    <nav class="tab-navigation">
+      <button class="tab-btn active" data-period="week" id="tab-week">
+        <span class="tab-btn-title">最近一週</span>
+        <span class="tab-btn-sub">New Stars</span>
+      </button>
+      <button class="tab-btn" data-period="month" id="tab-month">
+        <span class="tab-btn-title">最近一個月</span>
+        <span class="tab-btn-sub">Monthly Popular</span>
+      </button>
+      <button class="tab-btn" data-period="three_months" id="tab-three-months">
+        <span class="tab-btn-title">最近三個月</span>
+        <span class="tab-btn-sub">Quarterly Top</span>
+      </button>
+    </nav>
+
+    <!-- Main Content Grid -->
+    <main>
+      <!-- Loading Indicator -->
+      <div id="loading" class="loading-container">
+        <div class="spinner"></div>
+        <p>正在拉取最新開源數據與 AI 翻譯內容...</p>
+      </div>
+
+      <!-- Project Cards List -->
+      <div id="projects-grid" class="projects-grid hidden">
+        <!-- Rendered dynamically via JavaScript -->
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <p>© 2026 GitTrend.tw. Powered by Vite & Gemini API. Data updated weekly on Saturdays.</p>
+      <p class="github-link-wrap">
+        <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+          GitHub Pages 託管專案
+        </a>
+      </p>
+    </footer>
+  </div>
+
+  <!-- Main JavaScript File -->
+</body>
+</html>
