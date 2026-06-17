@@ -134,6 +134,27 @@ async function translateAndSummarize(repo, apiKey) {
   return JSON.parse(textResponse.trim());
 }
 
+// 3. 具備自動重試與指數退避功能的翻譯包裝器 (處理 429 限流與 503 伺服器繁忙)
+async function translateAndSummarizeWithRetry(repo, apiKey, retries = 3, delay = 12000) {
+  for (let i = 0; i < retries; i++) {
+    try {
+      return await translateAndSummarize(repo, apiKey);
+    } catch (error) {
+      const isRateLimit = error.message.includes('429') || 
+                          error.message.includes('RESOURCE_EXHAUSTED') || 
+                          error.message.includes('503') || 
+                          error.message.includes('UNAVAILABLE');
+      if (isRateLimit && i < retries - 1) {
+        console.warn(`    ⚠️ [API 限流或繁忙] 收到限流錯誤。將在 ${delay / 1000} 秒後進行第 ${i + 1}/${retries} 次重試...`);
+        await sleep(delay);
+        delay *= 2; // 指數退避，每次等待加倍
+      } else {
+        throw error;
+      }
+    }
+  }
+}
+
 // 主程式
 async function main() {
   console.log('開始執行 GitHub 熱門專案資料更新任務...');
@@ -167,9 +188,8 @@ async function main() {
 
         if (GEMINI_API_KEY) {
           try {
-            // 每秒只執行一個請求以避免極限 (Free Tier 限制 15 RPM)
-            // 這裡抓取一個專案間隔 4 秒，30 個專案共花費約 2 分鐘，能穩定過關
-            const aiResult = await translateAndSummarize(repo, GEMINI_API_KEY);
+            // 使用具備重試機制的翻譯包裝器
+            const aiResult = await translateAndSummarizeWithRetry(repo, GEMINI_API_KEY);
             zhName = aiResult.zhName;
             features = aiResult.features;
             applications = aiResult.applications;
@@ -177,7 +197,7 @@ async function main() {
           } catch (aiError) {
             console.error(`    -> AI 翻譯失敗: ${aiError.message}。使用預設內容。`);
           }
-          await sleep(4000); 
+          await sleep(8000); 
         } else {
           // 沒有 API Key 時的基本處理，嘗試把原描述當成特徵
           zhName = `${repo.name} (未翻譯)`;
