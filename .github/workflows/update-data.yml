@@ -1,0 +1,42 @@
+name: Update GitHub Trending Data
+
+on:
+  schedule:
+    # 台灣時間每週六上午 08:00 (UTC 00:00) 執行
+    - cron: '0 0 * * 6'
+  workflow_dispatch:
+    # 支援在 GitHub 網頁上手動觸發
+
+permissions:
+  contents: write # 賦予 GitHub Actions 推送（Push）資料回儲存庫的權限
+
+jobs:
+  update-trending-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci || npm install
+
+      - name: Fetch and translate trending projects
+        run: npm run fetch
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 內建 Token，用於避免 GitHub Search API 速率限制
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/data/projects.json
+          # 如果沒有變動，不進行 commit 避免報錯
+          git diff-index --quiet HEAD || (git commit -m "chore: update popular projects data (weekly schedule) [skip ci]" && git push)
