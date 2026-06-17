@@ -71,24 +71,29 @@ async function fetchTopGithubProjects(daysAgo) {
   return data.items || [];
 }
 
-// 2. 使用 Gemini API 翻譯與精煉專案內容
-async function translateAndSummarize(repo, apiKey) {
+// 2. 使用 Gemini API 批次翻譯與精煉專案內容 (一次翻譯整個時段的 12 個專案，避免 API 限流並大幅提升速度)
+async function translateAndSummarizeBatch(repos, apiKey) {
   const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key=${apiKey}`;
   
+  const projectListStr = repos.map((repo, idx) => `
+專案 ${idx + 1}:
+- 專案名稱: ${repo.name}
+- 作者/組織: ${repo.owner?.login || '未知'}
+- 主要程式語言: ${repo.language || '未知'}
+- 原英文描述: ${repo.description || '無描述'}
+`).join('\n---\n');
+
   const prompt = `你是一個專業的開源專案技術推廣專家與軟體工程師。
-請幫我分析以下 GitHub 開源專案，並使用繁體中文 (台灣，繁體中文) 介紹其功能與應用。
+請幫我分析以下 12 個 GitHub 開源專案，並使用繁體中文 (台灣，繁體中文) 介紹其功能與應用。
 
-專案名稱: ${repo.name}
-作者/組織: ${repo.owner?.login || '未知'}
-主要程式語言: ${repo.language || '未知'}
-原英文描述: ${repo.description || '無描述'}
+${projectListStr}
 
-請回傳一個符合 JSON 格式的物件，包含以下三個欄位：
+請針對這 12 個專案，回傳一個 JSON 陣列，陣列中必須包含 12 個元素，每個元素對應一個專案並包含以下欄位：
 1. "zhName": 專案的繁體中文說明名稱 (若為品牌或常用英文名，可保留英文或加上中文註記，例如 'Vite (前端快速建置工具)')。
 2. "features": 2-3 句流暢的繁體中文，介紹此專案的核心功能與最關鍵特色。
 3. "applications": 1-2 句流暢的繁體中文，介紹此專案的實際應用場景，適合解決什麼問題，或適合哪些開發者使用。
 
-請確保只回傳標準的 JSON，不要包含 Markdown 格式的 \`\`\`json 標記。`;
+請確保回傳結構符合指定的 JSON Schema 格式。`;
 
   const payload = {
     contents: [
@@ -101,13 +106,16 @@ async function translateAndSummarize(repo, apiKey) {
     generationConfig: {
       responseMimeType: "application/json",
       responseSchema: {
-        type: "OBJECT",
-        properties: {
-          zhName: { type: "STRING" },
-          features: { type: "STRING" },
-          applications: { type: "STRING" }
-        },
-        required: ["zhName", "features", "applications"]
+        type: "ARRAY",
+        items: {
+          type: "OBJECT",
+          properties: {
+            zhName: { type: "STRING" },
+            features: { type: "STRING" },
+            applications: { type: "STRING" }
+          },
+          required: ["zhName", "features", "applications"]
+        }
       }
     }
   };
@@ -134,18 +142,18 @@ async function translateAndSummarize(repo, apiKey) {
   return JSON.parse(textResponse.trim());
 }
 
-// 3. 具備自動重試與指數退避功能的翻譯包裝器 (處理 429 限流與 503 伺服器繁忙)
-async function translateAndSummarizeWithRetry(repo, apiKey, retries = 3, delay = 12000) {
+// 3. 具備自動重試與指數退避功能的批次翻譯包裝器 (處理 429 限流與 503 伺服器繁忙)
+async function translateAndSummarizeBatchWithRetry(repos, apiKey, retries = 3, delay = 12000) {
   for (let i = 0; i < retries; i++) {
     try {
-      return await translateAndSummarize(repo, apiKey);
+      return await translateAndSummarizeBatch(repos, apiKey);
     } catch (error) {
       const isRateLimit = error.message.includes('429') || 
                           error.message.includes('RESOURCE_EXHAUSTED') || 
                           error.message.includes('503') || 
                           error.message.includes('UNAVAILABLE');
       if (isRateLimit && i < retries - 1) {
-        console.warn(`    ⚠️ [API 限流或繁忙] 收到限流錯誤。將在 ${delay / 1000} 秒後進行第 ${i + 1}/${retries} 次重試...`);
+        console.warn(`    ⚠️ [API 限流或繁忙] 批次翻譯失敗。將在 ${delay / 1000} 秒後進行第 ${i + 1}/${retries} 次重試...`);
         await sleep(delay);
         delay *= 2; // 指數退避，每次等待加倍
       } else {
@@ -174,34 +182,40 @@ async function main() {
     console.log(`\n--- 正在抓取「${period.label}」熱門專案 ---`);
     try {
       const rawRepos = await fetchTopGithubProjects(period.days);
-      console.log(`成功獲取 ${rawRepos.length} 個專案，開始進行 AI 翻譯與摘要...`);
+      console.log(`成功獲取 ${rawRepos.length} 個專案，開始進行批次 AI 翻譯與摘要...`);
 
       const processedRepos = [];
       
+      let translatedItems = [];
+      if (GEMINI_API_KEY && rawRepos.length > 0) {
+        try {
+          console.log(`  -> 正在發送批次 AI 翻譯請求 (共 ${rawRepos.length} 個專案)...`);
+          translatedItems = await translateAndSummarizeBatchWithRetry(rawRepos, GEMINI_API_KEY);
+          console.log(`  -> 批次 AI 翻譯完成！`);
+        } catch (aiError) {
+          console.error(`  -> 批次 AI 翻譯失敗: ${aiError.message}。此時段專案將使用預設內容。`);
+        }
+      }
+
       for (let i = 0; i < rawRepos.length; i++) {
         const repo = rawRepos[i];
-        console.log(`[${i + 1}/12] 處理專案: ${repo.full_name}`);
         
         let zhName = repo.name;
         let features = repo.description || '無描述';
         let applications = '適用於開源軟體研究與開發。';
 
-        if (GEMINI_API_KEY) {
-          try {
-            // 使用具備重試機制的翻譯包裝器
-            const aiResult = await translateAndSummarizeWithRetry(repo, GEMINI_API_KEY);
-            zhName = aiResult.zhName;
-            features = aiResult.features;
-            applications = aiResult.applications;
-            console.log(`    -> AI 翻譯完成: ${zhName}`);
-          } catch (aiError) {
-            console.error(`    -> AI 翻譯失敗: ${aiError.message}。使用預設內容。`);
-          }
-          await sleep(8000); 
+        // 如果成功取得批次翻譯對應的結果
+        if (translatedItems && translatedItems[i]) {
+          zhName = translatedItems[i].zhName || zhName;
+          features = translatedItems[i].features || features;
+          applications = translatedItems[i].applications || applications;
+        } else if (GEMINI_API_KEY) {
+          zhName = `${repo.name} (未翻譯)`;
         } else {
-          // 沒有 API Key 時的基本處理，嘗試把原描述當成特徵
           zhName = `${repo.name} (未翻譯)`;
         }
+
+        console.log(`[${i + 1}/${rawRepos.length}] 整理專案資料: ${repo.full_name} (${zhName})`);
 
         processedRepos.push({
           rank: i + 1,
@@ -223,8 +237,8 @@ async function main() {
 
       resultData.periods[period.key] = processedRepos;
       
-      // 每個時段間隔休息 5 秒
-      await sleep(5000);
+      // 每個時段間隔休息 3 秒 (因為是批次處理，不用等太久)
+      await sleep(3000);
 
     } catch (error) {
       console.error(`處理「${period.label}」時發生錯誤:`, error);
