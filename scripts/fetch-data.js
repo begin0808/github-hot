@@ -44,9 +44,7 @@ function getDateStringAgo(days) {
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 // 1. 抓取 GitHub 熱門專案
-async function fetchTopGithubProjects(daysAgo) {
-  const dateStr = getDateStringAgo(daysAgo);
-  const query = `created:>=${dateStr}`;
+async function fetchTopGithubProjects(query) {
   const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=12`;
   
   const headers = {
@@ -56,9 +54,9 @@ async function fetchTopGithubProjects(daysAgo) {
   
   if (GITHUB_TOKEN) {
     headers['Authorization'] = `token ${GITHUB_TOKEN}`;
-    console.log(`使用 GitHub Token 進行 API 請求 (${daysAgo} 天內)`);
+    console.log(`使用 GitHub Token 進行 API 請求 (查詢條件: ${query})`);
   } else {
-    console.log(`未使用 Token 進行 GitHub API 請求 (${daysAgo} 天內)，可能會面臨 API 限流。`);
+    console.log(`未使用 Token 進行 GitHub API 請求 (查詢條件: ${query})，可能會面臨 API 限流。`);
   }
 
   const response = await fetch(url, { headers });
@@ -196,9 +194,11 @@ async function main() {
   console.log('開始執行 GitHub 熱門專案資料更新任務...');
   
   const periods = [
-    { key: 'week', days: 7, label: '最近一週' },
-    { key: 'month', days: 30, label: '最近一個月' },
-    { key: 'three_months', days: 90, label: '最近三個月' }
+    { key: 'week', query: `created:>=${getDateStringAgo(7)}`, label: '最近一週' },
+    { key: 'month', query: `created:>=${getDateStringAgo(30)}`, label: '最近一個月' },
+    { key: 'three_months', query: `created:>=${getDateStringAgo(90)}`, label: '最近三個月' },
+    { key: 'year', query: `created:>=${getDateStringAgo(365)}`, label: '最近一年' },
+    { key: 'audio_video', query: `created:>=${getDateStringAgo(90)} (audio OR video OR voice OR speech OR cloning)`, label: '影音與聲音 AI' }
   ];
 
   const resultData = {
@@ -209,7 +209,7 @@ async function main() {
   for (const period of periods) {
     console.log(`\n--- 正在抓取「${period.label}」熱門專案 ---`);
     try {
-      const rawRepos = await fetchTopGithubProjects(period.days);
+      const rawRepos = await fetchTopGithubProjects(period.query);
       console.log(`成功獲取 ${rawRepos.length} 個專案，開始進行批次 AI 翻譯與摘要...`);
 
       const processedRepos = [];

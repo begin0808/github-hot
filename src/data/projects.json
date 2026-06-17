@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T12:10:17.600Z",
+  "lastUpdated": "2026-06-17T12:36:45.904Z",
   "periods": {
     "week": [
       {
@@ -8,15 +8,15 @@
         "full_name": "DietrichGebert/ponytail",
         "html_url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stargazers_count": 28703,
+        "stargazers_count": 28855,
         "language": "JavaScript",
         "owner": {
           "login": "DietrichGebert",
           "avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
         },
-        "zhName": "ponytail (AI 代碼精簡助手)",
-        "features": "模擬最懶惰資深開發者的思維模式，致力於極大化代碼精簡度。透過 AI 策略性地避免不必要的程式編寫，強調「沒寫出的代碼才是最好的代碼」。",
-        "applications": "適用於希望減少軟體專案冗餘、追求極致代碼簡潔與開發效率的工程師。"
+        "zhName": "ponytail (未翻譯)",
+        "features": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 2,
@@ -24,15 +24,15 @@
         "full_name": "XiaomiMiMo/MiMo-Code",
         "html_url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "description": null,
-        "stargazers_count": 9502,
+        "stargazers_count": 9509,
         "language": "TypeScript",
         "owner": {
           "login": "XiaomiMiMo",
           "avatar_url": "https://avatars.githubusercontent.com/u/208276378?v=4"
         },
-        "zhName": "MiMo-Code",
-        "features": "這是一個基於 TypeScript 的專案，旨在提供開發者所需的程式輔助功能。雖然目前詳細說明有限，但專注於提升開發流程的靈活性。",
-        "applications": "適合尋求擴展開發工具鏈的 TypeScript 開發人員探索與整合。"
+        "zhName": "MiMo-Code (未翻譯)",
+        "features": "無描述",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 3,
@@ -40,15 +40,15 @@
         "full_name": "shadcn/improve",
         "html_url": "https://github.com/shadcn/improve",
         "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-        "stargazers_count": 5066,
+        "stargazers_count": 5070,
         "language": null,
         "owner": {
           "login": "shadcn",
           "avatar_url": "https://avatars.githubusercontent.com/u/124599?v=4"
         },
-        "zhName": "improve (AI 代碼稽核工具)",
-        "features": "利用高階 AI 模型對現有代碼庫進行深度審計與分析。自動生成詳細的執行計畫，並指揮低成本模型進行實際的代碼修改。",
-        "applications": "適合大型專案團隊用於優化開發成本，並在維持高質量的同時自動化維護工作。"
+        "zhName": "improve (未翻譯)",
+        "features": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 4,
@@ -56,15 +56,15 @@
         "full_name": "omnigent-ai/omnigent",
         "html_url": "https://github.com/omnigent-ai/omnigent",
         "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-        "stargazers_count": 3248,
+        "stargazers_count": 3252,
         "language": "Python",
         "owner": {
           "login": "omnigent-ai",
           "avatar_url": "https://avatars.githubusercontent.com/u/292215228?v=4"
         },
-        "zhName": "omnigent (多 AI Agent 整合平台)",
-        "features": "作為一個中繼層，整合 Claude Code、Codex 及自訂 AI Agent。支援跨平台實時協作與沙盒隔離機制，並能靈活替換或結合各種 Agent。",
-        "applications": "適合需要串聯多種 AI 工具進行複雜開發任務，並希望統一管理代理策略的開發團隊。"
+        "zhName": "omnigent (未翻譯)",
+        "features": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 5,
@@ -72,15 +72,15 @@
         "full_name": "tamnd/kage",
         "html_url": "https://github.com/tamnd/kage",
         "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
-        "stargazers_count": 1820,
+        "stargazers_count": 1821,
         "language": "Go",
         "owner": {
           "login": "tamnd",
           "avatar_url": "https://avatars.githubusercontent.com/u/1218621?v=4"
         },
-        "zhName": "kage (網頁離線鏡像工具)",
-        "features": "將目標網站完整複製以供離線查看，並會自動剔除所有 JavaScript 程式碼。確保離線瀏覽時的純淨性與安全性。",
-        "applications": "適用於需要離線存檔技術文件或網頁內容，同時關注資訊安全的用戶與研究人員。"
+        "zhName": "kage (未翻譯)",
+        "features": "Shadow any website for offline viewing, with the JavaScript stripped out",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 6,
@@ -88,15 +88,15 @@
         "full_name": "lenucksi/aur-malware-check",
         "html_url": "https://github.com/lenucksi/aur-malware-check",
         "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
-        "stargazers_count": 1406,
+        "stargazers_count": 1408,
         "language": "Shell",
         "owner": {
           "login": "lenucksi",
           "avatar_url": "https://avatars.githubusercontent.com/u/2451899?v=4"
         },
-        "zhName": "aur-malware-check (AUR 惡意程式檢測工具)",
-        "features": "專門用於檢測針對 AUR 的特定供應鏈攻擊（atomic-lockfile）。彙整了社群提供的分析數據，提供快速的掃描與識別能力。",
-        "applications": "適用於 Arch Linux 用戶與維護者，確保安裝的 AUR 套件沒有遭到惡意篡改。"
+        "zhName": "aur-malware-check (未翻譯)",
+        "features": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 7,
@@ -104,15 +104,15 @@
         "full_name": "SkyBlue997/enableMacosAI",
         "html_url": "https://github.com/SkyBlue997/enableMacosAI",
         "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-        "stargazers_count": 1361,
+        "stargazers_count": 1362,
         "language": "Shell",
         "owner": {
           "login": "SkyBlue997",
           "avatar_url": "https://avatars.githubusercontent.com/u/74125386?v=4"
         },
-        "zhName": "enableMacosAI (macOS Apple Intelligence 啟用工具)",
-        "features": "協助國行版 Mac 設備解鎖並開啟完整的 Apple Intelligence 功能，包含端側運算與 Private Cloud Compute 功能。適用於 Apple Silicon 晶片的設備。",
-        "applications": "適合希望在特定地區限制下，完整體驗 macOS 最新 AI 智慧功能的蘋果用戶。"
+        "zhName": "enableMacosAI (未翻譯)",
+        "features": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 8,
@@ -120,15 +120,15 @@
         "full_name": "EEliberto/IPA-Download",
         "html_url": "https://github.com/EEliberto/IPA-Download",
         "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
-        "stargazers_count": 942,
+        "stargazers_count": 944,
         "language": "Swift",
         "owner": {
           "login": "EEliberto",
           "avatar_url": "https://avatars.githubusercontent.com/u/74881807?v=4"
         },
-        "zhName": "IPA-Download (IPA 舊版應用下載器)",
-        "features": "一款用於獲取應用程式歷史版本的 Swift 工具，並內建數據封包捕獲功能。支援將下載後的應用檔案透過 AirDrop 傳輸至 iPhone 或 iPad 安裝。",
-        "applications": "適合需要回退至舊版 APP 以獲取特定功能或兼容性的 iOS 用戶。"
+        "zhName": "IPA-Download (未翻譯)",
+        "features": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 9,
@@ -136,15 +136,15 @@
         "full_name": "levy-street/world-of-claudecraft",
         "html_url": "https://github.com/levy-street/world-of-claudecraft",
         "description": null,
-        "stargazers_count": 934,
+        "stargazers_count": 935,
         "language": "TypeScript",
         "owner": {
           "login": "levy-street",
           "avatar_url": "https://avatars.githubusercontent.com/u/149554763?v=4"
         },
-        "zhName": "world-of-claudecraft",
-        "features": "基於 TypeScript 的開發專案，旨在透過 AI 輔助與環境構建提升開發體驗。雖然目前資訊較少，但展現了在開發流程自動化上的潛力。",
-        "applications": "適合喜歡嘗鮮 AI 驅動開發流程，並關注 TypeScript 生態中 AI 應用的開發者。"
+        "zhName": "world-of-claudecraft (未翻譯)",
+        "features": "無描述",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 10,
@@ -152,15 +152,15 @@
         "full_name": "loc567/loc567",
         "html_url": "https://github.com/loc567/loc567",
         "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
-        "stargazers_count": 890,
+        "stargazers_count": 896,
         "language": "C",
         "owner": {
           "login": "loc567",
           "avatar_url": "https://avatars.githubusercontent.com/u/292671063?v=4"
         },
-        "zhName": "loc567 (網頁端定位修改工具)",
-        "features": "完全開源且免費的純網頁版 iOS 虛擬定位解決方案。用戶無需下載繁瑣軟體，即可在線進行位置模擬。",
-        "applications": "適合測試基於地理位置的應用，或需要隱私保護的個人使用者。"
+        "zhName": "loc567 (未翻譯)",
+        "features": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 11,
@@ -174,9 +174,9 @@
           "login": "orange2ai",
           "avatar_url": "https://avatars.githubusercontent.com/u/77816124?v=4"
         },
-        "zhName": "renwei-writing (人味兒寫作 AI)",
-        "features": "作為一款專注於人性的 AI 編輯技能，能在修飾文章時保留原始作者的風格與語氣。確保 AI 的介入不會抹除作者原有的個人特色。",
-        "applications": "適用於需要 AI 協助潤飾文稿，但又不希望內容變得機械化、僵硬的創作者或編輯。"
+        "zhName": "renwei-writing (未翻譯)",
+        "features": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 12,
@@ -184,15 +184,15 @@
         "full_name": "BuilderIO/skills",
         "html_url": "https://github.com/BuilderIO/skills",
         "description": "Skills for coding agents",
-        "stargazers_count": 693,
+        "stargazers_count": 702,
         "language": "JavaScript",
         "owner": {
           "login": "BuilderIO",
           "avatar_url": "https://avatars.githubusercontent.com/u/35700027?v=4"
         },
-        "zhName": "skills (AI 編程代理技能庫)",
-        "features": "由 BuilderIO 推出的開發者工具，為程式碼自動化代理提供了一系列標準化技能集。旨在提升 AI 協助編碼時的精準度與複雜任務處理能力。",
-        "applications": "適合正在開發或部署編碼型 AI Agent 的軟體工程師，用於強化 AI 的執行功能。"
+        "zhName": "skills (未翻譯)",
+        "features": "Skills for coding agents",
+        "applications": "適用於開源軟體研究與開發。"
       }
     ],
     "month": [
@@ -202,15 +202,15 @@
         "full_name": "pewdiepie-archdaemon/odysseus",
         "html_url": "https://github.com/pewdiepie-archdaemon/odysseus",
         "description": "Self-hosted AI workspace. ",
-        "stargazers_count": 72752,
+        "stargazers_count": 72763,
         "language": "Python",
         "owner": {
           "login": "pewdiepie-archdaemon",
           "avatar_url": "https://avatars.githubusercontent.com/u/229018391?v=4"
         },
-        "zhName": "odysseus (自託管 AI 工作空間)",
-        "features": "一個完全自託管的 AI 工作環境，讓使用者能在私有伺服器上安全地部署與運行 AI 模型。專注於提供獨立的數據隱私與高度可自訂的開發體驗。",
-        "applications": "適合重視資料隱私、希望在內部網路環境中建立 AI 開發平台的開發者與企業團隊。"
+        "zhName": "odysseus (未翻譯)",
+        "features": "Self-hosted AI workspace. ",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 2,
@@ -218,15 +218,15 @@
         "full_name": "DietrichGebert/ponytail",
         "html_url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stargazers_count": 28703,
+        "stargazers_count": 28856,
         "language": "JavaScript",
         "owner": {
           "login": "DietrichGebert",
           "avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
         },
-        "zhName": "ponytail (AI 代碼精簡工具)",
-        "features": "模擬資深開發者的『偷懶』思維，優先透過優化架構與減少代碼量來解決問題。強調『最好的程式碼就是不用寫的那一行』，從根本上降低系統複雜度。",
-        "applications": "適用於希望透過減少冗餘代碼、提升交付效率的開發團隊，特別適合追求極簡開發哲學的工程師。"
+        "zhName": "ponytail (未翻譯)",
+        "features": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 3,
@@ -234,15 +234,15 @@
         "full_name": "XiaomiMiMo/MiMo-Code",
         "html_url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "description": null,
-        "stargazers_count": 9502,
+        "stargazers_count": 9509,
         "language": "TypeScript",
         "owner": {
           "login": "XiaomiMiMo",
           "avatar_url": "https://avatars.githubusercontent.com/u/208276378?v=4"
         },
-        "zhName": "MiMo-Code",
-        "features": "基於 TypeScript 開發的技術工具，雖無詳細描述，但從名稱推測其為小米生態系下的開發輔助模組或程式碼管理工具。具備與現代 TypeScript 開發環境高度整合的特性。",
-        "applications": "適合使用 TypeScript 進行相關軟體專案開發的工程師，或對小米生態系技術 stack 感興趣的開發者。"
+        "zhName": "MiMo-Code (未翻譯)",
+        "features": "無描述",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 4,
@@ -256,9 +256,9 @@
           "login": "unicity-astrid",
           "avatar_url": "https://avatars.githubusercontent.com/u/261740341?v=4"
         },
-        "zhName": "sdk-js (Astrid OS SDK)",
-        "features": "專為 Astrid OS 膠囊（Capusle）開發提供的 JavaScript/TypeScript SDK。提供與 Rust 核心元件協同工作的介面，簡化了模組化應用的開發流程。",
-        "applications": "適用於在 Astrid OS 平台上開發應用程式、建立生態系組件的系統開發者。"
+        "zhName": "sdk-js (未翻譯)",
+        "features": "JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 5,
@@ -266,15 +266,15 @@
         "full_name": "alibaba/open-code-review",
         "html_url": "https://github.com/alibaba/open-code-review",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stargazers_count": 7565,
+        "stargazers_count": 7568,
         "language": "Go",
         "owner": {
           "login": "alibaba",
           "avatar_url": "https://avatars.githubusercontent.com/u/1961952?v=4"
         },
-        "zhName": "open-code-review (阿里巴巴程式碼審查系統)",
-        "features": "結合確定性管線與 LLM Agent 的混合式代碼審查工具，經過阿里巴巴內部大規模場景驗證。內建精準的規則集，可偵測 NPE、執行緒安全、XSS 及 SQL 注入等風險。",
-        "applications": "適合大型軟體專案團隊，用於提升程式碼品質、自動化漏洞修復並落實安全審查規範。"
+        "zhName": "open-code-review (未翻譯)",
+        "features": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 6,
@@ -282,15 +282,15 @@
         "full_name": "anthropics/defending-code-reference-harness",
         "html_url": "https://github.com/anthropics/defending-code-reference-harness",
         "description": "Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize",
-        "stargazers_count": 6056,
+        "stargazers_count": 6057,
         "language": "Python",
         "owner": {
           "login": "anthropics",
           "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
         },
-        "zhName": "defending-code-reference-harness",
-        "features": "提供威脅建模、自動化掃描、分類與修復方案的整合框架。內建可客製化的掃描引擎，協助開發者主動應對安全性威脅。",
-        "applications": "適用於 DevSecOps 工程師，用於強化軟體供應鏈安全與自動化安全審查流程。"
+        "zhName": "defending-code-reference-harness (未翻譯)",
+        "features": "Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 7,
@@ -298,15 +298,15 @@
         "full_name": "shadcn/improve",
         "html_url": "https://github.com/shadcn/improve",
         "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-        "stargazers_count": 5066,
+        "stargazers_count": 5070,
         "language": null,
         "owner": {
           "login": "shadcn",
           "avatar_url": "https://avatars.githubusercontent.com/u/124599?v=4"
         },
-        "zhName": "improve (AI 程式碼審計優化)",
-        "features": "利用高階模型進行深度代碼審計，並自動撰寫執行計畫交由成本更低的模型執行。透過兩階段策略，完美平衡了審計品質與運算成本。",
-        "applications": "適合尋求大規模代碼重構、性能優化或自動化審計方案的開發團隊，旨在降低維運與維護成本。"
+        "zhName": "improve (未翻譯)",
+        "features": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 8,
@@ -314,15 +314,15 @@
         "full_name": "AprilNEA/OpenLogi",
         "html_url": "https://github.com/AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-        "stargazers_count": 5010,
+        "stargazers_count": 5011,
         "language": "Rust",
         "owner": {
           "login": "AprilNEA",
           "avatar_url": "https://avatars.githubusercontent.com/u/37977109?v=4"
         },
-        "zhName": "OpenLogi (開源羅技滑鼠管理工具)",
-        "features": "基於 Rust 編寫的 Logitech Options+ 本地替代方案，支援 HID++ 協定下的按鍵映射與 DPI 設定。完全離線運行，無遙測數據收集，保障用戶隱私。",
-        "applications": "適合使用羅技滑鼠的 Linux 用戶或不希望安裝官方臃腫軟體的極客使用者。"
+        "zhName": "OpenLogi (未翻譯)",
+        "features": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 9,
@@ -330,15 +330,15 @@
         "full_name": "helloianneo/ian-xiaohei-illustrations",
         "html_url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
         "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
-        "stargazers_count": 4980,
+        "stargazers_count": 4984,
         "language": null,
         "owner": {
           "login": "helloianneo",
           "avatar_url": "https://avatars.githubusercontent.com/u/89686060?v=4"
         },
-        "zhName": "ian-xiaohei-illustrations (AI 配圖生成技能)",
-        "features": "專為中文文章打造的『小黑』怪誕風格插圖生成工具，支援 16:9 比例與特定的紅橙藍色調批註風格。整合了 Codex Skill，可快速產出具備設計感的正文配圖。",
-        "applications": "適合部落客、技術寫作者，用於快速生成具有統一風格、符合專業文章需求的視覺內容。"
+        "zhName": "ian-xiaohei-illustrations (未翻譯)",
+        "features": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 10,
@@ -346,15 +346,15 @@
         "full_name": "zgwl/chinese-buy-us-stock-guide",
         "html_url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
         "description": "美股指南",
-        "stargazers_count": 4643,
+        "stargazers_count": 4644,
         "language": null,
         "owner": {
           "login": "zgwl",
           "avatar_url": "https://avatars.githubusercontent.com/u/6014068?v=4"
         },
-        "zhName": "chinese-buy-us-stock-guide (美股投資指南)",
-        "features": "整理了針對華語使用者的美股投資實務指南，涵蓋開戶流程、稅務資訊與交易策略。該專案整合了入門到進階的投資知識。",
-        "applications": "適合想進入美股市場但缺乏基礎知識，或需要查詢開戶與法規資訊的投資新手。"
+        "zhName": "chinese-buy-us-stock-guide (未翻譯)",
+        "features": "美股指南",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 11,
@@ -368,9 +368,9 @@
           "login": "perplexityai",
           "avatar_url": "https://avatars.githubusercontent.com/u/185426709?v=4"
         },
-        "zhName": "bumblebee (供應鏈安全掃描工具)",
-        "features": "Perplexity AI 開發的唯讀終端掃描工具，用於檢查硬碟上的套件與工具元數據。專注於偵測潛在的軟體供應鏈威脅與已知風險。",
-        "applications": "適用於安全性研究人員或資安工程師，用於快速掃描開發環境中是否存在危險的相依套件。"
+        "zhName": "bumblebee (未翻譯)",
+        "features": "Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 12,
@@ -378,15 +378,15 @@
         "full_name": "KunAgent/Kun",
         "html_url": "https://github.com/KunAgent/Kun",
         "description": "AI agent workspace with Code and Write modes built into your application.",
-        "stargazers_count": 4384,
+        "stargazers_count": 4386,
         "language": "TypeScript",
         "owner": {
           "login": "KunAgent",
           "avatar_url": "https://avatars.githubusercontent.com/u/292492812?v=4"
         },
-        "zhName": "Kun (AI Agent 工作空間)",
-        "features": "內建代碼編寫與文字撰寫模式的 AI Agent 工作空間，可直接嵌入應用程式中。提供智慧化的協作介面，提升 AI 輔助開發的流暢度。",
-        "applications": "適用於希望在產品中快速整合 AI Agent 功能的開發者，或尋求高效 AI 輔助開發環境的軟體工程師。"
+        "zhName": "Kun (未翻譯)",
+        "features": "AI agent workspace with Code and Write modes built into your application.",
+        "applications": "適用於開源軟體研究與開發。"
       }
     ],
     "three_months": [
@@ -396,15 +396,15 @@
         "full_name": "ultraworkers/claw-code",
         "html_url": "https://github.com/ultraworkers/claw-code",
         "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-        "stargazers_count": 193952,
+        "stargazers_count": 193954,
         "language": "Rust",
         "owner": {
           "login": "ultraworkers",
           "avatar_url": "https://avatars.githubusercontent.com/u/272961631?v=4"
         },
-        "zhName": "claw-code (自動化展覽代理)",
-        "features": "這是一個由 Rust 建構的代理管理型博物館展品專案。其核心特色在於完全無需人類介入，即可實現自動化的開發與維護。",
-        "applications": "適合探索全自動化軟體維護與無人干預系統運作的開發者使用。"
+        "zhName": "claw-code (未翻譯)",
+        "features": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 2,
@@ -412,15 +412,15 @@
         "full_name": "VoltAgent/awesome-design-md",
         "html_url": "https://github.com/VoltAgent/awesome-design-md",
         "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-        "stargazers_count": 90944,
+        "stargazers_count": 90950,
         "language": null,
         "owner": {
           "login": "VoltAgent",
           "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
         },
-        "zhName": "awesome-design-md (設計規格解析系統)",
-        "features": "收集並分析各大品牌設計系統中的 DESIGN.md 文件。能讓 AI 代理讀取這些配置，進而自動生成與品牌風格一致的 UI 介面。",
-        "applications": "適用於需要快速構建符合特定設計規範的 UI 介面，或希望自動化前端設計流程的團隊。"
+        "zhName": "awesome-design-md (未翻譯)",
+        "features": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 3,
@@ -428,15 +428,15 @@
         "full_name": "JuliusBrussee/caveman",
         "html_url": "https://github.com/JuliusBrussee/caveman",
         "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "stargazers_count": 73836,
+        "stargazers_count": 73852,
         "language": "JavaScript",
         "owner": {
           "login": "JuliusBrussee",
           "avatar_url": "https://avatars.githubusercontent.com/u/104168679?v=4"
         },
-        "zhName": "caveman (Claude Code 精簡模式)",
-        "features": "透過模仿原始人的溝通方式來執行任務，大幅減少 AI 的 token 消耗。該專案聲稱可節省約 65% 的 token 使用量。",
-        "applications": "適合希望降低 Claude Code 使用成本、優化 AI 溝通效率的開發者。"
+        "zhName": "caveman (未翻譯)",
+        "features": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 4,
@@ -444,15 +444,15 @@
         "full_name": "pewdiepie-archdaemon/odysseus",
         "html_url": "https://github.com/pewdiepie-archdaemon/odysseus",
         "description": "Self-hosted AI workspace. ",
-        "stargazers_count": 72752,
+        "stargazers_count": 72763,
         "language": "Python",
         "owner": {
           "login": "pewdiepie-archdaemon",
           "avatar_url": "https://avatars.githubusercontent.com/u/229018391?v=4"
         },
-        "zhName": "odysseus (自架 AI 工作空間)",
-        "features": "一個專注於自託管環境的 AI 工作空間解決方案。提供了一套完整的本地化 AI 基礎架構。",
-        "applications": "適合重視資料隱私與自主控制權，希望在本地架設 AI 開發環境的開發者。"
+        "zhName": "odysseus (未翻譯)",
+        "features": "Self-hosted AI workspace. ",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 5,
@@ -460,15 +460,15 @@
         "full_name": "safishamsi/graphify",
         "html_url": "https://github.com/safishamsi/graphify",
         "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-        "stargazers_count": 68455,
+        "stargazers_count": 68467,
         "language": "Python",
         "owner": {
           "login": "safishamsi",
           "avatar_url": "https://avatars.githubusercontent.com/u/216348667?v=4"
         },
-        "zhName": "graphify (AI 知識圖譜工具)",
-        "features": "能將程式碼、資料庫綱要、文件與影音檔案轉換為可查詢的知識圖譜。將應用程式邏輯、架構與基礎設施整合於單一結構中。",
-        "applications": "適合軟體架構師與開發者，用於視覺化複雜專案結構並進行跨維度的專案內容查詢。"
+        "zhName": "graphify (未翻譯)",
+        "features": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 6,
@@ -476,15 +476,15 @@
         "full_name": "nexu-io/open-design",
         "html_url": "https://github.com/nexu-io/open-design",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
-        "stargazers_count": 66342,
+        "stargazers_count": 66365,
         "language": "TypeScript",
         "owner": {
           "login": "nexu-io",
           "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
         },
-        "zhName": "open-design (開源 Claude 設計平台)",
-        "features": "一個以本地優先為核心的開源桌面應用，支援 17 種以上的 CLI 工具與 140 多種設計系統。提供原型設計、預覽與多格式導出功能。",
-        "applications": "適合設計師與前端工程師，用於快速進行網站、行動裝置原型開發與多格式素材輸出。"
+        "zhName": "open-design (未翻譯)",
+        "features": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 7,
@@ -492,15 +492,15 @@
         "full_name": "MemPalace/mempalace",
         "html_url": "https://github.com/MemPalace/mempalace",
         "description": "The best-benchmarked open-source AI memory system. And it's free.",
-        "stargazers_count": 55799,
+        "stargazers_count": 55801,
         "language": "Python",
         "owner": {
           "login": "MemPalace",
           "avatar_url": "https://avatars.githubusercontent.com/u/275135684?v=4"
         },
-        "zhName": "mempalace (AI 記憶系統)",
-        "features": "經過高度基準測試的開源 AI 記憶儲存系統，強調效能與免費可用性。是目前開源界效能領先的記憶體管理方案。",
-        "applications": "適合需要為 AI 代理添加持久化記憶功能，以提升上下文與長期任務執行能力的專案。"
+        "zhName": "mempalace (未翻譯)",
+        "features": "The best-benchmarked open-source AI memory system. And it's free.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 8,
@@ -508,15 +508,15 @@
         "full_name": "santifer/career-ops",
         "html_url": "https://github.com/santifer/career-ops",
         "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-        "stargazers_count": 54335,
+        "stargazers_count": 54343,
         "language": "JavaScript",
         "owner": {
           "login": "santifer",
           "avatar_url": "https://avatars.githubusercontent.com/u/256850418?v=4"
         },
-        "zhName": "career-ops (AI 求職輔助系統)",
-        "features": "基於 Claude Code 構建的職涯發展系統，具備 14 種技能模式與 Go 儀表板。支援自動化 PDF 生成與批次處理功能。",
-        "applications": "適合求職者或人力資源開發者，用於自動化履歷產出、職缺搜尋與求職進度管理。"
+        "zhName": "career-ops (未翻譯)",
+        "features": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 9,
@@ -524,15 +524,15 @@
         "full_name": "Gitlawb/openclaude",
         "html_url": "https://github.com/Gitlawb/openclaude",
         "description": "runs anywhere. uses anything",
-        "stargazers_count": 29030,
+        "stargazers_count": 29031,
         "language": "TypeScript",
         "owner": {
           "login": "Gitlawb",
           "avatar_url": "https://avatars.githubusercontent.com/u/268502891?v=4"
         },
-        "zhName": "openclaude (通用型 AI 執行環境)",
-        "features": "具備強大的兼容性與靈活性，設計目標為「隨處運行」且「隨手使用」。這是一個強調環境適應性的 AI 工具。",
-        "applications": "適合需要跨平台部署與整合多種 AI 模型或工具的進階開發者。"
+        "zhName": "openclaude (未翻譯)",
+        "features": "runs anywhere. uses anything",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 10,
@@ -540,15 +540,15 @@
         "full_name": "DietrichGebert/ponytail",
         "html_url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stargazers_count": 28704,
+        "stargazers_count": 28856,
         "language": "JavaScript",
         "owner": {
           "login": "DietrichGebert",
           "avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
         },
-        "zhName": "ponytail (懶人工程師 AI 代理)",
-        "features": "此工具能引導 AI 代理採取「懶惰資深工程師」的邏輯思考。核心理念為「最好的程式碼就是你根本不用寫的那份代碼」。",
-        "applications": "適合追求極簡化開發、希望透過 AI 減少冗餘程式碼編寫的開發者。"
+        "zhName": "ponytail (未翻譯)",
+        "features": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 11,
@@ -556,15 +556,15 @@
         "full_name": "alchaincyf/nuwa-skill",
         "html_url": "https://github.com/alchaincyf/nuwa-skill",
         "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-        "stargazers_count": 24691,
+        "stargazers_count": 24694,
         "language": "Python",
         "owner": {
           "login": "alchaincyf",
           "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
         },
-        "zhName": "nuwa-skill (人類思維蒸餾系統)",
-        "features": "旨在蒸餾任何人的思維方式，包括心智模型、決策邏輯與表達習慣。透過技術手段將特定個人的思維模式數位化。",
-        "applications": "適合研究個人決策模式的開發者，或希望複製專家決策流程以輔助開發的團隊。"
+        "zhName": "nuwa-skill (未翻譯)",
+        "features": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
+        "applications": "適用於開源軟體研究與開發。"
       },
       {
         "rank": 12,
@@ -572,15 +572,403 @@
         "full_name": "garrytan/gbrain",
         "html_url": "https://github.com/garrytan/gbrain",
         "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-        "stargazers_count": 23137,
+        "stargazers_count": 23140,
         "language": "TypeScript",
         "owner": {
           "login": "garrytan",
           "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
         },
-        "zhName": "gbrain (Garry Tan 的意見化 AI 大腦)",
-        "features": "由 Garry Tan 推出的意見化（Opinionated）代理大腦，深度整合了 OpenClaw 與 Hermes 技術。",
-        "applications": "適合追隨特定行業專家技術路徑，希望利用高階代理架構優化開發體驗的專業人士。"
+        "zhName": "gbrain (未翻譯)",
+        "features": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+        "applications": "適用於開源軟體研究與開發。"
+      }
+    ],
+    "year": [
+      {
+        "rank": 1,
+        "name": "openclaw",
+        "full_name": "openclaw/openclaw",
+        "html_url": "https://github.com/openclaw/openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+        "stargazers_count": 379151,
+        "language": "TypeScript",
+        "owner": {
+          "login": "openclaw",
+          "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
+        },
+        "zhName": "openclaw (未翻譯)",
+        "features": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 2,
+        "name": "ECC",
+        "full_name": "affaan-m/ECC",
+        "html_url": "https://github.com/affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "stargazers_count": 217052,
+        "language": "JavaScript",
+        "owner": {
+          "login": "affaan-m",
+          "avatar_url": "https://avatars.githubusercontent.com/u/124439313?v=4"
+        },
+        "zhName": "ECC (未翻譯)",
+        "features": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 3,
+        "name": "hermes-agent",
+        "full_name": "NousResearch/hermes-agent",
+        "html_url": "https://github.com/NousResearch/hermes-agent",
+        "description": "The agent that grows with you",
+        "stargazers_count": 195865,
+        "language": "Python",
+        "owner": {
+          "login": "NousResearch",
+          "avatar_url": "https://avatars.githubusercontent.com/u/134168893?v=4"
+        },
+        "zhName": "hermes-agent (未翻譯)",
+        "features": "The agent that grows with you",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 4,
+        "name": "andrej-karpathy-skills",
+        "full_name": "multica-ai/andrej-karpathy-skills",
+        "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "stargazers_count": 177352,
+        "language": null,
+        "owner": {
+          "login": "multica-ai",
+          "avatar_url": "https://avatars.githubusercontent.com/u/254743058?v=4"
+        },
+        "zhName": "andrej-karpathy-skills (未翻譯)",
+        "features": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 5,
+        "name": "skills",
+        "full_name": "anthropics/skills",
+        "html_url": "https://github.com/anthropics/skills",
+        "description": "Public repository for Agent Skills",
+        "stargazers_count": 151969,
+        "language": "Python",
+        "owner": {
+          "login": "anthropics",
+          "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+        },
+        "zhName": "skills (未翻譯)",
+        "features": "Public repository for Agent Skills",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 6,
+        "name": "skills",
+        "full_name": "mattpocock/skills",
+        "html_url": "https://github.com/mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "stargazers_count": 132768,
+        "language": "Shell",
+        "owner": {
+          "login": "mattpocock",
+          "avatar_url": "https://avatars.githubusercontent.com/u/28293365?v=4"
+        },
+        "zhName": "skills (未翻譯)",
+        "features": "Skills for Real Engineers. Straight from my .claude directory.",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 7,
+        "name": "spec-kit",
+        "full_name": "github/spec-kit",
+        "html_url": "https://github.com/github/spec-kit",
+        "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+        "stargazers_count": 112939,
+        "language": "Python",
+        "owner": {
+          "login": "github",
+          "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+        },
+        "zhName": "spec-kit (未翻譯)",
+        "features": "💫 Toolkit to help you get started with Spec-Driven Development",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 8,
+        "name": "gstack",
+        "full_name": "garrytan/gstack",
+        "html_url": "https://github.com/garrytan/gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "stargazers_count": 110859,
+        "language": "TypeScript",
+        "owner": {
+          "login": "garrytan",
+          "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
+        },
+        "zhName": "gstack (未翻譯)",
+        "features": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 9,
+        "name": "ui-ux-pro-max-skill",
+        "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
+        "html_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+        "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+        "stargazers_count": 92906,
+        "language": "Python",
+        "owner": {
+          "login": "nextlevelbuilder",
+          "avatar_url": "https://avatars.githubusercontent.com/u/246974152?v=4"
+        },
+        "zhName": "ui-ux-pro-max-skill (未翻譯)",
+        "features": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 10,
+        "name": "autoresearch",
+        "full_name": "karpathy/autoresearch",
+        "html_url": "https://github.com/karpathy/autoresearch",
+        "description": "AI agents running research on single-GPU nanochat training automatically",
+        "stargazers_count": 87293,
+        "language": "Python",
+        "owner": {
+          "login": "karpathy",
+          "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+        },
+        "zhName": "autoresearch (未翻譯)",
+        "features": "AI agents running research on single-GPU nanochat training automatically",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 11,
+        "name": "odysseus",
+        "full_name": "pewdiepie-archdaemon/odysseus",
+        "html_url": "https://github.com/pewdiepie-archdaemon/odysseus",
+        "description": "Self-hosted AI workspace. ",
+        "stargazers_count": 72763,
+        "language": "Python",
+        "owner": {
+          "login": "pewdiepie-archdaemon",
+          "avatar_url": "https://avatars.githubusercontent.com/u/229018391?v=4"
+        },
+        "zhName": "odysseus (未翻譯)",
+        "features": "Self-hosted AI workspace. ",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 12,
+        "name": "MiroFish",
+        "full_name": "666ghj/MiroFish",
+        "html_url": "https://github.com/666ghj/MiroFish",
+        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "stargazers_count": 66672,
+        "language": "Python",
+        "owner": {
+          "login": "666ghj",
+          "avatar_url": "https://avatars.githubusercontent.com/u/110395318?v=4"
+        },
+        "zhName": "MiroFish (未翻譯)",
+        "features": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "applications": "適用於開源軟體研究與開發。"
+      }
+    ],
+    "audio_video": [
+      {
+        "rank": 1,
+        "name": "graphify",
+        "full_name": "safishamsi/graphify",
+        "html_url": "https://github.com/safishamsi/graphify",
+        "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+        "stargazers_count": 68467,
+        "language": "Python",
+        "owner": {
+          "login": "safishamsi",
+          "avatar_url": "https://avatars.githubusercontent.com/u/216348667?v=4"
+        },
+        "zhName": "graphify (未翻譯)",
+        "features": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 2,
+        "name": "open-design",
+        "full_name": "nexu-io/open-design",
+        "html_url": "https://github.com/nexu-io/open-design",
+        "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
+        "stargazers_count": 66365,
+        "language": "TypeScript",
+        "owner": {
+          "login": "nexu-io",
+          "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
+        },
+        "zhName": "open-design (未翻譯)",
+        "features": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 3,
+        "name": "video-use",
+        "full_name": "browser-use/video-use",
+        "html_url": "https://github.com/browser-use/video-use",
+        "description": "Edit videos with coding agents",
+        "stargazers_count": 9785,
+        "language": "Python",
+        "owner": {
+          "login": "browser-use",
+          "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+        },
+        "zhName": "video-use (未翻譯)",
+        "features": "Edit videos with coding agents",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 4,
+        "name": "OmniVoice",
+        "full_name": "k2-fsa/OmniVoice",
+        "html_url": "https://github.com/k2-fsa/OmniVoice",
+        "description": "High-Quality Voice Cloning TTS for 600+ Languages",
+        "stargazers_count": 7535,
+        "language": "Python",
+        "owner": {
+          "login": "k2-fsa",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71431748?v=4"
+        },
+        "zhName": "OmniVoice (未翻譯)",
+        "features": "High-Quality Voice Cloning TTS for 600+ Languages",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 5,
+        "name": "OmniVoice-Studio",
+        "full_name": "debpalash/OmniVoice-Studio",
+        "html_url": "https://github.com/debpalash/OmniVoice-Studio",
+        "description": "The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App",
+        "stargazers_count": 7084,
+        "language": "Python",
+        "owner": {
+          "login": "debpalash",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4178343?v=4"
+        },
+        "zhName": "OmniVoice-Studio (未翻譯)",
+        "features": "The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 6,
+        "name": "reclip",
+        "full_name": "averygan/reclip",
+        "html_url": "https://github.com/averygan/reclip",
+        "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+        "stargazers_count": 6129,
+        "language": "HTML",
+        "owner": {
+          "login": "averygan",
+          "avatar_url": "https://avatars.githubusercontent.com/u/88895948?v=4"
+        },
+        "zhName": "reclip (未翻譯)",
+        "features": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 7,
+        "name": "OpenMontage",
+        "full_name": "calesthio/OpenMontage",
+        "html_url": "https://github.com/calesthio/OpenMontage",
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "stargazers_count": 4939,
+        "language": "Python",
+        "owner": {
+          "login": "calesthio",
+          "avatar_url": "https://avatars.githubusercontent.com/u/213189893?v=4"
+        },
+        "zhName": "OpenMontage (未翻譯)",
+        "features": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 8,
+        "name": "MOSS-TTS-Nano",
+        "full_name": "OpenMOSS/MOSS-TTS-Nano",
+        "html_url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+        "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
+        "stargazers_count": 3508,
+        "language": "Python",
+        "owner": {
+          "login": "OpenMOSS",
+          "avatar_url": "https://avatars.githubusercontent.com/u/156300419?v=4"
+        },
+        "zhName": "MOSS-TTS-Nano (未翻譯)",
+        "features": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 9,
+        "name": "html-video",
+        "full_name": "nexu-io/html-video",
+        "html_url": "https://github.com/nexu-io/html-video",
+        "description": "Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
+        "stargazers_count": 3241,
+        "language": "HTML",
+        "owner": {
+          "login": "nexu-io",
+          "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
+        },
+        "zhName": "html-video (未翻譯)",
+        "features": "Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 10,
+        "name": "MisoTTS",
+        "full_name": "MisoLabsAI/MisoTTS",
+        "html_url": "https://github.com/MisoLabsAI/MisoTTS",
+        "description": "Miso TTS is an 8 billion, highly emotive text-to-speech model",
+        "stargazers_count": 2887,
+        "language": "Python",
+        "owner": {
+          "login": "MisoLabsAI",
+          "avatar_url": "https://avatars.githubusercontent.com/u/276445684?v=4"
+        },
+        "zhName": "MisoTTS (未翻譯)",
+        "features": "Miso TTS is an 8 billion, highly emotive text-to-speech model",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 11,
+        "name": "ghost-pepper",
+        "full_name": "matthartman/ghost-pepper",
+        "html_url": "https://github.com/matthartman/ghost-pepper",
+        "description": "100% private on-device voice models for speech-to-text and meeting transcription on macOS",
+        "stargazers_count": 2800,
+        "language": "Swift",
+        "owner": {
+          "login": "matthartman",
+          "avatar_url": "https://avatars.githubusercontent.com/u/537162?v=4"
+        },
+        "zhName": "ghost-pepper (未翻譯)",
+        "features": "100% private on-device voice models for speech-to-text and meeting transcription on macOS",
+        "applications": "適用於開源軟體研究與開發。"
+      },
+      {
+        "rank": 12,
+        "name": "openless",
+        "full_name": "Open-Less/openless",
+        "html_url": "https://github.com/Open-Less/openless",
+        "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
+        "stargazers_count": 2377,
+        "language": "HTML",
+        "owner": {
+          "login": "Open-Less",
+          "avatar_url": "https://avatars.githubusercontent.com/u/283287307?v=4"
+        },
+        "zhName": "openless (未翻譯)",
+        "features": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
+        "applications": "適用於開源軟體研究與開發。"
       }
     ]
   }

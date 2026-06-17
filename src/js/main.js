@@ -169,8 +169,49 @@ function setupTabs() {
   });
 }
 
+// Setup Theme switching (Light / Dark mode)
+function setupTheme() {
+  const themeToggleBtn = document.getElementById('theme-toggle');
+  if (!themeToggleBtn) return;
+
+  const sunIcon = themeToggleBtn.querySelector('.sun-icon');
+  const moonIcon = themeToggleBtn.querySelector('.moon-icon');
+
+  // Load theme preference from localStorage or default to system preference (or dark by default)
+  const savedTheme = localStorage.getItem('theme');
+  const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  
+  // App default is dark theme
+  let isLightTheme = savedTheme === 'light';
+  if (savedTheme === null && !prefersDark) {
+    isLightTheme = false; // Default is dark
+  }
+
+  function updateThemeUI(isLight) {
+    if (isLight) {
+      document.body.classList.add('light-theme');
+      sunIcon.classList.add('hidden');
+      moonIcon.classList.remove('hidden');
+    } else {
+      document.body.classList.remove('light-theme');
+      sunIcon.classList.remove('hidden');
+      moonIcon.classList.add('hidden');
+    }
+  }
+
+  // Apply initially
+  updateThemeUI(isLightTheme);
+
+  themeToggleBtn.addEventListener('click', () => {
+    isLightTheme = !isLightTheme;
+    localStorage.setItem('theme', isLightTheme ? 'light' : 'dark');
+    updateThemeUI(isLightTheme);
+  });
+}
+
 // Fetch generated JSON data
 async function init() {
+  setupTheme();
   setupTabs();
   
   try {
