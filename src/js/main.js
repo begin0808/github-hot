@@ -3,6 +3,29 @@
 let cachedData = null;
 let currentPeriod = 'week';
 
+// Security: HTML escape to prevent XSS from API data
+function escapeHtml(str) {
+  if (str == null) return '';
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
+}
+
+// Security: Validate URLs to only allow https:// protocol
+function sanitizeUrl(url) {
+  if (!url) return '#';
+  try {
+    const parsed = new URL(url);
+    if (parsed.protocol === 'https:') return url;
+    return '#';
+  } catch {
+    return '#';
+  }
+}
+
 // Elements
 const loadingEl = document.getElementById('loading');
 const projectsGridEl = document.getElementById('projects-grid');
@@ -58,25 +81,29 @@ function renderProjects(period) {
     else if (repo.rank === 2) rankClass = 'rank-2';
     else if (repo.rank === 3) rankClass = 'rank-3';
 
-    // Format Language
+    // Format Language (escaped)
     const languageBadge = repo.language 
-      ? `<span class="lang-badge">${repo.language}</span>` 
+      ? `<span class="lang-badge">${escapeHtml(repo.language)}</span>` 
       : '';
 
+    // Sanitize URLs
+    const repoUrl = sanitizeUrl(repo.html_url);
+    const avatarUrl = sanitizeUrl(repo.owner?.avatar_url) || 'https://github.com/identicons/github.png';
+
     card.innerHTML = `
-      <div class="rank-badge ${rankClass}">#${repo.rank}</div>
+      <div class="rank-badge ${rankClass}">#${escapeHtml(repo.rank)}</div>
       
       <div class="card-meta">
-        <img class="owner-avatar" src="${repo.owner?.avatar_url || 'https://github.com/identicons/github.png'}" alt="${repo.owner?.login || 'owner'}" loading="lazy">
-        <span class="owner-name">${repo.owner?.login || '未知'}</span>
+        <img class="owner-avatar" src="${avatarUrl}" alt="${escapeHtml(repo.owner?.login || 'owner')}" loading="lazy">
+        <span class="owner-name">${escapeHtml(repo.owner?.login || '未知')}</span>
         ${languageBadge}
       </div>
 
       <div class="card-title-section">
         <h3 class="zh-title">
-          <a href="${repo.html_url}" target="_blank" rel="noopener noreferrer">${repo.zhName || repo.name}</a>
+          <a href="${repoUrl}" target="_blank" rel="noopener noreferrer">${escapeHtml(repo.zhName || repo.name)}</a>
         </h3>
-        <p class="original-title">${repo.full_name}</p>
+        <p class="original-title">${escapeHtml(repo.full_name)}</p>
       </div>
 
       <div class="stars-block">
@@ -89,20 +116,20 @@ function renderProjects(period) {
       <div class="ai-summary">
         <div class="summary-section">
           <span class="summary-label label-features">核心功能與特色</span>
-          <p class="summary-content">${repo.features || '無功能描述'}</p>
+          <p class="summary-content">${escapeHtml(repo.features || '無功能描述')}</p>
         </div>
         <div class="summary-section">
           <span class="summary-label label-applications">實際應用場景</span>
-          <p class="summary-content">${repo.applications || '無應用描述'}</p>
+          <p class="summary-content">${escapeHtml(repo.applications || '無應用描述')}</p>
         </div>
       </div>
 
       <details class="original-details">
         <summary>檢視原始英文描述</summary>
-        <p class="original-desc">${repo.description || 'No description available.'}</p>
+        <p class="original-desc">${escapeHtml(repo.description || 'No description available.')}</p>
       </details>
 
-      <a class="github-action-btn" href="${repo.html_url}" target="_blank" rel="noopener noreferrer">
+      <a class="github-action-btn" href="${repoUrl}" target="_blank" rel="noopener noreferrer">
         前往 GitHub 專案 <span class="btn-arrow">→</span>
       </a>
     `;
