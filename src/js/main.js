@@ -1,4 +1,5 @@
 // Main application logic
+import projectsData from '../data/projects.json';
 
 let cachedData = null;
 let currentPeriod = 'week';
@@ -173,14 +174,7 @@ async function init() {
   setupTabs();
   
   try {
-    // Vite will resolve src/data/projects.json relative path or serve it directly
-    const response = await fetch('/src/data/projects.json');
-    
-    if (!response.ok) {
-      throw new Error(`無法讀取 JSON 資料，伺服器回應狀態碼 ${response.status}`);
-    }
-
-    cachedData = await response.json();
+    cachedData = projectsData;
     
     // Render last updated badge
     if (cachedData.lastUpdated) {
@@ -199,7 +193,7 @@ async function init() {
   } catch (error) {
     console.error('Initialization error:', error);
     showError(
-      '無法獲取開源專案數據。如果您是在本地開發環境，請確認是否已執行過 <code>npm run fetch</code> 以取得資料並產生 projects.json 檔。'
+      '無法獲取開源專案數據。'
     );
   }
 }
