@@ -73,7 +73,7 @@ async function fetchTopGithubProjects(daysAgo) {
 
 // 2. 使用 Gemini API 翻譯與精煉專案內容
 async function translateAndSummarize(repo, apiKey) {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key=${apiKey}`;
   
   const prompt = `你是一個專業的開源專案技術推廣專家與軟體工程師。
 請幫我分析以下 GitHub 開源專案，並使用繁體中文 (台灣，繁體中文) 介紹其功能與應用。
