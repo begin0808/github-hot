@@ -717,6 +717,16 @@ body.light-theme .card-rank-3:hover {
   text-decoration: underline;
 }
 
+.app-footer a {
+  color: var(--accent-cyan);
+  text-decoration: none;
+  transition: var(--transition-smooth);
+}
+
+.app-footer a:hover {
+  text-decoration: underline;
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
   h1 {
