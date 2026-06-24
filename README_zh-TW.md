@@ -3,6 +3,8 @@
 [![Update Data](https://github.com/begin0808/github-hot/actions/workflows/update-data.yml/badge.svg)](https://github.com/begin0808/github-hot/actions/workflows/update-data.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+[English](README.md) | 繁體中文
+
 > 每週六自動更新的 GitHub 熱門開源專案時間線，搭配 Gemini AI 產生繁體中文深度精煉介紹，讓你快速掌握開源世界最新趨勢。
 
 ---
