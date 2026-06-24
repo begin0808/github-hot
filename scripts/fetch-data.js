@@ -142,7 +142,7 @@ Ensure the returned structure strictly matches the specified JSON Schema.`;
 
 // 3. 具備自動重試、指數退避與多模型備援功能的批次翻譯包裝器
 async function translateAndSummarizeBatchWithRetry(repos, apiKey, targetLanguageName, retries = 3, delay = 10000) {
-  const models = ['gemini-3.5-flash', 'gemini-3.1-flash-lite', 'gemini-2.5-flash'];
+  const models = ['gemini-3.5-flash', 'gemini-3.1-flash-lite', 'gemini-2.5-flash', 'gemini-1.5-flash', 'gemini-1.5-flash-8b'];
   
   for (const model of models) {
     console.log(`  -> 嘗試使用 AI 模型: ${model}`);
@@ -329,9 +329,9 @@ async function main() {
         }));
       }
 
-      // 休息 5.5 秒，以符合每分鐘最高 15 次請求的 API 限流規則 (35 次請求需約 3 分鐘)
-      console.log(`  -> 休息 5.5 秒中...`);
-      await sleep(5500);
+      // 休息 6.5 秒，以符合每分鐘最高 15 次請求的 API 限流規則 (35 次請求需約 4 分鐘)
+      console.log(`  -> 休息 6.5 秒中...`);
+      await sleep(6500);
     }
   }
 
