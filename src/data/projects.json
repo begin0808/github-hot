@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T06:23:34.849Z",
+  "lastUpdated": "2026-06-24T06:30:04.895Z",
   "periods": {
     "week": [
       {
@@ -8,7 +8,7 @@
         "full_name": "baidu/Unlimited-OCR",
         "html_url": "https://github.com/baidu/Unlimited-OCR",
         "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-        "stargazers_count": 4445,
+        "stargazers_count": 4462,
         "language": "Python",
         "owner": {
           "login": "baidu",
@@ -18,9 +18,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "Unlimited-OCR (百度長文本 OCR 解析系統)",
-        "features": "這是一個專注於長序列、一鏡到底的 OCR 解析解決方案。它大幅提升了複雜排版與長文件內容的文字擷取效率與準確度。",
-        "applications": "適用於自動化處理龐大的掃描文件、書籍掃描或金融憑證的數位化轉換作業。"
+        "zhName": "Unlimited-OCR (百度長文本 OCR 系統)",
+        "features": "這是一個專注於長序列、高解析度文本解析的 OCR 解決方案。它利用 One-shot 技術實現對複雜長篇文件的精準識別與結構化提取。",
+        "applications": "適用於需要處理大量掃描件、財報或學術論文的自動化資訊擷取場景。"
       },
       {
         "rank": 2,
@@ -28,7 +28,7 @@
         "full_name": "zhongerxin/Cowart",
         "html_url": "https://github.com/zhongerxin/Cowart",
         "description": null,
-        "stargazers_count": 2482,
+        "stargazers_count": 2485,
         "language": "JavaScript",
         "owner": {
           "login": "zhongerxin",
@@ -36,8 +36,8 @@
         },
         "license": null,
         "zhName": "Cowart",
-        "features": "一個基於 JavaScript 開發的工具，具體功能定義較為模糊，推測為與網頁交互或數據處理相關的輕量級輔助工具。",
-        "applications": "適合尋求輕量級 JavaScript 輔助解決方案的開發者進行研究與評估。"
+        "features": "Cowart 是一個基於 JavaScript 的開源專案。雖然缺乏具體描述，但常見於輕量級腳本工具或網頁輔助應用中。",
+        "applications": "適合尋找特定功能腳本的開發者進行研究與功能擴展。"
       },
       {
         "rank": 3,
@@ -55,9 +55,9 @@
           "name": "Other",
           "spdx_id": "NOASSERTION"
         },
-        "zhName": "zhengxi-views (投研專家 Agent)",
-        "features": "結合易方達基金經理鄭希的公開投研觀點，建立了一個可溯源的 AI 投研問答 Agent。該系統嚴格基於歷史數據進行評分，杜絕模型幻覺。",
-        "applications": "適合金融研究人員或投資者，用於學習專業基金經理的投研框架與數據評估方式。"
+        "zhName": "zhengxi-views (基金經理投研 Agent)",
+        "features": "整合易方達基金經理鄭希的公開投研觀點，建立具備溯源能力的 AI 投研代理。系統嚴格依據原文佐證，確保分析結果具備可信度且不杜撰。",
+        "applications": "適合金融從業人員及投資者，用於學習專業投研框架及進行投資組合評估。"
       },
       {
         "rank": 4,
@@ -65,7 +65,7 @@
         "full_name": "Forsy-AI/agent-apprenticeship",
         "html_url": "https://github.com/Forsy-AI/agent-apprenticeship",
         "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-        "stargazers_count": 872,
+        "stargazers_count": 873,
         "language": null,
         "owner": {
           "login": "Forsy-AI",
@@ -75,9 +75,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "agent-apprenticeship (AI Agent 學習生態系)",
-        "features": "這是一個構建 AI Agent 學習機制的生態系統，透過迭代的工作流循環與經驗複用來提升代理能力。它強調集體訓練信號的交換與智慧累積。",
-        "applications": "適用於開發複雜 AI 代理系統的工程師，用於優化 Agent 在真實工作場景中的持續學習與進化。"
+        "zhName": "agent-apprenticeship (AI 代理學徒生態系統)",
+        "features": "這是一個讓 AI 代理通過真實工作流程迭代學習的生態系統。核心在於可重用的經驗池與集體的訓練訊號交換，提升代理的自主能力。",
+        "applications": "適合致力於 AI 自動化流程與 Agent 協作技術研究的開發者。"
       },
       {
         "rank": 5,
@@ -95,9 +95,9 @@
           "name": "Other",
           "spdx_id": "NOASSERTION"
         },
-        "zhName": "cnfast (輕量級 className 工具)",
-        "features": "這是針對前端開發常用套件 cn 的極速替代方案，能無縫替換原有邏輯。它在保持功能一致的同時，大幅提升了樣式合併的運算效率。",
-        "applications": "適合追求極致效能的前端開發者，特別是在使用 Tailwind CSS 的大型 React 或 Vue 專案中。"
+        "zhName": "cnfast (高效能 class 名稱管理工具)",
+        "features": "作為熱門工具 cn 的快速替代品，cnfast 優化了條件式類別名稱的處理效能。它能顯著降低前端專案中樣式處理的運算負擔。",
+        "applications": "適合追求極致效能的 React 或 Vue 前端開發者，用於處理複雜的動態樣式邏輯。"
       },
       {
         "rank": 6,
@@ -105,7 +105,7 @@
         "full_name": "kanavtwtgg/birds.cafe",
         "html_url": "https://github.com/kanavtwtgg/birds.cafe",
         "description": null,
-        "stargazers_count": 729,
+        "stargazers_count": 730,
         "language": "JavaScript",
         "owner": {
           "login": "kanavtwtgg",
@@ -113,8 +113,8 @@
         },
         "license": null,
         "zhName": "birds.cafe",
-        "features": "這是一個基於 JavaScript 開發的專案，名稱具備社群或娛樂性質。目前缺乏具體的公開技術文件，可能為實驗性質的 Web 應用。",
-        "applications": "適合對前端創意應用感興趣的開發者進行程式碼參考或創意迭代。"
+        "features": "這是一個基於 JavaScript 的專案，名稱具備創意。通常此類專案可能與網頁社交互動或特定的資訊聚合工具相關。",
+        "applications": "適合用於學習特定網頁互動架構或創意型網頁專案的開發者參考。"
       },
       {
         "rank": 7,
@@ -122,16 +122,16 @@
         "full_name": "bozhouDev/codex-orange-book",
         "html_url": "https://github.com/bozhouDev/codex-orange-book",
         "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-        "stargazers_count": 708,
+        "stargazers_count": 713,
         "language": "HTML",
         "owner": {
           "login": "bozhouDev",
           "avatar_url": "https://avatars.githubusercontent.com/u/259759010?v=4"
         },
         "license": null,
-        "zhName": "codex-orange-book (Codex 實戰指南)",
-        "features": "一份詳盡的 Codex 使用指南，涵蓋了從安裝到實戰案例的全鏈路教學。內容包含可下載的 PDF，幫助開發者快速上手並掌握技術要點。",
-        "applications": "適合想要深入學習 Codex 工具鏈、提升程式碼編寫與自動化效率的開發人員。"
+        "zhName": "codex-orange-book (Codex 指南)",
+        "features": "這是一份詳盡的 Codex 實戰指南，從安裝步驟到各類應用場景均有涵蓋。內容提供 PDF 下載，適合系統性學習 Codex 的使用。",
+        "applications": "適合希望深入了解並掌握 Codex 程式碼生成能力的開發者與技術研究者。"
       },
       {
         "rank": 8,
@@ -149,9 +149,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "Windows-Copilot-API (逆向工程 Windows Copilot)",
-        "features": "透過逆向工程將 Windows Copilot 封裝為兼容 OpenAI 的 REST API。無需 API Key 或額外付費，即可在本地調用 GPT 模型能力。",
-        "applications": "適用於希望免費存取高級 AI 模型能力，或將 Windows 內建 Copilot 功能整合進自定義軟體的開發者。"
+        "zhName": "Windows-Copilot-API",
+        "features": "透過逆向工程將 Windows Copilot 封裝為與 OpenAI 兼容的 API 介面。使用者無需 API Key 或計費即可透過 REST 接口存取 GPT-4/5 模型。",
+        "applications": "適合開發者在本地環境或測試中免費調用 Copilot 模型，降低開發測試成本。"
       },
       {
         "rank": 9,
@@ -169,9 +169,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "junction (本地 AI 編程助手側邊欄)",
-        "features": "這是一個為 VS Code 設計的聊天側邊欄，專注於管理本地運行的 AI 編碼代理。它能夠無縫整合至開發者的 IDE 工作流中，提供即時編碼輔助。",
-        "applications": "適合希望在本地隱私環境下運行 AI 輔助編程，並不願依賴雲端 API 的開發者。"
+        "zhName": "junction (VS Code AI 側邊欄工具)",
+        "features": "這是一個專為本地 AI 編碼代理設計的 VS Code 側邊欄互動界面。它優化了開發者與 AI 代理在編輯器內的溝通與協作體驗。",
+        "applications": "適合慣用本地化 AI 模型來協助編碼的軟體工程師，用於提升開發效率。"
       },
       {
         "rank": 10,
@@ -179,7 +179,7 @@
         "full_name": "cloudflare/security-audit-skill",
         "html_url": "https://github.com/cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "stargazers_count": 519,
+        "stargazers_count": 520,
         "language": "JavaScript",
         "owner": {
           "login": "cloudflare",
@@ -189,9 +189,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "security-audit-skill (自動化安全審計工具)",
-        "features": "由 Cloudflare 開發的編碼代理技能，專門執行多階段的安全審計。該系統能產生具備獨立驗證且機器可讀的安全分析報告。",
-        "applications": "適用於資安工程師或開發人員，用於在 CI/CD 流程中自動化偵測程式碼漏洞並確保安全性。"
+        "zhName": "security-audit-skill (雲端安全審計 Agent)",
+        "features": "由 Cloudflare 開發，專門用於多階段安全審計的 AI 代理技能。該工具提供獨立驗證且機器可讀的安全審計結果。",
+        "applications": "適合資安工程師或自動化安全測試團隊，用於自動執行與驗證程式碼的安全性。"
       },
       {
         "rank": 11,
@@ -209,9 +209,9 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "zhName": "Good-Badminton (羽球 AI 鷹眼系統)",
-        "features": "一個利用電腦視覺技術打造的羽球專用鷹眼系統，用於追蹤羽球軌跡並判定界內界外。透過 Python 與 AI 演算法，即時分析比賽狀況。",
-        "applications": "適合羽球訓練機構或體育科技愛好者，用於自動化比賽裁判判定與球員動作分析。"
+        "zhName": "Good-Badminton (AI 羽球鷹眼系統)",
+        "features": "這是一個基於 Python 的 AI 羽球鷹眼系統，利用視覺演算法捕捉運動軌跡。它能精準判斷羽球落點，提供類似專業賽事的判決支援。",
+        "applications": "適合體育科技開發者或羽球俱樂部，用於比賽判決輔助與運動數據分析。"
       },
       {
         "rank": 12,
@@ -229,9 +229,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "recall (Claude Code 離線記憶擴充)",
-        "features": "為 Claude Code 提供持久的本地記憶功能，完全離線運行。它有效解決了每次會話都需要重新解釋專案上下文的問題，節省 Token 消耗。",
-        "applications": "適合使用 Claude Code 進行長期專案開發的工程師，大幅提升上下文維持能力與開發效率。"
+        "zhName": "recall (Claude Code 記憶記憶體插件)",
+        "features": "為 Claude Code 提供持久化記憶功能，解決每次對話需重複說明專案背景的痛點。該方案完全離線執行，確保開發隱私與效率。",
+        "applications": "適合使用 Claude Code 進行長期專案開發的工程師，大幅減少上下文遺忘導致的對話成本。"
       }
     ],
     "month": [
@@ -241,7 +241,7 @@
         "full_name": "pewdiepie-archdaemon/odysseus",
         "html_url": "https://github.com/pewdiepie-archdaemon/odysseus",
         "description": "Self-hosted AI workspace. ",
-        "stargazers_count": 76999,
+        "stargazers_count": 77000,
         "language": "Python",
         "owner": {
           "login": "pewdiepie-archdaemon",
@@ -251,9 +251,9 @@
           "name": "GNU Affero General Public License v3.0",
           "spdx_id": "AGPL-3.0"
         },
-        "zhName": "odysseus (自託管 AI 工作空間)",
-        "features": "提供一個完全自託管的 AI 工作環境，讓開發者在隱私安全的前提下整合各類 AI 工具。該專案旨在打造一個可控、模組化的 AI 輔助開發中樞。",
-        "applications": "適合重視資料隱私與自主權的團隊或個人，用於建構內部專屬的 AI 開發輔助系統。"
+        "zhName": "Odysseus (自託管 AI 工作空間)",
+        "features": "提供一個整合性的自託管 AI 環境，讓使用者能自主掌控 AI 工作流程。該專案旨在打造一個隱私友善且功能齊全的 AI 開發空間。",
+        "applications": "適合重視資料隱私、希望在本地伺服器運作 AI 服務的開發者與數據科學家使用。"
       },
       {
         "rank": 2,
@@ -261,7 +261,7 @@
         "full_name": "DietrichGebert/ponytail",
         "html_url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stargazers_count": 53119,
+        "stargazers_count": 53135,
         "language": "JavaScript",
         "owner": {
           "login": "DietrichGebert",
@@ -271,9 +271,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "ponytail (懶人工程師 AI 代理)",
-        "features": "採用「極致懶惰」的設計哲學，旨在讓 AI 代理以最簡潔、高效的方式完成程式碼編寫。透過自動化減少不必要的產出，實現最佳的程式碼品質。",
-        "applications": "適合希望透過自動化減少重複性編碼工作、追求程式碼精簡與開發效率的資深工程師。"
+        "zhName": "Ponytail (AI 懶人開發代理)",
+        "features": "專注於極簡主義開發哲學，讓 AI 代理採取「最懶」的路徑解決問題。核心理念在於透過減少不必要的程式碼編寫來達成軟體工程的效率最大化。",
+        "applications": "適合追求極簡開發風格，希望減少無意義代碼產出並自動優化專案架構的軟體工程師。"
       },
       {
         "rank": 3,
@@ -281,7 +281,7 @@
         "full_name": "XiaomiMiMo/MiMo-Code",
         "html_url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "description": "MiMo Code: Where Models and Agents Co-Evolve",
-        "stargazers_count": 10530,
+        "stargazers_count": 10531,
         "language": "TypeScript",
         "owner": {
           "login": "XiaomiMiMo",
@@ -291,9 +291,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "MiMo-Code (模型與代理共同進化框架)",
-        "features": "建立了一個模型與 AI 代理相互協作、共同進化的框架。透過循環機制提升程式開發的適應性與智慧程度。",
-        "applications": "適合研究 AI 代理與程式模型優化的開發者，用於開發需要持續自我進化與優化的複雜自動化系統。"
+        "zhName": "MiMo-Code (模型與代理協同演化平台)",
+        "features": "強調 AI 模型與代理（Agents）之間的協同演化機制，促進系統持續自我優化。透過 TypeScript 建構，實現高效的代理互動邏輯。",
+        "applications": "適合研究多代理系統協作、開發具備自我進化能力 AI 應用的技術團隊。"
       },
       {
         "rank": 4,
@@ -301,7 +301,7 @@
         "full_name": "unicity-astrid/book",
         "html_url": "https://github.com/unicity-astrid/book",
         "description": "The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.",
-        "stargazers_count": 6475,
+        "stargazers_count": 6487,
         "language": "Perl",
         "owner": {
           "login": "unicity-astrid",
@@ -311,9 +311,9 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "zhName": "book (Astrid OS 技術參考手冊)",
-        "features": "詳細定義了 Astrid OS 的核心組件，包含核心 (Kernel)、膠囊 (Capsules)、主機 ABI、匯流排架構及安全模型。作為系統開發的 canonical 參考文件。",
-        "applications": "適合作業系統架構師與 Astrid OS 核心貢獻者，用於理解底層架構設計規範。"
+        "zhName": "Astrid OS (作業系統技術參考)",
+        "features": "Astrid OS 的核心參考手冊，涵蓋核心架構、膠囊模組、主機 ABI 與總線機制。提供詳細的系統安全模型說明。",
+        "applications": "適合作業系統開發者、系統架構師以及對底層 OS 設計感興趣的技術人員研究參考。"
       },
       {
         "rank": 5,
@@ -321,7 +321,7 @@
         "full_name": "unicity-astrid/handbook",
         "html_url": "https://github.com/unicity-astrid/handbook",
         "description": "How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.",
-        "stargazers_count": 6421,
+        "stargazers_count": 6433,
         "language": null,
         "owner": {
           "login": "unicity-astrid",
@@ -331,9 +331,9 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "zhName": "handbook (Astrid OS 協作手冊)",
-        "features": "規範了 Astrid OS 的協作流程，包括開發模式、RFC 機制、貢獻等級劃分及發布流程。明確了核心架構「簡潔為上」的設計定律。",
-        "applications": "適合所有參與 Astrid OS 生態系的貢獻者，作為專案開發規範與協作準則的參考。"
+        "zhName": "Astrid 手冊 (專案開發指南)",
+        "features": "詳述 Astrid 專案的運作規範，包含多倉庫（polyrepo）管理、核心設計原則以及 RFC 觸發機制。確立了貢獻者層級與版本發佈流程。",
+        "applications": "適合有意參與 Astrid OS 開源專案貢獻的開發者，用以了解專案的開發標準與流程規範。"
       },
       {
         "rank": 6,
@@ -351,9 +351,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "improve (AI 程式碼審計與規劃工具)",
-        "features": "利用高階 AI 模型對整個程式碼庫進行深入審計，並自動制定執行計畫。隨後分配給成本較低的模型執行具體任務，實現品質與成本的平衡。",
-        "applications": "適合大型專案團隊，用於自動化程式碼審計與重構計畫，顯著降低開發維運成本。"
+        "zhName": "Improve (自動化程式碼審計工具)",
+        "features": "利用高效能 AI 模型審計程式碼庫，並自動產生執行計畫。隨後由成本較低的模型執行這些優化或維護任務。",
+        "applications": "適合需要降低開發維護成本，並希望自動化處理程式碼重構與檢閱任務的團隊。"
       },
       {
         "rank": 7,
@@ -361,7 +361,7 @@
         "full_name": "helloianneo/ian-xiaohei-illustrations",
         "html_url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
         "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
-        "stargazers_count": 5915,
+        "stargazers_count": 5920,
         "language": null,
         "owner": {
           "login": "helloianneo",
@@ -371,9 +371,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "ian-xiaohei-illustrations (小黑插畫生成工具)",
-        "features": "專門用於生成小黑風格的怪誕插畫，採用 16:9 白底手繪設計。結合少量的紅、橙、藍批注，為文字內容增添獨特視覺表現。",
-        "applications": "適合部落客、內容創作者或技術寫作者，用於為正文配圖，提升文章的視覺辨識度與趣味性。"
+        "zhName": "Ian Xiaohei Illustrations (小黑插圖生成工具)",
+        "features": "專為產生「中文小黑」風格插圖設計的生成工具，輸出比例為 16:9 且具備手繪質感。包含特定的視覺風格元素如紅橙藍批注，整合 Codex Skill 運作。",
+        "applications": "適合內容創作者、社群編輯，用於快速生成具有特定風格與敘事感的配圖。"
       },
       {
         "rank": 8,
@@ -381,16 +381,16 @@
         "full_name": "zgwl/chinese-buy-us-stock-guide",
         "html_url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
         "description": "美股指南",
-        "stargazers_count": 4919,
+        "stargazers_count": 4920,
         "language": null,
         "owner": {
           "login": "zgwl",
           "avatar_url": "https://avatars.githubusercontent.com/u/6014068?v=4"
         },
         "license": null,
-        "zhName": "chinese-buy-us-stock-guide (美股投資指南)",
-        "features": "系統性彙整美股投資的基礎知識與實戰操作指南。涵蓋開戶、交易流程及風險管理等關鍵資訊。",
-        "applications": "適合計畫進行美股投資的華語使用者，作為入門與操作的參考手冊。"
+        "zhName": "美股投資指南 (chinese-buy-us-stock-guide)",
+        "features": "整合關於美股投資的完整指南，涵蓋投資門檻、開戶流程與市場分析資源。提供針對中文使用者的在地化投資建議。",
+        "applications": "適合對美股市場感興趣、希望獲得系統化入門指導的個人投資者。"
       },
       {
         "rank": 9,
@@ -398,7 +398,7 @@
         "full_name": "StarTrail-org/PixelRAG",
         "html_url": "https://github.com/StarTrail-org/PixelRAG",
         "description": "The end of web parsing. The beginning of scalable pixel-native search.",
-        "stargazers_count": 4714,
+        "stargazers_count": 4720,
         "language": "Python",
         "owner": {
           "login": "StarTrail-org",
@@ -408,9 +408,9 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "zhName": "PixelRAG (像素級原生搜尋引擎)",
-        "features": "擺脫傳統依賴網頁 HTML 解析的搜尋方式，採用像素級 (Pixel-native) 的方式直接識別與處理資訊。實現更精準、無障礙的數據擷取。",
-        "applications": "適合需要處理複雜 UI 佈局或難以解析網站的開發者，用於建立更具韌性的搜尋與自動化爬蟲系統。"
+        "zhName": "PixelRAG (像素原生搜尋引擎)",
+        "features": "跳脫傳統網頁解析模式，採用創新的像素原生搜尋技術。實現可擴展且精準的資料檢索架構，徹底改變網頁資訊處理方式。",
+        "applications": "適合需要處理大量非結構化網頁數據，並尋求更高效搜尋檢索解決方案的數據工程師。"
       },
       {
         "rank": 10,
@@ -418,7 +418,7 @@
         "full_name": "omnigent-ai/omnigent",
         "html_url": "https://github.com/omnigent-ai/omnigent",
         "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-        "stargazers_count": 4615,
+        "stargazers_count": 4616,
         "language": "Python",
         "owner": {
           "login": "omnigent-ai",
@@ -428,9 +428,9 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "zhName": "omnigent (全能 AI 代理協作框架)",
-        "features": "作為一個開源的 meta-harness，能夠統一調度 Claude Code、Codex、Cursor 等多種 AI 代理。支援熱插拔不同代理，並提供一致的政策與沙盒環境管理。",
-        "applications": "適合需要整合多種 AI 工具協作的團隊，用於簡化代理管理並確保開發環境的安全性與一致性。"
+        "zhName": "Omnigent (全能 AI 代理架構)",
+        "features": "一個開源的 AI 代理整合框架，能串聯 Claude Code、Cursor 及自訂代理。支援無縫切換、安全沙盒限制以及跨裝置即時協作。",
+        "applications": "適合需要整合多種 AI 工具，並建立統一政策管理與安全環境的企業級開發團隊。"
       },
       {
         "rank": 11,
@@ -438,7 +438,7 @@
         "full_name": "baidu/Unlimited-OCR",
         "html_url": "https://github.com/baidu/Unlimited-OCR",
         "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-        "stargazers_count": 4445,
+        "stargazers_count": 4463,
         "language": "Python",
         "owner": {
           "login": "baidu",
@@ -448,9 +448,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "Unlimited-OCR (長視野解析 OCR)",
-        "features": "引領 One-shot 長視野 (Long-horizon) 解析時代的 OCR 技術，能高效處理超長或複雜文件的識別任務。具備強大的圖文解析與轉錄能力。",
-        "applications": "適合需要高精度處理長篇文件、法律合約或複雜報表的開發者，用於自動化資料提取。"
+        "zhName": "Unlimited-OCR (百度長視角 OCR 工具)",
+        "features": "引入 One-shot 與長視角解析技術，突破傳統 OCR 的限制。提供高精準度且適合處理長篇幅內容的文字辨識能力。",
+        "applications": "適合需要處理大量複雜文件、書籍掃描或長截圖的自動化辦公與文件數位化場景。"
       },
       {
         "rank": 12,
@@ -468,9 +468,9 @@
           "name": "GNU Affero General Public License v3.0",
           "spdx_id": "AGPL-3.0"
         },
-        "zhName": "guizang-social-card-skill (社群圖文生成器)",
-        "features": "提供多種瑞士設計風格的佈局與主題，支援將單一 HTML 檔案轉為高品質的 PNG。專為小紅書與微信公眾號的封面圖與圖文排版設計。",
-        "applications": "適合社交媒體運營人員或創作者，用於快速產出符合專業排版規範的社群宣傳圖。"
+        "zhName": "Guizang Social Card Skill (社群媒體圖卡生成工具)",
+        "features": "結合 Swiss 設計風格的視覺排版系統，支援生成小紅書輪播圖與微信封面。透過單檔案 HTML 即可產出高解析度 PNG 圖片。",
+        "applications": "適合社群媒體行銷人員與設計師，快速製作專業且具備美感的社群分享圖卡。"
       }
     ],
     "three_months": [
@@ -490,9 +490,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "claw-code (自動化博物館展演系統)",
-        "features": "這是一個由 AI Agent 管理的博物館展示系統，完全使用 Rust 開發。其特色在於實現了零人工介入的維護與運作，確保展演穩定運行。",
-        "applications": "適用於需要高自動化、低維護成本的數位互動藝術裝置或博物館展示場景。"
+        "zhName": "claw-code (AI 自動化展覽管理)",
+        "features": "這是一個由 AI 代理自主管理的博物館展覽專案。使用 Rust 語言構建，強調在零人工介入的情況下進行開發與維護。",
+        "applications": "適合探索全自動化 AI 系統運作的開發者，以及研究如何讓軟體工程專案脫離人類維護的技術實驗者。"
       },
       {
         "rank": 2,
@@ -510,9 +510,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "awesome-design-md (設計規範分析庫)",
-        "features": "收錄並分析各熱門品牌設計規範的 DESIGN.md 文件。此工具能讓 AI 編碼代理讀取這些規範，並自動生成符合品牌風格的使用者介面 (UI)。",
-        "applications": "適合前端開發者與設計工程師，用於快速生成符合特定設計語言的 UI 元件。"
+        "zhName": "awesome-design-md (設計系統規範集)",
+        "features": "彙整了主流品牌設計系統的 DESIGN.md 文件。此工具能將設計規範轉換為 AI 可理解的數據，協助 AI 代理自動生成對應的 UI。",
+        "applications": "適用於前端工程師與 UI 設計師，透過標準化設計規範自動化生成與品牌一致的網頁介面。"
       },
       {
         "rank": 3,
@@ -520,7 +520,7 @@
         "full_name": "pewdiepie-archdaemon/odysseus",
         "html_url": "https://github.com/pewdiepie-archdaemon/odysseus",
         "description": "Self-hosted AI workspace. ",
-        "stargazers_count": 76999,
+        "stargazers_count": 77000,
         "language": "Python",
         "owner": {
           "login": "pewdiepie-archdaemon",
@@ -530,9 +530,9 @@
           "name": "GNU Affero General Public License v3.0",
           "spdx_id": "AGPL-3.0"
         },
-        "zhName": "odysseus (自託管 AI 工作空間)",
-        "features": "一個專注於隱私與自主控制的自託管 AI 工作空間。用戶可以在本地環境中建立並管理自己的 AI 工作流。",
-        "applications": "適合重視資料隱私與客製化開發環境的開發者，用於建立私有的 AI 輔助開發工作流。"
+        "zhName": "odysseus (AI 工作區系統)",
+        "features": "一個可自行託管的 AI 工作環境解決方案。提供專注於 AI 驅動開發的數位空間，確保資料隱私與自主控制權。",
+        "applications": "適合重視資料安全並希望擁有高度客製化 AI 開發環境的個人或企業開發團隊。"
       },
       {
         "rank": 4,
@@ -550,9 +550,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "caveman (Token 優化輔助)",
-        "features": "這是一個 Claude Code 的擴充技能，透過簡化 AI 的溝通模式來大幅降低 Token 消耗。它能以「原始人」般的簡潔語言，減少 65% 的 Token 使用量。",
-        "applications": "適用於需要嚴格控制 AI API 成本，或在高負載環境下希望提升回應效率的開發者。"
+        "zhName": "caveman (AI Token 優化工具)",
+        "features": "專為 Claude Code 設計，透過模擬原始簡潔的「穴居人」語氣來精簡指令內容。能大幅減少高達 65% 的 Token 消耗。",
+        "applications": "適合需要降低 AI 使用成本，或在 Token 預算有限的專案環境下進行大規模程式編寫的工程師。"
       },
       {
         "rank": 5,
@@ -560,7 +560,7 @@
         "full_name": "safishamsi/graphify",
         "html_url": "https://github.com/safishamsi/graphify",
         "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-        "stargazers_count": 71305,
+        "stargazers_count": 71307,
         "language": "Python",
         "owner": {
           "login": "safishamsi",
@@ -570,9 +570,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "graphify (知識圖譜轉換工具)",
-        "features": "能將各類專案檔案（如程式碼、SQL 架構、文件與多媒體）自動轉換為可查詢的知識圖譜。它將應用程式碼、資料庫結構與基礎架構整合在同一個圖資料庫中。",
-        "applications": "適合大型專案開發者進行架構分析、知識管理，以及快速梳理複雜程式碼庫之間的關聯性。"
+        "zhName": "graphify (知識圖譜程式分析器)",
+        "features": "能將程式碼、資料庫結構、文件及多媒體內容轉換為可查詢的知識圖譜。支援多種主流 AI 程式輔助工具與格式。",
+        "applications": "適用於大型系統開發者，用於視覺化複雜的程式庫依賴關係，並進行全域性的程式碼庫知識查詢。"
       },
       {
         "rank": 6,
@@ -580,7 +580,7 @@
         "full_name": "nexu-io/open-design",
         "html_url": "https://github.com/nexu-io/open-design",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
-        "stargazers_count": 70221,
+        "stargazers_count": 70225,
         "language": "TypeScript",
         "owner": {
           "login": "nexu-io",
@@ -591,8 +591,8 @@
           "spdx_id": "Apache-2.0"
         },
         "zhName": "open-design (開源設計協作平台)",
-        "features": "這是一個本地優先的開源桌面應用，提供與 Claude Design 類似的體驗。支援超過 259 種技能與 142 種設計系統，並支援多種格式匯出與預覽。",
-        "applications": "適合 UI/UX 設計師與全端開發者，用於原型設計、互動展示及多格式的設計資源匯出。"
+        "features": "一個本地優先的開源設計平台，支援超過 259 種技能與 142 種設計系統。提供桌面版應用並支援多種格式的沙盒預覽與匯出。",
+        "applications": "適合設計師與開發者進行原型快速迭代，並可將設計稿無縫轉化為多媒體資源或網頁原型。"
       },
       {
         "rank": 7,
@@ -611,8 +611,8 @@
           "spdx_id": "MIT"
         },
         "zhName": "mempalace (AI 記憶系統)",
-        "features": "標榜目前表現最佳且完全開源免費的 AI 記憶系統。它透過高效的基準測試，確保 AI 代理在長期任務中能擁有優異的資訊檢索與記憶能力。",
-        "applications": "適用於需要長短期記憶功能的複雜 AI 應用，提升代理處理長期連續任務的準確度。"
+        "features": "目前開源領域中基準測試表現最佳的 AI 記憶系統。免費且開放原始碼，專注於提供高效的上下文記憶存取。",
+        "applications": "適合需要為 AI 代理添加長期記憶能力，以實現更智慧、更具脈絡意識的對話與任務處理的開發者。"
       },
       {
         "rank": 8,
@@ -620,7 +620,7 @@
         "full_name": "santifer/career-ops",
         "html_url": "https://github.com/santifer/career-ops",
         "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-        "stargazers_count": 55452,
+        "stargazers_count": 55453,
         "language": "JavaScript",
         "owner": {
           "login": "santifer",
@@ -630,9 +630,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "career-ops (AI 求職自動化系統)",
-        "features": "基於 Claude Code 構建的 AI 求職系統，具備 14 種技能模式。提供儀表板管理、PDF 自動生成及批量處理求職申請的功能。",
-        "applications": "適合求職者自動化處理投遞流程、客製化履歷並追蹤求職進度，大幅節省行政時間。"
+        "zhName": "career-ops (AI 求職輔助系統)",
+        "features": "建構於 Claude Code 之上的 AI 職業搜尋與求職系統。包含多種技能模式，具備自動生成 PDF 與批量處理應徵流程的功能。",
+        "applications": "適合求職者自動化管理找工作流程，或工程師學習如何利用 AI 代理處理繁瑣的行政事務。"
       },
       {
         "rank": 9,
@@ -640,7 +640,7 @@
         "full_name": "DietrichGebert/ponytail",
         "html_url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stargazers_count": 53121,
+        "stargazers_count": 53135,
         "language": "JavaScript",
         "owner": {
           "login": "DietrichGebert",
@@ -650,9 +650,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "ponytail (懶人工程師 AI 輔助)",
-        "features": "這是一個專為 AI 代理設計的優化工具，模擬「最懶惰的資深工程師」思維模式。其核心理念是追求以最精簡的程式碼解決複雜問題。",
-        "applications": "適合追求簡潔代碼風格、希望 AI 能優先考慮高效率與低複雜度解決方案的開發者。"
+        "zhName": "ponytail (極簡化程式設計哲學)",
+        "features": "引導 AI 代理採用「最懶惰資深開發者」的思維模式進行開發。強調「最好的程式碼就是從未寫過的那些」，以極簡化手段解決問題。",
+        "applications": "適合追求極致簡約程式架構，希望透過減少不必要的功能開發來提升維護效率的開發者。"
       },
       {
         "rank": 10,
@@ -670,9 +670,9 @@
           "name": "Other",
           "spdx_id": "NOASSERTION"
         },
-        "zhName": "openclaude (跨平台 AI 運行環境)",
-        "features": "主打高靈活性與跨平台部署，支援在任何環境下執行。其核心設計原則是通用性，可以靈活調用各種模型與工具。",
-        "applications": "適用於需要在不同硬體架構或作業系統中部署 AI 代理的系統工程師。"
+        "zhName": "openclaude (跨環境 AI 執行框架)",
+        "features": "一個強調靈活性與相容性的 AI 執行框架。具備「隨處運行、靈活調用任何資源」的核心能力。",
+        "applications": "適合需要將 AI 代理部署在異質環境中，或需要整合多樣化外部工具的系統整合工程師。"
       },
       {
         "rank": 11,
@@ -680,7 +680,7 @@
         "full_name": "alchaincyf/nuwa-skill",
         "html_url": "https://github.com/alchaincyf/nuwa-skill",
         "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-        "stargazers_count": 25486,
+        "stargazers_count": 25488,
         "language": "Python",
         "owner": {
           "login": "alchaincyf",
@@ -690,9 +690,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "nuwa-skill (思維蒸餾器)",
-        "features": "這是一個將個人心智模型、決策啟發式與思維模式進行蒸餾的工具。透過分析特定對象的思維邏輯，複製出具備類似決策能力的人工智慧。",
-        "applications": "適用於企業知識管理或專業技能傳承，將資深專家或同事的思考方式數位化並轉化為 AI 助理。"
+        "zhName": "nuwa-skill (思維模式蒸餾工具)",
+        "features": "專注於蒸餾他人的思維模型、決策啟發式與表達 DNA。讓 AI 能夠模擬特定人士的思考與決策方式。",
+        "applications": "適合研究數位人格複製，或希望將專家級的決策邏輯轉化為 AI 模型進行知識傳承的開發者。"
       },
       {
         "rank": 12,
@@ -700,7 +700,7 @@
         "full_name": "esengine/DeepSeek-Reasonix",
         "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
         "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-        "stargazers_count": 24221,
+        "stargazers_count": 24226,
         "language": "Go",
         "owner": {
           "login": "esengine",
@@ -710,9 +710,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "DeepSeek-Reasonix (終端 AI 編碼代理)",
-        "features": "一款專為終端機設計的 DeepSeek 原生編碼代理。其架構圍繞著 Prefix-Cache 的穩定性優化，非常適合長期掛機運作。",
-        "applications": "適合習慣在 CLI 環境工作的工程師，用於長時間輔助編碼任務並維持高效的背景運算能力。"
+        "zhName": "DeepSeek-Reasonix (DeepSeek 原生終端 Agent)",
+        "features": "專為 DeepSeek 模型優化的終端 AI 程式代理。圍繞 Prefix-Cache 技術進行工程優化，保證了長時間運行的穩定性。",
+        "applications": "適合習慣使用終端機環境，並偏好使用 DeepSeek 作為程式輔助引擎，需要長時間駐守在伺服器端進行開發任務的工程師。"
       }
     ],
     "year": [
@@ -732,9 +732,9 @@
           "name": "Other",
           "spdx_id": "NOASSERTION"
         },
-        "zhName": "openclaw (個人化 AI 助手)",
-        "features": "一個跨作業系統與平台的個人化 AI 助手解決方案。採用獨特的 lobster 架構，專注於提供無縫的跨環境運作能力。",
-        "applications": "適合需要統一 AI 助理體驗，並希望在不同開發環境中保持一致操作效率的個人開發者。"
+        "zhName": "OpenClaw (跨平台個人 AI 助理)",
+        "features": "OpenClaw 是一款強調跨作業系統與平台的個人化 AI 助理。它以獨特的「龍蝦流」設計理念，提供高度彈性與易用性。",
+        "applications": "適合需要跨裝置無縫整合 AI 服務的個人用戶，用來提升日常任務自動化與操作效率。"
       },
       {
         "rank": 2,
@@ -742,7 +742,7 @@
         "full_name": "obra/superpowers",
         "html_url": "https://github.com/obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
-        "stargazers_count": 237159,
+        "stargazers_count": 237167,
         "language": "Shell",
         "owner": {
           "login": "obra",
@@ -752,9 +752,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "superpowers (代理能力框架)",
-        "features": "結合代理能力（Agentic skills）框架與現代化軟體開發方法論。強調可執行性與流程的標準化，確保 AI 代理在開發過程中具備高度自主性。",
-        "applications": "適用於希望導入 AI 代理流程並將軟體開發方法論轉化為自動化腳本的團隊或架構師。"
+        "zhName": "Superpowers (代理人技能框架)",
+        "features": "這是一個專注於代理人（Agentic）能力的開發框架與軟體開發方法論。它協助開發者標準化 AI 代理的技能定義，確保開發流程的有效性。",
+        "applications": "適用於開發複雜 AI 代理系統的軟體工程師，幫助建立更具備自主執行能力的軟體開發工作流。"
       },
       {
         "rank": 3,
@@ -762,7 +762,7 @@
         "full_name": "affaan-m/ECC",
         "html_url": "https://github.com/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stargazers_count": 220725,
+        "stargazers_count": 220730,
         "language": "JavaScript",
         "owner": {
           "login": "affaan-m",
@@ -772,9 +772,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "ECC (代理性能優化系統)",
-        "features": "專為 AI 代理設計的效能優化系統，整合了技能、記憶管理、安全機制與研究優先的開發流程。支援 Claude Code、Cursor 等主流 AI 編碼工具。",
-        "applications": "適合追求極致 AI 編碼效能與開發流程優化的專業工程師，特別是在處理複雜代碼庫時。"
+        "zhName": "ECC (AI 代理效能優化系統)",
+        "features": "ECC 專為 AI 代理設計了一套效能優化與框架整合工具，涵蓋技能、記憶管理、安全性與研究導向開發。它支援 Claude Code、Cursor 等主流 AI 程式輔助工具。",
+        "applications": "適合希望深度優化 AI 程式碼生成質量與開發效能的專業開發者與工程團隊。"
       },
       {
         "rank": 4,
@@ -782,7 +782,7 @@
         "full_name": "NousResearch/hermes-agent",
         "html_url": "https://github.com/NousResearch/hermes-agent",
         "description": "The agent that grows with you",
-        "stargazers_count": 201241,
+        "stargazers_count": 201243,
         "language": "Python",
         "owner": {
           "login": "NousResearch",
@@ -792,9 +792,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "hermes-agent (進化型 AI 代理)",
-        "features": "一款旨在與開發者共同成長的智慧型代理。具備高度學習潛力，能隨著使用者的需求演變而不斷適應新任務。",
-        "applications": "適用於需要長期協作與持續學習型 AI 輔助，以協助處理不斷變化的專案需求的工程師。"
+        "zhName": "Hermes-agent (自主成長型 AI 代理)",
+        "features": "Hermes-agent 是一款標榜「與使用者一同成長」的 AI 代理。它能夠根據使用者的反饋與需求動態調整能力，提供更具個性化的協作體驗。",
+        "applications": "適用於長期與 AI 協作的用戶，解決固定式 AI 工具無法適應個人開發習慣的問題。"
       },
       {
         "rank": 5,
@@ -812,9 +812,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "claw-code (自動化維護系統)",
-        "features": "由 Rust 語言編寫，實現了完全不需要人類介入的博物館展品自動管理系統。結合了 Gajae-Code 與 LazyCodex 的自動化能力。",
-        "applications": "適合研究無人化維護系統、自動化運維或長期自主運行 AI 系統的開發者使用。"
+        "zhName": "Claw-code (自主運作博物館展覽系統)",
+        "features": "這是一個由 Rust 編寫的實驗性專案，展示了 AI 代理在無人類干預下進行維護與更新的能力。它結合了 Gajae-Code 技術，體現了完全自主的程式碼生命週期管理。",
+        "applications": "適合研究 AI 自主代理維護系統、無人干預自動化部署的軟體架構師與研究人員。"
       },
       {
         "rank": 6,
@@ -829,9 +829,9 @@
           "avatar_url": "https://avatars.githubusercontent.com/u/254743058?v=4"
         },
         "license": null,
-        "zhName": "andrej-karpathy-skills (Claude Code 行為優化配置)",
-        "features": "透過單一 CLAUDE.md 檔案優化 Claude Code 的決策邏輯。基於 Andrej Karpathy 對於 LLM 編碼陷阱的深刻洞察而設計。",
-        "applications": "適合經常使用 Claude Code 編碼，並希望透過系統性設定檔大幅提升產出品質的開發者。"
+        "zhName": "Andrej Karpathy Skills (AI 編碼優化指令集)",
+        "features": "基於 Andrej Karpathy 對 LLM 編碼缺陷的觀察，透過精簡的 CLAUDE.md 設定檔來優化 Claude Code 的行為模式。它能有效修正常見的 AI 程式設計邏輯謬誤。",
+        "applications": "適合使用 Claude Code 的開發者，用以提升 AI 生成程式碼的精確度與品質。"
       },
       {
         "rank": 7,
@@ -839,16 +839,16 @@
         "full_name": "anthropics/skills",
         "html_url": "https://github.com/anthropics/skills",
         "description": "Public repository for Agent Skills",
-        "stargazers_count": 154468,
+        "stargazers_count": 154470,
         "language": "Python",
         "owner": {
           "login": "anthropics",
           "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
         },
         "license": null,
-        "zhName": "skills (Anthropic 官方代理技能庫)",
-        "features": "由 Anthropic 官方發布的公共儲存庫，收錄了各種 AI 代理所需的核心技能集。確保了與 Claude 模型的最佳協作效果與執行標準。",
-        "applications": "適用於開發基於 Anthropic 模型應用的開發者，作為標準化 AI 代理功能的參考與實作來源。"
+        "zhName": "Skills (Anthropic 官方代理技能庫)",
+        "features": "這是 Anthropic 官方維護的代理技能儲存庫，提供了一系列標準化、模組化的 AI 任務處理腳本與行為邏輯。這些技能確保了 AI 代理在不同任務間的高效協作。",
+        "applications": "適合所有正在構建 AI 代理系統的開發者，作為導入標準化功能與技能的參考資源。"
       },
       {
         "rank": 8,
@@ -856,7 +856,7 @@
         "full_name": "mattpocock/skills",
         "html_url": "https://github.com/mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
-        "stargazers_count": 143757,
+        "stargazers_count": 143768,
         "language": "Shell",
         "owner": {
           "login": "mattpocock",
@@ -866,9 +866,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "skills (Matt Pocock 工程師技能集)",
-        "features": "源自 Matt Pocock 的 .claude 配置，專為實戰派工程師打造的技能集。強調高效、直接且符合職業工程實踐的 AI 指令。",
-        "applications": "適合需要提升 AI 編碼生產力，並希望採用工業級實踐標準的專業軟體工程師。"
+        "zhName": "Skills (Matt Pocock 的工程師技能集)",
+        "features": "這是一組由資深工程師 Matt Pocock 整理的實戰導向 AI 技能，直接從其個人設定檔中萃取。內容專注於真實場景下的開發效能提升。",
+        "applications": "非常適合追求高效率開發體驗的軟體工程師，用來優化 AI 輔助工具的配置。"
       },
       {
         "rank": 9,
@@ -886,9 +886,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "agency-agents (AI 代理團隊系統)",
-        "features": "提供一套完整的 AI 代理陣容，包含前端專家、社群管理、創意注入與品質檢查員。每個代理皆具備專業的人格特質與執行流程。",
-        "applications": "適用於希望快速建立虛擬開發團隊，並進行全流程自動化專案管理的產品經理或技術負責人。"
+        "zhName": "Agency-agents (AI 代理團隊解決方案)",
+        "features": "提供一個完整的 AI 代理陣列，將前端開發、社區經營、創意注入與現實檢查等專業職能角色化。每個代理都具備特定專業與明確的交付產出。",
+        "applications": "適用於需要多功能協作團隊的專案負責人或創業者，將複雜工作委派給專職 AI 代理執行。"
       },
       {
         "rank": 10,
@@ -896,7 +896,7 @@
         "full_name": "github/spec-kit",
         "html_url": "https://github.com/github/spec-kit",
         "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-        "stargazers_count": 115098,
+        "stargazers_count": 115099,
         "language": "Python",
         "owner": {
           "login": "github",
@@ -906,9 +906,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "spec-kit (規格驅動開發工具包)",
-        "features": "由 GitHub 官方推出的工具包，旨在協助開發者導入「規格驅動開發」(Spec-Driven Development) 模式。簡化了從設計文檔到自動化實作的過程。",
-        "applications": "適合重視文檔即代碼、希望透過規格定義來引導 AI 生成精準架構與程式碼的團隊。"
+        "zhName": "Spec-kit (規格驅動開發工具包)",
+        "features": "這是 GitHub 官方推出的工具包，旨在協助開發者實踐「規格驅動開發」(Spec-Driven Development)。透過定義清晰的規格，讓 AI 代理能更精確地執行開發任務。",
+        "applications": "適合希望透過規格化流程降低溝通成本、提升 AI 自動化開發穩定性的團隊。"
       },
       {
         "rank": 11,
@@ -916,7 +916,7 @@
         "full_name": "garrytan/gstack",
         "html_url": "https://github.com/garrytan/gstack",
         "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "stargazers_count": 114376,
+        "stargazers_count": 114380,
         "language": "TypeScript",
         "owner": {
           "login": "garrytan",
@@ -926,9 +926,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "gstack (Garry Tan 意見領袖開發堆疊)",
-        "features": "整合 23 種專家級 AI 工具配置，扮演 CEO、設計師、工程經理、QA 等多種角色。這是一套經過高度優化、意見鮮明的開發環境設定。",
-        "applications": "適合希望快速複製 Garry Tan 高效開發模式，以全能視角進行產品開發的技術創業者。"
+        "zhName": "Gstack (Garry Tan 的專業 AI 工具配置)",
+        "features": "這是一套由知名創投 Garry Tan 定義的專業 AI 協作配置，內含 23 個針對 CEO、產品設計、工程管理等角色的專業工具。它將 Claude Code 轉化為高效的企業經營助手。",
+        "applications": "適合技術創業者與高階管理者，用以透過 AI 代理處理繁雜的管理與決策協作。"
       },
       {
         "rank": 12,
@@ -936,7 +936,7 @@
         "full_name": "farion1231/cc-switch",
         "html_url": "https://github.com/farion1231/cc-switch",
         "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
-        "stargazers_count": 107268,
+        "stargazers_count": 107273,
         "language": "Rust",
         "owner": {
           "login": "farion1231",
@@ -946,9 +946,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "cc-switch (跨平台 AI 助理整合器)",
-        "features": "一個跨平台的桌機版全能助理，集中管理 Claude Code、Codex、Gemini CLI 與 Hermes Agent 等多種 AI 介面。提供統一的入口以簡化工具切換。",
-        "applications": "適用於同時使用多種 AI 編碼助理工具，並希望在一個介面內高效管理所有 AI 服務的開發者。"
+        "zhName": "CC-Switch (跨平台 AI 助理整合中心)",
+        "features": "一款多功能的跨平台桌面應用，將 Claude Code、Gemini CLI 與 Hermes 等多種 AI 代理工具整合於單一介面。提供了一站式的 AI 開發環境切換與管理。",
+        "applications": "適合同時使用多種 AI 工具的開發者，解決頻繁切換終端機或設定檔的繁瑣問題。"
       }
     ],
     "audio_video": [
@@ -958,7 +958,7 @@
         "full_name": "safishamsi/graphify",
         "html_url": "https://github.com/safishamsi/graphify",
         "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-        "stargazers_count": 71306,
+        "stargazers_count": 71307,
         "language": "Python",
         "owner": {
           "login": "safishamsi",
@@ -968,9 +968,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "graphify (程式碼知識圖譜生成器)",
-        "features": "能將各類原始碼、資料庫結構、文件與多媒體檔案轉換為可查詢的知識圖譜。支援與 Cursor、Claude Code 等主流 AI 程式輔助工具整合。",
-        "applications": "適合軟體開發者進行跨專案的複雜架構分析，快速梳理大規模專案的相依關係。"
+        "zhName": "graphify (程式碼知識圖譜化工具)",
+        "features": "將任意程式碼資料夾、資料庫架構、文件及媒體檔案轉換為可查詢的知識圖譜。支援與 AI 程式設計助手（如 Cursor、Claude Code）深度整合，實現全專案架構的可視化與知識檢索。",
+        "applications": "適合軟體工程師用於大型專案架構分析，或是協助 AI 模型更精準地理解複雜的技術文件與基礎設施結構。"
       },
       {
         "rank": 2,
@@ -978,7 +978,7 @@
         "full_name": "nexu-io/open-design",
         "html_url": "https://github.com/nexu-io/open-design",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
-        "stargazers_count": 70223,
+        "stargazers_count": 70226,
         "language": "TypeScript",
         "owner": {
           "login": "nexu-io",
@@ -988,9 +988,9 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "zhName": "open-design (開源設計協作平台)",
-        "features": "是一款以本地優先為核心的 Claude Design 開源替代方案，提供桌面版應用程式。整合了超過 259 種 AI 技能與多種設計系統，支援多格式預覽與匯出。",
-        "applications": "適合設計師與開發者進行網頁、行動裝置原型開發，以及製作簡報與影音內容。"
+        "zhName": "open-design (開源設計系統)",
+        "features": "一款離線優先、開源的 Claude Design 替代方案，提供桌面版應用程式。內建超過 259 種技能與 142 個設計系統，並支援多種主流 AI 模型與 CLI 工具整合。",
+        "applications": "適合網頁與應用程式設計師，用於快速進行原型設計、產出多格式匯出檔案（HTML/PDF/MP4），並透過 AI 輔助提升創作效率。"
       },
       {
         "rank": 3,
@@ -998,7 +998,7 @@
         "full_name": "calesthio/OpenMontage",
         "html_url": "https://github.com/calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-        "stargazers_count": 16611,
+        "stargazers_count": 16637,
         "language": "Python",
         "owner": {
           "login": "calesthio",
@@ -1008,9 +1008,9 @@
           "name": "GNU Affero General Public License v3.0",
           "spdx_id": "AGPL-3.0"
         },
-        "zhName": "OpenMontage (AI 代理影音製作系統)",
-        "features": "全球首款開源的代理式影音生產系統，內建 12 種生產管線與 500 多種 AI 代理技能。能將 AI 程式助手轉變為完整的影音製作工作室。",
-        "applications": "適合內容創作者與自動化工程師，用於大規模自動化生產高品質的影片內容。"
+        "zhName": "OpenMontage (代理式影片製作系統)",
+        "features": "全球首款開源的代理式（Agentic）影片製作系統，整合了 12 條處理流程與 52 種工具。能將 AI 程式助手升級為專業的自動化影片工作室。",
+        "applications": "適合需要自動化影片生產線的創作者，透過 AI 自動處理從腳本到成品剪輯的複雜任務。"
       },
       {
         "rank": 4,
@@ -1028,9 +1028,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "video-use (AI 影片編輯代理)",
-        "features": "透過程式碼代理人（Coding Agents）執行影片編輯任務，實現自動化的影音剪輯流程。",
-        "applications": "適合需要批量處理影片剪輯、加入特效或自動化後製工作的技術人員。"
+        "zhName": "video-use (影片剪輯 AI 代理)",
+        "features": "專為 AI 程式助手設計的影片編輯工具。允許使用者透過程式碼操控並執行影片編輯任務，實現自動化的剪輯流程。",
+        "applications": "適合開發者與自動化愛好者，透過編寫程式碼來完成繁瑣的影片修剪、特效與合成任務。"
       },
       {
         "rank": 5,
@@ -1038,7 +1038,7 @@
         "full_name": "palmier-io/palmier-pro",
         "html_url": "https://github.com/palmier-io/palmier-pro",
         "description": "macOS video editor built for AI",
-        "stargazers_count": 8578,
+        "stargazers_count": 8580,
         "language": "Swift",
         "owner": {
           "login": "palmier-io",
@@ -1048,9 +1048,9 @@
           "name": "GNU General Public License v3.0",
           "spdx_id": "GPL-3.0"
         },
-        "zhName": "palmier-pro (macOS 專用 AI 影片編輯器)",
-        "features": "專為 AI 時代設計的 macOS 影片編輯軟體，提供針對 AI 工作流優化的介面與功能。",
-        "applications": "適合使用 macOS 的影音創作者，能更有效率地與 AI 工具協作完成影片剪輯。"
+        "zhName": "palmier-pro (AI 專用 macOS 影片編輯器)",
+        "features": "原生為 AI 輔助工作流程開發的 macOS 影片剪輯軟體。旨在整合現代 AI 模型，提供更智慧的影片編排與處理體驗。",
+        "applications": "適合 Mac 使用者與影視創作者，希望在本地端透過 AI 高效處理與剪輯影片內容。"
       },
       {
         "rank": 6,
@@ -1069,8 +1069,8 @@
           "spdx_id": "Apache-2.0"
         },
         "zhName": "OmniVoice (多語言語音複製 TTS)",
-        "features": "提供高音質的語音複製與文字轉語音（TTS）功能，支援全球超過 600 種語言。",
-        "applications": "適用於跨國產品開發、語音助理製作以及需要高度在地化語音內容的場景。"
+        "features": "支援超過 600 種語言的高品質語音複製（TTS）系統。具備極強的語言適應力，能產生高度逼真且自然的語音輸出。",
+        "applications": "適合需要全球化多語言支援的應用開發者，用於構建語音助理、自動配音或個人化語音合成服務。"
       },
       {
         "rank": 7,
@@ -1088,9 +1088,9 @@
           "name": "Other",
           "spdx_id": "NOASSERTION"
         },
-        "zhName": "OmniVoice-Studio (本地端語音工作室)",
-        "features": "開源且免費的 ElevenLabs 替代方案，提供在地化部署的語音複製、設計、配音與聽寫桌面應用程式。",
-        "applications": "適合需要嚴格保護語音隱私、不希望將資料上傳雲端的獨立開發者或聲音工作室。"
+        "zhName": "OmniVoice-Studio (桌面端語音工作室)",
+        "features": "作為 ElevenLabs 的開源替代方案，提供本地端的語音複製、設計與配音功能。擁有完整的桌面應用介面，操作直覺且保護隱私。",
+        "applications": "適合內容創作者與配音員，在無須上傳資料至雲端的情況下，安全地進行高品質的語音合成與聽寫任務。"
       },
       {
         "rank": 8,
@@ -1108,9 +1108,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "reclip (網頁影片下載器)",
-        "features": "輕量級且可自託管的媒體下載工具，擁有簡潔的網頁操作介面。支援從絕大多數網站下載影音內容。",
-        "applications": "適合需要備份線上影片或離線觀看的用戶，適合部署於私人伺服器使用。"
+        "zhName": "reclip (媒體下載器)",
+        "features": "輕量級且支援自架的媒體下載工具，擁有整潔的網頁使用者介面。幾乎可以從任何主流網站下載影片內容。",
+        "applications": "適合想要收藏網路資源的一般用戶，提供便捷的自託管環境來集中管理與下載影音檔案。"
       },
       {
         "rank": 9,
@@ -1128,9 +1128,9 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "zhName": "MOSS-TTS-Nano (極輕量多語言語音生成模型)",
-        "features": "參數僅 0.1B 的微型多語言語音模型，無需 GPU 即可在 CPU 上實現即時語音生成。部署流程簡單，適合網頁服務與輕量化產品整合。",
-        "applications": "適合需要嵌入式裝置、瀏覽器端運算或低硬體資源需求的即時語音生成應用。"
+        "zhName": "MOSS-TTS-Nano (超輕量語音生成模型)",
+        "features": "僅 0.1B 參數的超輕量級多語言語音生成模型。無需 GPU 即可在 CPU 上實現即時語音合成，部署門檻極低。",
+        "applications": "適合邊緣計算裝置、網頁應用程式或需要嵌入式語音功能的專案，實現低延遲的本地化語音輸出。"
       },
       {
         "rank": 10,
@@ -1149,8 +1149,8 @@
           "spdx_id": "Apache-2.0"
         },
         "zhName": "html-video (程式化影片渲染引擎)",
-        "features": "專為程式代理設計，能將 HTML、CSS 與資料轉換為 MP4 影片。提供多種插件式渲染引擎與 21 種模板，且無渲染費用。",
-        "applications": "適合自動化內容生產開發者，用於動態生成程式化影片或作為資料視覺化輸出工具。"
+        "features": "將 HTML/CSS 與資料轉為 MP4 影片的渲染引擎，提供 21 種模板與 AI 音軌生成功能。採用 Apache-2.0 授權，且無任何渲染費用。",
+        "applications": "適合開發者將動態網頁內容轉換為影片，或是透過程式邏輯大量自動化產生行銷影片與數據可視化影片。"
       },
       {
         "rank": 11,
@@ -1168,9 +1168,9 @@
           "name": "Other",
           "spdx_id": "NOASSERTION"
         },
-        "zhName": "MisoTTS (高情感語音合成模型)",
-        "features": "擁有 80 億參數的文字轉語音模型，強調高情感表達能力，能生成自然且具備深度的語音。",
-        "applications": "適合遊戲開發、虛擬角色對話或需要豐富情感表現的數位語音應用。"
+        "zhName": "MisoTTS (高情感 TTS 模型)",
+        "features": "擁有 80 億參數的高性能文字轉語音模型，強調語音的情感表現力。能產出極具感染力且自然的語音輸出。",
+        "applications": "適合需要高質感語音互動的遊戲、敘事型應用程式或互動式 AI 代理開發者。"
       },
       {
         "rank": 12,
@@ -1188,9 +1188,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "zhName": "openless (開源語音輸入工具)",
-        "features": "透過快捷鍵觸發錄音，並在放開後自動將 AI 潤色後的文字輸出至任何應用程式中。支援 macOS 與 Windows。",
-        "applications": "適合需要提升寫作效率、快速紀錄想法或改善語音輸入文字品質的專業人士與工程師。"
+        "zhName": "openless (全域 AI 語音輸入工具)",
+        "features": "支援 Windows 與 macOS 的開源語音輸入工具，具備按鍵即說與鬆開即 AI 潤色的功能。能夠將語音內容無縫轉換為修飾後的文字並輸入至任何應用程式中。",
+        "applications": "適合文字工作者或軟體工程師，在任何輸入框中使用語音快速產生並校對高品質文字，提升輸入與寫作效率。"
       }
     ]
   }
