@@ -1,9 +1,9 @@
-# 🚀 GitTrend.tw — GitHub 熱門開源專案時間線
+# GitTrend — GitHub 熱門開源專案時間線
 
 [![Update Data](https://github.com/begin0808/github-hot/actions/workflows/update-data.yml/badge.svg)](https://github.com/begin0808/github-hot/actions/workflows/update-data.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-[English](README.md) | 繁體中文
+[English](README.md) | 繁體中文 | [简体中文](README_zh-CN.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [Français](README_fr.md) | [Deutsch](README_de.md)
 
 > 每週六自動更新的 GitHub 熱門開源專案時間線，搭配 Gemini AI 產生繁體中文深度精煉介紹，讓你快速掌握開源世界最新趨勢。
 
@@ -11,7 +11,7 @@
 
 ## 📖 專案簡介
 
-**GitTrend.tw** 是一個靜態網站，自動抓取 GitHub 上最近**一週、一個月、三個月、一年**內新建立，以及**影音與聲音 AI 專區**中獲得最多星星數的熱門開源專案，並透過 Google Gemini AI 將英文描述翻譯與精煉為**繁體中文**，結構化呈現每個專案的「核心功能與特色」以及「實際應用場景」。
+**GitTrend** 是一個靜態網站，自動抓取 GitHub 上最近**一週、一個月、三個月、一年**內新建立，以及**影音與聲音 AI 專區**中獲得最多星星數的熱門開源專案，並透過 Google Gemini AI 將英文描述翻譯與精煉為**繁體中文**，結構化呈現每個專案的「核心功能與特色」以及「實際應用場景」。
 
 網站每週六由 GitHub Actions 自動更新資料，讓你在週末有充裕的時間研究最新的熱門開源能量。
 
