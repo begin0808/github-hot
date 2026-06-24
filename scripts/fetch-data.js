@@ -70,7 +70,7 @@ async function fetchTopGithubProjects(query) {
 }
 
 // 2. 使用 Gemini API 批次翻譯與精煉專案內容
-async function translateAndSummarizeBatch(repos, apiKey, targetLanguageName, modelName = 'gemini-3.5-flash') {
+async function translateAndSummarizeBatch(repos, apiKey, targetLanguageName, modelName = 'gemini-3.1-flash-lite') {
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:generateContent?key=${apiKey}`;
   
   const projectListStr = repos.map((repo, idx) => `
@@ -142,7 +142,7 @@ Ensure the returned structure strictly matches the specified JSON Schema.`;
 
 // 3. 具備自動重試、指數退避與多模型備援功能的批次翻譯包裝器
 async function translateAndSummarizeBatchWithRetry(repos, apiKey, targetLanguageName, retries = 3, delay = 10000) {
-  const models = ['gemini-3.5-flash', 'gemini-3.1-flash-lite', 'gemini-2.5-flash', 'gemini-1.5-flash', 'gemini-1.5-flash-8b'];
+  const models = ['gemini-3.1-flash-lite', 'gemini-2.5-flash'];
   
   for (const model of models) {
     console.log(`  -> 嘗試使用 AI 模型: ${model}`);
