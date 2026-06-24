@@ -133,11 +133,17 @@ body.light-theme .original-desc {
   transition: var(--transition-smooth);
 }
 
-.theme-toggle-btn {
+.header-controls {
   position: absolute;
   right: 0;
   top: 50%;
   transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.theme-toggle-btn {
   background: rgba(255, 255, 255, 0.03);
   border: 1px solid var(--card-border);
   border-radius: 50%;
@@ -157,7 +163,73 @@ body.light-theme .original-desc {
   color: var(--text-primary);
   background: rgba(255, 255, 255, 0.08);
   border-color: var(--card-border-hover);
-  transform: translateY(-50%) rotate(15deg);
+  transform: rotate(15deg);
+}
+
+.lang-select-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.lang-select {
+  appearance: none;
+  -webkit-appearance: none;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  padding: 8px 32px 8px 12px;
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  transition: var(--transition-smooth);
+  outline: none;
+}
+
+body.light-theme .lang-select {
+  background: rgba(0, 0, 0, 0.03);
+}
+
+.lang-select:hover {
+  border-color: var(--card-border-hover);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+body.light-theme .lang-select:hover {
+  background: rgba(0, 0, 0, 0.06);
+}
+
+.lang-select-wrapper::after {
+  content: "";
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 5px solid var(--text-secondary);
+  pointer-events: none;
+  transition: var(--transition-smooth);
+}
+
+.lang-select-wrapper:hover::after {
+  border-top-color: var(--text-primary);
+}
+
+.lang-select option {
+  background-color: #1e293b;
+  color: #f8fafc;
+}
+
+body.light-theme .lang-select option {
+  background-color: #ffffff;
+  color: #0f172a;
 }
 
 .theme-toggle-btn svg {
@@ -653,14 +725,16 @@ body.light-theme .card-rank-3:hover {
   
   .header-top {
     flex-direction: column;
-    gap: 1rem;
+    gap: 1.2rem;
   }
-  
-  .theme-toggle-btn {
+
+  .header-controls {
     position: static;
     transform: none;
+    justify-content: center;
+    width: 100%;
   }
-  
+
   .theme-toggle-btn:hover {
     transform: rotate(15deg);
   }

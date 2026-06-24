@@ -50,7 +50,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions[bot]"
-          git add src/data/projects.json || true
+          git add src/data/projects*.json || true
           # 如果沒有變動，不進行 commit 避免報錯
           git diff-index --quiet HEAD || (git commit -m "chore: update popular projects data (automated) [skip ci]" && git pull --rebase origin main && git push)
 
