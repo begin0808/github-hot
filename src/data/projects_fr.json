@@ -1,51 +1,31 @@
 {
-  "lastUpdated": "2026-06-24T09:28:25.478Z",
+  "lastUpdated": "2026-06-27T03:27:35.146Z",
   "periods": {
     "week": [
       {
         "rank": 1,
-        "name": "Unlimited-OCR",
-        "full_name": "baidu/Unlimited-OCR",
-        "html_url": "https://github.com/baidu/Unlimited-OCR",
-        "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-        "stargazers_count": 4939,
-        "language": "Python",
+        "name": "codex-orange-book",
+        "full_name": "bozhouDev/codex-orange-book",
+        "html_url": "https://github.com/bozhouDev/codex-orange-book",
+        "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+        "stargazers_count": 2153,
+        "language": "HTML",
         "owner": {
-          "login": "baidu",
-          "avatar_url": "https://avatars.githubusercontent.com/u/13245940?v=4"
+          "login": "bozhouDev",
+          "avatar_url": "https://avatars.githubusercontent.com/u/259759010?v=4"
         },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "Unlimited-OCR",
-        "features": "Il s'agit d'un système de reconnaissance optique de caractères conçu pour une analyse de documents longue durée et en une seule fois. Le projet se concentre sur l'efficacité et la précision du traitement de textes complexes.",
-        "applications": "Idéal pour les chercheurs et développeurs traitant de vastes volumes de documents numérisés nécessitant une extraction rapide et précise."
+        "license": null,
+        "translatedName": "Codex-orange-book (Guide complet Codex)",
+        "features": "Ce guide propose une documentation complète et structurée sur l'utilisation de Codex, allant de l'installation aux cas d'usage pratiques. Le contenu est disponible sous forme de texte ou de PDF téléchargeable pour un apprentissage hors ligne.",
+        "applications": "Il est idéal pour les développeurs et les curieux souhaitant maîtriser les capacités de Codex via un manuel pédagogique accessible et bien documenté."
       },
       {
         "rank": 2,
-        "name": "Cowart",
-        "full_name": "zhongerxin/Cowart",
-        "html_url": "https://github.com/zhongerxin/Cowart",
-        "description": null,
-        "stargazers_count": 2534,
-        "language": "JavaScript",
-        "owner": {
-          "login": "zhongerxin",
-          "avatar_url": "https://avatars.githubusercontent.com/u/8215057?v=4"
-        },
-        "license": null,
-        "translatedName": "Cowart",
-        "features": "Cowart est un projet développé en JavaScript dont les fonctionnalités spécifiques ne sont pas documentées. Il sert généralement de base à des expérimentations logicielles légères.",
-        "applications": "Utilisable par les développeurs explorant des solutions web personnalisées nécessitant un environnement JavaScript minimaliste."
-      },
-      {
-        "rank": 3,
         "name": "zhengxi-views",
         "full_name": "lyra81604/zhengxi-views",
         "html_url": "https://github.com/lyra81604/zhengxi-views",
         "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-        "stargazers_count": 957,
+        "stargazers_count": 1063,
         "language": "Python",
         "owner": {
           "login": "lyra81604",
@@ -55,74 +35,17 @@
           "name": "Other",
           "spdx_id": "NOASSERTION"
         },
-        "translatedName": "Zhengxi-views (Agent de recherche d'investissement)",
-        "features": "Cet agent intelligent analyse les opinions publiques et les stratégies d'investissement du gestionnaire de fonds Zhengxi pour fournir des réponses vérifiables. Il utilise des données réelles du marché pour noter les fonds selon le cadre méthodologique spécifique de l'expert.",
-        "applications": "Destiné aux investisseurs et aux étudiants en finance souhaitant une analyse rigoureuse et traçable basée sur des méthodes professionnelles."
+        "translatedName": "Zhengxi-views (Agent d'analyse financière)",
+        "features": "Il s'agit d'un agent intelligent spécialisé dans les méthodes d'investissement de Zheng Xi, intégrant ses points de vue publics et des données de fonds réelles. L'outil garantit la traçabilité des réponses en citant systématiquement les sources originales pour éviter toute hallucination.",
+        "applications": "Cet outil est destiné aux investisseurs et chercheurs souhaitant analyser les stratégies de fonds de manière objective et documentée à des fins éducatives."
       },
       {
-        "rank": 4,
-        "name": "agent-apprenticeship",
-        "full_name": "Forsy-AI/agent-apprenticeship",
-        "html_url": "https://github.com/Forsy-AI/agent-apprenticeship",
-        "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-        "stargazers_count": 883,
-        "language": null,
-        "owner": {
-          "login": "Forsy-AI",
-          "avatar_url": "https://avatars.githubusercontent.com/u/273874842?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "Agent-apprenticeship (Apprentissage d'agents IA)",
-        "features": "Cette plateforme constitue un écosystème vivant où les agents IA apprennent par le travail réel via des boucles de flux itératives. Elle permet le partage collectif de signaux d'entraînement et la réutilisation d'expériences acquises.",
-        "applications": "Utile pour les équipes d'ingénierie travaillant sur l'automatisation avancée et l'amélioration continue des agents autonomes."
-      },
-      {
-        "rank": 5,
-        "name": "codex-orange-book",
-        "full_name": "bozhouDev/codex-orange-book",
-        "html_url": "https://github.com/bozhouDev/codex-orange-book",
-        "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-        "stargazers_count": 866,
-        "language": "Python",
-        "owner": {
-          "login": "bozhouDev",
-          "avatar_url": "https://avatars.githubusercontent.com/u/259759010?v=4"
-        },
-        "license": null,
-        "translatedName": "Codex-orange-book (Guide Codex)",
-        "features": "Il s'agit d'un guide complet et non officiel fournissant des instructions allant de l'installation à des cas d'utilisation pratiques pour Codex. Le projet inclut de la documentation structurée disponible sous forme de PDF.",
-        "applications": "Indispensable pour les développeurs souhaitant maîtriser les capacités de Codex dans des projets de programmation assistée par IA."
-      },
-      {
-        "rank": 6,
-        "name": "cnfast",
-        "full_name": "aidenybai/cnfast",
-        "html_url": "https://github.com/aidenybai/cnfast",
-        "description": "Fast drop in replacement for `cn`",
-        "stargazers_count": 821,
-        "language": "TypeScript",
-        "owner": {
-          "login": "aidenybai",
-          "avatar_url": "https://avatars.githubusercontent.com/u/38025074?v=4"
-        },
-        "license": {
-          "name": "Other",
-          "spdx_id": "NOASSERTION"
-        },
-        "translatedName": "Cnfast",
-        "features": "Cnfast est une bibliothèque TypeScript conçue comme une alternative haute performance et immédiate à la fonction 'cn'. Elle optimise la manipulation des noms de classes CSS dans les applications modernes.",
-        "applications": "Recommandé pour les développeurs utilisant Tailwind CSS souhaitant améliorer la vitesse de rendu et la maintenabilité de leur code."
-      },
-      {
-        "rank": 7,
+        "rank": 3,
         "name": "birds.cafe",
         "full_name": "kanavtwtgg/birds.cafe",
         "html_url": "https://github.com/kanavtwtgg/birds.cafe",
         "description": null,
-        "stargazers_count": 735,
+        "stargazers_count": 736,
         "language": "JavaScript",
         "owner": {
           "login": "kanavtwtgg",
@@ -130,76 +53,56 @@
         },
         "license": null,
         "translatedName": "Birds.cafe",
-        "features": "Birds.cafe est une application développée en JavaScript axée sur des interactions numériques légères. Bien que les détails soient limités, elle semble dédiée à une interface utilisateur spécifique.",
-        "applications": "Convient aux utilisateurs cherchant des outils web simples ou des démonstrations d'interface JavaScript."
+        "features": "Ce projet est une plateforme web interactive dont les fonctionnalités exactes ne sont pas explicitement documentées dans sa description. Il semble s'agir d'une interface utilisateur axée sur le partage ou la communication numérique.",
+        "applications": "Utile pour découvrir des concepts d'interface web expérimentaux ou des outils de communication sociale."
       },
       {
-        "rank": 8,
-        "name": "Windows-Copilot-API",
-        "full_name": "sums001/Windows-Copilot-API",
-        "html_url": "https://github.com/sums001/Windows-Copilot-API",
-        "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-        "stargazers_count": 591,
+        "rank": 4,
+        "name": "CWR",
+        "full_name": "BohemiaInteractive/CWR",
+        "html_url": "https://github.com/BohemiaInteractive/CWR",
+        "description": "Arma: Cold War Assault Remastered Source Code Repository.",
+        "stargazers_count": 627,
+        "language": "C++",
+        "owner": {
+          "login": "BohemiaInteractive",
+          "avatar_url": "https://avatars.githubusercontent.com/u/25146849?v=4"
+        },
+        "license": {
+          "name": "Other",
+          "spdx_id": "NOASSERTION"
+        },
+        "translatedName": "CWR (Arma: Cold War Assault Remastered)",
+        "features": "Ce dépôt contient le code source remasterisé du jeu classique Arma: Cold War Assault. Il permet de maintenir et de moderniser ce titre emblématique pour les systèmes d'exploitation contemporains.",
+        "applications": "Il s'adresse aux développeurs de jeux et à la communauté des moddeurs souhaitant contribuer à la préservation et à l'amélioration technique de ce jeu historique."
+      },
+      {
+        "rank": 5,
+        "name": "Qwen-AgentWorld",
+        "full_name": "QwenLM/Qwen-AgentWorld",
+        "html_url": "https://github.com/QwenLM/Qwen-AgentWorld",
+        "description": "Qwen-AgentWorld: Language World Models for General Agents",
+        "stargazers_count": 569,
         "language": "Python",
         "owner": {
-          "login": "sums001",
-          "avatar_url": "https://avatars.githubusercontent.com/u/44167398?v=4"
+          "login": "QwenLM",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
         },
         "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
         },
-        "translatedName": "Windows-Copilot-API",
-        "features": "Ce projet réalise l'ingénierie inverse de Windows Copilot pour exposer une interface API compatible avec OpenAI. Il permet d'accéder aux modèles GPT-4 et GPT-5 via REST sans nécessiter de clés API payantes.",
-        "applications": "Utile pour les développeurs souhaitant intégrer les capacités de Copilot dans leurs propres outils sans contraintes de facturation externe."
+        "translatedName": "Qwen-AgentWorld",
+        "features": "Qwen-AgentWorld utilise des modèles de monde linguistique pour améliorer la compréhension et l'interaction des agents généraux. Il permet aux agents de mieux appréhender leur environnement et d'exécuter des tâches complexes avec plus de précision.",
+        "applications": "Ce projet est crucial pour les chercheurs en IA travaillant sur le développement d'agents autonomes capables d'interagir efficacement avec des environnements dynamiques."
       },
       {
-        "rank": 9,
-        "name": "security-audit-skill",
-        "full_name": "cloudflare/security-audit-skill",
-        "html_url": "https://github.com/cloudflare/security-audit-skill",
-        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "stargazers_count": 563,
-        "language": "JavaScript",
-        "owner": {
-          "login": "cloudflare",
-          "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "Security-audit-skill (Compétence d'audit de sécurité)",
-        "features": "Il s'agit d'un module d'IA spécialisé pour les audits de sécurité multi-phases. Le système génère des résultats vérifiables de manière indépendante et exploitables par des machines.",
-        "applications": "Essentiel pour les professionnels de la cybersécurité automatisant la détection de vulnérabilités dans le code source."
-      },
-      {
-        "rank": 10,
-        "name": "junction",
-        "full_name": "Plaer1/junction",
-        "html_url": "https://github.com/Plaer1/junction",
-        "description": "VS Code chat sidebar for local AI coding agents",
-        "stargazers_count": 532,
-        "language": "TypeScript",
-        "owner": {
-          "login": "Plaer1",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3485414?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "Junction",
-        "features": "Junction propose une barre latérale de chat intégrée directement dans VS Code pour faciliter le dialogue avec des agents de codage IA locaux. Il améliore l'interaction contextuelle lors du développement logiciel.",
-        "applications": "Conçu pour les développeurs utilisant VS Code qui souhaitent une assistance IA intégrée et privée sans dépendance cloud constante."
-      },
-      {
-        "rank": 11,
+        "rank": 6,
         "name": "Good-Badminton",
         "full_name": "yo-WASSUP/Good-Badminton",
         "html_url": "https://github.com/yo-WASSUP/Good-Badminton",
         "description": "🏸  AI Badminton Hawk-Eye System",
-        "stargazers_count": 448,
+        "stargazers_count": 552,
         "language": "Python",
         "owner": {
           "login": "yo-WASSUP",
@@ -209,29 +112,126 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "translatedName": "Good-Badminton (Système Hawk-Eye)",
-        "features": "Ce système utilise l'intelligence artificielle pour agir comme un œil de faucon spécialisé dans le badminton. Il analyse les mouvements et les trajectoires pour arbitrer les situations de jeu.",
-        "applications": "Parfait pour les organisateurs de tournois et les entraîneurs cherchant à automatiser l'arbitrage et l'analyse de performance."
+        "translatedName": "Good-Badminton (Système Hawk-Eye IA)",
+        "features": "Ce système utilise l'intelligence artificielle pour effectuer un arbitrage automatique et un suivi des trajectoires de volants de badminton. Il imite la technologie du Hawk-Eye pour offrir une analyse précise des zones de chute sur le terrain.",
+        "applications": "Idéal pour les clubs de badminton et les joueurs souhaitant obtenir des analyses de match professionnelles ou valider des décisions d'arbitrage contestées."
       },
       {
-        "rank": 12,
-        "name": "recall",
-        "full_name": "raiyanyahya/recall",
-        "html_url": "https://github.com/raiyanyahya/recall",
-        "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-        "stargazers_count": 434,
-        "language": "Python",
+        "rank": 7,
+        "name": "wloc",
+        "full_name": "Yu9191/wloc",
+        "html_url": "https://github.com/Yu9191/wloc",
+        "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+        "stargazers_count": 471,
+        "language": "JavaScript",
         "owner": {
-          "login": "raiyanyahya",
-          "avatar_url": "https://avatars.githubusercontent.com/u/23720340?v=4"
+          "login": "Yu9191",
+          "avatar_url": "https://avatars.githubusercontent.com/u/132221547?v=4"
+        },
+        "license": null,
+        "translatedName": "Wloc (Modificateur de géolocalisation Apple)",
+        "features": "Cet outil permet de modifier les coordonnées réseau (gs-loc) sur les appareils Apple en s'intégrant avec des applications comme Surge, Quantumult X ou Loon. Il offre une fonction de raccourci pour réinitialiser ou configurer facilement sa localisation virtuelle.",
+        "applications": "Pratique pour les utilisateurs souhaitant tester des services géobloqués ou masquer leur position réelle à des fins de confidentialité ou de développement."
+      },
+      {
+        "rank": 8,
+        "name": "awesome-evals",
+        "full_name": "benchflow-ai/awesome-evals",
+        "html_url": "https://github.com/benchflow-ai/awesome-evals",
+        "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+        "stargazers_count": 471,
+        "language": null,
+        "owner": {
+          "login": "benchflow-ai",
+          "avatar_url": "https://avatars.githubusercontent.com/u/190338344?v=4"
+        },
+        "license": {
+          "name": "Other",
+          "spdx_id": "NOASSERTION"
+        },
+        "translatedName": "Awesome-evals (Ressources d'évaluation IA)",
+        "features": "Cette bibliothèque sélectionnée offre une collection rigoureuse de ressources, d'articles et d'outils pour construire et évaluer des agents IA. Elle se concentre sur des méthodologies fiables et évite les contenus superficiels.",
+        "applications": "Un outil indispensable pour les ingénieurs en IA et les chercheurs cherchant des cadres d'évaluation robustes pour mesurer la performance de leurs agents."
+      },
+      {
+        "rank": 9,
+        "name": "theeleven",
+        "full_name": "winsznx/theeleven",
+        "html_url": "https://github.com/winsznx/theeleven",
+        "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+        "stargazers_count": 467,
+        "language": "TypeScript",
+        "owner": {
+          "login": "winsznx",
+          "avatar_url": "https://avatars.githubusercontent.com/u/68760559?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "Recall (Mémoire durable pour Claude)",
-        "features": "Recall offre une mémoire durable et entièrement hors ligne à Claude Code, évitant de devoir réexpliquer le projet à chaque session. Il permet d'économiser des jetons tout en maintenant la cohérence du contexte.",
-        "applications": "Indispensable pour les développeurs utilisant Claude Code sur des projets complexes de longue durée."
+        "translatedName": "Theeleven (Agents IA pour marchés sportifs)",
+        "features": "Ce projet déploie des agents IA autonomes capables d'ouvrir des marchés de paris sportifs en direct sur X Layer. Il utilise des hooks personnalisés pour Uniswap v4 et permet le staking de USDT0 sans frais de gaz.",
+        "applications": "Destiné aux développeurs travaillant à l'intersection de la finance décentralisée (DeFi) et des marchés de prédiction basés sur l'intelligence artificielle."
+      },
+      {
+        "rank": 10,
+        "name": "AgentSpace",
+        "full_name": "HKUDS/AgentSpace",
+        "html_url": "https://github.com/HKUDS/AgentSpace",
+        "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+        "stargazers_count": 456,
+        "language": "TypeScript",
+        "owner": {
+          "login": "HKUDS",
+          "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+        },
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "AgentSpace (Espace de travail hybride)",
+        "features": "AgentSpace crée un environnement collaboratif où humains et agents IA travaillent ensemble au sein d'un même espace de travail. Il facilite l'interaction naturelle et la gestion des tâches entre l'intelligence humaine et artificielle.",
+        "applications": "Utile pour les équipes cherchant à optimiser leur productivité en intégrant des flux de travail assistés par l'IA dans leurs projets quotidiens."
+      },
+      {
+        "rank": 11,
+        "name": "make-look-scanned",
+        "full_name": "overflowy/make-look-scanned",
+        "html_url": "https://github.com/overflowy/make-look-scanned",
+        "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
+        "stargazers_count": 424,
+        "language": "Go",
+        "owner": {
+          "login": "overflowy",
+          "avatar_url": "https://avatars.githubusercontent.com/u/98480250?v=4"
+        },
+        "license": {
+          "name": "GNU Affero General Public License v3.0",
+          "spdx_id": "AGPL-3.0"
+        },
+        "translatedName": "Make-look-scanned (Générateur d'effet scan)",
+        "features": "Cet outil convertit des documents numériques en PDFs ayant l'apparence de documents numérisés manuellement. Il est disponible sous forme d'interface en ligne de commande ou directement dans le navigateur via WASM.",
+        "applications": "Utile pour donner une apparence authentique aux documents numériques destinés à des processus administratifs ou pour des besoins de style esthétique."
+      },
+      {
+        "rank": 12,
+        "name": "claude-status-bar",
+        "full_name": "m1ckc3s/claude-status-bar",
+        "html_url": "https://github.com/m1ckc3s/claude-status-bar",
+        "description": "A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle.",
+        "stargazers_count": 360,
+        "language": "Swift",
+        "owner": {
+          "login": "m1ckc3s",
+          "avatar_url": "https://avatars.githubusercontent.com/u/108453477?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "Claude-status-bar (Indicateur macOS)",
+        "features": "Ce petit utilitaire macOS affiche l'état de Claude Code dans la barre de menus via des icônes animées. Il inclut un minuteur de temps écoulé et permet de suivre le cycle de vie de l'application.",
+        "applications": "Parfait pour les développeurs utilisant Claude Code qui souhaitent surveiller l'activité de leurs processus en arrière-plan sans encombrer leur écran."
       }
     ],
     "month": [
@@ -241,7 +241,7 @@
         "full_name": "pewdiepie-archdaemon/odysseus",
         "html_url": "https://github.com/pewdiepie-archdaemon/odysseus",
         "description": "Self-hosted AI workspace. ",
-        "stargazers_count": 77067,
+        "stargazers_count": 78253,
         "language": "Python",
         "owner": {
           "login": "pewdiepie-archdaemon",
@@ -251,9 +251,9 @@
           "name": "GNU Affero General Public License v3.0",
           "spdx_id": "AGPL-3.0"
         },
-        "translatedName": "odysseus",
-        "features": "Il s'agit d'un espace de travail IA auto-hébergé permettant une gestion centralisée des outils. La plateforme se concentre sur l'intégration transparente de modèles pour augmenter la productivité locale.",
-        "applications": "Idéal pour les développeurs souhaitant garder un contrôle total sur leurs données tout en utilisant des outils d'assistance IA puissants."
+        "translatedName": "Odysseus (Espace de travail IA auto-hébergé)",
+        "features": "Odysseus est un espace de travail basé sur l'intelligence artificielle conçu pour être entièrement auto-hébergé. Il offre une plateforme centralisée pour orchestrer des flux de travail IA sans dépendre de services tiers.",
+        "applications": "Idéal pour les développeurs et les équipes souhaitant garder le contrôle total de leurs données et de leur infrastructure IA."
       },
       {
         "rank": 2,
@@ -261,7 +261,7 @@
         "full_name": "DietrichGebert/ponytail",
         "html_url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stargazers_count": 53503,
+        "stargazers_count": 60308,
         "language": "JavaScript",
         "owner": {
           "login": "DietrichGebert",
@@ -271,9 +271,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "ponytail",
-        "features": "Cet outil configure des agents IA pour adopter une mentalité de développeur senior minimaliste. Il privilégie l'efficacité maximale en cherchant à éviter l'écriture de code superflu.",
-        "applications": "Parfait pour optimiser les processus de développement et réduire la dette technique en trouvant les solutions les plus simples possibles."
+        "translatedName": "Ponytail (Agent IA minimaliste)",
+        "features": "Ponytail permet à votre agent IA d'adopter une approche ultra-optimisée, privilégiant le code le plus simple et le plus concis possible. Son objectif est d'automatiser les tâches tout en minimisant la quantité de code à écrire et à maintenir.",
+        "applications": "Parfait pour les développeurs seniors qui cherchent à automatiser la résolution de problèmes tout en évitant la surcharge technique."
       },
       {
         "rank": 3,
@@ -281,7 +281,7 @@
         "full_name": "XiaomiMiMo/MiMo-Code",
         "html_url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "description": "MiMo Code: Where Models and Agents Co-Evolve",
-        "stargazers_count": 10556,
+        "stargazers_count": 10874,
         "language": "TypeScript",
         "owner": {
           "login": "XiaomiMiMo",
@@ -291,114 +291,17 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "MiMo-Code",
-        "features": "MiMo-Code propose un environnement où les modèles et les agents co-évoluent dynamiquement. Il facilite l'interaction entre différentes architectures d'agents et leurs modèles sous-jacents.",
-        "applications": "Utilisé pour la recherche en systèmes multi-agents et le développement itératif de modèles IA complexes."
+        "translatedName": "MiMo-Code (Écosystème de modèles et d'agents)",
+        "features": "MiMo-Code propose un environnement où les modèles de langage et les agents autonomes évoluent de concert. Il se concentre sur l'interaction dynamique pour améliorer la génération de code.",
+        "applications": "Utile pour la recherche en IA et le développement de systèmes complexes où l'apprentissage continu des agents est essentiel."
       },
       {
         "rank": 4,
-        "name": "book",
-        "full_name": "unicity-astrid/book",
-        "html_url": "https://github.com/unicity-astrid/book",
-        "description": "The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.",
-        "stargazers_count": 6655,
-        "language": "Perl",
-        "owner": {
-          "login": "unicity-astrid",
-          "avatar_url": "https://avatars.githubusercontent.com/u/261740341?v=4"
-        },
-        "license": {
-          "name": "Apache License 2.0",
-          "spdx_id": "Apache-2.0"
-        },
-        "translatedName": "book (Astrid OS)",
-        "features": "Ce projet constitue la documentation de référence canonique pour Astrid OS. Il détaille l'architecture du noyau, les capsules, l'interface binaire de l'hôte et le modèle de sécurité.",
-        "applications": "Essentiel pour les ingénieurs système travaillant sur le développement ou la maintenance du noyau Astrid OS."
-      },
-      {
-        "rank": 5,
-        "name": "handbook",
-        "full_name": "unicity-astrid/handbook",
-        "html_url": "https://github.com/unicity-astrid/handbook",
-        "description": "How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.",
-        "stargazers_count": 6605,
-        "language": null,
-        "owner": {
-          "login": "unicity-astrid",
-          "avatar_url": "https://avatars.githubusercontent.com/u/261740341?v=4"
-        },
-        "license": {
-          "name": "Apache License 2.0",
-          "spdx_id": "Apache-2.0"
-        },
-        "translatedName": "handbook (Astrid OS)",
-        "features": "Le manuel décrit les processus de travail sur Astrid OS, incluant la gestion poly-dépôt et les protocoles de contribution. Il définit les règles de gouvernance comme la loi du 'noyau stupide' et le flux RFC.",
-        "applications": "Indispensable pour les contributeurs souhaitant collaborer efficacement au sein de l'écosystème Astrid OS."
-      },
-      {
-        "rank": 6,
-        "name": "improve",
-        "full_name": "shadcn/improve",
-        "html_url": "https://github.com/shadcn/improve",
-        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-        "stargazers_count": 6097,
-        "language": null,
-        "owner": {
-          "login": "shadcn",
-          "avatar_url": "https://avatars.githubusercontent.com/u/124599?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "improve",
-        "features": "Cet outil utilise un modèle IA hautement performant pour auditer le code existant. Il génère ensuite des plans d'exécution optimisés que des modèles plus légers et économiques peuvent suivre.",
-        "applications": "Réduit considérablement les coûts de maintenance logicielle tout en maintenant une qualité de code élevée via l'IA."
-      },
-      {
-        "rank": 7,
-        "name": "ian-xiaohei-illustrations",
-        "full_name": "helloianneo/ian-xiaohei-illustrations",
-        "html_url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
-        "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
-        "stargazers_count": 5953,
-        "language": null,
-        "owner": {
-          "login": "helloianneo",
-          "avatar_url": "https://avatars.githubusercontent.com/u/89686060?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "ian-xiaohei-illustrations",
-        "features": "Un outil de génération d'illustrations au format 16:9 avec un style fait main. Il intègre des annotations spécifiques en orange, rouge et bleu sur fond blanc.",
-        "applications": "Utilisé par les créateurs de contenu pour générer rapidement des visuels de type 'Xiaohei' pour des articles ou des blogs."
-      },
-      {
-        "rank": 8,
-        "name": "chinese-buy-us-stock-guide",
-        "full_name": "zgwl/chinese-buy-us-stock-guide",
-        "html_url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
-        "description": "美股指南",
-        "stargazers_count": 4985,
-        "language": null,
-        "owner": {
-          "login": "zgwl",
-          "avatar_url": "https://avatars.githubusercontent.com/u/6014068?v=4"
-        },
-        "license": null,
-        "translatedName": "chinese-buy-us-stock-guide (Guide d'achat d'actions américaines)",
-        "features": "Il s'agit d'un guide complet destiné aux investisseurs souhaitant acheter des actions américaines. Il couvre les aspects pratiques, les exigences et les meilleures méthodes d'investissement.",
-        "applications": "Sert de ressource éducative pour les investisseurs débutants cherchant à diversifier leur portefeuille sur les marchés américains."
-      },
-      {
-        "rank": 9,
         "name": "Unlimited-OCR",
         "full_name": "baidu/Unlimited-OCR",
         "html_url": "https://github.com/baidu/Unlimited-OCR",
         "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-        "stargazers_count": 4939,
+        "stargazers_count": 10469,
         "language": "Python",
         "owner": {
           "login": "baidu",
@@ -408,17 +311,77 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "Unlimited-OCR",
-        "features": "Une solution OCR illimitée capable de traiter des documents sur de longues distances et des structures complexes. Elle ouvre l'ère de l'analyse en une seule étape.",
-        "applications": "Adapté aux entreprises nécessitant une reconnaissance optique de caractères à grande échelle pour la numérisation massive de documents."
+        "translatedName": "Unlimited-OCR (Parseur longue portée)",
+        "features": "Unlimited-OCR inaugure une ère de parsing longue portée basée sur une seule passe (one-shot). Cette technologie permet d'extraire des informations de documents complexes avec une précision et une efficacité inégalées.",
+        "applications": "Destiné aux entreprises traitant de gros volumes de documents numérisés nécessitant une extraction de données automatisée et rapide."
       },
       {
-        "rank": 10,
+        "rank": 5,
+        "name": "book",
+        "full_name": "unicity-astrid/book",
+        "html_url": "https://github.com/unicity-astrid/book",
+        "description": "The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.",
+        "stargazers_count": 7558,
+        "language": "Perl",
+        "owner": {
+          "login": "unicity-astrid",
+          "avatar_url": "https://avatars.githubusercontent.com/u/261740341?v=4"
+        },
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "Book (Référence technique Astrid OS)",
+        "features": "Ce projet constitue la documentation technique de référence pour Astrid OS. Il détaille l'architecture du noyau, les capsules, l'ABI hôte et le modèle de sécurité.",
+        "applications": "Essentiel pour les contributeurs et les développeurs système travaillant sur l'implémentation ou l'extension du noyau Astrid OS."
+      },
+      {
+        "rank": 6,
+        "name": "handbook",
+        "full_name": "unicity-astrid/handbook",
+        "html_url": "https://github.com/unicity-astrid/handbook",
+        "description": "How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.",
+        "stargazers_count": 7506,
+        "language": null,
+        "owner": {
+          "login": "unicity-astrid",
+          "avatar_url": "https://avatars.githubusercontent.com/u/261740341?v=4"
+        },
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "Handbook (Guide de contribution Astrid)",
+        "features": "Le manuel explique les règles de gouvernance, la structure multi-dépôt et le processus de publication pour le projet Astrid. Il définit également le cadre de soumission des RFC et les niveaux de contribution.",
+        "applications": "Un guide indispensable pour toute personne souhaitant collaborer efficacement au développement communautaire d'Astrid OS."
+      },
+      {
+        "rank": 7,
+        "name": "improve",
+        "full_name": "shadcn/improve",
+        "html_url": "https://github.com/shadcn/improve",
+        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "stargazers_count": 6279,
+        "language": null,
+        "owner": {
+          "login": "shadcn",
+          "avatar_url": "https://avatars.githubusercontent.com/u/124599?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "Improve (Audit de code par IA)",
+        "features": "Improve utilise des modèles IA performants pour auditer des bases de code existantes et générer des plans d'action structurés. Ces plans peuvent ensuite être exécutés par des modèles plus économiques et rapides.",
+        "applications": "Optimise la qualité du code et réduit les coûts de maintenance pour les équipes de développement logiciel."
+      },
+      {
+        "rank": 8,
         "name": "PixelRAG",
         "full_name": "StarTrail-org/PixelRAG",
         "html_url": "https://github.com/StarTrail-org/PixelRAG",
         "description": "The end of web parsing. The beginning of scalable pixel-native search.",
-        "stargazers_count": 4917,
+        "stargazers_count": 5423,
         "language": "Python",
         "owner": {
           "login": "StarTrail-org",
@@ -428,17 +391,34 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "translatedName": "PixelRAG",
-        "features": "Ce projet remplace l'analyse web traditionnelle par une recherche native basée sur les pixels. Il permet une scalabilité accrue et une compréhension visuelle plus précise du contenu.",
-        "applications": "Utile pour l'extraction de données à partir d'interfaces complexes où les méthodes de parsing textuel échouent."
+        "translatedName": "PixelRAG (Recherche native par pixels)",
+        "features": "PixelRAG remplace le parsing web traditionnel par une approche de recherche native basée sur les pixels. Cette méthode permet une lecture visuelle directe des interfaces pour extraire des données avec précision.",
+        "applications": "Idéal pour l'automatisation web et l'extraction de données à partir d'interfaces complexes où le scraping HTML est inefficace."
       },
       {
-        "rank": 11,
+        "rank": 9,
+        "name": "chinese-buy-us-stock-guide",
+        "full_name": "zgwl/chinese-buy-us-stock-guide",
+        "html_url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
+        "description": "美股指南",
+        "stargazers_count": 5307,
+        "language": null,
+        "owner": {
+          "login": "zgwl",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6014068?v=4"
+        },
+        "license": null,
+        "translatedName": "Chinese-buy-us-stock-guide (Guide d'investissement aux États-Unis)",
+        "features": "Ce guide fournit des informations et des conseils détaillés sur l'investissement dans les actions américaines pour les investisseurs chinois. Il couvre les aspects réglementaires et techniques nécessaires.",
+        "applications": "Conçu pour les particuliers souhaitant comprendre les mécanismes et les plateformes pour investir sur le marché boursier américain."
+      },
+      {
+        "rank": 10,
         "name": "omnigent",
         "full_name": "omnigent-ai/omnigent",
         "html_url": "https://github.com/omnigent-ai/omnigent",
         "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-        "stargazers_count": 4642,
+        "stargazers_count": 5020,
         "language": "Python",
         "owner": {
           "login": "omnigent-ai",
@@ -448,29 +428,46 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "translatedName": "omnigent",
-        "features": "Une plateforme open-source pour orchestrer divers agents comme Claude Code, Cursor ou Codex. Elle permet de changer de moteur d'IA sans réécrire le code et d'appliquer des politiques de sécurité strictes.",
-        "applications": "Idéal pour les équipes cherchant à unifier leurs outils d'IA au sein d'une infrastructure sécurisée et collaborative."
+        "translatedName": "Omnigent (Framework multi-agents IA)",
+        "features": "Omnigent est un framework open-source qui orchestre divers agents IA comme Claude Code, Cursor ou Pi. Il permet de changer d'agent sans réécriture tout en appliquant des politiques de sécurité et de sandboxing.",
+        "applications": "Idéal pour les ingénieurs construisant des systèmes multi-agents complexes nécessitant flexibilité et collaboration en temps réel."
+      },
+      {
+        "rank": 11,
+        "name": "lottie",
+        "full_name": "diffusionstudio/lottie",
+        "html_url": "https://github.com/diffusionstudio/lottie",
+        "description": "Generate production-ready Lottie animations with Claude Code or Codex",
+        "stargazers_count": 3860,
+        "language": "TypeScript",
+        "owner": {
+          "login": "diffusionstudio",
+          "avatar_url": "https://avatars.githubusercontent.com/u/135729001?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "Lottie (Générateur d'animations Lottie)",
+        "features": "Cet outil facilite la génération d'animations Lottie prêtes pour la production via des agents comme Claude Code. Il automatise la création de ressources graphiques vectorielles animées.",
+        "applications": "Permet aux développeurs frontend de générer des animations complexes sans avoir à concevoir manuellement les fichiers JSON."
       },
       {
         "rank": 12,
-        "name": "guizang-social-card-skill",
-        "full_name": "op7418/guizang-social-card-skill",
-        "html_url": "https://github.com/op7418/guizang-social-card-skill",
-        "description": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对",
-        "stargazers_count": 3952,
-        "language": "HTML",
+        "name": "Void-Tools-v2.0",
+        "full_name": "V0id-v2/Void-Tools-v2.0",
+        "html_url": "https://github.com/V0id-v2/Void-Tools-v2.0",
+        "description": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
+        "stargazers_count": 3260,
+        "language": "Python",
         "owner": {
-          "login": "op7418",
-          "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+          "login": "V0id-v2",
+          "avatar_url": "https://avatars.githubusercontent.com/u/121522213?v=4"
         },
-        "license": {
-          "name": "GNU Affero General Public License v3.0",
-          "spdx_id": "AGPL-3.0"
-        },
-        "translatedName": "guizang-social-card-skill",
-        "features": "Un outil de génération de visuels pour réseaux sociaux comme Xiaohongshu et WeChat. Il propose 28 mises en page et 10 thèmes, convertissant des fichiers HTML simples en images PNG.",
-        "applications": "Indispensable pour les gestionnaires de médias sociaux cherchant à automatiser la création de visuels de haute qualité avec un style éditorial cohérent."
+        "license": null,
+        "translatedName": "Void-Tools-v2.0 (Multitilitaire terminal)",
+        "features": "Un outil en ligne de commande complet incluant des fonctions OSINT, des utilitaires réseau et des outils Discord. Il propose une interface terminal riche avec 13 thèmes et un système de mise à jour à distance.",
+        "applications": "Outil éducatif destiné aux passionnés de cybersécurité souhaitant explorer des techniques de reconnaissance et de gestion système dans un environnement terminal."
       }
     ],
     "three_months": [
@@ -480,7 +477,7 @@
         "full_name": "ultraworkers/claw-code",
         "html_url": "https://github.com/ultraworkers/claw-code",
         "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-        "stargazers_count": 194241,
+        "stargazers_count": 194346,
         "language": "Rust",
         "owner": {
           "login": "ultraworkers",
@@ -491,8 +488,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "claw-code",
-        "features": "Il s'agit d'une exposition muséale gérée par un agent autonome. Entièrement développé en Rust, ce projet fonctionne sans aucune intervention humaine.",
-        "applications": "Idéal pour expérimenter avec des systèmes autonomes auto-entretenus et des infrastructures de code auto-gérées."
+        "features": "Un agent autonome pour la gestion d'expositions de musée, entièrement développé en Rust. Il fonctionne sans aucune intervention humaine grâce à l'utilisation des technologies Gajae-Code et LazyCodex.",
+        "applications": "Idéal pour l'automatisation de systèmes de gestion de contenus culturels ou numériques de manière totalement autonome."
       },
       {
         "rank": 2,
@@ -500,7 +497,7 @@
         "full_name": "VoltAgent/awesome-design-md",
         "html_url": "https://github.com/VoltAgent/awesome-design-md",
         "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-        "stargazers_count": 92687,
+        "stargazers_count": 93610,
         "language": null,
         "owner": {
           "login": "VoltAgent",
@@ -511,8 +508,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "awesome-design-md",
-        "features": "Cette collection analyse les fichiers DESIGN.md des systèmes de conception de grandes marques. Elle permet aux agents de codage de générer des interfaces utilisateur parfaitement adaptées.",
-        "applications": "Parfait pour les développeurs souhaitant aligner automatiquement leur interface utilisateur avec les standards de design établis par de grandes entreprises."
+        "features": "Une collection de fichiers DESIGN.md analysés provenant de systèmes de design de marques populaires. Cet outil permet aux agents de codage de générer des interfaces utilisateur parfaitement adaptées aux standards de design.",
+        "applications": "Utilisé par les développeurs frontend et les concepteurs pour automatiser la création d'UI cohérentes avec des guides de style spécifiques."
       },
       {
         "rank": 3,
@@ -520,7 +517,7 @@
         "full_name": "pewdiepie-archdaemon/odysseus",
         "html_url": "https://github.com/pewdiepie-archdaemon/odysseus",
         "description": "Self-hosted AI workspace. ",
-        "stargazers_count": 77067,
+        "stargazers_count": 78253,
         "language": "Python",
         "owner": {
           "login": "pewdiepie-archdaemon",
@@ -531,8 +528,8 @@
           "spdx_id": "AGPL-3.0"
         },
         "translatedName": "odysseus",
-        "features": "Un espace de travail IA auto-hébergé offrant un contrôle total sur vos données. Il intègre des outils d'IA pour optimiser le flux de travail des développeurs.",
-        "applications": "Conçu pour les développeurs soucieux de la confidentialité qui préfèrent héberger leurs propres outils d'assistance IA."
+        "features": "Un espace de travail IA auto-hébergé offrant une confidentialité totale des données. Il centralise les outils de développement assistés par intelligence artificielle dans un environnement privé.",
+        "applications": "Parfait pour les entreprises et développeurs souhaitant bénéficier de la puissance de l'IA tout en gardant un contrôle total sur leur infrastructure locale."
       },
       {
         "rank": 4,
@@ -540,7 +537,7 @@
         "full_name": "JuliusBrussee/caveman",
         "html_url": "https://github.com/JuliusBrussee/caveman",
         "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "stargazers_count": 76363,
+        "stargazers_count": 77261,
         "language": "JavaScript",
         "owner": {
           "login": "JuliusBrussee",
@@ -551,8 +548,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "caveman",
-        "features": "Un outil de compétence pour Claude Code qui optimise l'utilisation des jetons en utilisant un langage simplifié. Il permet de réduire la consommation de jetons jusqu'à 65 %.",
-        "applications": "Utile pour réduire les coûts d'utilisation des API lors de longues sessions de chat avec des agents de codage."
+        "features": "Un plugin pour Claude Code qui optimise radicalement la consommation de jetons en simplifiant le langage de communication de l'agent. Il réduit l'utilisation des tokens de 65% en adoptant un style de communication minimaliste.",
+        "applications": "Recommandé pour réduire les coûts d'utilisation des API d'IA lors de tâches de codage complexes et répétitives."
       },
       {
         "rank": 5,
@@ -560,7 +557,7 @@
         "full_name": "safishamsi/graphify",
         "html_url": "https://github.com/safishamsi/graphify",
         "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-        "stargazers_count": 71371,
+        "stargazers_count": 72642,
         "language": "Python",
         "owner": {
           "login": "safishamsi",
@@ -571,8 +568,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "graphify",
-        "features": "Cet outil transforme divers fichiers de code et de documentation en un graphe de connaissances interrogeable. Il unifie le code applicatif, les schémas de base de données et l'infrastructure.",
-        "applications": "Idéal pour les ingénieurs souhaitant cartographier des architectures complexes pour faciliter la compréhension du système."
+        "features": "Un assistant de codage capable de convertir des dossiers entiers de code, bases de données, scripts et documents en un graphe de connaissances interrogeable. Il unifie la structure logicielle et infrastructurelle dans une seule base de données graphique.",
+        "applications": "Utile pour cartographier des architectures complexes ou effectuer des recherches sémantiques transversales sur de larges bases de code."
       },
       {
         "rank": 6,
@@ -580,7 +577,7 @@
         "full_name": "nexu-io/open-design",
         "html_url": "https://github.com/nexu-io/open-design",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
-        "stargazers_count": 70343,
+        "stargazers_count": 71689,
         "language": "TypeScript",
         "owner": {
           "login": "nexu-io",
@@ -591,56 +588,16 @@
           "spdx_id": "Apache-2.0"
         },
         "translatedName": "open-design",
-        "features": "Une alternative open-source locale à Claude Design fonctionnant nativement sur bureau. Il prend en charge plus de 17 CLI et permet l'exportation vers divers formats comme HTML, PDF et MP4.",
-        "applications": "Parfait pour les designers et développeurs cherchant une plateforme locale et polyvalente pour le prototypage rapide."
+        "features": "Une alternative open-source locale à Claude Design, offrant une application native riche en fonctionnalités. Elle supporte plus de 17 CLI différents et permet de prototyper sur diverses plateformes avec des exports flexibles.",
+        "applications": "Destiné aux designers et développeurs cherchant un environnement de conception local et sécurisé compatible avec de multiples modèles d'IA."
       },
       {
         "rank": 7,
-        "name": "mempalace",
-        "full_name": "MemPalace/mempalace",
-        "html_url": "https://github.com/MemPalace/mempalace",
-        "description": "The best-benchmarked open-source AI memory system. And it's free.",
-        "stargazers_count": 56261,
-        "language": "Python",
-        "owner": {
-          "login": "MemPalace",
-          "avatar_url": "https://avatars.githubusercontent.com/u/275135684?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "mempalace",
-        "features": "Un système de mémoire pour IA open-source hautement performant et gratuit. Il se concentre sur l'efficacité du stockage et de la récupération des données pour les agents.",
-        "applications": "Utilisé pour améliorer la rétention d'informations et la contextualisation à long terme des agents IA."
-      },
-      {
-        "rank": 8,
-        "name": "career-ops",
-        "full_name": "santifer/career-ops",
-        "html_url": "https://github.com/santifer/career-ops",
-        "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-        "stargazers_count": 55475,
-        "language": "JavaScript",
-        "owner": {
-          "login": "santifer",
-          "avatar_url": "https://avatars.githubusercontent.com/u/256850418?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "career-ops",
-        "features": "Un système de recherche d'emploi optimisé par IA, construit sur Claude Code. Il inclut 14 modes de compétences, un tableau de bord et des capacités de génération de PDF.",
-        "applications": "Conçu pour automatiser et rationaliser le processus de recherche d'emploi pour les professionnels en transition."
-      },
-      {
-        "rank": 9,
         "name": "ponytail",
         "full_name": "DietrichGebert/ponytail",
         "html_url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stargazers_count": 53503,
+        "stargazers_count": 60308,
         "language": "JavaScript",
         "owner": {
           "login": "DietrichGebert",
@@ -651,8 +608,48 @@
           "spdx_id": "MIT"
         },
         "translatedName": "ponytail",
-        "features": "Ce projet incite votre agent IA à adopter une approche de développeur senior minimaliste. Il privilégie l'efficacité en évitant l'écriture de code superflu.",
-        "applications": "Idéal pour les équipes cherchant à réduire la dette technique en favorisant des solutions simples et concises."
+        "features": "Un outil conçu pour faire adopter à l'IA un comportement de développeur senior pragmatique et minimaliste. Il privilégie l'efficacité en évitant l'écriture de code superflu.",
+        "applications": "Idéal pour les projets où la simplicité, la maintenabilité et la réduction du code mort sont les priorités absolues."
+      },
+      {
+        "rank": 8,
+        "name": "mempalace",
+        "full_name": "MemPalace/mempalace",
+        "html_url": "https://github.com/MemPalace/mempalace",
+        "description": "The best-benchmarked open-source AI memory system. And it's free.",
+        "stargazers_count": 56555,
+        "language": "Python",
+        "owner": {
+          "login": "MemPalace",
+          "avatar_url": "https://avatars.githubusercontent.com/u/275135684?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "mempalace",
+        "features": "Un système de mémoire pour IA open-source et gratuit, optimisé pour une haute performance. Il offre des capacités de mémorisation et de rappel des informations avec des benchmarks rigoureux.",
+        "applications": "Utilisé pour améliorer la rétention de contexte à long terme des agents IA dans des applications complexes."
+      },
+      {
+        "rank": 9,
+        "name": "career-ops",
+        "full_name": "santifer/career-ops",
+        "html_url": "https://github.com/santifer/career-ops",
+        "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+        "stargazers_count": 55970,
+        "language": "JavaScript",
+        "owner": {
+          "login": "santifer",
+          "avatar_url": "https://avatars.githubusercontent.com/u/256850418?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "career-ops",
+        "features": "Un système de recherche d'emploi propulsé par Claude Code incluant 14 modes de compétences spécialisés. Il gère la génération de documents PDF, le suivi via tableau de bord et le traitement par lots.",
+        "applications": "Conçu pour les chercheurs d'emploi automatisant les candidatures et la gestion des offres sur une large échelle."
       },
       {
         "rank": 10,
@@ -660,7 +657,7 @@
         "full_name": "Gitlawb/openclaude",
         "html_url": "https://github.com/Gitlawb/openclaude",
         "description": "runs anywhere. uses anything",
-        "stargazers_count": 29318,
+        "stargazers_count": 29431,
         "language": "TypeScript",
         "owner": {
           "login": "Gitlawb",
@@ -671,8 +668,8 @@
           "spdx_id": "NOASSERTION"
         },
         "translatedName": "openclaude",
-        "features": "Une solution flexible conçue pour s'exécuter n'importe où et s'intégrer avec n'importe quelle source. Elle offre une grande adaptabilité pour les déploiements hétérogènes.",
-        "applications": "Adapté aux ingénieurs ayant besoin d'une couche d'abstraction logicielle capable de s'adapter à divers environnements."
+        "features": "Une solution flexible conçue pour fonctionner sur n'importe quel environnement tout en utilisant divers modèles sous-jacents. Sa structure modulaire assure une compatibilité universelle.",
+        "applications": "Idéal pour les développeurs ayant besoin d'une interface d'agent flexible capable de s'adapter à divers backends technologiques."
       },
       {
         "rank": 11,
@@ -680,7 +677,7 @@
         "full_name": "alchaincyf/nuwa-skill",
         "html_url": "https://github.com/alchaincyf/nuwa-skill",
         "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-        "stargazers_count": 25523,
+        "stargazers_count": 25916,
         "language": "Python",
         "owner": {
           "login": "alchaincyf",
@@ -691,8 +688,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "nuwa-skill",
-        "features": "Cet outil permet de distiller le modèle mental, la logique décisionnelle et le style d'expression de n'importe quel individu. Il vise à modéliser la pensée humaine pour l'IA.",
-        "applications": "Utilisé pour créer des agents IA qui imitent les processus de réflexion et le savoir-faire de collègues spécifiques."
+        "features": "Un outil de distillation capable de capturer et reproduire les modèles mentaux, l'heuristique décisionnelle et l'ADN d'expression d'un individu. Il permet de transformer l'expertise humaine en un modèle de pensée réplicable par l'IA.",
+        "applications": "Utilisé pour créer des assistants numériques personnalisés qui imitent le processus de réflexion et le style de prise de décision d'experts spécifiques."
       },
       {
         "rank": 12,
@@ -700,7 +697,7 @@
         "full_name": "esengine/DeepSeek-Reasonix",
         "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
         "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-        "stargazers_count": 24280,
+        "stargazers_count": 24972,
         "language": "Go",
         "owner": {
           "login": "esengine",
@@ -711,8 +708,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "DeepSeek-Reasonix",
-        "features": "Un agent de codage natif pour DeepSeek conçu spécifiquement pour le terminal. Il est optimisé autour de la stabilité du cache de préfixe pour une exécution continue.",
-        "applications": "Idéal pour les développeurs travaillant dans le terminal qui souhaitent un agent capable de rester actif sur de longues périodes."
+        "features": "Un agent de codage natif DeepSeek optimisé pour le terminal avec une gestion stable du cache de préfixes. Il est conçu pour rester actif en continu sans dégradation de performance.",
+        "applications": "Recommandé pour les développeurs backend qui souhaitent un assistant IA always-on directement intégré dans leur flux de travail terminal."
       }
     ],
     "year": [
@@ -722,7 +719,7 @@
         "full_name": "openclaw/openclaw",
         "html_url": "https://github.com/openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-        "stargazers_count": 380214,
+        "stargazers_count": 380629,
         "language": "TypeScript",
         "owner": {
           "login": "openclaw",
@@ -733,8 +730,8 @@
           "spdx_id": "NOASSERTION"
         },
         "translatedName": "OpenClaw",
-        "features": "OpenClaw est un assistant personnel IA multiplateforme conçu pour être universel et accessible sur tous les systèmes d'exploitation. Il adopte une approche modulaire et flexible pour automatiser diverses tâches quotidiennes.",
-        "applications": "Idéal pour les utilisateurs souhaitant un assistant IA centralisé fonctionnant de manière fluide sur n'importe quel appareil."
+        "features": "OpenClaw est un assistant personnel basé sur l'IA, conçu pour fonctionner sur n'importe quel système d'exploitation ou plateforme. Il se distingue par une approche unique et polyvalente de l'automatisation des tâches quotidiennes.",
+        "applications": "Idéal pour les utilisateurs souhaitant une assistance intelligente et multiplateforme centralisée."
       },
       {
         "rank": 2,
@@ -742,7 +739,7 @@
         "full_name": "obra/superpowers",
         "html_url": "https://github.com/obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
-        "stargazers_count": 237338,
+        "stargazers_count": 239490,
         "language": "Shell",
         "owner": {
           "login": "obra",
@@ -753,8 +750,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "Superpowers",
-        "features": "Superpowers fournit un framework complet pour le développement de compétences agentiques et une méthodologie logicielle robuste. Il se concentre sur l'efficacité opérationnelle des agents autonomes dans des flux de travail complexes.",
-        "applications": "Destiné aux ingénieurs et développeurs souhaitant structurer et industrialiser le déploiement d'agents IA dans leurs projets."
+        "features": "Superpowers fournit un cadre robuste pour le développement de compétences agentiques et une méthodologie logicielle structurée. Il facilite la création de systèmes autonomes capables d'exécuter des processus complexes.",
+        "applications": "Utilisé par les développeurs cherchant à structurer et industrialiser le déploiement d'agents intelligents."
       },
       {
         "rank": 3,
@@ -762,7 +759,7 @@
         "full_name": "affaan-m/ECC",
         "html_url": "https://github.com/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stargazers_count": 220842,
+        "stargazers_count": 222220,
         "language": "JavaScript",
         "owner": {
           "login": "affaan-m",
@@ -773,8 +770,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "ECC (Agent Harness)",
-        "features": "Ce système optimise les performances des agents via une gestion avancée des compétences, de la mémoire et de la sécurité. Il est conçu pour améliorer l'interaction avec des outils comme Claude Code ou Cursor.",
-        "applications": "Utile pour optimiser les performances et la précision des agents de codage dans des environnements de développement exigeants."
+        "features": "Ce système optimise les performances des agents via des compétences, une mémoire dédiée et des protocoles de sécurité renforcés. Il se concentre sur une approche de recherche pour améliorer l'efficacité des outils comme Claude Code ou Cursor.",
+        "applications": "Destiné aux ingénieurs souhaitant maximiser la précision et la rapidité de leurs environnements de codage assistés par IA."
       },
       {
         "rank": 4,
@@ -782,7 +779,7 @@
         "full_name": "NousResearch/hermes-agent",
         "html_url": "https://github.com/NousResearch/hermes-agent",
         "description": "The agent that grows with you",
-        "stargazers_count": 201432,
+        "stargazers_count": 203836,
         "language": "Python",
         "owner": {
           "login": "NousResearch",
@@ -793,8 +790,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "Hermes-Agent",
-        "features": "Hermes-Agent est un agent intelligent conçu pour évoluer et apprendre en tandem avec l'utilisateur. Il s'adapte progressivement aux préférences et aux besoins spécifiques de son environnement.",
-        "applications": "Convient aux utilisateurs cherchant une solution IA évolutive qui s'améliore continuellement avec le temps."
+        "features": "Hermes-Agent est un agent IA évolutif conçu pour s'adapter et progresser en fonction des interactions avec l'utilisateur. Il favorise un apprentissage continu pour répondre à des besoins croissants.",
+        "applications": "Parfait pour les utilisateurs cherchant un assistant qui s'améliore et se personnalise au fil du temps."
       },
       {
         "rank": 5,
@@ -802,7 +799,7 @@
         "full_name": "ultraworkers/claw-code",
         "html_url": "https://github.com/ultraworkers/claw-code",
         "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-        "stargazers_count": 194241,
+        "stargazers_count": 194346,
         "language": "Rust",
         "owner": {
           "login": "ultraworkers",
@@ -813,8 +810,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "Claw-Code",
-        "features": "Développé en Rust, Claw-Code est une vitrine technologique gérée entièrement par un agent sans intervention humaine. Il démontre les capacités de maintenance autonome du code.",
-        "applications": "Un excellent exemple pour les chercheurs en IA intéressés par l'ingénierie logicielle autonome et les systèmes auto-gérés."
+        "features": "Claw-Code est un projet innovant écrit en Rust qui fonctionne comme une exposition muséale entièrement gérée par IA. Il est maintenu sans aucune intervention humaine, illustrant l'autonomie totale du code.",
+        "applications": "Un exemple d'étude pour la maintenance logicielle autonome et les systèmes auto-gérés."
       },
       {
         "rank": 6,
@@ -822,7 +819,7 @@
         "full_name": "multica-ai/andrej-karpathy-skills",
         "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "stargazers_count": 181265,
+        "stargazers_count": 182920,
         "language": null,
         "owner": {
           "login": "multica-ai",
@@ -830,8 +827,8 @@
         },
         "license": null,
         "translatedName": "Andrej-Karpathy-Skills",
-        "features": "Il s'agit d'un ensemble de configurations basées sur les observations d'Andrej Karpathy sur les erreurs courantes des LLM. Il optimise le comportement des outils de codage comme Claude Code.",
-        "applications": "Indispensable pour les développeurs utilisant Claude Code souhaitant minimiser les erreurs de codage et améliorer la logique de leur assistant."
+        "features": "Basé sur les observations d'Andrej Karpathy, ce fichier CLAUDE.md optimise le comportement des agents de codage. Il cible spécifiquement les pièges courants rencontrés lors du développement assisté par LLM.",
+        "applications": "Recommandé pour les développeurs souhaitant améliorer la fiabilité et la qualité du code généré par Claude Code."
       },
       {
         "rank": 7,
@@ -839,7 +836,7 @@
         "full_name": "anthropics/skills",
         "html_url": "https://github.com/anthropics/skills",
         "description": "Public repository for Agent Skills",
-        "stargazers_count": 154556,
+        "stargazers_count": 155605,
         "language": "Python",
         "owner": {
           "login": "anthropics",
@@ -847,8 +844,8 @@
         },
         "license": null,
         "translatedName": "Skills (Anthropic)",
-        "features": "Ce dépôt officiel fournit une bibliothèque standardisée de compétences pour les agents. Il sert de ressource fondamentale pour définir les capacités des agents IA.",
-        "applications": "Utilisé par les développeurs pour intégrer des fonctionnalités standardisées et fiables dans leurs propres déploiements d'agents."
+        "features": "Ce dépôt public centralise des compétences essentielles pour les agents, facilitant leur intégration dans des flux de travail variés. Il propose des modules standardisés pour améliorer les capacités opérationnelles des agents.",
+        "applications": "Utile pour les développeurs utilisant des outils Anthropic et cherchant des bibliothèques de compétences prêtes à l'emploi."
       },
       {
         "rank": 8,
@@ -856,7 +853,7 @@
         "full_name": "mattpocock/skills",
         "html_url": "https://github.com/mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
-        "stargazers_count": 144077,
+        "stargazers_count": 147570,
         "language": "Shell",
         "owner": {
           "login": "mattpocock",
@@ -867,56 +864,16 @@
           "spdx_id": "MIT"
         },
         "translatedName": "Skills (Matt Pocock)",
-        "features": "Cette collection propose des compétences pratiques conçues pour les ingénieurs réels. Elle est directement extraite de la configuration personnelle de l'auteur pour un usage professionnel immédiat.",
-        "applications": "Parfait pour les ingénieurs logiciels cherchant à configurer efficacement leur environnement de travail IA pour une productivité accrue."
+        "features": "Cette collection regroupe des compétences optimisées pour les ingénieurs logiciels professionnels. Les configurations sont issues directement du répertoire .claude de l'auteur pour une productivité accrue.",
+        "applications": "Idéal pour les ingénieurs logiciels cherchant à configurer efficacement leurs agents de codage pour des tâches complexes."
       },
       {
         "rank": 9,
-        "name": "agency-agents",
-        "full_name": "msitarzewski/agency-agents",
-        "html_url": "https://github.com/msitarzewski/agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "stargazers_count": 115490,
-        "language": "Shell",
-        "owner": {
-          "login": "msitarzewski",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1972242?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "Agency-Agents",
-        "features": "Ce projet propose une équipe complète d'agents spécialisés, chacun doté d'une personnalité et de rôles spécifiques allant du développement frontend à la gestion de communauté. Il offre une solution tout-en-un pour les besoins créatifs et techniques.",
-        "applications": "Idéal pour les équipes ou freelances souhaitant automatiser des workflows complexes incluant design, développement et communication."
-      },
-      {
-        "rank": 10,
-        "name": "spec-kit",
-        "full_name": "github/spec-kit",
-        "html_url": "https://github.com/github/spec-kit",
-        "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-        "stargazers_count": 115150,
-        "language": "Python",
-        "owner": {
-          "login": "github",
-          "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "Spec-Kit",
-        "features": "Spec-Kit est une boîte à outils facilitant l'adoption du développement axé sur les spécifications (Spec-Driven Development). Il aide à structurer les projets dès le départ pour assurer une meilleure qualité.",
-        "applications": "Recommandé pour les développeurs souhaitant renforcer la rigueur et la clarté dans le processus de développement logiciel."
-      },
-      {
-        "rank": 11,
         "name": "gstack",
         "full_name": "garrytan/gstack",
         "html_url": "https://github.com/garrytan/gstack",
         "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "stargazers_count": 114551,
+        "stargazers_count": 116685,
         "language": "TypeScript",
         "owner": {
           "login": "garrytan",
@@ -927,8 +884,48 @@
           "spdx_id": "MIT"
         },
         "translatedName": "GStack",
-        "features": "GStack implémente une configuration experte comprenant 23 outils spécialisés agissant comme une équipe de direction complète. Il couvre les rôles de gestion, de design, de QA et de documentation.",
-        "applications": "Conçu pour les créateurs et entrepreneurs utilisant Claude Code qui souhaitent bénéficier d'une structure de projet professionnelle et automatisée."
+        "features": "GStack implémente la configuration complète de Garry Tan, incluant 23 outils spécialisés. Ces outils permettent d'assumer des rôles divers allant du CEO au QA en passant par le designer.",
+        "applications": "Parfait pour les entrepreneurs ou chefs de projet souhaitant automatiser les rôles opérationnels au sein de leur environnement de développement."
+      },
+      {
+        "rank": 10,
+        "name": "agency-agents",
+        "full_name": "msitarzewski/agency-agents",
+        "html_url": "https://github.com/msitarzewski/agency-agents",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "stargazers_count": 116033,
+        "language": "Shell",
+        "owner": {
+          "login": "msitarzewski",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1972242?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "Agency-Agents",
+        "features": "Il s'agit d'une suite complète d'agents spécialisés capables de couvrir des domaines allant du développement frontend au marketing communautaire. Chaque agent possède une personnalité et des processus de travail distincts.",
+        "applications": "Conçu pour les agences ou équipes cherchant à déléguer des tâches variées à des experts IA spécialisés."
+      },
+      {
+        "rank": 11,
+        "name": "spec-kit",
+        "full_name": "github/spec-kit",
+        "html_url": "https://github.com/github/spec-kit",
+        "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+        "stargazers_count": 115723,
+        "language": "Python",
+        "owner": {
+          "login": "github",
+          "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "Spec-Kit",
+        "features": "Le Spec-Kit est une boîte à outils facilitant l'adoption du développement piloté par les spécifications (Spec-Driven Development). Il aide à formaliser les exigences pour un cycle de développement plus rigoureux.",
+        "applications": "Essentiel pour les équipes de développement visant une meilleure clarté et une conformité accrue dès la phase de conception."
       },
       {
         "rank": 12,
@@ -936,7 +933,7 @@
         "full_name": "farion1231/cc-switch",
         "html_url": "https://github.com/farion1231/cc-switch",
         "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
-        "stargazers_count": 107463,
+        "stargazers_count": 109078,
         "language": "Rust",
         "owner": {
           "login": "farion1231",
@@ -947,8 +944,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "CC-Switch",
-        "features": "Il s'agit d'un assistant de bureau tout-en-un multiplateforme unifiant divers outils comme Claude Code, Codex, Gemini CLI et Hermes Agent. Il simplifie la gestion des agents via une interface centralisée.",
-        "applications": "Indispensable pour les utilisateurs qui jonglent avec plusieurs outils IA et souhaitent un point d'entrée unique et ergonomique."
+        "features": "CC-Switch est une solution tout-en-un multiplateforme permettant de basculer facilement entre différents assistants comme Claude Code, Gemini CLI et Hermes Agent. Il centralise l'accès à divers outils dans une seule interface de bureau.",
+        "applications": "Idéal pour les utilisateurs utilisant plusieurs outils d'IA simultanément et souhaitant une gestion unifiée."
       }
     ],
     "audio_video": [
@@ -958,7 +955,7 @@
         "full_name": "safishamsi/graphify",
         "html_url": "https://github.com/safishamsi/graphify",
         "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-        "stargazers_count": 71371,
+        "stargazers_count": 72642,
         "language": "Python",
         "owner": {
           "login": "safishamsi",
@@ -969,8 +966,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "graphify",
-        "features": "Graphify transforme divers types de fichiers, du code aux documents et médias, en un graphe de connaissances interrogeable. Il intègre harmonieusement le code, les schémas de base de données et l'infrastructure au sein d'une structure unifiée.",
-        "applications": "Idéal pour les développeurs et ingénieurs cherchant à visualiser et interroger des systèmes complexes et des bases de connaissances volumineuses."
+        "features": "Graphify transforme divers fichiers de code, bases de données et documents en un graphe de connaissances interrogeable. Il intègre nativement des assistants IA pour analyser le code, le schéma de base de données et l'infrastructure au sein d'une seule interface.",
+        "applications": "Idéal pour les développeurs et ingénieurs DevOps souhaitant cartographier et interroger facilement des projets complexes et leurs dépendances."
       },
       {
         "rank": 2,
@@ -978,7 +975,7 @@
         "full_name": "nexu-io/open-design",
         "html_url": "https://github.com/nexu-io/open-design",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
-        "stargazers_count": 70343,
+        "stargazers_count": 71689,
         "language": "TypeScript",
         "owner": {
           "login": "nexu-io",
@@ -989,8 +986,8 @@
           "spdx_id": "Apache-2.0"
         },
         "translatedName": "open-design",
-        "features": "Cette plateforme de conception locale privilégie la confidentialité et propose plus de 259 compétences et 142 systèmes de design. Elle permet de générer des prototypes, des diapositives et des médias tout en étant compatible avec une multitude d'assistants de codage.",
-        "applications": "Parfait pour les designers et créateurs de contenu souhaitant un outil de prototypage tout-en-un puissant, local et open-source."
+        "features": "Une plateforme de design open-source axée sur le local, compatible avec de nombreux systèmes de design et outils d'IA. Elle permet de créer des prototypes web, mobile et des présentations multimédias avec export flexible en HTML, PDF ou MP4.",
+        "applications": "Parfait pour les designers et développeurs recherchant une alternative open-source aux outils de design propriétaires pour créer des prototypes assistés par IA."
       },
       {
         "rank": 3,
@@ -998,7 +995,7 @@
         "full_name": "calesthio/OpenMontage",
         "html_url": "https://github.com/calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-        "stargazers_count": 17231,
+        "stargazers_count": 23784,
         "language": "Python",
         "owner": {
           "login": "calesthio",
@@ -1009,8 +1006,8 @@
           "spdx_id": "AGPL-3.0"
         },
         "translatedName": "OpenMontage",
-        "features": "Il s'agit d'un système de production vidéo agentique exploitant plus de 500 compétences d'agents spécialisés. Il transforme les assistants de codage en véritables studios de production vidéo automatisés via 12 pipelines dédiés.",
-        "applications": "Destiné aux créateurs de vidéos et aux développeurs souhaitant automatiser des flux de travail complexes de production audiovisuelle grâce à l'IA."
+        "features": "Un système de production vidéo agentique composé de 12 pipelines et plus de 500 compétences pour agents IA. Il automatise le flux de travail de production vidéo complexe.",
+        "applications": "Destiné aux créateurs de contenu et studios souhaitant transformer leurs assistants de codage en studios de production vidéo automatisés."
       },
       {
         "rank": 4,
@@ -1018,7 +1015,7 @@
         "full_name": "browser-use/video-use",
         "html_url": "https://github.com/browser-use/video-use",
         "description": "Edit videos with coding agents",
-        "stargazers_count": 10123,
+        "stargazers_count": 10369,
         "language": "Python",
         "owner": {
           "login": "browser-use",
@@ -1029,8 +1026,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "video-use",
-        "features": "Video-use permet l'édition et la manipulation de contenu vidéo directement via des agents de codage. Il offre une interface programmable pour automatiser les tâches d'édition.",
-        "applications": "Utile pour automatiser le montage vidéo répétitif ou complexe par le biais de scripts et d'instructions par IA."
+        "features": "Un outil spécialisé permettant aux agents de codage d'intervenir directement dans le montage vidéo. Il automatise les tâches d'édition via des commandes textuelles ou programmatiques.",
+        "applications": "Utile pour les monteurs vidéo et les développeurs souhaitant intégrer le montage automatisé dans leurs workflows de développement."
       },
       {
         "rank": 5,
@@ -1038,7 +1035,7 @@
         "full_name": "palmier-io/palmier-pro",
         "html_url": "https://github.com/palmier-io/palmier-pro",
         "description": "macOS video editor built for AI",
-        "stargazers_count": 8660,
+        "stargazers_count": 9115,
         "language": "Swift",
         "owner": {
           "login": "palmier-io",
@@ -1049,8 +1046,8 @@
           "spdx_id": "GPL-3.0"
         },
         "translatedName": "palmier-pro",
-        "features": "Palmier-pro est un éditeur vidéo natif pour macOS, spécifiquement optimisé pour intégrer des fonctionnalités d'intelligence artificielle. Il offre une expérience utilisateur fluide et performante sur les machines Apple.",
-        "applications": "Conçu pour les monteurs vidéo sur macOS souhaitant exploiter les dernières avancées de l'IA dans leur flux de travail quotidien."
+        "features": "Un logiciel de montage vidéo pour macOS conçu spécifiquement pour l'IA, offrant une expérience fluide et intégrée. Il optimise le traitement vidéo sur l'écosystème Apple.",
+        "applications": "Ciblé vers les professionnels de l'image sur Mac qui souhaitent accélérer leur montage grâce à l'assistance de l'intelligence artificielle."
       },
       {
         "rank": 6,
@@ -1058,7 +1055,7 @@
         "full_name": "k2-fsa/OmniVoice",
         "html_url": "https://github.com/k2-fsa/OmniVoice",
         "description": "High-Quality Voice Cloning TTS for 600+ Languages",
-        "stargazers_count": 7700,
+        "stargazers_count": 7789,
         "language": "Python",
         "owner": {
           "login": "k2-fsa",
@@ -1069,8 +1066,8 @@
           "spdx_id": "Apache-2.0"
         },
         "translatedName": "OmniVoice",
-        "features": "Ce projet propose une technologie de clonage vocal de haute qualité supportant plus de 600 langues. Il s'appuie sur des modèles avancés pour offrir une synthèse vocale (TTS) naturelle et multilingue.",
-        "applications": "Idéal pour le doublage international, les applications de communication et la création de voix synthétiques personnalisées pour divers services."
+        "features": "Une technologie de clonage vocal et de synthèse vocale (TTS) de haute qualité prenant en charge plus de 600 langues. Elle se distingue par sa précision et sa polyvalence linguistique.",
+        "applications": "Idéal pour les applications de localisation de contenu, de narration automatique et d'interfaces vocales multilingues mondiales."
       },
       {
         "rank": 7,
@@ -1078,7 +1075,7 @@
         "full_name": "debpalash/OmniVoice-Studio",
         "html_url": "https://github.com/debpalash/OmniVoice-Studio",
         "description": "The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App",
-        "stargazers_count": 7519,
+        "stargazers_count": 7669,
         "language": "Python",
         "owner": {
           "login": "debpalash",
@@ -1089,8 +1086,8 @@
           "spdx_id": "NOASSERTION"
         },
         "translatedName": "OmniVoice-Studio",
-        "features": "OmniVoice-Studio est une alternative open-source à ElevenLabs, conçue pour le clonage vocal, la dictée et le doublage local. Cette application de bureau centralise tous les outils nécessaires à la création audio.",
-        "applications": "Parfait pour les utilisateurs souhaitant une solution de clonage vocal robuste, gratuite et tournant localement sur leur ordinateur."
+        "features": "Une application de bureau open-source offrant des outils de clonage vocal, de doublage et de dictée. Elle constitue une alternative locale et gratuite à ElevenLabs.",
+        "applications": "Parfait pour les créateurs de contenu nécessitant une solution de voix off privée et locale sans les coûts des services cloud payants."
       },
       {
         "rank": 8,
@@ -1098,7 +1095,7 @@
         "full_name": "averygan/reclip",
         "html_url": "https://github.com/averygan/reclip",
         "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-        "stargazers_count": 6215,
+        "stargazers_count": 6230,
         "language": "HTML",
         "owner": {
           "login": "averygan",
@@ -1109,8 +1106,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "reclip",
-        "features": "Reclip est un téléchargeur de médias léger et auto-hébergé avec une interface web intuitive. Il permet de récupérer facilement des vidéos depuis presque n'importe quel site web.",
-        "applications": "Outil pratique pour archiver des contenus vidéo en ligne pour une consultation hors ligne, sans dépendre de services tiers."
+        "features": "Un téléchargeur multimédia léger, auto-hébergé et doté d'une interface web épurée. Il permet de récupérer facilement des vidéos à partir de presque n'importe quel site web.",
+        "applications": "Utile pour les utilisateurs cherchant à archiver des vidéos web simplement sans dépendre de services tiers complexes."
       },
       {
         "rank": 9,
@@ -1118,7 +1115,7 @@
         "full_name": "OpenMOSS/MOSS-TTS-Nano",
         "html_url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
         "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-        "stargazers_count": 3711,
+        "stargazers_count": 3768,
         "language": "Python",
         "owner": {
           "login": "OpenMOSS",
@@ -1129,8 +1126,8 @@
           "spdx_id": "Apache-2.0"
         },
         "translatedName": "MOSS-TTS-Nano",
-        "features": "Ce modèle de synthèse vocale multilingue est ultra-léger, avec seulement 0,1 milliard de paramètres. Il peut fonctionner directement sur le processeur (CPU) sans nécessiter de carte graphique dédiée.",
-        "applications": "Idéal pour l'intégration dans des applications légères, des démonstrations en temps réel ou des environnements avec des ressources matérielles limitées."
+        "features": "Un modèle de synthèse vocale multilingue ultra-léger (0,1 milliard de paramètres) capable de fonctionner sur CPU en temps réel. Il simplifie grandement le déploiement local et l'intégration dans des produits légers.",
+        "applications": "Convient aux développeurs créant des applications avec des contraintes matérielles strictes ou nécessitant une synthèse vocale rapide sur appareil."
       },
       {
         "rank": 10,
@@ -1138,7 +1135,7 @@
         "full_name": "nexu-io/html-video",
         "html_url": "https://github.com/nexu-io/html-video",
         "description": "Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
-        "stargazers_count": 3490,
+        "stargazers_count": 3565,
         "language": "HTML",
         "owner": {
           "login": "nexu-io",
@@ -1149,8 +1146,8 @@
           "spdx_id": "Apache-2.0"
         },
         "translatedName": "html-video",
-        "features": "Ce projet permet de transformer du HTML, du CSS et des données en vidéos MP4 programmables. Il inclut 21 modèles et un moteur de rendu par IA sans frais de traitement par vidéo.",
-        "applications": "Utilisé par les agents de codage et les développeurs pour générer automatiquement du contenu vidéo dynamique et personnalisé à partir de données web."
+        "features": "Permet de générer des vidéos programmatiques à partir de HTML, CSS et de données. Ce projet propose divers moteurs de rendu sans frais par rendu, facilitant la création automatique de vidéos.",
+        "applications": "Idéal pour automatiser la création de vidéos promotionnelles ou dynamiques directement à partir de sources web pour les agents IA."
       },
       {
         "rank": 11,
@@ -1158,7 +1155,7 @@
         "full_name": "MisoLabsAI/MisoTTS",
         "html_url": "https://github.com/MisoLabsAI/MisoTTS",
         "description": "Miso TTS is an 8 billion, highly emotive text-to-speech model",
-        "stargazers_count": 2997,
+        "stargazers_count": 3019,
         "language": "Python",
         "owner": {
           "login": "MisoLabsAI",
@@ -1169,28 +1166,28 @@
           "spdx_id": "NOASSERTION"
         },
         "translatedName": "MisoTTS",
-        "features": "MisoTTS est un modèle de synthèse vocale de 8 milliards de paramètres reconnu pour son expressivité émotionnelle élevée. Il génère une parole humaine riche et nuancée à partir de texte.",
-        "applications": "Conçu pour les applications nécessitant une voix narrative de haute qualité, comme les livres audio, les jeux vidéo ou les assistants virtuels sophistiqués."
+        "features": "Un modèle de synthèse vocale puissant de 8 milliards de paramètres, reconnu pour sa capacité à produire une élocution très expressive et naturelle.",
+        "applications": "Recommandé pour les projets nécessitant une voix de haute qualité émotionnelle, comme les narrations de livres audio ou les personnages virtuels."
       },
       {
         "rank": 12,
-        "name": "openless",
-        "full_name": "Open-Less/openless",
-        "html_url": "https://github.com/Open-Less/openless",
-        "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
-        "stargazers_count": 2480,
-        "language": "HTML",
+        "name": "claude-video",
+        "full_name": "bradautomates/claude-video",
+        "html_url": "https://github.com/bradautomates/claude-video",
+        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "stargazers_count": 2562,
+        "language": "Python",
         "owner": {
-          "login": "Open-Less",
-          "avatar_url": "https://avatars.githubusercontent.com/u/283287307?v=4"
+          "login": "bradautomates",
+          "avatar_url": "https://avatars.githubusercontent.com/u/186665980?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "openless",
-        "features": "Openless est un outil de saisie vocale open-source pour macOS et Windows qui fonctionne avec un raccourci clavier. Il transcrit et polit automatiquement vos paroles au curseur dans n'importe quelle application.",
-        "applications": "Essentiel pour améliorer la productivité des utilisateurs souhaitant dicter du texte tout en bénéficiant d'une correction et d'une amélioration stylistique immédiates par IA."
+        "translatedName": "claude-video",
+        "features": "Un outil permettant à l'assistant IA Claude de 'voir' et d'analyser des vidéos en téléchargeant, extrayant les images et transcrivant le contenu audio. Il rend le contenu visuel compréhensible pour le modèle de langage.",
+        "applications": "Utile pour les utilisateurs souhaitant obtenir des résumés, des analyses ou des réponses basées sur le contenu de vidéos spécifiques."
       }
     ]
   }
