@@ -1,243 +1,237 @@
 {
-  "lastUpdated": "2026-08-22T01:10:54.237Z",
+  "lastUpdated": "2026-08-29T05:50:59.272Z",
   "periods": {
     "week": [
       {
         "rank": 1,
-        "name": "ip-as-logo-skill",
-        "full_name": "s1dashu/ip-as-logo-skill",
-        "html_url": "https://github.com/s1dashu/ip-as-logo-skill",
-        "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-        "stargazers_count": 3491,
-        "language": null,
+        "name": "my-girlfriend-jingtian-latex",
+        "full_name": "HEJustinSun/my-girlfriend-jingtian-latex",
+        "html_url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
+        "description": null,
+        "stargazers_count": 3764,
+        "language": "TeX",
         "owner": {
-          "login": "s1dashu",
-          "avatar_url": "https://avatars.githubusercontent.com/u/129982137?v=4"
+          "login": "HEJustinSun",
+          "avatar_url": "https://avatars.githubusercontent.com/u/320896847?v=4"
         },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "ip-as-logo-skill (IP 로고 생성 에이전트 스킬)",
-        "features": "복잡하지 않고 둥글며 미묘한 네오 스큐어모피즘 스타일의 IP 마스코트 로고를 생성하도록 설계된 소형 에이전트 스킬입니다. 매우 단순화된 로고 디자인 작업을 자동화하는 데 최적화되어 있습니다.",
-        "applications": "브랜드 마스코트를 간편하게 디자인하거나 AI 기반 디자인 에이전트의 기능을 확장하려는 디자이너에게 유용합니다."
+        "license": null,
+        "translatedName": "my-girlfriend-jingtian-latex",
+        "features": "LaTeX 언어로 작성된 개인적인 프로젝트 템플릿입니다. 주로 문서 작성이나 특정 스타일의 레이아웃 구성에 활용됩니다.",
+        "applications": "개인 문서 작업이나 LaTeX 환경에서의 레이아웃 테스트를 원하는 사용자가 사용할 수 있습니다."
       },
       {
         "rank": 2,
-        "name": "cumora",
-        "full_name": "yetone/cumora",
-        "html_url": "https://github.com/yetone/cumora",
-        "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-        "stargazers_count": 2858,
+        "name": "grok-bot-0.18-reconstructed",
+        "full_name": "b-nnett/grok-bot-0.18-reconstructed",
+        "html_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+        "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+        "stargazers_count": 3411,
         "language": "TypeScript",
         "owner": {
-          "login": "yetone",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+          "login": "b-nnett",
+          "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
         },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "cumora (에이전트 협업 플랫폼)",
-        "features": "AI 에이전트가 팀원으로서 활발히 참여하는 크로스 플랫폼 팀 채팅 솔루션입니다. 자체 클라우드 또는 Claude Code, Codex와 같은 외부 두뇌 모델을 연결하여 사용할 수 있습니다.",
-        "applications": "인간과 AI가 같은 채팅 환경에서 협업하여 업무 효율성을 높이고자 하는 개발 팀이나 프로젝트 그룹에 적합합니다."
+        "license": null,
+        "translatedName": "grok-bot-0.18-reconstructed",
+        "features": "macOS 환경에서 Grok Bot 0.18.0의 소스 코드를 비공식적으로 재구성하고 기능을 확장한 프로젝트입니다. 안정적인 봇 동작과 현대적인 환경에서의 호환성을 목표로 합니다.",
+        "applications": "macOS 환경에서 구형 Grok 봇을 구동하거나 수정된 기능을 테스트하고자 하는 개발자에게 적합합니다."
       },
       {
         "rank": 3,
-        "name": "OpenBot",
-        "full_name": "CopilotKit/OpenBot",
-        "html_url": "https://github.com/CopilotKit/OpenBot",
-        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-        "stargazers_count": 2125,
-        "language": "TypeScript",
+        "name": "walgit",
+        "full_name": "tobi/walgit",
+        "html_url": "https://github.com/tobi/walgit",
+        "description": null,
+        "stargazers_count": 2306,
+        "language": "Rust",
         "owner": {
-          "login": "CopilotKit",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131273140?v=4"
+          "login": "tobi",
+          "avatar_url": "https://avatars.githubusercontent.com/u/347?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "OpenBot (AI 동료 에이전트)",
-        "features": "브라우저, 파일, 각종 도구 등 전용 컴퓨터 환경을 갖춘 오픈소스 AI 동료입니다. 모든 작업은 사전에 결정되고 기록되어 투명한 업무 수행을 보장합니다.",
-        "applications": "자동화된 워크플로우를 구축하여 반복적인 컴퓨터 작업을 AI에게 위임하려는 사용자에게 최적입니다."
+        "translatedName": "walgit",
+        "features": "Rust 언어로 개발된 Git 관련 보조 도구입니다. 가볍고 빠른 성능을 지향하며 버전 관리 작업의 효율성을 높여줍니다.",
+        "applications": "Git 작업의 생산성을 높이고 싶은 개발자나 Rust 기반의 가벼운 CLI 도구를 선호하는 사용자에게 유용합니다."
       },
       {
         "rank": 4,
-        "name": "northcinder",
-        "full_name": "cinderline/northcinder",
-        "html_url": "https://github.com/cinderline/northcinder",
-        "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-        "stargazers_count": 1203,
-        "language": "JavaScript",
+        "name": "PRAXIST",
+        "full_name": "sapientinc/PRAXIST",
+        "html_url": "https://github.com/sapientinc/PRAXIST",
+        "description": "Autonomous research system for measurable, computer-executable research.",
+        "stargazers_count": 2043,
+        "language": "Python",
         "owner": {
-          "login": "cinderline",
-          "avatar_url": "https://avatars.githubusercontent.com/u/150383880?v=4"
+          "login": "sapientinc",
+          "avatar_url": "https://avatars.githubusercontent.com/u/188930505?v=4"
         },
         "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
+          "name": "Other",
+          "spdx_id": "NOASSERTION"
         },
-        "translatedName": "northcinder (쇼핑 에이전트 소프트웨어)",
-        "features": "광고 중립적이며 구매자 중심으로 운영되는 MCP 기반 쇼핑 에이전트입니다. 결정론적 랭킹 시스템과 서명된 구매 위임, 로컬 감사 추적 기능을 제공합니다.",
-        "applications": "투명하고 독립적인 쇼핑 경험을 원하며, 데이터의 추적성과 무결성을 중요하게 생각하는 소비자에게 유용합니다."
+        "translatedName": "PRAXIST",
+        "features": "측정 가능하고 컴퓨터가 실행 가능한 연구를 위해 설계된 자율형 연구 시스템입니다. 데이터 기반의 분석과 자동화된 연구 프로세스를 지원합니다.",
+        "applications": "반복적인 데이터 분석이나 자동화된 연구 워크플로우가 필요한 연구원 및 데이터 과학자에게 적합합니다."
       },
       {
         "rank": 5,
-        "name": "DeepSeek-V4-J-Space-Capability-Realization-Report",
-        "full_name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
-        "html_url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
-        "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
-        "stargazers_count": 1036,
-        "language": null,
+        "name": "x64dbg-mcp-server",
+        "full_name": "duty1g/x64dbg-mcp-server",
+        "html_url": "https://github.com/duty1g/x64dbg-mcp-server",
+        "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+        "stargazers_count": 1674,
+        "language": "Zig",
         "owner": {
-          "login": "Tiger3807861189",
-          "avatar_url": "https://avatars.githubusercontent.com/u/307182956?v=4"
+          "login": "duty1g",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3162883?v=4"
         },
         "license": {
-          "name": "Other",
-          "spdx_id": "NOASSERTION"
+          "name": "MIT License",
+          "spdx_id": "MIT"
         },
-        "translatedName": "DeepSeek-V4-J-Space-Capability-Realization-Report (성능 구현 보고서)",
-        "features": "DeepSeek V4 모델과 J-Space 결합의 성능 구현을 분석한 벤치마크 보고서입니다. J-Space가 모델의 성능 구현 손실을 어떻게 줄이는지에 대한 증거를 제시합니다.",
-        "applications": "LLM 아키텍처 연구자나 모델 최적화 과정을 검증하려는 AI 엔지니어들에게 기술적 통찰을 제공합니다."
+        "translatedName": "x64dbg-mcp-server",
+        "features": "x64dbg 디버거를 HTTP 기반의 MCP 서버로 변환하여 AI 어시스턴트가 프로그램을 원격으로 제어할 수 있게 합니다. Zig 언어로 작성되어 종속성 없이 단일 바이너리로 작동합니다.",
+        "applications": "AI를 활용하여 리버스 엔지니어링 과정을 자동화하거나 디버깅 작업을 원격으로 제어하고자 하는 보안 연구원에게 유용합니다."
       },
       {
         "rank": 6,
-        "name": "sprix-sage-router",
-        "full_name": "wang2122/sprix-sage-router",
-        "html_url": "https://github.com/wang2122/sprix-sage-router",
-        "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-        "stargazers_count": 1009,
+        "name": "FrontierAgent",
+        "full_name": "ApodexAI/FrontierAgent",
+        "html_url": "https://github.com/ApodexAI/FrontierAgent",
+        "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+        "stargazers_count": 1233,
         "language": "Python",
         "owner": {
-          "login": "wang2122",
-          "avatar_url": "https://avatars.githubusercontent.com/u/78741078?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "sprix-sage-router (에이전트 네트워크 라우터)",
-        "features": "A2A(에이전트 간) 네트워크를 위한 상태 인식형 SELF/COLLABORATE/HANDOFF 라우팅 시스템입니다. 다양한 에이전트 간의 협업 흐름을 지능적으로 관리합니다.",
-        "applications": "복잡한 다중 에이전트 시스템을 구축하고 에이전트 간의 업무 분담과 협업 구조를 효율화하려는 개발자에게 적합합니다."
-      },
-      {
-        "rank": 7,
-        "name": "deploy-vercel",
-        "full_name": "vvxw/deploy-vercel",
-        "html_url": "https://github.com/vvxw/deploy-vercel",
-        "description": "Install Command：npm install",
-        "stargazers_count": 989,
-        "language": "JavaScript",
-        "owner": {
-          "login": "vvxw",
-          "avatar_url": "https://avatars.githubusercontent.com/u/142342666?v=4"
-        },
-        "license": null,
-        "translatedName": "deploy-vercel (배포 도구)",
-        "features": "npm 명령어를 통해 Vercel 환경에 간편하게 애플리케이션을 배포할 수 있는 도구입니다. 복잡한 설정 없이 빠르게 배포 파이프라인을 구축할 수 있습니다.",
-        "applications": "Vercel 플랫폼을 사용하는 프로젝트의 초기 설정 및 자동 배포 프로세스를 간소화하려는 웹 개발자에게 유용합니다."
-      },
-      {
-        "rank": 8,
-        "name": "watermarks-remover",
-        "full_name": "Leutenegger/watermarks-remover",
-        "html_url": "https://github.com/Leutenegger/watermarks-remover",
-        "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
-        "stargazers_count": 929,
-        "language": "Python",
-        "owner": {
-          "login": "Leutenegger",
-          "avatar_url": "https://avatars.githubusercontent.com/u/265765261?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "watermarks-remover (AI 흔적 제거 도구)",
-        "features": "유니코드 텍스트 정제, 통계적 재작성 기술, 메타데이터 제거 등을 통해 다중 공급업체의 AI 흔적을 제거합니다. PNG, PDF, DOCX 등 다양한 파일 형식을 지원합니다.",
-        "applications": "AI로 생성된 콘텐츠의 출처 추적을 어렵게 만들거나 데이터 정제 작업을 수행해야 하는 사용자에게 필요합니다."
-      },
-      {
-        "rank": 9,
-        "name": "vanity-eth",
-        "full_name": "Leutenegger/vanity-eth",
-        "html_url": "https://github.com/Leutenegger/vanity-eth",
-        "description": "Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).",
-        "stargazers_count": 803,
-        "language": "Python",
-        "owner": {
-          "login": "Leutenegger",
-          "avatar_url": "https://avatars.githubusercontent.com/u/265765261?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "vanity-eth (주소 생성기)",
-        "features": "비트코인과 이더리움을 위한 오프라인 맞춤형 주소 생성기입니다. CPU 멀티 프로세싱 검색을 지원하며 다양한 주소 표준을 폭넓게 처리합니다.",
-        "applications": "사용자 지정 암호화폐 지갑 주소를 생성하고 싶거나 보안을 위해 오프라인 환경에서 주소를 만들고자 하는 사용자에게 최적입니다."
-      },
-      {
-        "rank": 10,
-        "name": "macos-harness",
-        "full_name": "browser-use/macos-harness",
-        "html_url": "https://github.com/browser-use/macos-harness",
-        "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-        "stargazers_count": 686,
-        "language": "Python",
-        "owner": {
-          "login": "browser-use",
-          "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "macos-harness (macOS 제어 하네스)",
-        "features": "거대언어모델(LLM)이 macOS를 자유롭게 제어할 수 있도록 돕는 매우 간결하고 효율적인 하네스입니다. 시스템 레벨에서 LLM의 조작 권한을 부여합니다.",
-        "applications": "macOS 환경에서 AI 기반의 시스템 자동화나 사용자 인터페이스 제어 실험을 수행하려는 엔지니어에게 유용합니다."
-      },
-      {
-        "rank": 11,
-        "name": "desktop-fly",
-        "full_name": "DenisSergeevitch/desktop-fly",
-        "html_url": "https://github.com/DenisSergeevitch/desktop-fly",
-        "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
-        "stargazers_count": 677,
-        "language": "Swift",
-        "owner": {
-          "login": "DenisSergeevitch",
-          "avatar_url": "https://avatars.githubusercontent.com/u/2140110?v=4"
-        },
-        "license": {
-          "name": "Other",
-          "spdx_id": "NOASSERTION"
-        },
-        "translatedName": "desktop-fly (데스크탑 가상 생물)",
-        "features": "실제 FlyWire 신경망 데이터를 기반으로 시뮬레이션된 초파리가 macOS 데스크탑 위를 돌아다니는 3D 애플리케이션입니다. 생체 모방 연결체 시뮬레이션을 구현했습니다.",
-        "applications": "데스크탑 환경에서 독특한 시각적 재미를 느끼거나 생물학적 신경망 시뮬레이션에 관심이 있는 사용자에게 권장됩니다."
-      },
-      {
-        "rank": 12,
-        "name": "apex-inference-chip",
-        "full_name": "SigmanticAI/apex-inference-chip",
-        "html_url": "https://github.com/SigmanticAI/apex-inference-chip",
-        "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-        "stargazers_count": 668,
-        "language": "Python",
-        "owner": {
-          "login": "SigmanticAI",
-          "avatar_url": "https://avatars.githubusercontent.com/u/219103514?v=4"
+          "login": "ApodexAI",
+          "avatar_url": "https://avatars.githubusercontent.com/u/276468590?v=4"
         },
         "license": {
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "translatedName": "apex-inference-chip (FPGA 추론 칩 설계)",
-        "features": "FPGA상에서 실제 LLM(Qwen2.5-0.5B)을 구동하기 위한 인퍼런스 칩 설계입니다. RTL 수준의 변환기 레이어를 사용하여 하드웨어 효율성과 정밀도를 극대화했습니다.",
-        "applications": "AI 하드웨어 가속기 연구자나 저전력 환경에서 LLM 추론을 최적화하고 싶은 임베디드 시스템 설계자에게 적합합니다."
+        "translatedName": "FrontierAgent",
+        "features": "macOS와 Linux에서 설치 과정 없이 즉시 실행 가능한 에이전트 프레임워크입니다. TUI 환경과 ReAct 모드 등 다양한 에이전트 팀 구성 모드를 제공합니다.",
+        "applications": "복잡한 설정 없이 간편하게 AI 에이전트를 구축하고 터미널에서 즉시 사용하려는 개발자에게 최적화되어 있습니다."
+      },
+      {
+        "rank": 7,
+        "name": "scroll-craft",
+        "full_name": "nateherkai/scroll-craft",
+        "html_url": "https://github.com/nateherkai/scroll-craft",
+        "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+        "stargazers_count": 1176,
+        "language": "JavaScript",
+        "owner": {
+          "login": "nateherkai",
+          "avatar_url": "https://avatars.githubusercontent.com/u/253835467?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "scroll-craft",
+        "features": "스크롤 기반 웹사이트를 위한 Claude Code 기술 모음입니다. 스크롤 위치를 타임라인으로 활용하며, 스스로 스크린샷을 찍어 디자인을 검증합니다.",
+        "applications": "고품질의 스크롤 인터랙션 웹사이트를 제작하고 정확성을 자동으로 확인하고 싶은 웹 개발자에게 유용합니다."
+      },
+      {
+        "rank": 8,
+        "name": "open-higgsfield",
+        "full_name": "wide-trace/open-higgsfield",
+        "html_url": "https://github.com/wide-trace/open-higgsfield",
+        "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+        "stargazers_count": 986,
+        "language": "TypeScript",
+        "owner": {
+          "login": "wide-trace",
+          "avatar_url": "https://avatars.githubusercontent.com/u/321257738?v=4"
+        },
+        "license": null,
+        "translatedName": "open-higgsfield",
+        "features": "이미지 및 비디오 생성을 위한 통합 스튜디오 환경입니다. 단일 프롬프트 창에서 여러 모델 설정을 관리하고 생성된 결과물을 갤러리에 저장할 수 있습니다.",
+        "applications": "다양한 생성형 AI 모델을 한 곳에서 테스트하고 관리하고자 하는 크리에이터에게 적합합니다."
+      },
+      {
+        "rank": 9,
+        "name": "workout-guide",
+        "full_name": "bryllim/workout-guide",
+        "html_url": "https://github.com/bryllim/workout-guide",
+        "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+        "stargazers_count": 984,
+        "language": "Astro",
+        "owner": {
+          "login": "bryllim",
+          "avatar_url": "https://avatars.githubusercontent.com/u/37092544?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "workout-guide",
+        "features": "302개의 운동 일러스트와 이를 지원하는 프레임워크 중립적인 npm 패키지를 제공합니다. 운동 가이드 앱 개발을 위한 리소스를 포함하고 있습니다.",
+        "applications": "피트니스 애플리케이션을 개발하면서 운동 방법 시각화 자료가 필요한 개발자에게 유용합니다."
+      },
+      {
+        "rank": 10,
+        "name": "anti-mage",
+        "full_name": "N4darae/anti-mage",
+        "html_url": "https://github.com/N4darae/anti-mage",
+        "description": "Browser testing utilizes various methods and algorithms, and performs calculations based on multiple parameters.",
+        "stargazers_count": 854,
+        "language": "Go",
+        "owner": {
+          "login": "N4darae",
+          "avatar_url": "https://avatars.githubusercontent.com/u/50111777?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "anti-mage",
+        "features": "다양한 알고리즘과 매개변수 계산을 통해 웹 브라우저 테스트를 수행하는 도구입니다. 정밀한 테스트 환경 구축을 지원합니다.",
+        "applications": "복잡한 브라우저 동작 검증이나 웹 자동화 테스트가 필요한 QA 엔지니어에게 적합합니다."
+      },
+      {
+        "rank": 11,
+        "name": "WeMM-Embedding",
+        "full_name": "Tencent/WeMM-Embedding",
+        "html_url": "https://github.com/Tencent/WeMM-Embedding",
+        "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+        "stargazers_count": 848,
+        "language": "Python",
+        "owner": {
+          "login": "Tencent",
+          "avatar_url": "https://avatars.githubusercontent.com/u/18461506?v=4"
+        },
+        "license": {
+          "name": "Other",
+          "spdx_id": "NOASSERTION"
+        },
+        "translatedName": "WeMM-Embedding",
+        "features": "텐센트 위챗 비전 팀에서 개발한 범용 멀티모달 임베딩 모델 제품군입니다. 다양한 데이터의 이해와 검색 작업에 최적화된 성능을 제공합니다.",
+        "applications": "이미지-텍스트 검색, 멀티모달 데이터 처리 시스템을 구축하려는 AI 엔지니어에게 적합합니다."
+      },
+      {
+        "rank": 12,
+        "name": "watermark-remover",
+        "full_name": "ShadowAqueduct/watermark-remover",
+        "html_url": "https://github.com/ShadowAqueduct/watermark-remover",
+        "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+        "stargazers_count": 828,
+        "language": "Python",
+        "owner": {
+          "login": "ShadowAqueduct",
+          "avatar_url": "https://avatars.githubusercontent.com/u/311792326?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "watermark-remover",
+        "features": "다양한 AI 생성 워터마크를 제거하는 도구로 유니코드 텍스트 정리, 통계적 재작성, C2PA 및 메타데이터 삭제를 지원합니다. PNG, PDF, DOCX 등 다양한 형식을 다룰 수 있습니다.",
+        "applications": "AI 생성 콘텐츠에서 워터마크를 제거하거나 개인정보 보호를 위해 메타데이터를 삭제하고자 하는 사용자에게 유용합니다."
       }
     ],
     "month": [
@@ -247,7 +241,7 @@
         "full_name": "deepseek-ai/deepseek-harness",
         "html_url": "https://github.com/deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
-        "stargazers_count": 181330,
+        "stargazers_count": 202357,
         "language": "TypeScript",
         "owner": {
           "login": "deepseek-ai",
@@ -257,37 +251,17 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "deepseek-harness",
-        "features": "DeepSeek Harness는 모든 것을 플러그인화하는 유연한 아키텍처를 제공합니다. TypeScript 기반으로 개발되어 확장성과 통합성이 뛰어납니다.",
-        "applications": "다양한 AI 모델을 통합하거나 맞춤형 워크플로우를 구성하려는 개발자에게 유용합니다."
+        "translatedName": "DeepSeek Harness",
+        "features": "모든 기능을 플러그인화하여 확장성을 극대화한 프레임워크입니다. 유연한 구조를 통해 개발자가 다양한 기능을 쉽게 통합하고 관리할 수 있도록 설계되었습니다.",
+        "applications": "플러그인 기반의 모듈형 AI 서비스 개발이나 확장 가능한 애플리케이션 아키텍처를 구축하려는 개발자에게 적합합니다."
       },
       {
         "rank": 2,
-        "name": "anydoc",
-        "full_name": "firecrawl/anydoc",
-        "html_url": "https://github.com/firecrawl/anydoc",
-        "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-        "stargazers_count": 17763,
-        "language": "Rust",
-        "owner": {
-          "login": "firecrawl",
-          "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "anydoc",
-        "features": "Word, PPT, PDF 등 다양한 문서 형식을 깔끔한 마크다운으로 변환하는 Rust 기반 도구입니다. Node.js와 Python 바인딩을 지원하여 범용적인 통합 환경을 제공합니다.",
-        "applications": "데이터 파이프라인에서 문서 처리 자동화를 구축하거나 AI 훈련을 위한 데이터 전처리에 활용됩니다."
-      },
-      {
-        "rank": 3,
-        "name": "deepseek-harness-desktop",
-        "full_name": "anywhere-labs/deepseek-harness-desktop",
-        "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+        "name": "dsh-desktop",
+        "full_name": "anywhere-labs/dsh-desktop",
+        "html_url": "https://github.com/anywhere-labs/dsh-desktop",
         "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-        "stargazers_count": 17579,
+        "stargazers_count": 21637,
         "language": "TypeScript",
         "owner": {
           "login": "anywhere-labs",
@@ -297,17 +271,17 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "deepseek-harness-desktop",
-        "features": "DeepSeek Harness를 위한 현대적인 데스크톱 GUI 환경을 제공합니다. 데스크톱 클라이언트 자체를 하나의 플러그인으로 취급하여 시스템 설계의 일관성을 유지합니다.",
-        "applications": "로컬 환경에서 DeepSeek 생태계 도구를 더 편리하게 관리하고 실행하려는 사용자에게 적합합니다."
+        "translatedName": "DSH Desktop",
+        "features": "DeepSeek Harness 생태계를 위한 현대적인 데스크톱 환경을 제공합니다. 데스크톱 UI 자체도 플러그인으로 구성되어 있어 극강의 커스터마이징이 가능합니다.",
+        "applications": "DSH 기반의 워크플로우를 데스크톱 환경에서 효율적으로 관리하고 생산성을 높이려는 사용자에게 유용합니다."
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "watermarks-remover",
         "full_name": "guillaumemeyer/watermarks-remover",
         "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
-        "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-        "stargazers_count": 16629,
+        "description": "A privacy-first app that strips AI watermarks from content you own.",
+        "stargazers_count": 19104,
         "language": "Python",
         "owner": {
           "login": "guillaumemeyer",
@@ -317,37 +291,37 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "watermarks-remover",
-        "features": "AI가 생성한 다양한 워터마크, 메타데이터, C2PA 정보를 제거하여 원본 데이터의 청결함을 유지합니다. 텍스트 위생 처리부터 통계적 재작성까지 폭넓은 기능을 수행합니다.",
-        "applications": "데이터 정제 과정에서 AI 흔적을 지우고 데이터의 익명성이나 순수성을 확보하려는 연구자에게 필요합니다."
+        "translatedName": "Watermarks Remover",
+        "features": "개인이 소유한 콘텐츠에서 AI 생성 워터마크를 제거하는 개인정보 보호 중심의 도구입니다. 복잡한 설정 없이 간편하게 워터마크를 삭제할 수 있습니다.",
+        "applications": "자신의 창작물에서 원치 않는 AI 워터마크를 제거하여 개인적 용도로 사용하려는 콘텐츠 제작자에게 적합합니다."
       },
       {
-        "rank": 5,
-        "name": "qm",
-        "full_name": "yc-software/qm",
-        "html_url": "https://github.com/yc-software/qm",
-        "description": "Multiplayer agent harness for work.",
-        "stargazers_count": 14045,
-        "language": "TypeScript",
+        "rank": 4,
+        "name": "anydoc",
+        "full_name": "firecrawl/anydoc",
+        "html_url": "https://github.com/firecrawl/anydoc",
+        "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+        "stargazers_count": 19092,
+        "language": "Rust",
         "owner": {
-          "login": "yc-software",
-          "avatar_url": "https://avatars.githubusercontent.com/u/153323858?v=4"
+          "login": "firecrawl",
+          "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "qm",
-        "features": "업무 자동화를 위한 멀티플레이어 에이전트 하네스 환경을 제공합니다. 여러 에이전트가 상호작용하며 복잡한 작업을 효율적으로 처리할 수 있도록 지원합니다.",
-        "applications": "팀 단위의 협업 에이전트 시스템을 구축하거나 복잡한 워크플로우를 자동화하는 기업 환경에 적합합니다."
+        "translatedName": "AnyDoc",
+        "features": "Word, PPT, Excel, PDF 등 다양한 문서 형식을 깔끔한 마크다운으로 변환합니다. Rust로 구축되어 높은 성능을 자랑하며 Node.js 및 Python 바인딩을 지원합니다.",
+        "applications": "다양한 형식의 문서를 대량으로 처리하거나 LLM 학습 및 데이터 처리 파이프라인에 문서를 통합하려는 엔지니어에게 최적입니다."
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "awesome-dsh-plugin",
         "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
         "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
         "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-        "stargazers_count": 11159,
+        "stargazers_count": 13424,
         "language": "Python",
         "owner": {
           "login": "awesome-dsh-plugin",
@@ -357,17 +331,17 @@
           "name": "Creative Commons Zero v1.0 Universal",
           "spdx_id": "CC0-1.0"
         },
-        "translatedName": "awesome-dsh-plugin",
-        "features": "DeepSeek Harness(dsh) 사용자를 위한 엄선된 플러그인 리스트를 제공합니다. 커뮤니티에서 검증된 고품질 확장 도구들을 한눈에 확인할 수 있습니다.",
-        "applications": "DeepSeek Harness 생태계를 확장하고 프로젝트에 적합한 도구를 빠르게 찾고자 하는 개발자에게 필수적입니다."
+        "translatedName": "Awesome DSH Plugin",
+        "features": "DeepSeek Harness(dsh)를 위해 엄선된 고품질 플러그인들의 목록입니다. 생태계의 다양한 확장 기능을 한눈에 탐색할 수 있습니다.",
+        "applications": "DSH 환경에서 활용 가능한 최신 도구와 기능을 찾아 개발 프로젝트에 적용하고자 하는 개발자들이 참고하기 좋습니다."
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "crm",
         "full_name": "trycompai/crm",
         "html_url": "https://github.com/trycompai/crm",
         "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
-        "stargazers_count": 8780,
+        "stargazers_count": 9070,
         "language": "TypeScript",
         "owner": {
           "login": "trycompai",
@@ -377,37 +351,37 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "crm (Comp AI CRM)",
-        "features": "AI 에이전트 최적화 설계를 갖춘 오픈소스 CRM입니다. 에이전트가 고객 데이터와 상호작용하고 자동화된 의사결정을 내릴 수 있도록 지원합니다.",
-        "applications": "AI 기반 영업 자동화를 도입하려는 기업이나 에이전트 중심의 고객 관리 시스템이 필요한 스타트업에 최적입니다."
+        "translatedName": "Comp AI CRM",
+        "features": "AI 에이전트를 위해 특별히 설계된 오픈 소스 CRM 솔루션입니다. 에이전트의 워크플로우와 데이터 상호작용에 최적화된 구조를 갖추고 있습니다.",
+        "applications": "AI 에이전트를 도입하여 고객 관계 관리의 자동화를 추진하려는 기업이나 개발팀에게 필수적입니다."
+      },
+      {
+        "rank": 7,
+        "name": "arc-task-gen",
+        "full_name": "pathwaycom/arc-task-gen",
+        "html_url": "https://github.com/pathwaycom/arc-task-gen",
+        "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
+        "stargazers_count": 8570,
+        "language": "Python",
+        "owner": {
+          "login": "pathwaycom",
+          "avatar_url": "https://avatars.githubusercontent.com/u/25750857?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "ARC Task Gen",
+        "features": "ARC-AGI-1 스타일의 새로운 작업 분포를 생성하여 공개 평가 세트와 일치시키는 도구입니다. 인공지능의 추론 능력 평가를 위한 고품질 데이터셋을 생성합니다.",
+        "applications": "AGI 모델의 추론 성능을 객관적으로 측정하고 평가 데이터를 생성해야 하는 AI 연구자들에게 큰 도움이 됩니다."
       },
       {
         "rank": 8,
-        "name": "Kimi-K3",
-        "full_name": "MoonshotAI/Kimi-K3",
-        "html_url": "https://github.com/MoonshotAI/Kimi-K3",
-        "description": "Open Frontier Intelligence",
-        "stargazers_count": 8564,
-        "language": null,
-        "owner": {
-          "login": "MoonshotAI",
-          "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
-        },
-        "license": {
-          "name": "Other",
-          "spdx_id": "NOASSERTION"
-        },
-        "translatedName": "Kimi-K3",
-        "features": "Moonshot AI에서 개발한 차세대 오픈 프론티어 지능 모델입니다. 고성능 인공지능 성능을 제공하며 대규모 데이터 처리에 최적화되어 있습니다.",
-        "applications": "복잡한 추론 작업이나 고차원적인 지능형 애플리케이션 개발에 활용할 수 있습니다."
-      },
-      {
-        "rank": 9,
         "name": "MiniMax-H3",
         "full_name": "MiniMax-AI/MiniMax-H3",
         "html_url": "https://github.com/MiniMax-AI/MiniMax-H3",
         "description": null,
-        "stargazers_count": 6633,
+        "stargazers_count": 7345,
         "language": "Python",
         "owner": {
           "login": "MiniMax-AI",
@@ -415,33 +389,36 @@
         },
         "license": null,
         "translatedName": "MiniMax-H3",
-        "features": "MiniMax에서 제공하는 고성능 AI 모델 관련 라이브러리 및 하네스입니다. 파이썬 환경에서 원활하게 연동될 수 있도록 설계되었습니다.",
-        "applications": "MiniMax의 AI 모델을 활용하여 자체 서비스를 구축하거나 시스템에 통합하려는 엔지니어에게 활용됩니다."
+        "features": "MiniMax에서 개발한 AI 관련 프로젝트로 고성능 AI 모델의 구현과 활용을 지원합니다.",
+        "applications": "최신 AI 모델 기술을 연구하거나 특정 도메인의 AI 작업 최적화를 시도하려는 연구자들에게 적합합니다."
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "dsh-routing-suite",
         "full_name": "yjh051108/dsh-routing-suite",
         "html_url": "https://github.com/yjh051108/dsh-routing-suite",
         "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
-        "stargazers_count": 6561,
-        "language": "PowerShell",
+        "stargazers_count": 6934,
+        "language": "JavaScript",
         "owner": {
           "login": "yjh051108",
           "avatar_url": "https://avatars.githubusercontent.com/u/195255374?v=4"
         },
-        "license": null,
-        "translatedName": "dsh-routing-suite",
-        "features": "dsh 환경을 위한 런타임 인젝터와 추론 모드 라우터 프리셋을 포함합니다. 효율적인 작업 배분과 경로 설정을 통해 최적의 성능을 끌어냅니다.",
-        "applications": "DeepSeek Harness 시스템의 처리 효율을 극대화하고자 하는 고급 사용자와 시스템 관리자에게 적합합니다."
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "DSH Routing Suite",
+        "features": "런타임 인젝터와 작업 인식형 추론 모드 라우터 세트로 구성되어 있습니다. 복잡한 작업에 최적화된 라우팅 기능을 제공합니다.",
+        "applications": "DeepSeek Harness 환경에서 특정 작업의 성격에 따라 효율적인 모델 추론 경로를 지정해야 하는 경우에 활용됩니다."
       },
       {
-        "rank": 11,
+        "rank": 10,
         "name": "kimi-k3-in-c",
         "full_name": "FareedKhan-dev/kimi-k3-in-c",
         "html_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
         "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-        "stargazers_count": 6226,
+        "stargazers_count": 6691,
         "language": "C",
         "owner": {
           "login": "FareedKhan-dev",
@@ -451,17 +428,17 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "translatedName": "kimi-k3-in-c",
-        "features": "2.78조 개의 파라미터를 가진 Kimi K3 모델을 단일 CPU와 8GB RAM 환경에서 실행할 수 있도록 최적화한 C 언어 구현체입니다. 외부 프레임워크나 GPU 없이도 구동됩니다.",
-        "applications": "고성능 하드웨어 환경 없이도 대규모 모델을 로컬에서 효율적으로 추론하고 싶을 때 매우 유용합니다."
+        "translatedName": "Kimi K3 in C",
+        "features": "2.78조 개의 파라미터를 가진 Kimi K3 모델을 단일 CPU와 8.24GB RAM만으로 실행하는 놀라운 최적화 기술입니다. 외부 프레임워크나 GPU 없이 순수 C99 코드로 작성되었습니다.",
+        "applications": "저사양 환경에서도 거대 모델 추론을 테스트하고 경량화 연구를 수행하려는 AI 엔지니어들에게 혁신적인 사례를 제공합니다."
       },
       {
-        "rank": 12,
+        "rank": 11,
         "name": "decimen-optical-transfer",
         "full_name": "bashalarmistalt/decimen-optical-transfer",
         "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
         "description": null,
-        "stargazers_count": 6225,
+        "stargazers_count": 6561,
         "language": "TypeScript",
         "owner": {
           "login": "bashalarmistalt",
@@ -471,9 +448,29 @@
           "name": "GNU Affero General Public License v3.0",
           "spdx_id": "AGPL-3.0"
         },
-        "translatedName": "decimen-optical-transfer",
-        "features": "광학 데이터 전송 및 관련 처리 기능을 수행하는 TypeScript 기반 도구입니다. 시스템 간의 데이터를 효과적으로 연결하는 역할을 합니다.",
-        "applications": "특수 데이터 통신 환경을 구축하거나 시스템 데이터 전송의 자동화가 필요한 프로젝트에 사용될 수 있습니다."
+        "translatedName": "Decimen Optical Transfer",
+        "features": "광학 전송 및 데이터 처리와 관련된 기술적인 기능을 제공하며 TypeScript로 개발되었습니다.",
+        "applications": "특정 데이터 전송 최적화나 광학 인터페이스 관련 프로젝트를 수행하는 개발자에게 필요한 도구입니다."
+      },
+      {
+        "rank": 12,
+        "name": "dsh-web",
+        "full_name": "zhu1090093659/dsh-web",
+        "html_url": "https://github.com/zhu1090093659/dsh-web",
+        "description": "DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发",
+        "stargazers_count": 6398,
+        "language": "TypeScript",
+        "owner": {
+          "login": "zhu1090093659",
+          "avatar_url": "https://avatars.githubusercontent.com/u/46916148?v=4"
+        },
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "DSH Web",
+        "features": "DeepSeek Harness를 위한 웹 기반 플러그인 통합 플랫폼입니다. 웹 환경에서 플러그인을 쉽게 설치하고 관리할 수 있는 생태계를 제공합니다.",
+        "applications": "DSH 기능을 웹 브라우저를 통해 편리하게 관리하고 다양한 커뮤니티 플러그인을 활용하려는 사용자에게 유용합니다."
       }
     ],
     "three_months": [
@@ -483,7 +480,7 @@
         "full_name": "deepseek-ai/deepseek-harness",
         "html_url": "https://github.com/deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
-        "stargazers_count": 181330,
+        "stargazers_count": 202357,
         "language": "TypeScript",
         "owner": {
           "login": "deepseek-ai",
@@ -494,8 +491,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "deepseek-harness",
-        "features": "DeepSeek 기반의 모든 기능을 플러그인 형태로 확장할 수 있는 유연한 프레임워크입니다. 모듈화된 아키텍처를 통해 다양한 기능을 쉽게 추가하고 관리할 수 있습니다.",
-        "applications": "DeepSeek 모델을 활용한 커스텀 도구 개발이나 복잡한 AI 워크플로우를 구성하려는 개발자에게 적합합니다."
+        "features": "모든 기능을 플러그인 방식으로 유연하게 확장할 수 있는 아키텍처를 제공합니다. DeepSeek 모델을 다양한 워크플로우에 통합하기 위한 모듈화된 프레임워크입니다.",
+        "applications": "사용자 맞춤형 AI 서비스 개발이나 복잡한 AI 에이전트 시스템을 구축하려는 개발자에게 적합합니다."
       },
       {
         "rank": 2,
@@ -503,7 +500,7 @@
         "full_name": "DietrichGebert/ponytail",
         "html_url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stargazers_count": 107519,
+        "stargazers_count": 115593,
         "language": "JavaScript",
         "owner": {
           "login": "DietrichGebert",
@@ -514,8 +511,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "ponytail",
-        "features": "AI 에이전트가 가장 효율적이고 최소한의 코드로 문제를 해결하도록 유도하는 지능형 도구입니다. 불필요한 코드 작성을 피하고 효율적인 솔루션을 제안하는 데 최적화되어 있습니다.",
-        "applications": "코드 유지보수를 최소화하고 생산성을 극대화하려는 시니어 개발자나 효율적인 코드 생성이 필요한 팀에게 유용합니다."
+        "features": "최소한의 코드 작성으로 최대의 효율을 내는 '게으른 시니어 개발자' 스타일의 AI 에이전트입니다. 코드 생산을 최소화하고 문제 해결 중심의 접근 방식을 지향합니다.",
+        "applications": "반복적인 코드 작성을 줄이고 AI의 도움을 받아 더 스마트하고 효율적인 개발 환경을 원하는 개발자들에게 유용합니다."
       },
       {
         "rank": 3,
@@ -523,7 +520,7 @@
         "full_name": "odysseus-dev/odysseus",
         "html_url": "https://github.com/odysseus-dev/odysseus",
         "description": "Self-hosted AI workspace. ",
-        "stargazers_count": 85899,
+        "stargazers_count": 86478,
         "language": "Python",
         "owner": {
           "login": "odysseus-dev",
@@ -534,36 +531,16 @@
           "spdx_id": "AGPL-3.0"
         },
         "translatedName": "odysseus",
-        "features": "사용자가 자신의 로컬 환경에서 직접 AI 워크스페이스를 구축하고 운영할 수 있는 자가 호스팅 플랫폼입니다. 데이터 보안과 개인정보 보호를 최우선으로 고려하며 강력한 AI 환경을 제공합니다.",
-        "applications": "외부 클라우드 서비스 대신 로컬 환경에서 안전하게 AI 프로젝트를 관리하려는 팀과 개인에게 권장됩니다."
+        "features": "개인용 서버에서 호스팅 가능한 독립형 AI 워크스페이스를 제공합니다. 로컬 환경에서 데이터 보안을 유지하며 AI 모델을 활용할 수 있습니다.",
+        "applications": "외부 클라우드 서비스에 데이터를 올리기 꺼려지는 기업이나 개인 사용자가 보안을 유지하며 로컬에서 AI 작업을 수행할 때 사용합니다."
       },
       {
         "rank": 4,
-        "name": "grok-build",
-        "full_name": "xai-org/grok-build",
-        "html_url": "https://github.com/xai-org/grok-build",
-        "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-        "stargazers_count": 25850,
-        "language": "Rust",
-        "owner": {
-          "login": "xai-org",
-          "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
-        },
-        "license": {
-          "name": "Apache License 2.0",
-          "spdx_id": "Apache-2.0"
-        },
-        "translatedName": "grok-build",
-        "features": "xAI의 Grok 모델을 위한 인터랙티브 터미널 사용자 인터페이스(TUI) 기반 코딩 에이전트입니다. 전체 화면 모드와 마우스 상호작용을 지원하며 고도의 확장성을 갖추고 있습니다.",
-        "applications": "터미널 환경에서 Grok 모델을 직접 제어하며 실시간 코딩 보조 및 에이전트 작업을 수행하려는 개발자에게 이상적입니다."
-      },
-      {
-        "rank": 5,
         "name": "colibri",
         "full_name": "JustVugg/colibri",
         "html_url": "https://github.com/JustVugg/colibri",
         "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "stargazers_count": 25699,
+        "stargazers_count": 26373,
         "language": "C",
         "owner": {
           "login": "JustVugg",
@@ -574,8 +551,28 @@
           "spdx_id": "Apache-2.0"
         },
         "translatedName": "colibri",
-        "features": "순수 C 언어로 구현되어 의존성이 없으며, 디스크에서 모델을 직접 스트리밍하여 하드웨어 자원을 극도로 효율적으로 사용합니다. MoE(Mixture of Experts) 모델을 저사양 하드웨어에서도 구동 가능하게 합니다.",
-        "applications": "제한된 사양의 로컬 기기에서 대규모 언어 모델을 구동하고자 하는 임베디드 및 시스템 엔지니어에게 적합합니다."
+        "features": "순수 C 언어로 작성되어 종속성이 전혀 없는 고성능 MoE(Mixture of Experts) 모델 엔진입니다. 디스크에서 전문가 모델을 스트리밍하여 하드웨어 자원을 효율적으로 사용합니다.",
+        "applications": "일반 소비자용 PC 하드웨어에서 대규모 MoE 언어 모델을 경량화하여 구동하고 싶은 사용자를 위한 솔루션입니다."
+      },
+      {
+        "rank": 5,
+        "name": "grok-build",
+        "full_name": "xai-org/grok-build",
+        "html_url": "https://github.com/xai-org/grok-build",
+        "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+        "stargazers_count": 26201,
+        "language": "Rust",
+        "owner": {
+          "login": "xai-org",
+          "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
+        },
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "grok-build",
+        "features": "터미널 내에서 전체 화면으로 실행되는 대화형 TUI 기반의 코딩 에이전트 하네스입니다. 마우스 상호작용과 강력한 확장성을 제공합니다.",
+        "applications": "터미널 환경을 선호하면서 AI 모델과 실시간으로 협업하여 코드를 작성하고 관리하려는 개발자에게 적합합니다."
       },
       {
         "rank": 6,
@@ -583,7 +580,7 @@
         "full_name": "baidu/Unlimited-OCR",
         "html_url": "https://github.com/baidu/Unlimited-OCR",
         "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-        "stargazers_count": 24318,
+        "stargazers_count": 24725,
         "language": "Python",
         "owner": {
           "login": "baidu",
@@ -594,36 +591,16 @@
           "spdx_id": "MIT"
         },
         "translatedName": "Unlimited-OCR",
-        "features": "긴 문맥의 문서나 복잡한 레이아웃을 한 번에 처리할 수 있는 고성능 OCR 엔진입니다. 최신 AI 기술을 활용하여 긴 작업 범위에서도 정확한 파싱 능력을 제공합니다.",
-        "applications": "대량의 문서 디지털화나 복잡한 구조를 가진 문서의 데이터를 추출해야 하는 기업 및 분석가에게 유용합니다."
+        "features": "긴 문서나 복잡한 페이지도 한 번에 처리하는 원샷(One-shot) 방식의 장기 분석 OCR 엔진입니다. 대규모 문서 처리 성능에 최적화되어 있습니다.",
+        "applications": "방대한 양의 디지털 문서를 빠르게 데이터화하거나 자동화된 정보 추출이 필요한 시스템 운영에 필수적입니다."
       },
       {
         "rank": 7,
-        "name": "anydoc",
-        "full_name": "firecrawl/anydoc",
-        "html_url": "https://github.com/firecrawl/anydoc",
-        "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-        "stargazers_count": 17763,
-        "language": "Rust",
-        "owner": {
-          "login": "firecrawl",
-          "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "anydoc",
-        "features": "Word, PDF, Excel 등 다양한 문서 형식을 깔끔한 마크다운으로 변환해주는 Rust 기반 도구입니다. Node.js와 Python 바인딩을 지원하여 범용성이 뛰어납니다.",
-        "applications": "문서 처리 워크플로우를 자동화하거나 다양한 형식의 데이터를 구조화된 텍스트로 변환해야 하는 개발자에게 최적의 도구입니다."
-      },
-      {
-        "rank": 8,
-        "name": "deepseek-harness-desktop",
-        "full_name": "anywhere-labs/deepseek-harness-desktop",
-        "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+        "name": "dsh-desktop",
+        "full_name": "anywhere-labs/dsh-desktop",
+        "html_url": "https://github.com/anywhere-labs/dsh-desktop",
         "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-        "stargazers_count": 17579,
+        "stargazers_count": 21637,
         "language": "TypeScript",
         "owner": {
           "login": "anywhere-labs",
@@ -633,17 +610,17 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "deepseek-harness-desktop",
-        "features": "DeepSeek Harness를 데스크톱 환경에서 사용할 수 있도록 최적화된 인터페이스를 제공합니다. 데스크톱 앱 자체가 플러그인 아키텍처의 일부로 작동하여 일관된 경험을 제공합니다.",
-        "applications": "DeepSeek Harness 생태계를 데스크톱 환경에서 더 편리하게 관리하고 활용하고자 하는 사용자에게 적합합니다."
+        "translatedName": "dsh-desktop",
+        "features": "DeepSeek Harness(DSH) 플러그인 생태계를 위한 현대적인 데스크톱 GUI 환경을 제공합니다. 데스크톱 자체가 플러그인으로 동작하여 사용자 맞춤형 인터페이스를 지원합니다.",
+        "applications": "AI 기반 개발 도구들을 한 곳에서 통합 관리하고 시각적인 인터페이스를 통해 효율적으로 제어하려는 사용자들에게 좋습니다."
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "watermarks-remover",
         "full_name": "guillaumemeyer/watermarks-remover",
         "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
-        "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-        "stargazers_count": 16629,
+        "description": "A privacy-first app that strips AI watermarks from content you own.",
+        "stargazers_count": 19104,
         "language": "Python",
         "owner": {
           "login": "guillaumemeyer",
@@ -654,36 +631,36 @@
           "spdx_id": "MIT"
         },
         "translatedName": "watermarks-remover",
-        "features": "AI가 생성한 이미지 및 문서에 포함된 다양한 워터마크와 메타데이터를 제거하고 정화합니다. 유니코드 텍스트 위생 처리부터 통계적 수정까지 광범위한 기능을 제공합니다.",
-        "applications": "AI 생성 콘텐츠의 원본 출처 정보를 제어하거나 깨끗한 데이터를 확보하려는 콘텐츠 작성자 및 보안 전문가에게 유용합니다."
+        "features": "사용자가 소유한 콘텐츠에서 AI 워터마크를 제거하는 개인 정보 보호 중심의 애플리케이션입니다. 이미지 및 콘텐츠 보호 기능의 오용을 방지하면서 필요시 워터마크를 안전하게 처리합니다.",
+        "applications": "자신이 직접 제작하거나 소유한 콘텐츠에서 불필요한 AI 워터마크를 제거하고 깔끔한 결과물을 얻고자 하는 창작자에게 유용합니다."
       },
       {
-        "rank": 10,
-        "name": "openwiki",
-        "full_name": "langchain-ai/openwiki",
-        "html_url": "https://github.com/langchain-ai/openwiki",
-        "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
-        "stargazers_count": 15457,
-        "language": "TypeScript",
+        "rank": 9,
+        "name": "anydoc",
+        "full_name": "firecrawl/anydoc",
+        "html_url": "https://github.com/firecrawl/anydoc",
+        "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+        "stargazers_count": 19092,
+        "language": "Rust",
         "owner": {
-          "login": "langchain-ai",
-          "avatar_url": "https://avatars.githubusercontent.com/u/126733545?v=4"
+          "login": "firecrawl",
+          "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "openwiki",
-        "features": "코드베이스를 분석하여 에이전트가 읽고 사용할 수 있는 문서를 자동으로 작성하고 유지 관리하는 CLI 도구입니다. 프로젝트 변경 사항을 실시간으로 추적하여 문서의 최신성을 보장합니다.",
-        "applications": "대규모 코드베이스의 문서를 관리하는 데 드는 공수를 줄이고 자동화하려는 개발팀에게 필수적입니다."
+        "translatedName": "anydoc",
+        "features": "워드, 엑셀, PPT, PDF 등 다양한 문서 형식을 깔끔한 마크다운 파일로 변환합니다. Rust로 개발되어 매우 빠르며 Node.js와 Python 바인딩을 지원합니다.",
+        "applications": "다양한 형식의 문서를 데이터 분석이나 AI 학습용 데이터로 활용하기 위해 마크다운으로 통일하려는 데이터 엔지니어에게 최적입니다."
       },
       {
-        "rank": 11,
+        "rank": 10,
         "name": "openworker",
         "full_name": "andrewyng/openworker",
         "html_url": "https://github.com/andrewyng/openworker",
         "description": null,
-        "stargazers_count": 14926,
+        "stargazers_count": 16852,
         "language": "Python",
         "owner": {
           "login": "andrewyng",
@@ -694,28 +671,48 @@
           "spdx_id": "MIT"
         },
         "translatedName": "openworker",
-        "features": "AI 워크플로우 내에서 작업을 분담하고 효율적으로 처리하는 에이전트 시스템입니다. 분산 환경에서의 에이전트 작업을 자동화하기 위한 기반을 제공합니다.",
-        "applications": "복합적인 AI 에이전트 작업을 조직화하고 시스템의 처리 능력을 확장하려는 연구원 및 개발자에게 적합합니다."
+        "features": "AI 작업을 분산 처리하거나 실행하기 위한 범용 워커 인프라를 제공합니다. 복잡한 AI 워크플로우를 안정적으로 구동하는 데 중점을 둡니다.",
+        "applications": "확장성 있는 AI 서비스 기반을 구축하고 분산된 작업 환경에서 효율적인 연산을 수행하고자 하는 팀에 유용합니다."
       },
       {
-        "rank": 12,
-        "name": "qm",
-        "full_name": "yc-software/qm",
-        "html_url": "https://github.com/yc-software/qm",
-        "description": "Multiplayer agent harness for work.",
-        "stargazers_count": 14045,
+        "rank": 11,
+        "name": "openwiki",
+        "full_name": "langchain-ai/openwiki",
+        "html_url": "https://github.com/langchain-ai/openwiki",
+        "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+        "stargazers_count": 15797,
         "language": "TypeScript",
         "owner": {
-          "login": "yc-software",
-          "avatar_url": "https://avatars.githubusercontent.com/u/153323858?v=4"
+          "login": "langchain-ai",
+          "avatar_url": "https://avatars.githubusercontent.com/u/126733545?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "qm",
-        "features": "여러 에이전트가 협업하여 업무를 수행할 수 있도록 돕는 멀티플레이어 에이전트 프레임워크입니다. 팀 단위의 프로젝트에서 에이전트 간 효율적인 협업을 지원합니다.",
-        "applications": "여러 AI 에이전트를 조합하여 팀 프로젝트를 자동화하거나 복잡한 워크플로우를 구현하려는 팀에게 권장됩니다."
+        "translatedName": "openwiki",
+        "features": "CLI 도구를 사용하여 코드베이스 내의 에이전트 문서를 자동으로 작성하고 유지보수합니다. 개발자가 코드 변경 시 문서를 수동으로 업데이트하는 번거로움을 해결합니다.",
+        "applications": "문서화 작업에 드는 시간을 줄이고 코드와 문서의 최신 상태를 유지해야 하는 소프트웨어 프로젝트 팀에게 적합합니다."
+      },
+      {
+        "rank": 12,
+        "name": "img2threejs",
+        "full_name": "img2threejs/img2threejs",
+        "html_url": "https://github.com/img2threejs/img2threejs",
+        "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+        "stargazers_count": 14372,
+        "language": "Python",
+        "owner": {
+          "login": "img2threejs",
+          "avatar_url": "https://avatars.githubusercontent.com/u/309001690?v=4"
+        },
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "img2threejs",
+        "features": "참조 이미지를 기반으로 Three.js 코드로 작성된 절차적 3D 모델을 생성합니다. 토큰 효율성이 높으며 애니메이션이 가능한 고품질 3D 객체를 결과물로 제공합니다.",
+        "applications": "웹 기반 3D 환경을 개발하거나 빠르게 3D 모델의 프로토타입을 코드로 구현하고자 하는 프론트엔드 개발자에게 효과적입니다."
       }
     ],
     "year": [
@@ -725,7 +722,7 @@
         "full_name": "openclaw/openclaw",
         "html_url": "https://github.com/openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-        "stargazers_count": 387045,
+        "stargazers_count": 387951,
         "language": "TypeScript",
         "owner": {
           "login": "openclaw",
@@ -736,8 +733,8 @@
           "spdx_id": "NOASSERTION"
         },
         "translatedName": "openclaw",
-        "features": "모든 운영 체제와 플랫폼에서 동작하는 개인용 AI 어시스턴트 프로젝트입니다. 랍스터처럼 독특하고 유연한 방식으로 사용자 작업을 보조하도록 설계되었습니다.",
-        "applications": "개인 맞춤형 AI 비서를 구축하거나 다양한 OS 환경에서 작업을 자동화하고자 하는 사용자에게 적합합니다."
+        "features": "어떤 운영체제나 플랫폼에서도 실행 가능한 개인용 AI 비서 프레임워크입니다. 가재(lobster) 스타일의 독특한 접근 방식을 통해 범용적인 AI 자동화 환경을 제공합니다.",
+        "applications": "다양한 기기에서 일관된 AI 비서 경험을 구축하고자 하는 사용자에게 적합합니다."
       },
       {
         "rank": 2,
@@ -745,7 +742,7 @@
         "full_name": "obra/superpowers",
         "html_url": "https://github.com/obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
-        "stargazers_count": 275663,
+        "stargazers_count": 279124,
         "language": "Shell",
         "owner": {
           "login": "obra",
@@ -756,8 +753,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "superpowers",
-        "features": "에이전트 중심의 기술 프레임워크와 효율적인 소프트웨어 개발 방법론을 제공합니다. 개발 프로세스를 최적화하고 에이전트의 역량을 극대화하는 데 중점을 둡니다.",
-        "applications": "복잡한 워크플로우를 자동화하거나 체계적인 에이전트 기반 개발 환경을 구축하려는 개발 팀에 유용합니다."
+        "features": "에이전트 기반의 기술 프레임워크이자 체계적인 소프트웨어 개발 방법론을 제공합니다. 개발 효율성을 극대화하기 위해 에이전트의 능력치를 정의하고 관리하는 데 최적화되어 있습니다.",
+        "applications": "복잡한 소프트웨어 개발 워크플로우를 에이전트에게 위임하여 생산성을 높이고 싶은 엔지니어에게 유용합니다."
       },
       {
         "rank": 3,
@@ -765,7 +762,7 @@
         "full_name": "affaan-m/ECC",
         "html_url": "https://github.com/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stargazers_count": 241799,
+        "stargazers_count": 244009,
         "language": "JavaScript",
         "owner": {
           "login": "affaan-m",
@@ -775,9 +772,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "ECC",
-        "features": "에이전트 성능 최적화를 위한 시스템으로 기술, 본능, 메모리, 보안 및 연구 중심의 개발 환경을 제공합니다. Claude Code, Cursor 등 다양한 최신 도구와 호환됩니다.",
-        "applications": "AI 코딩 도구의 성능을 극대화하고 에이전트 기반의 개발 효율성을 높이고자 하는 엔지니어에게 적합합니다."
+        "translatedName": "ECC (Agent Harness Performance Optimization)",
+        "features": "AI 에이전트의 성능을 최적화하기 위한 종합 시스템으로 기술, 직관, 메모리, 보안 기능을 제공합니다. Claude Code나 Cursor와 같은 다양한 AI 코딩 도구와 원활하게 연동됩니다.",
+        "applications": "AI 기반 코딩 환경의 실행 성능을 개선하고 보다 지능적인 개발 프로세스를 구축하려는 개발자에게 필수적입니다."
       },
       {
         "rank": 4,
@@ -785,7 +782,7 @@
         "full_name": "mattpocock/skills",
         "html_url": "https://github.com/mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "stargazers_count": 229520,
+        "stargazers_count": 240363,
         "language": "Shell",
         "owner": {
           "login": "mattpocock",
@@ -796,8 +793,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "skills",
-        "features": "실제 현업 엔지니어들을 위해 설계된 실용적인 AI 에이전트 스킬 모음집입니다. 사용자의 개발 환경에 바로 통합할 수 있는 유용한 도구들을 제공합니다.",
-        "applications": "실무에서 즉시 활용 가능한 에이전트 기능을 찾거나 자신의 개발 워크플로우를 개선하고 싶은 개발자에게 추천합니다."
+        "features": "실제 엔지니어들이 사용하는 실용적인 에이전트 스킬 세트를 모아놓은 저장소입니다. .agents 디렉토리 구조를 통해 개발 환경에 즉시 적용 가능한 기능들을 제공합니다.",
+        "applications": "즉시 현업에 적용 가능한 고품질 AI 에이전트 기술을 습득하거나 자신의 프로젝트에 도입하려는 개발자에게 추천합니다."
       },
       {
         "rank": 5,
@@ -805,7 +802,7 @@
         "full_name": "multica-ai/andrej-karpathy-skills",
         "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "stargazers_count": 204889,
+        "stargazers_count": 208462,
         "language": null,
         "owner": {
           "login": "multica-ai",
@@ -813,36 +810,16 @@
         },
         "license": null,
         "translatedName": "andrej-karpathy-skills",
-        "features": "안드레이 카파시가 관찰한 LLM 코딩의 주요 결함들을 보완하기 위해 CLAUDE.md 파일을 최적화했습니다. 에이전트의 판단력과 코드 품질을 개선하는 데 특화되어 있습니다.",
-        "applications": "Claude Code를 사용하여 고품질 코드를 생성하고 AI 모델의 논리적 오류를 최소화하려는 경우 활용할 수 있습니다."
+        "features": "Andrej Karpathy의 LLM 코딩 통찰력을 바탕으로 Claude Code의 행동 방식을 최적화하는 구성 파일입니다. 코딩 시 발생할 수 있는 일반적인 함정을 피하도록 설계되었습니다.",
+        "applications": "Claude Code를 사용하면서 더 나은 코드 품질과 논리적인 문제 해결을 원하는 개발자에게 적합합니다."
       },
       {
         "rank": 6,
-        "name": "claw-code",
-        "full_name": "ultraworkers/claw-code",
-        "html_url": "https://github.com/ultraworkers/claw-code",
-        "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-        "stargazers_count": 195106,
-        "language": "Rust",
-        "owner": {
-          "login": "ultraworkers",
-          "avatar_url": "https://avatars.githubusercontent.com/u/272961631?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "claw-code",
-        "features": "Rust로 작성된 에이전트 관리형 박물관 전시물 프로젝트입니다. 인간의 개입 없이 스스로 개발 및 유지보수되는 자율형 시스템을 지향합니다.",
-        "applications": "자율적인 소프트웨어 운영 및 유지보수 시스템을 연구하거나 에이전트 자동화의 한계를 실험하는 용도로 사용됩니다."
-      },
-      {
-        "rank": 7,
         "name": "deepseek-harness",
         "full_name": "deepseek-ai/deepseek-harness",
         "html_url": "https://github.com/deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
-        "stargazers_count": 181330,
+        "stargazers_count": 202357,
         "language": "TypeScript",
         "owner": {
           "login": "deepseek-ai",
@@ -853,8 +830,28 @@
           "spdx_id": "MIT"
         },
         "translatedName": "deepseek-harness",
-        "features": "모든 것을 플러그인화하여 확장성을 극대화한 DeepSeek 에이전트 프레임워크입니다. 유연한 아키텍처를 통해 다양한 기능을 쉽게 추가할 수 있습니다.",
-        "applications": "DeepSeek 기반의 에이전트 기능을 확장하거나 자신만의 도구 생태계를 구축하려는 개발자에게 적합합니다."
+        "features": "모든 기능을 플러그인 형태로 구성하여 확장성을 극대화한 DeepSeek 에이전트 하네스입니다. 사용자가 필요한 기능을 모듈식으로 쉽게 추가하고 관리할 수 있습니다.",
+        "applications": "DeepSeek 모델을 활용한 자신만의 맞춤형 에이전트 생태계를 구축하려는 개발자에게 유용합니다."
+      },
+      {
+        "rank": 7,
+        "name": "claw-code",
+        "full_name": "ultraworkers/claw-code",
+        "html_url": "https://github.com/ultraworkers/claw-code",
+        "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+        "stargazers_count": 195140,
+        "language": "Rust",
+        "owner": {
+          "login": "ultraworkers",
+          "avatar_url": "https://avatars.githubusercontent.com/u/272961631?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "claw-code",
+        "features": "Rust로 작성된 에이전트 관리형 프로젝트로 인간의 개입 없이 스스로 개발과 유지를 수행합니다. 'LazyCodex' 기술을 기반으로 박물관 전시 수준의 자율성을 구현합니다.",
+        "applications": "완전 자율형 소프트웨어 유지보수 시스템을 실험하거나 구현하고자 하는 연구자들에게 적합합니다."
       },
       {
         "rank": 8,
@@ -862,16 +859,16 @@
         "full_name": "anthropics/skills",
         "html_url": "https://github.com/anthropics/skills",
         "description": "Public repository for Agent Skills",
-        "stargazers_count": 170868,
+        "stargazers_count": 172327,
         "language": "Python",
         "owner": {
           "login": "anthropics",
           "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
         },
         "license": null,
-        "translatedName": "skills (Anthropic)",
-        "features": "Anthropic에서 공식적으로 제공하는 에이전트 스킬 공유 저장소입니다. 다양한 작업 수행을 위한 공통 스킬셋과 표준을 배울 수 있습니다.",
-        "applications": "에이전트 기반 서비스를 구축할 때 필요한 표준화된 기술 요소를 습득하거나 활용하려는 개발자에게 유용합니다."
+        "translatedName": "skills",
+        "features": "Anthropic에서 공식 제공하는 에이전트 스킬 표준 저장소입니다. 다양한 AI 에이전트가 공통으로 활용할 수 있는 핵심 기술과 도구들을 체계적으로 정의합니다.",
+        "applications": "에이전트 개발 표준을 준수하고 안정적인 AI 기능을 통합하고자 하는 기업 및 개발자에게 권장됩니다."
       },
       {
         "rank": 9,
@@ -879,7 +876,7 @@
         "full_name": "msitarzewski/agency-agents",
         "html_url": "https://github.com/msitarzewski/agency-agents",
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "stargazers_count": 147190,
+        "stargazers_count": 148666,
         "language": "Shell",
         "owner": {
           "login": "msitarzewski",
@@ -890,8 +887,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "agency-agents",
-        "features": "프론트엔드부터 커뮤니티 관리, 데이터 검증까지 전문가 수준의 AI 에이전트들을 제공합니다. 각 에이전트는 고유한 성격과 프로세스를 보유하고 있습니다.",
-        "applications": "전체적인 비즈니스 업무를 자동화하거나 특정 도메인의 전문가 역할을 수행할 AI 대리인이 필요한 경우에 사용합니다."
+        "features": "프론트엔드 전문가부터 커뮤니티 관리자까지 다양한 페르소나를 가진 AI 에이전트 군단을 제공합니다. 각 에이전트는 특정 프로세스와 결과물을 보장하는 전문가로 구성되어 있습니다.",
+        "applications": "전반적인 비즈니스 업무를 자동화하고 다방면의 전문가 에이전트 팀을 운영하고자 하는 사용자에게 최적입니다."
       },
       {
         "rank": 10,
@@ -899,7 +896,7 @@
         "full_name": "garrytan/gstack",
         "html_url": "https://github.com/garrytan/gstack",
         "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "stargazers_count": 129083,
+        "stargazers_count": 130240,
         "language": "TypeScript",
         "owner": {
           "login": "garrytan",
@@ -910,8 +907,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "gstack",
-        "features": "개리 탄(Garry Tan)의 엄격하고 실용적인 Claude Code 설정 방식을 담고 있습니다. CEO, 매니저, QA 등 23가지의 도구를 통해 생산성을 극대화합니다.",
-        "applications": "프로젝트 관리부터 QA까지 전체적인 소프트웨어 개발 라이프사이클을 AI로 자동화하려는 팀에게 매우 유용합니다."
+        "features": "Garry Tan이 사용하는 설정을 그대로 구현하여 CEO, 디자이너, QA 등 23가지 업무별 AI 도구를 제공합니다. 각 도구는 특정한 역할에 최적화된 업무 수행 방식을 지원합니다.",
+        "applications": "전문가의 워크플로우를 그대로 도입하여 소프트웨어 개발 및 제품 관리 전반을 효율화하려는 팀에게 유용합니다."
       },
       {
         "rank": 11,
@@ -919,7 +916,7 @@
         "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
         "html_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-        "stargazers_count": 119367,
+        "stargazers_count": 122649,
         "language": "Python",
         "owner": {
           "login": "nextlevelbuilder",
@@ -930,28 +927,28 @@
           "spdx_id": "MIT"
         },
         "translatedName": "ui-ux-pro-max-skill",
-        "features": "다양한 플랫폼에 걸쳐 전문적인 UI/UX 디자인 인텔리전스를 제공하는 AI 기술입니다. 사용자 경험 디자인의 품질을 높이는 데 특화되어 있습니다.",
-        "applications": "디자인 역량이 부족한 개발자가 전문적인 UI/UX를 설계하거나 디자인 자동화를 꾀할 때 활용 가능합니다."
+        "features": "다양한 플랫폼에서 전문적인 UI/UX를 설계할 수 있는 지능형 AI 기술을 제공합니다. 디자인 원칙에 기반하여 완성도 높은 인터페이스 구축을 지원합니다.",
+        "applications": "디자인 감각이 필요한 개발자나 빠르게 고품질의 UI 프로토타입을 만들어야 하는 프로젝트에 효과적입니다."
       },
       {
         "rank": 12,
-        "name": "awesome-design-md",
-        "full_name": "VoltAgent/awesome-design-md",
-        "html_url": "https://github.com/VoltAgent/awesome-design-md",
-        "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-        "stargazers_count": 109571,
-        "language": null,
+        "name": "ponytail",
+        "full_name": "DietrichGebert/ponytail",
+        "html_url": "https://github.com/DietrichGebert/ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "stargazers_count": 115593,
+        "language": "JavaScript",
         "owner": {
-          "login": "VoltAgent",
-          "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+          "login": "DietrichGebert",
+          "avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "awesome-design-md",
-        "features": "유명 브랜드의 디자인 시스템을 분석한 파일 모음입니다. 프로젝트에 적용하면 코딩 에이전트가 그에 맞춰 일관된 UI를 생성하도록 지원합니다.",
-        "applications": "브랜드 아이덴티티를 유지하며 AI를 통해 일관성 있는 디자인 시스템을 빠르게 구현하고 싶은 웹 개발자에게 적합합니다."
+        "translatedName": "ponytail",
+        "features": "AI 에이전트가 '가장 게으른 시니어 개발자'처럼 생각하게 만들어 불필요한 코딩을 최소화합니다. 최소한의 코드로 최상의 결과를 도출하는 것을 목표로 합니다.",
+        "applications": "코드 복잡성을 줄이고 효율적이고 간결한 코드 작성을 선호하는 개발자에게 적합합니다."
       }
     ],
     "audio_video": [
@@ -961,7 +958,7 @@
         "full_name": "Vincentwei1021/video-shotcraft",
         "html_url": "https://github.com/Vincentwei1021/video-shotcraft",
         "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
-        "stargazers_count": 5963,
+        "stargazers_count": 6618,
         "language": "TypeScript",
         "owner": {
           "login": "Vincentwei1021",
@@ -972,36 +969,16 @@
           "spdx_id": "Apache-2.0"
         },
         "translatedName": "video-shotcraft",
-        "features": "Claude Code 및 Codex를 위한 AI 비디오 제작 기술로, 152개의 샷 레시피 카드와 209개의 모션 미리보기를 제공합니다. Remotion을 활용하여 프로덕션 수준의 시네마틱 제품 영상을 제작할 수 있는 템플릿을 포함합니다.",
-        "applications": "제품 홍보 영상 제작 시간을 단축하려는 개발자와 자동화된 영상 편집 워크플로우를 구축하려는 콘텐츠 크리에이터에게 적합합니다."
+        "features": "Claude Code 및 Codex를 위한 AI 영상 편집 기술을 제공하며 152개의 샷 레시피 카드와 209개의 모션 미리보기를 포함합니다. Remotion을 기반으로 하여 제작 준비가 완료된 영상 템플릿을 생성합니다.",
+        "applications": "제품 홍보 영상을 빠르게 제작하려는 영상 제작자나 자동화된 시네마틱 영상 생성이 필요한 개발자에게 적합합니다."
       },
       {
         "rank": 2,
-        "name": "html-video",
-        "full_name": "nexu-io/html-video",
-        "html_url": "https://github.com/nexu-io/html-video",
-        "description": "Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
-        "stargazers_count": 4438,
-        "language": "HTML",
-        "owner": {
-          "login": "nexu-io",
-          "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
-        },
-        "license": {
-          "name": "Apache License 2.0",
-          "spdx_id": "Apache-2.0"
-        },
-        "translatedName": "html-video",
-        "features": "HTML, CSS 및 데이터를 MP4 파일로 변환하는 프로그래밍 방식의 비디오 생성 도구입니다. 21개의 템플릿과 AI 사운드트랙을 지원하며, 렌더링 비용이 발생하지 않는 오픈소스 프로젝트입니다.",
-        "applications": "코딩 에이전트가 직접 비디오를 생성하도록 하거나, 대규모 비디오 콘텐츠를 프로그래밍 방식으로 자동 생성해야 하는 서비스에 유용합니다."
-      },
-      {
-        "rank": 3,
         "name": "qwen-audio-agent",
         "full_name": "QwenAudio/qwen-audio-agent",
         "html_url": "https://github.com/QwenAudio/qwen-audio-agent",
         "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-        "stargazers_count": 2219,
+        "stargazers_count": 2285,
         "language": "JavaScript",
         "owner": {
           "login": "QwenAudio",
@@ -1012,36 +989,16 @@
           "spdx_id": "Apache-2.0"
         },
         "translatedName": "qwen-audio-agent",
-        "features": "AI 에이전트가 실시간으로 대화하고 작업에 참여할 수 있도록 돕는 음성 런타임 환경입니다. 실시간 통신을 통해 에이전트와 사용자 간의 원활한 상호작용을 지원합니다.",
-        "applications": "실시간 음성 상호작용이 필요한 AI 비서 개발이나 고객 응대용 챗봇 시스템 구축에 활용할 수 있습니다."
+        "features": "AI 에이전트가 끊김 없이 대화하고 작업을 수행할 수 있도록 지원하는 실시간 음성 런타임 환경입니다. 지연 시간을 최소화하여 에이전트의 현장감 있는 상호작용을 가능하게 합니다.",
+        "applications": "실시간 음성 기반 고객 상담 서비스나 지능형 보이스 챗봇 시스템을 구축하려는 기업에 유용합니다."
       },
       {
-        "rank": 4,
-        "name": "claude-real-video",
-        "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
-        "html_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-        "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-        "stargazers_count": 2050,
-        "language": "Python",
-        "owner": {
-          "login": "HUANGCHIHHUNGLeo",
-          "avatar_url": "https://avatars.githubusercontent.com/u/207666334?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "claude-real-video",
-        "features": "LLM이 로컬 파일이나 URL에서 비디오를 직접 시청하고 분석할 수 있게 합니다. 장면 인식 및 중복 제거된 프레임과 자막 정보를 추출하여 로컬 환경에서 구동됩니다.",
-        "applications": "AI가 비디오 내용을 이해하고 질문에 답하거나, 영상 데이터 분석 자동화를 구현하고자 하는 연구자 및 개발자에게 적합합니다."
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "name": "pixel2motion",
         "full_name": "nolangz/pixel2motion",
         "html_url": "https://github.com/nolangz/pixel2motion",
         "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
-        "stargazers_count": 2019,
+        "stargazers_count": 2118,
         "language": "Python",
         "owner": {
           "login": "nolangz",
@@ -1052,16 +1009,16 @@
           "spdx_id": "MIT"
         },
         "translatedName": "pixel2motion",
-        "features": "래스터 이미지를 부드러운 SVG 애니메이션으로 변환하는 AI 로고 애니메이션 기술입니다. 애니메이션 HTML 데모, GIF/비디오 미리보기 및 모션 품질 보증 기능을 제공합니다.",
-        "applications": "브랜드 로고를 웹이나 앱을 위한 모션 그래픽으로 빠르게 전환하고자 하는 디자이너나 개발자에게 유용합니다."
+        "features": "래스터 이미지를 부드러운 SVG 애니메이션으로 변환하는 AI 로고 애니메이션 도구입니다. 애니메이션 HTML 데모 및 GIF/비디오 미리보기와 모션 품질 검증 기능을 지원합니다.",
+        "applications": "브랜드 로고를 웹이나 앱에서 동적으로 활용하고 싶은 디자이너나 프론트엔드 개발자가 활용하기 좋습니다."
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "audio.cpp",
         "full_name": "0xShug0/audio.cpp",
         "html_url": "https://github.com/0xShug0/audio.cpp",
         "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.",
-        "stargazers_count": 1918,
+        "stargazers_count": 2086,
         "language": "C++",
         "owner": {
           "login": "0xShug0",
@@ -1072,16 +1029,36 @@
           "spdx_id": "NOASSERTION"
         },
         "translatedName": "audio.cpp",
-        "features": "ggml 기반의 순수 C++ 추론 엔진으로 Python 의존성 없이 고성능 오디오 처리를 제공합니다. TTS, STT, VAD, 음성 변환 및 음악 생성 기능을 통합 지원합니다.",
-        "applications": "임베디드 환경이나 성능이 중요한 고성능 오디오 처리 애플리케이션을 개발할 때 최적의 선택입니다."
+        "features": "ggml을 기반으로 하는 순수 C++ 추론 엔진으로 Python 의존성 없이 실행됩니다. TTS, STT, 음성 변환 및 음악 생성 등 다양한 오디오 모델을 최적화된 성능으로 지원합니다.",
+        "applications": "리소스가 제한된 환경에서 고성능 오디오 처리 모델을 직접 배포하려는 임베디드 및 소프트웨어 개발자에게 이상적입니다."
       },
       {
-        "rank": 7,
+        "rank": 5,
+        "name": "claude-real-video",
+        "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
+        "html_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+        "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+        "stargazers_count": 2086,
+        "language": "Python",
+        "owner": {
+          "login": "HUANGCHIHHUNGLeo",
+          "avatar_url": "https://avatars.githubusercontent.com/u/207666334?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "claude-real-video",
+        "features": "LLM이 영상의 프레임과 스크립트를 직접 분석할 수 있게 하는 도구로 로컬 환경에서 실행 가능합니다. 중복 프레임을 제거하고 영상 콘텐츠를 의미론적으로 이해하도록 돕습니다.",
+        "applications": "긴 영상을 빠르게 요약하거나 특정 장면을 찾기 위해 영상을 데이터로 변환하고자 하는 분석가들에게 유용합니다."
+      },
+      {
+        "rank": 6,
         "name": "JoyAI-Echo",
         "full_name": "jd-opensource/JoyAI-Echo",
         "html_url": "https://github.com/jd-opensource/JoyAI-Echo",
-        "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-        "stargazers_count": 1860,
+        "description": "JoyAI-Echo-1.5: Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds",
+        "stargazers_count": 1968,
         "language": "Python",
         "owner": {
           "login": "jd-opensource",
@@ -1092,16 +1069,16 @@
           "spdx_id": "NOASSERTION"
         },
         "translatedName": "JoyAI-Echo",
-        "features": "장문 오디오-비디오 생성 기술의 한계를 확장하는 프로젝트입니다. 긴 호흡의 멀티모달 콘텐츠를 생성하는 데 최적화되어 있습니다.",
-        "applications": "영화 수준의 긴 오디오-비디오 스토리텔링 콘텐츠를 생성하거나 자동화된 영상 시나리오 제작 시스템에 활용됩니다."
+        "features": "장시간의 시청각 정보를 일관성 있게 생성하여 지속적인 스토리텔링과 대화형 가상 세계를 구현합니다. 복합적인 맥락을 유지하면서 비디오와 오디오를 생성하는 능력이 뛰어납니다.",
+        "applications": "게임 내 동적 환경 구축이나 사용자 참여형 인터랙티브 스토리텔링 콘텐츠 개발에 활용될 수 있습니다."
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "video-autopilot-kit",
         "full_name": "Hao0321/video-autopilot-kit",
         "html_url": "https://github.com/Hao0321/video-autopilot-kit",
         "description": "Fill-in-your-own-data framework for YouTube / short-form video automation: CapCut JSON + ffmpeg tooling + an onboarding questionnaire. Ships with zero private data.",
-        "stargazers_count": 1833,
+        "stargazers_count": 1942,
         "language": "Python",
         "owner": {
           "login": "Hao0321",
@@ -1112,16 +1089,16 @@
           "spdx_id": "MIT"
         },
         "translatedName": "video-autopilot-kit",
-        "features": "CapCut JSON 및 ffmpeg 도구를 결합한 유튜브 및 쇼츠 비디오 자동화 프레임워크입니다. 사용자 정의 데이터를 사용하여 온보딩 설문지 기반으로 자동 영상을 생성합니다.",
-        "applications": "개인 데이터를 외부로 유출하지 않으면서 대량의 짧은 영상 콘텐츠를 효율적으로 양산하려는 크리에이터에게 적합합니다."
+        "features": "CapCut JSON과 ffmpeg를 활용하여 유튜브 및 숏폼 영상 제작을 자동화하는 프레임워크입니다. 사용자 정의 데이터를 입력하면 개인정보 유출 없이 영상 생성을 자동화합니다.",
+        "applications": "반복적인 숏폼 콘텐츠를 대량으로 생산해야 하는 유튜버나 마케터들에게 업무 효율을 극대화해 줍니다."
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "JoyAI-VL-Interaction",
         "full_name": "jd-opensource/JoyAI-VL-Interaction",
         "html_url": "https://github.com/jd-opensource/JoyAI-VL-Interaction",
         "description": "JoyAI-VL-Interaction: An Open Real-time Video-Language Interaction System",
-        "stargazers_count": 1783,
+        "stargazers_count": 1810,
         "language": "Python",
         "owner": {
           "login": "jd-opensource",
@@ -1132,36 +1109,16 @@
           "spdx_id": "Apache-2.0"
         },
         "translatedName": "JoyAI-VL-Interaction",
-        "features": "비디오와 언어 간의 실시간 상호작용을 처리하는 오픈소스 시스템입니다. 영상의 상황을 이해하고 실시간으로 사용자와 대화하며 상호작용하는 데 특화되어 있습니다.",
-        "applications": "스마트 보안 모니터링이나 실시간 영상 분석 기반의 대화형 AI 인터페이스 구축에 활용될 수 있습니다."
+        "features": "실시간으로 영상과 언어 정보를 통합 처리하는 오픈 시스템입니다. 비디오 환경에서 발생하는 사용자의 입력을 지능적으로 인식하고 즉각적인 반응을 생성합니다.",
+        "applications": "사용자와 실시간으로 소통하는 지능형 비디오 인터페이스나 로봇 서비스 시스템 개발에 사용됩니다."
       },
       {
-        "rank": 10,
-        "name": "JoyAI-Video-Edit",
-        "full_name": "jd-opensource/JoyAI-Video-Edit",
-        "html_url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
-        "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-        "stargazers_count": 1620,
-        "language": "Python",
-        "owner": {
-          "login": "jd-opensource",
-          "avatar_url": "https://avatars.githubusercontent.com/u/75349771?v=4"
-        },
-        "license": {
-          "name": "Apache License 2.0",
-          "spdx_id": "Apache-2.0"
-        },
-        "translatedName": "JoyAI-Video-Edit",
-        "features": "자기회귀 확산 모델(Autoregressive Diffusion)을 사용하여 실시간으로 오픈엔드 비디오 편집을 수행하는 공식 프로젝트입니다. 사용자의 의도에 따라 영상 콘텐츠를 동적으로 수정합니다.",
-        "applications": "영상 편집 과정을 자동화하거나, 실시간으로 비디오 내 특정 요소를 수정해야 하는 편집 서비스에서 사용할 수 있습니다."
-      },
-      {
-        "rank": 11,
+        "rank": 9,
         "name": "story-to-handdrawn-video",
         "full_name": "gnipbao/story-to-handdrawn-video",
         "html_url": "https://github.com/gnipbao/story-to-handdrawn-video",
         "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-        "stargazers_count": 1495,
+        "stargazers_count": 1711,
         "language": "JavaScript",
         "owner": {
           "login": "gnipbao",
@@ -1172,8 +1129,48 @@
           "spdx_id": "MIT"
         },
         "translatedName": "story-to-handdrawn-video",
-        "features": "중국어 스토리나 이미지 시퀀스를 입력받아 손으로 그린듯한 일기 형식의 애니메이션(MP4)으로 변환하는 에이전트 스킬입니다. 스토리텔링을 시각화하는 데 중점을 둡니다.",
-        "applications": "개인적인 이야기를 애니메이션 콘텐츠로 바꾸거나, 교육용 콘텐츠를 쉽고 빠르게 제작하고자 하는 사용자에게 유용합니다."
+        "features": "중국어 스토리 텍스트나 이미지를 입력하면 손으로 그린 듯한 다이어리 스타일의 코믹 애니메이션으로 변환합니다. 자동으로 MP4 파일 형태의 영상 트랙을 생성합니다.",
+        "applications": "교육용 콘텐츠나 짧은 이야기를 시각적으로 구현하고 싶은 크리에이터들에게 효율적인 도구가 됩니다."
+      },
+      {
+        "rank": 10,
+        "name": "JoyAI-Video-Edit",
+        "full_name": "jd-opensource/JoyAI-Video-Edit",
+        "html_url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+        "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+        "stargazers_count": 1685,
+        "language": "Python",
+        "owner": {
+          "login": "jd-opensource",
+          "avatar_url": "https://avatars.githubusercontent.com/u/75349771?v=4"
+        },
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "JoyAI-Video-Edit",
+        "features": "자기회귀 확산 모델을 사용하여 실시간으로 오픈엔드 비디오 편집을 수행합니다. 영상의 내용을 이해하고 의도에 따라 영상 요소를 실시간으로 수정하거나 변형합니다.",
+        "applications": "영상 편집 시간을 단축하고 싶은 편집자나 실시간 스트리밍 중 영상 보정이 필요한 전문가에게 최적입니다."
+      },
+      {
+        "rank": 11,
+        "name": "vox-director",
+        "full_name": "Alisa0808/vox-director",
+        "html_url": "https://github.com/Alisa0808/vox-director",
+        "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+        "stargazers_count": 1627,
+        "language": "Python",
+        "owner": {
+          "login": "Alisa0808",
+          "avatar_url": "https://avatars.githubusercontent.com/u/68321694?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "vox-director",
+        "features": "특정 주제를 입력하면 Vox 스타일의 페이퍼 콜라주 형식 설명 영상이나 광고 영상을 엔드 투 엔드로 자동 생성합니다. Atlas Cloud와 ffmpeg를 통해 자동화 프로세스를 완성합니다.",
+        "applications": "정보 전달 중심의 짧은 영상 콘텐츠를 기획하고 빠르게 배포해야 하는 콘텐츠 제작 팀에 적합합니다."
       },
       {
         "rank": 12,
@@ -1181,7 +1178,7 @@
         "full_name": "Danilaa1/cuelume",
         "html_url": "https://github.com/Danilaa1/cuelume",
         "description": "Cuelume is a curated sound palette, not an audio engine. It gives buttons, links, toggles, and completed actions clear feedback without asking developers to design sounds themselves. Add an attribute, call bind(), done.",
-        "stargazers_count": 1468,
+        "stargazers_count": 1526,
         "language": "TypeScript",
         "owner": {
           "login": "Danilaa1",
@@ -1192,8 +1189,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "cuelume",
-        "features": "개발자가 사운드 디자인에 신경 쓰지 않고도 버튼 클릭이나 작업 완료 등 인터페이스 요소에 명확한 오디오 피드백을 추가할 수 있게 합니다. 속성 추가와 바인딩 함수만으로 간단히 구현됩니다.",
-        "applications": "사용자 경험(UX) 향상을 위해 빠르고 효율적인 오디오 피드백 시스템을 웹 애플리케이션에 도입하려는 프론트엔드 개발자에게 적합합니다."
+        "features": "UI 액션에 최적화된 사운드 팔레트를 제공하여 개발자가 직접 효과음을 디자인할 필요가 없도록 돕습니다. 간단한 속성 설정과 바인딩만으로 앱에 명확한 오디오 피드백을 추가할 수 있습니다.",
+        "applications": "웹이나 앱 인터페이스에 직관적인 사용자 경험(UX)과 효과적인 사운드 피드백을 도입하려는 UI/UX 개발자에게 권장합니다."
       }
     ]
   }
