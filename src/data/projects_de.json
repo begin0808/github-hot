@@ -1,243 +1,237 @@
 {
-  "lastUpdated": "2026-09-05T03:11:06.456Z",
+  "lastUpdated": "2026-09-12T03:21:04.279Z",
   "periods": {
     "week": [
       {
         "rank": 1,
-        "name": "m3e-canvas",
-        "full_name": "lnkiai/m3e-canvas",
-        "html_url": "https://github.com/lnkiai/m3e-canvas",
-        "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-        "stargazers_count": 2131,
+        "name": "human-atlas",
+        "full_name": "ashemag/human-atlas",
+        "html_url": "https://github.com/ashemag/human-atlas",
+        "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+        "stargazers_count": 3214,
         "language": "TypeScript",
         "owner": {
-          "login": "lnkiai",
-          "avatar_url": "https://avatars.githubusercontent.com/u/187016380?v=4"
+          "login": "ashemag",
+          "avatar_url": "https://avatars.githubusercontent.com/u/8096590?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "m3e-canvas",
-        "features": "Ein Browser-basiertes Tool zur Gestaltung von Material 3 Expressive-Benutzeroberflächen. Es ermöglicht die schnelle Erstellung von Layouts und deren Umwandlung in Vibe-Coding-Prompts.",
-        "applications": "Ideal für UI/UX-Designer und Entwickler, die schnell Prototypen für moderne Web-Schnittstellen erstellen und KI-gestützte Codegenerierung nutzen möchten."
+        "translatedName": "human-atlas (3D-Anatomie-Explorer)",
+        "features": "Dieser Open-Source-Explorer bietet über 2.200 interaktive 3D-Modelle anatomischer Körperteile. Nutzer können zwischen verschiedenen Systemebenen wechseln, detaillierte Suchen durchführen und die Strukturen in einer Explosionsansicht betrachten.",
+        "applications": "Ideal für Medizinstudenten und Lehrkräfte, die ein intuitives Werkzeug zur Visualisierung komplexer menschlicher Anatomie benötigen."
       },
       {
         "rank": 2,
-        "name": "commerce-agents",
-        "full_name": "anthropics/commerce-agents",
-        "html_url": "https://github.com/anthropics/commerce-agents",
-        "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-        "stargazers_count": 1942,
-        "language": "Python",
+        "name": "dlssg_for_sm86",
+        "full_name": "sdli1995/dlssg_for_sm86",
+        "html_url": "https://github.com/sdli1995/dlssg_for_sm86",
+        "description": "Here is a dlssg for RTX30 Series GPU ",
+        "stargazers_count": 1819,
+        "language": null,
         "owner": {
-          "login": "anthropics",
-          "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+          "login": "sdli1995",
+          "avatar_url": "https://avatars.githubusercontent.com/u/28560351?v=4"
+        },
+        "license": null,
+        "translatedName": "dlssg_for_sm86 (DLSS-Frame-Generation-Patch)",
+        "features": "Dieses Projekt ermöglicht die Nutzung von DLSS Frame Generation auf Grafikkarten der RTX 30-Serie. Es fungiert als Modifikation zur Leistungssteigerung bei kompatiblen Titeln.",
+        "applications": "Geeignet für PC-Gamer, die trotz älterer Hardware die flüssigere Bildwiedergabe durch Frame-Generation-Technologien nutzen möchten."
+      },
+      {
+        "rank": 3,
+        "name": "NavierStokesAndEuler",
+        "full_name": "openai/NavierStokesAndEuler",
+        "html_url": "https://github.com/openai/NavierStokesAndEuler",
+        "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+        "stargazers_count": 1780,
+        "language": "Lean",
+        "owner": {
+          "login": "openai",
+          "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
         },
         "license": {
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "translatedName": "commerce-agents",
-        "features": "Eine Referenz-Blaupause für die Entwicklung von KI-gesteuerten Einkaufs- und Handelsagenten basierend auf Claude. Bietet praxisnahe Implementierungen für verschiedene Sektoren wie Einzelhandel und Telekommunikation.",
-        "applications": "Unterstützt Unternehmen dabei, intelligente Assistenten zu entwickeln, die komplexe Kundeninteraktionen im E-Commerce automatisieren und optimieren."
-      },
-      {
-        "rank": 3,
-        "name": "DLSS5-Swapper",
-        "full_name": "rakanki911/DLSS5-Swapper",
-        "html_url": "https://github.com/rakanki911/DLSS5-Swapper",
-        "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
-        "stargazers_count": 1526,
-        "language": "JavaScript",
-        "owner": {
-          "login": "rakanki911",
-          "avatar_url": "https://avatars.githubusercontent.com/u/199753947?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "DLSS5-Swapper",
-        "features": "Ein leistungsstarkes Werkzeug zur Verwaltung, Installation und Wiederherstellung von DLSS 5 in Spielen und Emulatoren. Es bietet automatische Spielerkennung und unterstützt eine breite Palette an Grafik-APIs wie DirectX, Vulkan und OpenGL.",
-        "applications": "Perfekt für Gamer, die DLSS 5-Technologien in Spielen nachrüsten oder verwalten möchten, die keine native Unterstützung bieten."
+        "translatedName": "NavierStokesAndEuler (Mathematische Beweisführung)",
+        "features": "Das Projekt enthält formale Lean-Zertifikate für mathematische Ergebnisse zu den Navier-Stokes- und Euler-Gleichungen. Es bietet eine präzise, rechnergestützte Verifizierung der Strömungsmechanik-Theorien.",
+        "applications": "Wissenschaftler und Mathematiker nutzen diese Bibliothek zur formalen Überprüfung komplexer physikalischer Gleichungen."
       },
       {
         "rank": 4,
-        "name": "cn",
-        "full_name": "shadcn-ui/cn",
-        "html_url": "https://github.com/shadcn-ui/cn",
-        "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-        "stargazers_count": 1109,
-        "language": "TypeScript",
+        "name": "handraw-style",
+        "full_name": "yang0/handraw-style",
+        "html_url": "https://github.com/yang0/handraw-style",
+        "description": "手绘风格编号画廊与双语提示词 Skill",
+        "stargazers_count": 1498,
+        "language": "HTML",
         "owner": {
-          "login": "shadcn-ui",
-          "avatar_url": "https://avatars.githubusercontent.com/u/139895814?v=4"
+          "login": "yang0",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3478629?v=4"
         },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "cn",
-        "features": "Eine performante Engine zur Zusammenführung und Konfliktlösung von Tailwind-CSS-Klassen. Sie ist bis zu 30-mal schneller als herkömmliche Tools bei vollständiger API-Kompatibilität.",
-        "applications": "Geeignet für Frontend-Entwickler, die den Build-Prozess beschleunigen und die Wartbarkeit ihrer CSS-Klassenstrukturen verbessern wollen."
+        "license": null,
+        "translatedName": "handraw-style (Handgezeichnete Stil-Galerie)",
+        "features": "Diese Plattform bietet eine Galerie mit handgezeichneten Stilen sowie eine Sammlung zweisprachiger Prompts für die Bildgenerierung. Sie konzentriert sich auf die ästhetische Gestaltung in einem speziellen Skizzen-Look.",
+        "applications": "Nützlich für Designer und Künstler, die nach Inspiration oder den richtigen Prompts für die Erstellung handgezeichnet wirkender Grafiken suchen."
       },
       {
         "rank": 5,
-        "name": "undress-service",
-        "full_name": "GangTailorUpgrade/undress-service",
-        "html_url": "https://github.com/GangTailorUpgrade/undress-service",
-        "description": "Dress AI Sponsor",
-        "stargazers_count": 1060,
-        "language": "Python",
+        "name": "codenotch",
+        "full_name": "vinzdg/codenotch",
+        "html_url": "https://github.com/vinzdg/codenotch",
+        "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+        "stargazers_count": 1473,
+        "language": "Swift",
         "owner": {
-          "login": "GangTailorUpgrade",
-          "avatar_url": "https://avatars.githubusercontent.com/u/270958586?v=4"
+          "login": "vinzdg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/199352226?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "undress-service",
-        "features": "Ein KI-gestützter Dienst zur Bildverarbeitung im Zusammenhang mit der KI-gesteuerten Modifikation von Inhalten.",
-        "applications": "Das Projekt richtet sich an spezifische Interessengruppen im Bereich der KI-Bildmanipulation und Sponsoring-Modelle."
+        "translatedName": "codenotch (Nutzungsmonitor für KI-Tools)",
+        "features": "Diese macOS-Anwendung heftet Nutzungslimits von Diensten wie Claude Code, Cursor und Codex direkt an den Bildschirmrand. Sie bietet eine kompakte Übersicht über den aktuellen Verbrauch.",
+        "applications": "Perfekt für Softwareentwickler, die ihre KI-Token-Limits im Auge behalten müssen, ohne ständig den Browser oder die Einstellungen zu prüfen."
       },
       {
         "rank": 6,
-        "name": "reverify",
-        "full_name": "2akouwu/reverify",
-        "html_url": "https://github.com/2akouwu/reverify",
-        "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
-        "stargazers_count": 891,
+        "name": "holo-card-studio",
+        "full_name": "EverettFish/holo-card-studio",
+        "html_url": "https://github.com/EverettFish/holo-card-studio",
+        "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+        "stargazers_count": 1448,
         "language": "Python",
         "owner": {
-          "login": "2akouwu",
-          "avatar_url": "https://avatars.githubusercontent.com/u/14812897?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "reverify",
-        "features": "Ein Anti-Halluzinations-Framework für KI-Agenten, das die Korrektheit von Behauptungen anhand von Binärdaten prüft. Es nutzt deterministische Werkzeuge, um Beweise zu verifizieren oder zu widerlegen.",
-        "applications": "Ideal für Entwickler, die bei KI-Agenten, die auf Binärdateien zugreifen, ein hohes Maß an faktischer Genauigkeit und Nachvollziehbarkeit sicherstellen müssen."
-      },
-      {
-        "rank": 7,
-        "name": "DLSS5-Feeder",
-        "full_name": "jlrouzies-fr/DLSS5-Feeder",
-        "html_url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
-        "description": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
-        "stargazers_count": 720,
-        "language": "C++",
-        "owner": {
-          "login": "jlrouzies-fr",
-          "avatar_url": "https://avatars.githubusercontent.com/u/57990274?v=4"
+          "login": "EverettFish",
+          "avatar_url": "https://avatars.githubusercontent.com/u/222453586?v=4"
         },
         "license": {
           "name": "Other",
           "spdx_id": "NOASSERTION"
         },
-        "translatedName": "DLSS5-Feeder",
-        "features": "Ermöglicht neuronales DLSS 5-Rendering in Spielen ohne native Unterstützung, indem synthetische Daten wie Tiefe und Bewegungsvektoren bereitgestellt werden. Funktioniert nahtlos mit D3D11, D3D12 und Vulkan.",
-        "applications": "Ermöglicht Nutzern, die Vorteile der KI-Upscaling-Technologie von Nvidia auch in älteren oder nicht unterstützten Spielen zu nutzen."
+        "translatedName": "holo-card-studio (Blender-Karten-Generator)",
+        "features": "Das Tool verwandelt Benutzereingaben in bearbeitbare 3D-Blender-Karten und interaktive Three.js-Webseiten. Es bewahrt dabei die Vorgaben zu Motiv, Stil und Typografie.",
+        "applications": "Ideal für Content-Ersteller, die schnell hochwertige, interaktive 3D-Visitenkarten oder Präsentationskarten erstellen möchten."
+      },
+      {
+        "rank": 7,
+        "name": "Edge0",
+        "full_name": "Edge0-AI/Edge0",
+        "html_url": "https://github.com/Edge0-AI/Edge0",
+        "description": null,
+        "stargazers_count": 1358,
+        "language": "Python",
+        "owner": {
+          "login": "Edge0-AI",
+          "avatar_url": "https://avatars.githubusercontent.com/u/310437271?v=4"
+        },
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "Edge0 (KI-Automatisierung)",
+        "features": "Edge0 ist eine Python-basierte Plattform, deren Kern auf KI-gestützte Automatisierungsprozesse ausgerichtet ist. Das Projekt zielt auf die effiziente Verarbeitung von Daten durch intelligente Agenten ab.",
+        "applications": "Entwickler können Edge0 nutzen, um automatisierte Workflows und spezialisierte KI-Lösungen zu implementieren."
       },
       {
         "rank": 8,
-        "name": "polyledger",
-        "full_name": "nahrek/polyledger",
-        "html_url": "https://github.com/nahrek/polyledger",
-        "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-        "stargazers_count": 614,
+        "name": "codex-astra-luna-orchestrator",
+        "full_name": "donvito/codex-astra-luna-orchestrator",
+        "html_url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+        "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+        "stargazers_count": 988,
         "language": "Python",
         "owner": {
-          "login": "nahrek",
-          "avatar_url": "https://avatars.githubusercontent.com/u/138802404?v=4"
+          "login": "donvito",
+          "avatar_url": "https://avatars.githubusercontent.com/u/890270?v=4"
         },
         "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
         },
-        "translatedName": "polyledger",
-        "features": "Ein fortsetzbarer Indexer für Polymarket, der CLOB-Marktdaten und On-Chain-Transaktionen von Polygon zusammenführt. Alle Daten werden in einer DuckDB-Datei gespeichert und sind per SQL abfragbar.",
-        "applications": "Datenanalysten und Krypto-Investoren können dieses Tool nutzen, um komplexe Marktdaten effizient zu aggregieren und tiefgreifende Analysen durchzuführen."
+        "translatedName": "codex-astra-luna-orchestrator (KI-Agenten-Orchestrierung)",
+        "features": "Dieses Projekt verwendet Astra als zentralen Orchestrator und Luna für die Verwaltung von Unteragenten innerhalb von Codex. Es ermöglicht ein strukturiertes Zusammenspiel zwischen verschiedenen KI-Einheiten.",
+        "applications": "Eignet sich für Entwickler komplexer KI-Systeme, die eine hierarchische Steuerung von Agenten für spezifische Aufgaben benötigen."
       },
       {
         "rank": 9,
-        "name": "FalconFlank",
-        "full_name": "MSNightmare/FalconFlank",
-        "html_url": "https://github.com/MSNightmare/FalconFlank",
-        "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
-        "stargazers_count": 505,
-        "language": "C",
+        "name": "anything2explainer",
+        "full_name": "Vincentwei1021/anything2explainer",
+        "html_url": "https://github.com/Vincentwei1021/anything2explainer",
+        "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+        "stargazers_count": 955,
+        "language": "TypeScript",
         "owner": {
-          "login": "MSNightmare",
-          "avatar_url": "https://avatars.githubusercontent.com/u/291905677?v=4"
+          "login": "Vincentwei1021",
+          "avatar_url": "https://avatars.githubusercontent.com/u/18239147?v=4"
         },
         "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
+          "name": "Other",
+          "spdx_id": "NOASSERTION"
         },
-        "translatedName": "FalconFlank",
-        "features": "Ein Proof-of-Concept, der eine Zero-Day-Schwachstelle zur Privilegieneskalation in Crowdstrike Falcon aufdeckt. Der Code konzentriert sich auf die Analyse der Sicherheitsarchitektur.",
-        "applications": "Dient Sicherheitsforschern zur Analyse von Schwachstellen in Endpoint-Protection-Systemen und zur Stärkung der Cybersicherheit."
+        "translatedName": "anything2explainer (Erklärvideo-Generator)",
+        "features": "Dieses Tool erstellt aus beliebigen Themen automatisch professionelle Erklärvideos mit KI-Stimme, Untertiteln und Fortschrittsleisten. Die Frames werden mittels Remotion codebasiert generiert.",
+        "applications": "Perfekt für Pädagogen und YouTuber, die komplexe Inhalte effizient in ansprechende visuelle Erklärvideos verwandeln wollen."
       },
       {
         "rank": 10,
-        "name": "dlss5-visual-enhancer",
-        "full_name": "Merserk/dlss5-visual-enhancer",
-        "html_url": "https://github.com/Merserk/dlss5-visual-enhancer",
-        "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
-        "stargazers_count": 491,
-        "language": "Python",
+        "name": "bank-sampah",
+        "full_name": "Faizpi/bank-sampah",
+        "html_url": "https://github.com/Faizpi/bank-sampah",
+        "description": null,
+        "stargazers_count": 919,
+        "language": "PHP",
         "owner": {
-          "login": "Merserk",
-          "avatar_url": "https://avatars.githubusercontent.com/u/119538451?v=4"
+          "login": "Faizpi",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143463503?v=4"
         },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "dlss5-visual-enhancer",
-        "features": "Ein Tool zur visuellen Verbesserung von Bild- und Videomaterial mittels DLSS 5-Technologie. Es integriert Frame-Interpolation für flüssigere Ergebnisse.",
-        "applications": "Nützlich für Anwender, die die Bildqualität von Videos oder Grafiken durch KI-basierte neuronale Filter signifikant steigern wollen."
+        "license": null,
+        "translatedName": "bank-sampah (Abfallwirtschaftssystem)",
+        "features": "Dieses PHP-basierte Projekt dient zur Verwaltung von Daten innerhalb eines Abfallsammelsystems. Es bietet Strukturen zur Organisation von Sammelstellen und Benutzerdaten.",
+        "applications": "Kann von Kommunen oder Organisationen genutzt werden, um den Prozess der Mülltrennung und -wiederverwertung digital zu verwalten."
       },
       {
         "rank": 11,
-        "name": "DLSS-NR-on-AMD",
-        "full_name": "danielblnc/DLSS-NR-on-AMD",
-        "html_url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
-        "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
-        "stargazers_count": 474,
-        "language": null,
+        "name": "crypto-rag",
+        "full_name": "iamzulx/crypto-rag",
+        "html_url": "https://github.com/iamzulx/crypto-rag",
+        "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
+        "stargazers_count": 903,
+        "language": "Python",
         "owner": {
-          "login": "danielblnc",
-          "avatar_url": "https://avatars.githubusercontent.com/u/60046864?v=4"
-        },
-        "license": null,
-        "translatedName": "DLSS-NR-on-AMD",
-        "features": "Ermöglicht die Ausführung von DLSS 5 Neural Rendering auf Grafikkarten des Herstellers AMD. Überbrückt die Kluft zwischen proprietärer Nvidia-Technologie und AMD-Hardware.",
-        "applications": "Ein Werkzeug für Hardware-Enthusiasten, die ihre AMD-GPUs mit DLSS-Technologien aufwerten möchten, die normalerweise exklusiv für Nvidia-Nutzer verfügbar sind."
-      },
-      {
-        "rank": 12,
-        "name": "fable-orchestrator",
-        "full_name": "codejunkie99/fable-orchestrator",
-        "html_url": "https://github.com/codejunkie99/fable-orchestrator",
-        "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
-        "stargazers_count": 471,
-        "language": "Shell",
-        "owner": {
-          "login": "codejunkie99",
-          "avatar_url": "https://avatars.githubusercontent.com/u/52658655?v=4"
+          "login": "iamzulx",
+          "avatar_url": "https://avatars.githubusercontent.com/u/42101852?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "fable-orchestrator",
-        "features": "Ein Orchestrierungs-Tool, das komplexe Arbeitsabläufe zwischen verschiedenen KI-Modellen wie GPT-5.6 und DeepSeek V4 Flash koordiniert. Bietet eine automatisierte Schnittstelle zur Steuerung von Aufgaben.",
-        "applications": "Geeignet für KI-Ingenieure, die verschiedene Sprachmodelle effizient miteinander verknüpfen möchten, um komplexe, mehrstufige Aufgaben in automatisierten Workflows zu lösen."
+        "translatedName": "crypto-rag (Krypto-KI-Assistent)",
+        "features": "Ein KI-Assistent, der mittels RAG-Technologie auf umfangreiches Kryptowissen und Echtzeit-Marktdaten zugreift. Er integriert WebSocket-Daten, On-Chain-Metriken und DeFi-Analysen in einem Tool.",
+        "applications": "Krypto-Investoren und Analysten erhalten damit eine fundierte Entscheidungshilfe auf Basis aktueller Marktdaten und tiefgreifender Analysen."
+      },
+      {
+        "rank": 12,
+        "name": "dream-loop",
+        "full_name": "achimala/dream-loop",
+        "html_url": "https://github.com/achimala/dream-loop",
+        "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+        "stargazers_count": 857,
+        "language": "JavaScript",
+        "owner": {
+          "login": "achimala",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1448366?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "dream-loop (3D-Visualisierungs-Agent)",
+        "features": "Dieser Agent kombiniert Blender mit Bildgenerierung und einem Unteragenten zur Qualitätssicherung, um beeindruckende 3D-Visualisierungen zu erstellen. Das System optimiert die visuellen Ergebnisse durch kritisches Feedback.",
+        "applications": "Künstler und 3D-Designer profitieren von einer automatisierten Pipeline zur Erstellung ästhetisch anspruchsvoller 3D-Animationen."
       }
     ],
     "month": [
@@ -247,7 +241,7 @@
         "full_name": "deepseek-ai/deepseek-harness",
         "html_url": "https://github.com/deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
-        "stargazers_count": 212343,
+        "stargazers_count": 220671,
         "language": "TypeScript",
         "owner": {
           "login": "deepseek-ai",
@@ -257,9 +251,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "deepseek-harness",
-        "features": "Dieses Projekt basiert auf einer modularen Architektur, bei der jede Komponente als Plugin betrachtet wird. Es bietet ein flexibles Framework zur Erweiterung von DeepSeek-Funktionen durch eine plugin-basierte Struktur.",
-        "applications": "Ideal für Entwickler, die DeepSeek-Dienste modular erweitern und hochgradig anpassbare KI-Workflows erstellen möchten."
+        "translatedName": "DeepSeek Harness",
+        "features": "DeepSeek Harness ist ein modulares Framework, das auf einer Plugin-basierten Architektur basiert. Es ermöglicht Entwicklern, komplexe Arbeitsabläufe durch die einfache Integration verschiedener Erweiterungen zu definieren.",
+        "applications": "Ideal für Entwickler, die hochgradig anpassbare und erweiterbare KI-Workflows innerhalb der DeepSeek-Umgebung erstellen möchten."
       },
       {
         "rank": 2,
@@ -267,7 +261,7 @@
         "full_name": "anywhere-labs/dsh-desktop",
         "html_url": "https://github.com/anywhere-labs/dsh-desktop",
         "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-        "stargazers_count": 23625,
+        "stargazers_count": 25758,
         "language": "TypeScript",
         "owner": {
           "login": "anywhere-labs",
@@ -277,37 +271,17 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "dsh-desktop",
-        "features": "Diese moderne Desktop-Lösung wurde speziell für das DeepSeek Harness (DSH) Plugin-Ökosystem entwickelt. Das Designkonzept sieht vor, dass nicht nur Funktionen, sondern die gesamte Desktop-Umgebung als Plugin fungiert.",
-        "applications": "Geeignet für Nutzer, die eine flexible und erweiterbare Desktop-Oberfläche zur Interaktion mit dem DeepSeek-Ökosystem suchen."
+        "translatedName": "DSH Desktop",
+        "features": "Diese moderne Desktop-Anwendung dient als dedizierte Laufzeitumgebung für das DeepSeek Harness-Ökosystem. Sie zeichnet sich durch ein nahtloses Design aus, bei dem die Benutzeroberfläche selbst als erweiterbares Plugin fungiert.",
+        "applications": "Perfekt für Nutzer, die eine stabile und grafische Oberfläche für die Verwaltung ihrer DSH-Plugins auf dem eigenen Rechner benötigen."
       },
       {
         "rank": 3,
-        "name": "watermarks-remover",
-        "full_name": "guillaumemeyer/watermarks-remover",
-        "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
-        "description": "A privacy-first app that strips AI watermarks from content you own.",
-        "stargazers_count": 20612,
-        "language": "Python",
-        "owner": {
-          "login": "guillaumemeyer",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1385518?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "watermarks-remover",
-        "features": "Diese datenschutzorientierte Anwendung entfernt KI-generierte Wasserzeichen aus eigenen Inhalten. Sie arbeitet lokal, um die Privatsphäre der Anwender zu schützen.",
-        "applications": "Nützlich für Content-Ersteller, die KI-generierte Bilder oder Dokumente für professionelle Zwecke bereinigen möchten, ohne ihre Privatsphäre zu gefährden."
-      },
-      {
-        "rank": 4,
         "name": "awesome-dsh-plugin",
         "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
         "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
         "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-        "stargazers_count": 14484,
+        "stargazers_count": 15372,
         "language": "Python",
         "owner": {
           "login": "awesome-dsh-plugin",
@@ -317,17 +291,17 @@
           "name": "Creative Commons Zero v1.0 Universal",
           "spdx_id": "CC0-1.0"
         },
-        "translatedName": "awesome-dsh-plugin",
-        "features": "Eine kuratierte Sammlung von Ressourcen und Erweiterungen für das DeepSeek Harness Framework. Sie dient als zentrales Verzeichnis für qualitativ hochwertige DSH-Plugins.",
-        "applications": "Unterstützt Entwickler bei der Suche nach nützlichen Erweiterungen, um die Funktionalität ihrer DeepSeek Harness Implementierungen schnell zu erweitern."
+        "translatedName": "Awesome DSH Plugin (Kuratierte Liste)",
+        "features": "Dies ist ein handverlesenes Verzeichnis hochwertiger Erweiterungen für das DeepSeek Harness-Ökosystem. Es bietet eine strukturierte Übersicht über verfügbare Tools zur Funktionserweiterung.",
+        "applications": "Unterstützt Entwickler bei der Suche nach bewährten Lösungen, um ihre DSH-Projekte effizient um nützliche Features zu ergänzen."
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "dsh-routing-suite",
         "full_name": "yjh051108/dsh-routing-suite",
         "html_url": "https://github.com/yjh051108/dsh-routing-suite",
         "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
-        "stargazers_count": 7078,
+        "stargazers_count": 7169,
         "language": "JavaScript",
         "owner": {
           "login": "yjh051108",
@@ -337,37 +311,17 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "dsh-routing-suite",
-        "features": "Dieses Kit kombiniert einen Runtime-Injector mit einem auf Aufgaben spezialisierten Reasoning-Modus-Router. Es ermöglicht eine präzise Steuerung der Anfragen innerhalb von DSH.",
-        "applications": "Optimiert für Anwender, die die Antwortqualität von KI-Modellen durch intelligentes Routing und optimierte Task-Verarbeitung steigern möchten."
+        "translatedName": "DSH Routing Suite",
+        "features": "Dieses Kit kombiniert einen Runtime-Injector mit einem standardisierten Router-System. Es ermöglicht eine intelligente Steuerung von Reasoning-Modi basierend auf spezifischen Aufgabenanforderungen.",
+        "applications": "Wird von Experten eingesetzt, um präzisere KI-Entscheidungswege und optimierte Routing-Logiken in DeepSeek Harness-Workflows zu implementieren."
       },
       {
-        "rank": 6,
-        "name": "dsh-web",
-        "full_name": "zhu1090093659/dsh-web",
-        "html_url": "https://github.com/zhu1090093659/dsh-web",
-        "description": "DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
-        "stargazers_count": 6878,
-        "language": "TypeScript",
-        "owner": {
-          "login": "zhu1090093659",
-          "avatar_url": "https://avatars.githubusercontent.com/u/46916148?v=4"
-        },
-        "license": {
-          "name": "Apache License 2.0",
-          "spdx_id": "Apache-2.0"
-        },
-        "translatedName": "dsh-web",
-        "features": "Ein Aggregations-Ökosystem für Web-Plugins, das auf dem DeepSeek Harness Framework basiert. Plugins werden hierbei dezentral über den 'Creative Workshop' verteilt.",
-        "applications": "Perfekt für Web-Entwickler, die ihre DSH-Funktionen browserbasiert aggregieren und leicht zugänglich machen wollen."
-      },
-      {
-        "rank": 7,
+        "rank": 5,
         "name": "PRAXIST",
         "full_name": "sapientinc/PRAXIST",
         "html_url": "https://github.com/sapientinc/PRAXIST",
         "description": "Autonomous research system for measurable, computer-executable research.",
-        "stargazers_count": 5905,
+        "stargazers_count": 6662,
         "language": "Python",
         "owner": {
           "login": "sapientinc",
@@ -378,36 +332,36 @@
           "spdx_id": "NOASSERTION"
         },
         "translatedName": "PRAXIST",
-        "features": "Ein autonomes Forschungssystem, das computergestützte und messbare wissenschaftliche Untersuchungen durchführt. Es automatisiert komplexe Forschungsabläufe effizient.",
-        "applications": "Ideal für Forscher und Analysten, die datenintensive wissenschaftliche Experimente autonom und reproduzierbar durchführen müssen."
+        "features": "PRAXIST ist ein autonomes Forschungssystem, das in der Lage ist, computergestützte Forschungsaufgaben selbstständig durchzuführen. Es automatisiert die Generierung und Ausführung von messbaren Forschungsschritten.",
+        "applications": "Besonders nützlich für Forscher und Analysten, die experimentelle Abläufe automatisieren und direkt ausführbare, skalierbare Untersuchungsergebnisse erzielen wollen."
       },
       {
-        "rank": 8,
-        "name": "flyingmouse-format",
-        "full_name": "LaoFeng-mouse/flyingmouse-format",
-        "html_url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
-        "description": "飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：牢蜂（LaoFeng）｜仅供个人免费使用，禁止商业售卖/转卖/套壳",
-        "stargazers_count": 5400,
-        "language": "JavaScript",
+        "rank": 6,
+        "name": "m3e-canvas",
+        "full_name": "lnkiai/m3e-canvas",
+        "html_url": "https://github.com/lnkiai/m3e-canvas",
+        "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+        "stargazers_count": 6174,
+        "language": "TypeScript",
         "owner": {
-          "login": "LaoFeng-mouse",
-          "avatar_url": "https://avatars.githubusercontent.com/u/273417284?v=4"
+          "login": "lnkiai",
+          "avatar_url": "https://avatars.githubusercontent.com/u/187016380?v=4"
         },
         "license": {
-          "name": "Other",
-          "spdx_id": "NOASSERTION"
+          "name": "MIT License",
+          "spdx_id": "MIT"
         },
-        "translatedName": "flyingmouse-format (飞鼠格式)",
-        "features": "Ein kostenloses, offline nutzbares Windows-Tool zur Konvertierung einer Vielzahl von Dateiformaten, inklusive OCR und Batch-Verarbeitung. Es integriert mächtige Werkzeuge wie FFmpeg, LibreOffice und Tesseract.",
-        "applications": "Praktisch für Privatanwender, die Dokumente, Bilder oder Medien schnell und lokal konvertieren müssen, ohne auf Online-Dienste angewiesen zu sein."
+        "translatedName": "M3E Canvas",
+        "features": "M3E Canvas ermöglicht das Entwerfen von Material 3 Expressive-Bildschirmen direkt im Webbrowser. Die erstellten Entwürfe lassen sich direkt in sogenannte Vibe-Coding-Prompts umwandeln.",
+        "applications": "Ideal für UI/UX-Designer und Entwickler, die schnell Prototypen in KI-gesteuerte Code-Anweisungen übersetzen möchten."
       },
       {
-        "rank": 9,
+        "rank": 7,
         "name": "threeui",
         "full_name": "MengTo/threeui",
         "html_url": "https://github.com/MengTo/threeui",
         "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
-        "stargazers_count": 5126,
+        "stargazers_count": 5617,
         "language": "HTML",
         "owner": {
           "login": "MengTo",
@@ -417,17 +371,37 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "threeui",
-        "features": "Eine Open-Source-Bibliothek mit interaktiven Komponenten und einer umfassenden Community-Datenbank. Alle UI-Elemente sind für eine direkte Nutzung konzipiert.",
-        "applications": "Unterstützt Designer und Frontend-Entwickler beim schnellen Prototyping moderner Benutzeroberflächen mit vorgefertigten, interaktiven Bausteinen."
+        "translatedName": "ThreeUI",
+        "features": "ThreeUI ist ein Open-Source-Katalog, der interaktive Web-Komponenten für Design-Systeme bereitstellt. Nutzer erhalten Zugriff auf Live-Demos und den vollständigen Quellcode der Community-Beiträge.",
+        "applications": "Ein hervorragendes Werkzeug für Webentwickler, die professionelle, interaktive Benutzeroberflächen ohne hohen Zeitaufwand implementieren möchten."
       },
       {
-        "rank": 10,
+        "rank": 8,
+        "name": "dsh-desktop",
+        "full_name": "dataelement/dsh-desktop",
+        "html_url": "https://github.com/dataelement/dsh-desktop",
+        "description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
+        "stargazers_count": 5419,
+        "language": "TypeScript",
+        "owner": {
+          "login": "dataelement",
+          "avatar_url": "https://avatars.githubusercontent.com/u/103249391?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "DSH Desktop (DataElement)",
+        "features": "Eine weitere Implementierung der Desktop-Version für DeepSeek Harness mit Fokus auf nahtlose Integration. Sie bietet eine robuste Umgebung für die Ausführung komplexer Plugin-Szenarien.",
+        "applications": "Geeignet für Anwender, die eine dedizierte Desktop-Umgebung für produktive KI-Aufgaben im Rahmen von DeepSeek suchen."
+      },
+      {
+        "rank": 9,
         "name": "ip-as-logo-skill",
         "full_name": "s1dashu/ip-as-logo-skill",
         "html_url": "https://github.com/s1dashu/ip-as-logo-skill",
         "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-        "stargazers_count": 4933,
+        "stargazers_count": 5144,
         "language": null,
         "owner": {
           "login": "s1dashu",
@@ -437,17 +411,17 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "ip-as-logo-skill",
-        "features": "Ein kompakter Agent-Skill, der speziell für die Erstellung vereinfachter, abgerundeter und neo-skeuomorpher IP-Maskottchen-Logos entwickelt wurde. Er automatisiert das Design dieser spezifischen Ästhetik.",
-        "applications": "Hilfreich für Markendesigner, die schnell konsistente und ästhetisch ansprechende Maskottchen-Logos mittels KI generieren möchten."
+        "translatedName": "IP as Logo Skill",
+        "features": "Dieser kompakte Agent-Skill spezialisiert sich auf die Erstellung von vereinfachten, abgerundeten und modern gestalteten Maskottchen-Logos. Er nutzt neoskeuomorphe Designprinzipien für eine ansprechende Ästhetik.",
+        "applications": "Wird primär von Agent-basierten Design-Systemen genutzt, um schnell konsistente Marken-Maskottchen für digitale Produkte zu generieren."
       },
       {
-        "rank": 11,
+        "rank": 10,
         "name": "OpenBot",
         "full_name": "CopilotKit/OpenBot",
         "html_url": "https://github.com/CopilotKit/OpenBot",
         "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-        "stargazers_count": 4264,
+        "stargazers_count": 4738,
         "language": "TypeScript",
         "owner": {
           "login": "CopilotKit",
@@ -458,28 +432,48 @@
           "spdx_id": "MIT"
         },
         "translatedName": "OpenBot",
-        "features": "Dieses Projekt stellt Open-Source-KI-Kollegen bereit, die mit eigenen Computer-Umgebungen wie Browsern und Dateisystemen ausgestattet sind. Jeder Schritt wird vor der Ausführung geplant und im Nachhinein protokolliert.",
-        "applications": "Geeignet für Unternehmen, die autonome KI-Agenten zur Automatisierung komplexer Arbeitsabläufe in lokalen oder webbasierten Umgebungen suchen."
+        "features": "OpenBot stattet KI-Mitarbeiter mit einem eigenen virtuellen Computer aus, inklusive Browser und Dateizugriff. Jede Aktion wird im Voraus geplant, validiert und anschließend lückenlos protokolliert.",
+        "applications": "Ermöglicht den Einsatz von KI-Agenten, die reale computerbasierte Arbeitsabläufe sicher und nachvollziehbar autonom abwickeln können."
       },
       {
-        "rank": 12,
-        "name": "dsh-desktop",
-        "full_name": "dataelement/dsh-desktop",
-        "html_url": "https://github.com/dataelement/dsh-desktop",
-        "description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
-        "stargazers_count": 4170,
+        "rank": 11,
+        "name": "codex-with-chatgpt",
+        "full_name": "XiaoDuoYa/codex-with-chatgpt",
+        "html_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+        "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+        "stargazers_count": 4064,
         "language": "TypeScript",
         "owner": {
-          "login": "dataelement",
-          "avatar_url": "https://avatars.githubusercontent.com/u/103249391?v=4"
+          "login": "XiaoDuoYa",
+          "avatar_url": "https://avatars.githubusercontent.com/u/113528266?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "dsh-desktop (dataelement)",
-        "features": "Dies ist die offizielle Desktop-Implementierung von DeepSeek Harness. Sie bietet eine native Umgebung für die Ausführung und Verwaltung von DSH-Plugins auf dem Desktop.",
-        "applications": "Primär für Anwender gedacht, die eine stabile und performante Desktop-Umgebung für den professionellen Einsatz von DeepSeek Harness benötigen."
+        "translatedName": "Codex with ChatGPT",
+        "features": "Dieses Projekt vereint die Planungsintelligenz von ChatGPT mit der Ausführungskraft von Codex. Es nutzt die logische Struktur des Chatbots, während das ursprüngliche Codex-Framework für die Code-Generierung erhalten bleibt.",
+        "applications": "Entwickler profitieren hier von einer verbesserten, logisch fundierten Codegenerierung, bei der der Chatbot als strategisches Gehirn fungiert."
+      },
+      {
+        "rank": 12,
+        "name": "Amagine3D",
+        "full_name": "amagine-ai/Amagine3D",
+        "html_url": "https://github.com/amagine-ai/Amagine3D",
+        "description": "Amagine3D: From hardware requirements to editable 3D designs",
+        "stargazers_count": 4045,
+        "language": "Python",
+        "owner": {
+          "login": "amagine-ai",
+          "avatar_url": "https://avatars.githubusercontent.com/u/285729589?v=4"
+        },
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "Amagine3D",
+        "features": "Amagine3D automatisiert den Prozess der 3D-Konstruktion ausgehend von spezifischen Hardware-Anforderungen. Das Tool transformiert technische Vorgaben effizient in bearbeitbare 3D-Modelle.",
+        "applications": "Ideal für Ingenieure und Produktdesigner, die den Entwurfsprozess von 3D-Komponenten anhand von Hardware-Spezifikationen beschleunigen möchten."
       }
     ],
     "three_months": [
@@ -489,7 +483,7 @@
         "full_name": "deepseek-ai/deepseek-harness",
         "html_url": "https://github.com/deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
-        "stargazers_count": 212343,
+        "stargazers_count": 220671,
         "language": "TypeScript",
         "owner": {
           "login": "deepseek-ai",
@@ -499,37 +493,17 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "DeepSeek Harness (Plugin-Framework)",
-        "features": "DeepSeek Harness ist ein modulares Framework, das konsequent auf eine Plugin-basierte Architektur setzt. Es ermöglicht Entwicklern, Funktionen durch austauschbare Plugins flexibel zu erweitern und anzupassen.",
-        "applications": "Ideal für Entwickler, die eine hochgradig erweiterbare KI-Infrastruktur benötigen und ihre Arbeitsabläufe durch modulare Komponenten optimieren möchten."
+        "translatedName": "DeepSeek Harness",
+        "features": "DeepSeek Harness ist ein modulares Framework, das auf einer Plugin-Architektur basiert. Es ermöglicht Entwicklern, verschiedene Funktionen nahtlos als Plugins in ihre Anwendungen zu integrieren.",
+        "applications": "Ideal für Entwickler, die ein hochgradig erweiterbares System zur KI-Integration und Automatisierung aufbauen möchten."
       },
       {
         "rank": 2,
-        "name": "ponytail",
-        "full_name": "DietrichGebert/ponytail",
-        "html_url": "https://github.com/DietrichGebert/ponytail",
-        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stargazers_count": 126246,
-        "language": "JavaScript",
-        "owner": {
-          "login": "DietrichGebert",
-          "avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "Ponytail (KI-Entwickler-Tool)",
-        "features": "Dieses Tool implementiert eine KI-Agenten-Philosophie, die auf Effizienz durch Minimalismus setzt. Es zielt darauf ab, Code-Lösungen zu finden, die so wenig wie möglich in bestehende Systeme eingreifen.",
-        "applications": "Geeignet für Softwareentwickler, die den Fokus auf 'Lazy Programming' legen und die KI nutzen wollen, um den geringstmöglichen Aufwand für die Lösung von Aufgaben zu betreiben."
-      },
-      {
-        "rank": 3,
         "name": "colibri",
         "full_name": "JustVugg/colibri",
         "html_url": "https://github.com/JustVugg/colibri",
         "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "stargazers_count": 26828,
+        "stargazers_count": 27722,
         "language": "C",
         "owner": {
           "login": "JustVugg",
@@ -539,117 +513,17 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "translatedName": "Colibri (Leichtgewichts-Modell-Engine)",
-        "features": "Colibri ist eine in reinem C geschriebene Engine, die es ermöglicht, MoE-Modelle (Mixture of Experts) auf handelsüblicher Hardware auszuführen. Die Architektur minimiert Abhängigkeiten und nutzt effizientes Streaming von Experten direkt von der Festplatte.",
-        "applications": "Perfekt für Anwender, die große KI-Modelle lokal auf begrenzter Hardware ausführen möchten, ohne komplexe Abhängigkeiten verwalten zu müssen."
+        "translatedName": "Colibri",
+        "features": "Colibri ist eine minimalistische Engine in reinem C, die das Ausführen von Mixture-of-Experts-Modellen auf vorhandener Hardware ermöglicht. Es zeichnet sich durch den Verzicht auf externe Abhängigkeiten und das Streaming von Expertenmodellen direkt von der Festplatte aus.",
+        "applications": "Perfekt für Nutzer, die große Sprachmodelle lokal auf Geräten mit begrenzten Ressourcen effizient betreiben wollen."
       },
       {
-        "rank": 4,
-        "name": "grok-build",
-        "full_name": "xai-org/grok-build",
-        "html_url": "https://github.com/xai-org/grok-build",
-        "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-        "stargazers_count": 26475,
-        "language": "Rust",
-        "owner": {
-          "login": "xai-org",
-          "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
-        },
-        "license": {
-          "name": "Apache License 2.0",
-          "spdx_id": "Apache-2.0"
-        },
-        "translatedName": "Grok-Build (CLI-Entwicklungs-Tool)",
-        "features": "Grok-Build bietet ein interaktives TUI-Framework (Text User Interface) für SpaceXAI-Coding-Agenten. Es unterstützt Vollbild-Modi, Mausinteraktionen und ist stark erweiterbar.",
-        "applications": "Entwickler, die eine leistungsfähige Terminal-basierte Umgebung für die Interaktion mit KI-Coding-Agenten suchen, finden hier eine robuste Lösung."
-      },
-      {
-        "rank": 5,
-        "name": "Unlimited-OCR",
-        "full_name": "baidu/Unlimited-OCR",
-        "html_url": "https://github.com/baidu/Unlimited-OCR",
-        "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-        "stargazers_count": 25204,
-        "language": "Python",
-        "owner": {
-          "login": "baidu",
-          "avatar_url": "https://avatars.githubusercontent.com/u/13245940?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "Unlimited-OCR (OCR-Parsing-System)",
-        "features": "Dieses Projekt ermöglicht One-Shot Long-Horizon Parsing für OCR-Aufgaben. Es zielt darauf ab, die Grenzen herkömmlicher Zeichenerkennung durch moderne Analyse-Ansätze zu erweitern.",
-        "applications": "Nützlich für die Verarbeitung umfangreicher oder komplexer Dokumente, bei denen eine präzise und automatisierte Texterkennung in einem Durchgang erforderlich ist."
-      },
-      {
-        "rank": 6,
-        "name": "dsh-desktop",
-        "full_name": "anywhere-labs/dsh-desktop",
-        "html_url": "https://github.com/anywhere-labs/dsh-desktop",
-        "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-        "stargazers_count": 23625,
-        "language": "TypeScript",
-        "owner": {
-          "login": "anywhere-labs",
-          "avatar_url": "https://avatars.githubusercontent.com/u/286827603?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "DSH-Desktop (Desktop-Umgebung)",
-        "features": "DSH-Desktop ist eine moderne Desktop-Lösung für die DeepSeek Harness-Plattform. Die gesamte Benutzeroberfläche ist modular aufgebaut, wobei sogar das Desktop-System selbst als Plugin fungiert.",
-        "applications": "Ideal für Nutzer, die eine hochgradig anpassbare Desktop-Umgebung suchen, um das DeepSeek-Ökosystem grafisch zu verwalten."
-      },
-      {
-        "rank": 7,
-        "name": "watermarks-remover",
-        "full_name": "guillaumemeyer/watermarks-remover",
-        "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
-        "description": "A privacy-first app that strips AI watermarks from content you own.",
-        "stargazers_count": 20612,
-        "language": "Python",
-        "owner": {
-          "login": "guillaumemeyer",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1385518?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "Watermarks-Remover (Privatsphäre-Tool)",
-        "features": "Diese Anwendung priorisiert den Datenschutz und entfernt KI-generierte Wasserzeichen aus eigenen Inhalten. Sie bietet eine einfache Möglichkeit, die Kontrolle über das eigene digitale Material zu behalten.",
-        "applications": "Geeignet für Content-Ersteller, die sicherstellen wollen, dass ihre eigenen Medien frei von automatisierten KI-Kennzeichnungen sind."
-      },
-      {
-        "rank": 8,
-        "name": "anydoc",
-        "full_name": "firecrawl/anydoc",
-        "html_url": "https://github.com/firecrawl/anydoc",
-        "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-        "stargazers_count": 20338,
-        "language": "Rust",
-        "owner": {
-          "login": "firecrawl",
-          "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "AnyDoc (Dokumenten-Konverter)",
-        "features": "AnyDoc ist ein in Rust geschriebenes Hochleistungstool zur Konvertierung einer Vielzahl von Dokumentformaten wie Office-Dateien oder PDFs in sauberes Markdown. Es bietet zudem Bindings für Node.js und Python.",
-        "applications": "Sehr hilfreich für Entwickler, die Dokumentations-Pipelines automatisieren oder Daten aus verschiedenen Formaten in ein einheitliches Markdown-Format überführen müssen."
-      },
-      {
-        "rank": 9,
+        "rank": 3,
         "name": "gods-eye-view",
         "full_name": "bilawalsidhu/gods-eye-view",
         "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "stargazers_count": 17560,
+        "stargazers_count": 27279,
         "language": "JavaScript",
         "owner": {
           "login": "bilawalsidhu",
@@ -659,17 +533,117 @@
           "name": "Other",
           "spdx_id": "NOASSERTION"
         },
-        "translatedName": "Gods-Eye-View (Satelliten-Simulator)",
-        "features": "Diese browserbasierte App simuliert eine Spionagesatelliten-Perspektive unter Verwendung realer Geodaten. Sie stellt räumliche Informationen auf einem fotorealistischen 3D-Globus dar.",
-        "applications": "Spannend für Datenjournalisten oder Analysten, die raumbezogene Echtzeitdaten visuell ansprechend und interaktiv aufbereiten möchten."
+        "translatedName": "Gods Eye View",
+        "features": "Dieser Browser-basierte Satellitensimulator visualisiert reale geografische Daten auf einem fotorealistischen 3D-Globus. Das Projekt bietet eine interaktive Plattform für Open-Source-Raumaufklärung.",
+        "applications": "Nützlich für Forscher, Journalisten und Geografie-Enthusiasten, die räumliche Informationen in Echtzeit visualisieren und analysieren müssen."
       },
       {
-        "rank": 10,
+        "rank": 4,
+        "name": "grok-build",
+        "full_name": "xai-org/grok-build",
+        "html_url": "https://github.com/xai-org/grok-build",
+        "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+        "stargazers_count": 26684,
+        "language": "Rust",
+        "owner": {
+          "login": "xai-org",
+          "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
+        },
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "Grok-Build",
+        "features": "Grok-Build ist ein in Rust geschriebenes TUI-Framework für Coding-Agenten von SpaceXAI. Es bietet eine interaktive, erweiterbare Umgebung mit Mausunterstützung im Vollbildmodus.",
+        "applications": "Entwickler können damit KI-gestützte Programmierworkflows effizient innerhalb des Terminals steuern und verwalten."
+      },
+      {
+        "rank": 5,
+        "name": "dsh-desktop",
+        "full_name": "anywhere-labs/dsh-desktop",
+        "html_url": "https://github.com/anywhere-labs/dsh-desktop",
+        "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+        "stargazers_count": 25758,
+        "language": "TypeScript",
+        "owner": {
+          "login": "anywhere-labs",
+          "avatar_url": "https://avatars.githubusercontent.com/u/286827603?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "DSH Desktop",
+        "features": "DSH Desktop ist eine moderne Desktop-Anwendung, die speziell für das DeepSeek Harness Plugin-Ökosystem entwickelt wurde. Hierbei fungiert die gesamte Oberfläche selbst als ein flexibles Plugin.",
+        "applications": "Ideal für Nutzer von DeepSeek Harness, die eine komfortable und grafische Benutzeroberfläche zur Verwaltung ihrer Plugin-basierten Arbeitsabläufe benötigen."
+      },
+      {
+        "rank": 6,
+        "name": "Unlimited-OCR",
+        "full_name": "baidu/Unlimited-OCR",
+        "html_url": "https://github.com/baidu/Unlimited-OCR",
+        "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+        "stargazers_count": 25455,
+        "language": "Python",
+        "owner": {
+          "login": "baidu",
+          "avatar_url": "https://avatars.githubusercontent.com/u/13245940?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "Unlimited-OCR",
+        "features": "Unlimited-OCR zielt auf die Ära der One-Shot-Parsing-Technologien ab und bietet eine robuste Lösung für die Text- und Inhaltsanalyse. Es ermöglicht eine umfassende Erfassung komplexer Dokumentenstrukturen.",
+        "applications": "Einsetzbar in Bereichen, die eine hochpräzise und automatisierte Extraktion von Informationen aus umfangreichen, visuellen Datenquellen erfordern."
+      },
+      {
+        "rank": 7,
+        "name": "watermarks-remover",
+        "full_name": "guillaumemeyer/watermarks-remover",
+        "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
+        "description": "A privacy-first app that strips AI watermarks from content you own.",
+        "stargazers_count": 21748,
+        "language": "Python",
+        "owner": {
+          "login": "guillaumemeyer",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1385518?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "Watermarks-Remover",
+        "features": "Diese datenschutzfreundliche Anwendung entfernt automatisch KI-generierte Wasserzeichen aus Inhalten, die dem Nutzer gehören. Der Fokus liegt auf der Wiederherstellung der ursprünglichen Medienqualität ohne komplexe manuelle Bearbeitung.",
+        "applications": "Geeignet für Content-Ersteller, die KI-generierte Grafiken für eigene Zwecke bereinigen oder für die Weiterverarbeitung optimieren möchten."
+      },
+      {
+        "rank": 8,
+        "name": "anydoc",
+        "full_name": "firecrawl/anydoc",
+        "html_url": "https://github.com/firecrawl/anydoc",
+        "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+        "stargazers_count": 21192,
+        "language": "Rust",
+        "owner": {
+          "login": "firecrawl",
+          "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "AnyDoc",
+        "features": "AnyDoc konvertiert eine Vielzahl von Dokumentenformaten wie Word, Excel und PDF effizient in sauberes Markdown. Es ist in Rust geschrieben und bietet Schnittstellen für Node.js und Python.",
+        "applications": "Ideal für Entwickler, die Dokumenteninhalte für KI-Modelle oder statische Webseiten in ein maschinenlesbares und sauberes Textformat überführen müssen."
+      },
+      {
+        "rank": 9,
         "name": "openworker",
         "full_name": "andrewyng/openworker",
         "html_url": "https://github.com/andrewyng/openworker",
         "description": null,
-        "stargazers_count": 17350,
+        "stargazers_count": 17578,
         "language": "Python",
         "owner": {
           "login": "andrewyng",
@@ -679,17 +653,17 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "OpenWorker (Arbeitsautomatisierungs-Tool)",
-        "features": "OpenWorker bietet ein Framework zur Automatisierung von Aufgaben durch KI-Agenten. Es zielt darauf ab, die Zusammenarbeit zwischen Mensch und KI bei komplexen Arbeitsprozessen zu vereinfachen.",
-        "applications": "Nützlich für Unternehmen und Einzelpersonen, die wiederkehrende Aufgaben an autonome KI-Agenten delegieren möchten."
+        "translatedName": "OpenWorker",
+        "features": "OpenWorker ist ein Open-Source-Projekt von Andrew Ng, das sich auf die Orchestrierung und Ausführung von Arbeitsaufgaben konzentriert. Es bietet eine Infrastruktur zur Verwaltung von Aufgabenströmen.",
+        "applications": "Nützlich für Ingenieure, die komplexe automatisierte Prozesse innerhalb ihrer KI-Workflows zuverlässig verwalten und skalieren möchten."
       },
       {
-        "rank": 11,
+        "rank": 10,
         "name": "openwiki",
         "full_name": "langchain-ai/openwiki",
         "html_url": "https://github.com/langchain-ai/openwiki",
         "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
-        "stargazers_count": 16128,
+        "stargazers_count": 16414,
         "language": "TypeScript",
         "owner": {
           "login": "langchain-ai",
@@ -699,29 +673,49 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "OpenWiki (Automatisierte Dokumentation)",
-        "features": "OpenWiki ist ein CLI-Tool, das automatisch die Dokumentation für Codebasen erstellt und pflegt. Es fungiert als Agent, der den aktuellen Status der Software stets aktuell dokumentiert.",
-        "applications": "Unverzichtbar für Teams, die ihre technische Dokumentation mit der rasanten Entwicklung ihres Codes synchron halten wollen, ohne manuellen Aufwand zu betreiben."
+        "translatedName": "OpenWiki",
+        "features": "OpenWiki ist ein CLI-Tool, das die technische Dokumentation für Codebasen automatisch schreibt und pflegt. Es nutzt KI-Agenten, um sicherzustellen, dass die Dokumentation stets mit dem aktuellen Code-Stand synchron bleibt.",
+        "applications": "Unverzichtbar für Software-Teams, die den administrativen Aufwand für die Pflege von Projektdokumentationen minimieren möchten."
+      },
+      {
+        "rank": 11,
+        "name": "img2threejs",
+        "full_name": "img2threejs/img2threejs",
+        "html_url": "https://github.com/img2threejs/img2threejs",
+        "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+        "stargazers_count": 15816,
+        "language": "Python",
+        "owner": {
+          "login": "img2threejs",
+          "avatar_url": "https://avatars.githubusercontent.com/u/309001690?v=4"
+        },
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "Img2ThreeJS",
+        "features": "Dieses Tool rekonstruiert 3D-Objekte aus einfachen Referenzbildern und erstellt daraus prozedurale, animationsbereite Three.js-Modelle. Es zeichnet sich durch hohe Token-Effizienz bei der Bild-zu-3D-Konvertierung aus.",
+        "applications": "Perfekt für Web-Entwickler und Designer, die schnell 3D-Assets für Browser-basierte Anwendungen oder Spiele generieren müssen."
       },
       {
         "rank": 12,
-        "name": "vorssaint-utils",
-        "full_name": "vorssaint/vorssaint-utils",
-        "html_url": "https://github.com/vorssaint/vorssaint-utils",
-        "description": "Free and open-source macOS menu bar toolkit.",
-        "stargazers_count": 15287,
-        "language": "Swift",
+        "name": "awesome-dsh-plugin",
+        "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+        "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+        "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+        "stargazers_count": 15372,
+        "language": "Python",
         "owner": {
-          "login": "vorssaint",
-          "avatar_url": "https://avatars.githubusercontent.com/u/259901989?v=4"
+          "login": "awesome-dsh-plugin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/316603077?v=4"
         },
         "license": {
-          "name": "GNU General Public License v3.0",
-          "spdx_id": "GPL-3.0"
+          "name": "Creative Commons Zero v1.0 Universal",
+          "spdx_id": "CC0-1.0"
         },
-        "translatedName": "Vorssaint-Utils (macOS-Toolkit)",
-        "features": "Dies ist eine kostenlose Open-Source-Sammlung von Dienstprogrammen, die direkt über die Menüleiste von macOS zugänglich sind. Es konzentriert sich auf Performance und eine nahtlose Systemintegration.",
-        "applications": "Ideal für macOS-Nutzer, die ihre Produktivität durch praktische Schnellzugriffe in der Menüleiste steigern möchten."
+        "translatedName": "Awesome-DSH-Plugin",
+        "features": "Diese kuratierte Liste bietet eine Übersicht der nützlichsten Plugins für das DeepSeek Harness Framework. Sie dient als zentrale Anlaufstelle für Erweiterungen und Werkzeuge innerhalb des Ökosystems.",
+        "applications": "Besonders hilfreich für DeepSeek-Harness-Nutzer, die schnell die besten Erweiterungen für ihre spezifischen Anwendungsfälle finden möchten."
       }
     ],
     "year": [
@@ -731,7 +725,7 @@
         "full_name": "openclaw/openclaw",
         "html_url": "https://github.com/openclaw/openclaw",
         "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-        "stargazers_count": 388880,
+        "stargazers_count": 389462,
         "language": "TypeScript",
         "owner": {
           "login": "openclaw",
@@ -742,8 +736,8 @@
           "spdx_id": "NOASSERTION"
         },
         "translatedName": "openclaw",
-        "features": "Ein plattformübergreifendes KI-Framework, das darauf ausgelegt ist, Aufgaben systemunabhängig und effizient auszuführen. Es nutzt einen einzigartigen 'Lobster'-Ansatz für die Steuerung komplexer automatisierter Abläufe.",
-        "applications": "Ideal für Benutzer, die eine flexible KI-Automatisierung suchen, die über Betriebssystemgrenzen hinweg funktioniert."
+        "features": "Ein plattformübergreifendes KI-Framework, das darauf ausgelegt ist, Aufgaben effizient und betriebssystemunabhängig auszuführen. Es integriert moderne KI-Methoden, um eine robuste Interaktion mit Softwareumgebungen zu ermöglichen.",
+        "applications": "Ideal für Benutzer, die eine flexible KI-Lösung suchen, um komplexe Workflows auf verschiedenen Betriebssystemen zu automatisieren."
       },
       {
         "rank": 2,
@@ -751,7 +745,7 @@
         "full_name": "obra/superpowers",
         "html_url": "https://github.com/obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
-        "stargazers_count": 281817,
+        "stargazers_count": 285411,
         "language": "Shell",
         "owner": {
           "login": "obra",
@@ -762,8 +756,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "superpowers",
-        "features": "Dieses Framework bietet eine methodische Grundlage für die Entwicklung und Verwaltung von agentenbasierten Fähigkeiten. Es integriert spezifische Software-Methodologien, um die Effektivität von KI-Agenten zu steigern.",
-        "applications": "Geeignet für Entwickler, die ihre KI-Agenten durch eine strukturierte Framework-Architektur skalierbar und steuerbar machen möchten."
+        "features": "Ein umfassendes Framework für KI-Agentenfähigkeiten kombiniert mit einer strukturierten Softwareentwicklungsmethodik. Es zielt darauf ab, die Leistung von KI-gesteuerten Entwicklungsprozessen durch klare Protokolle zu verbessern.",
+        "applications": "Geeignet für Entwickler, die KI in ihren agilen Entwicklungsprozess integrieren möchten, um die Produktivität und Codequalität zu steigern."
       },
       {
         "rank": 3,
@@ -771,7 +765,7 @@
         "full_name": "mattpocock/skills",
         "html_url": "https://github.com/mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "stargazers_count": 250556,
+        "stargazers_count": 259857,
         "language": "Shell",
         "owner": {
           "login": "mattpocock",
@@ -781,9 +775,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "skills (Fähigkeiten-Bibliothek)",
-        "features": "Eine Sammlung von spezialisierten Agenten-Fähigkeiten, die direkt aus der Arbeitsumgebung eines erfahrenen Ingenieurs stammen. Die Sammlung konzentriert sich auf praxiserprobte Skripte und Konfigurationen.",
-        "applications": "Perfekt für Ingenieure, die ihre bestehenden KI-Workflows durch bewährte, direkt anwendbare Fertigkeiten erweitern wollen."
+        "translatedName": "skills",
+        "features": "Diese Sammlung enthält spezialisierte Fähigkeiten, die direkt aus der .agents-Konfiguration des Autors stammen. Sie sind für reale Ingenieursanforderungen optimiert und hochgradig praxiserprobt.",
+        "applications": "Nützlich für Softwareentwickler, die ihre lokalen KI-Agenten mit bewährten Werkzeugen und Fertigkeiten ausstatten wollen."
       },
       {
         "rank": 4,
@@ -791,7 +785,7 @@
         "full_name": "affaan-m/ECC",
         "html_url": "https://github.com/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stargazers_count": 248589,
+        "stargazers_count": 256579,
         "language": "JavaScript",
         "owner": {
           "login": "affaan-m",
@@ -801,9 +795,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "ECC (Agent-Optimierungssystem)",
-        "features": "Ein umfassendes Optimierungssystem für Agenten-Harnesses, das sich auf Performance, Speicherverwaltung und Sicherheit konzentriert. Es bietet Forschungs-fokussierte Tools für prominente Code-KI-Plattformen.",
-        "applications": "Entwickler, die mit Claude Code oder Cursor arbeiten, nutzen dieses System, um ihre KI-Assistenz durch präzises Tuning und Sicherheitsmerkmale zu verbessern."
+        "translatedName": "ECC (Agent Harness Performance Optimization System)",
+        "features": "Ein Performance-Optimierungssystem, das Instinkte, Speicherverwaltung, Sicherheit und forschungsorientierte Entwicklung vereint. Es verbessert die Effizienz von KI-Assistenten wie Claude Code oder Cursor erheblich.",
+        "applications": "Entwickler, die mit modernen KI-Codierungstools arbeiten und die Leistung sowie die Kontextwahrnehmung ihrer Agenten maximieren möchten."
       },
       {
         "rank": 5,
@@ -811,7 +805,7 @@
         "full_name": "deepseek-ai/deepseek-harness",
         "html_url": "https://github.com/deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
-        "stargazers_count": 212343,
+        "stargazers_count": 220671,
         "language": "TypeScript",
         "owner": {
           "login": "deepseek-ai",
@@ -822,8 +816,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "deepseek-harness",
-        "features": "Dieses Projekt basiert auf einem Plugin-zentrierten Design, bei dem jede Komponente als erweiterbares Modul betrachtet wird. Dies ermöglicht eine hohe Modularität innerhalb des DeepSeek-Ökosystems.",
-        "applications": "Entwickler, die eine stark erweiterbare und flexible Architektur für ihre KI-Implementierungen benötigen, profitieren von dieser Plugin-Struktur."
+        "features": "Ein modulares System, bei dem jede Komponente als Plugin implementiert ist, was eine hohe Anpassbarkeit ermöglicht. Es bietet eine flexible Architektur für die Erweiterung von DeepSeek-Agenten.",
+        "applications": "Ideal für Entwickler, die eine erweiterbare Plugin-basierte Struktur für ihre KI-Integrationsprojekte bevorzugen."
       },
       {
         "rank": 6,
@@ -831,7 +825,7 @@
         "full_name": "multica-ai/andrej-karpathy-skills",
         "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "stargazers_count": 210194,
+        "stargazers_count": 212407,
         "language": null,
         "owner": {
           "login": "multica-ai",
@@ -839,8 +833,8 @@
         },
         "license": null,
         "translatedName": "andrej-karpathy-skills",
-        "features": "Ein optimiertes CLAUDE.md-Regelset, das auf den Beobachtungen von Andrej Karpathy basiert, um häufige Programmierfehler bei LLMs zu vermeiden. Es verbessert die Code-Qualität und das logische Verhalten des KI-Agenten.",
-        "applications": "Ideal für Nutzer von Claude Code, die die Qualität ihrer generierten Codes durch bessere Anweisungen und Verhaltensrichtlinien signifikant steigern wollen."
+        "features": "Eine spezifische CLAUDE.md-Konfigurationsdatei, die auf den Analysen von Andrej Karpathy zu häufigen Fehlern bei der KI-Code-Generierung basiert. Sie zielt darauf ab, das Verhalten von Claude Code gezielt zu verbessern.",
+        "applications": "Empfohlen für Nutzer von Claude Code, die ihre KI-Assistenten durch präzise Richtlinien vor typischen Programmierfallen bewahren wollen."
       },
       {
         "rank": 7,
@@ -848,7 +842,7 @@
         "full_name": "ultraworkers/claw-code",
         "html_url": "https://github.com/ultraworkers/claw-code",
         "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-        "stargazers_count": 195165,
+        "stargazers_count": 195210,
         "language": "Rust",
         "owner": {
           "login": "ultraworkers",
@@ -859,8 +853,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "claw-code",
-        "features": "Ein autonomer Agent, der vollständig in Rust entwickelt wurde und in einer museumstechnischen Umgebung operiert. Das System ist darauf ausgelegt, ohne menschliches Eingreifen zu funktionieren.",
-        "applications": "Dieses Projekt demonstriert fortgeschrittene autonome Agentensysteme und eignet sich für Szenarien, in denen eine dauerhafte, wartungsfreie Ausführung erforderlich ist."
+        "features": "Ein vollständig von Agenten verwaltetes System, das in Rust geschrieben wurde und keine menschliche Intervention erfordert. Es demonstriert die Autonomie von KI-Systemen in einer musealen Umgebung.",
+        "applications": "Interessant für Forscher und Enthusiasten, die autonome, selbstverwaltete Softwaresysteme im Betrieb beobachten möchten."
       },
       {
         "rank": 8,
@@ -868,16 +862,16 @@
         "full_name": "anthropics/skills",
         "html_url": "https://github.com/anthropics/skills",
         "description": "Public repository for Agent Skills",
-        "stargazers_count": 174168,
+        "stargazers_count": 175865,
         "language": "Python",
         "owner": {
           "login": "anthropics",
           "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
         },
         "license": null,
-        "translatedName": "skills (Anthropics)",
-        "features": "Das offizielle Repository von Anthropics für Agenten-Fähigkeiten, das standardisierte Methoden zur Erweiterung der KI-Leistungsfähigkeit bereitstellt. Es dient als zentrale Anlaufstelle für bewährte Agenten-Workflows.",
-        "applications": "Wird von KI-Entwicklern verwendet, die offizielle und zuverlässige Bausteine für den Aufbau komplexer Agentensysteme suchen."
+        "translatedName": "skills (Anthropic)",
+        "features": "Ein offizielles Repository von Anthropic, das eine Reihe von Standardfähigkeiten für KI-Agenten bereitstellt. Die Sammlung konzentriert sich auf die zuverlässige Erweiterung von Agentenfunktionen durch Python-basierte Implementierungen.",
+        "applications": "Entwickler, die das offizielle Ökosystem von Anthropic nutzen und ihren Agenten standardisierte Fähigkeiten hinzufügen möchten."
       },
       {
         "rank": 9,
@@ -885,7 +879,7 @@
         "full_name": "msitarzewski/agency-agents",
         "html_url": "https://github.com/msitarzewski/agency-agents",
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "stargazers_count": 150095,
+        "stargazers_count": 151743,
         "language": "Shell",
         "owner": {
           "login": "msitarzewski",
@@ -896,36 +890,16 @@
           "spdx_id": "MIT"
         },
         "translatedName": "agency-agents",
-        "features": "Eine Sammlung spezialisierter Agenten, die verschiedene Rollen von der Frontend-Entwicklung bis zur Community-Moderation abdecken. Jeder Agent verfügt über eine eigene Persönlichkeit und definierte Arbeitsprozesse.",
-        "applications": "Nützlich für Unternehmen oder Einzelpersonen, die komplexe Projekte durch ein virtuelles Team von Experten-Agenten automatisieren möchten."
+        "features": "Eine Sammlung spezialisierter Agenten, die Rollen wie Frontend-Entwickler oder Community-Manager übernehmen. Jeder Agent verfügt über eine eigene Persönlichkeit und vordefinierte Liefergegenstände.",
+        "applications": "Ideal für Teams, die eine digitale Agenturstruktur suchen, um verschiedene Aufgabenbereiche effizient an KI-Spezialisten zu delegieren."
       },
       {
         "rank": 10,
-        "name": "gstack",
-        "full_name": "garrytan/gstack",
-        "html_url": "https://github.com/garrytan/gstack",
-        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "stargazers_count": 131392,
-        "language": "TypeScript",
-        "owner": {
-          "login": "garrytan",
-          "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "gstack",
-        "features": "Ein kuratiertes Setup mit 23 spezialisierten Tools, die die Rollen von CEOs, Designern und Managern simulieren. Es spiegelt die spezifische Arbeitsweise von Garry Tan wider.",
-        "applications": "Geeignet für Gründer und Ingenieure, die einen hochgradig optimierten und professionellen KI-Workflow zur Produktivitätssteigerung suchen."
-      },
-      {
-        "rank": 11,
         "name": "ponytail",
         "full_name": "DietrichGebert/ponytail",
         "html_url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stargazers_count": 126246,
+        "stargazers_count": 135895,
         "language": "JavaScript",
         "owner": {
           "login": "DietrichGebert",
@@ -936,8 +910,28 @@
           "spdx_id": "MIT"
         },
         "translatedName": "ponytail",
-        "features": "Dieses Tool optimiert die KI-Logik auf 'faules' Verhalten, um den effizientesten Weg für Problemlösungen zu finden. Es priorisiert minimalistischen Code und verhindert unnötige Implementierungen.",
-        "applications": "Ideal für erfahrene Entwickler, die sicherstellen wollen, dass ihre KI-Assistenz keine komplexen Überkonstruktionen erstellt, sondern den einfachsten, besten Ansatz wählt."
+        "features": "Diese Erweiterung bringt KI-Agenten dazu, wie ein erfahrener, aber fauler Senior-Entwickler zu denken. Der Fokus liegt darauf, die effizienteste und einfachste Lösung zu finden, anstatt unnötig komplexen Code zu schreiben.",
+        "applications": "Hilfreich für Entwickler, die KI-Code-Generatoren nutzen und sicherstellen wollen, dass die Lösungen minimalistisch und wartbar bleiben."
+      },
+      {
+        "rank": 11,
+        "name": "gstack",
+        "full_name": "garrytan/gstack",
+        "html_url": "https://github.com/garrytan/gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "stargazers_count": 132636,
+        "language": "TypeScript",
+        "owner": {
+          "login": "garrytan",
+          "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "gstack",
+        "features": "Eine kuratierte Sammlung von 23 Tools, die auf der exakten Arbeitsweise von Garry Tan basieren. Es deckt alle Aspekte von Management über Design bis hin zur Qualitätssicherung ab.",
+        "applications": "Geeignet für Gründer und technische Manager, die ihre KI-gestützte Entwicklungsumgebung auf das Niveau professioneller Tech-Führungskräfte bringen wollen."
       },
       {
         "rank": 12,
@@ -945,7 +939,7 @@
         "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
         "html_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-        "stargazers_count": 125048,
+        "stargazers_count": 126947,
         "language": "Python",
         "owner": {
           "login": "nextlevelbuilder",
@@ -956,8 +950,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "ui-ux-pro-max-skill",
-        "features": "Eine KI-Fähigkeit, die gezielt Design-Intelligenz für UI/UX-Aufgaben liefert. Sie unterstützt bei der plattformübergreifenden Gestaltung professioneller Benutzeroberflächen.",
-        "applications": "Nützlich für Web- und App-Entwickler, die ihre KI-Workflows um eine spezialisierte Design-Komponente erweitern möchten, um ästhetische Konsistenz zu gewährleisten."
+        "features": "Ein spezialisiertes KI-Modul, das Design-Intelligenz für plattformübergreifende UI/UX-Projekte liefert. Es unterstützt bei der Erstellung professioneller und ästhetischer Nutzerschnittstellen.",
+        "applications": "Besonders nützlich für Frontend-Entwickler und UI-Designer, die bei der Gestaltung ihrer Anwendungen KI-gestützte Design-Expertise benötigen."
       }
     ],
     "audio_video": [
@@ -967,7 +961,7 @@
         "full_name": "Vincentwei1021/video-shotcraft",
         "html_url": "https://github.com/Vincentwei1021/video-shotcraft",
         "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
-        "stargazers_count": 7488,
+        "stargazers_count": 8098,
         "language": "TypeScript",
         "owner": {
           "login": "Vincentwei1021",
@@ -978,8 +972,8 @@
           "spdx_id": "Apache-2.0"
         },
         "translatedName": "video-shotcraft",
-        "features": "Ein KI-gestütztes Toolset für Claude Code, das 152 Rezeptkarten für Kameraeinstellungen und über 200 Bewegungsvorschauen bietet. Es basiert auf Remotion und liefert produktionsreife Vorlagen für cineastische Werbevideos.",
-        "applications": "Ideal für Video-Editoren und Agenten-Entwickler, die den Prozess der Erstellung hochwertiger Produktvideos automatisieren möchten."
+        "features": "Dieses Tool bietet eine umfassende Sammlung von 152 Shot-Rezeptkarten und 209 Bewegungsvorschauen für Remotion. Es ermöglicht die Erstellung professioneller, kinoreifer Produktvideos direkt über Claude Code und Codex.",
+        "applications": "Ideal für Videoeditoren und Entwickler, die automatisierte, hochwertige Produktpräsentationen mit KI-Unterstützung erstellen möchten."
       },
       {
         "rank": 2,
@@ -987,7 +981,7 @@
         "full_name": "diffusionstudio/editor",
         "html_url": "https://github.com/diffusionstudio/editor",
         "description": "An open-source video editor built for agents. Edits become code, code becomes video.",
-        "stargazers_count": 2458,
+        "stargazers_count": 2656,
         "language": "TypeScript",
         "owner": {
           "login": "diffusionstudio",
@@ -997,37 +991,17 @@
           "name": "Mozilla Public License 2.0",
           "spdx_id": "MPL-2.0"
         },
-        "translatedName": "editor (Diffusion Studio)",
-        "features": "Ein Open-Source-Videoeditor, der speziell für KI-Agenten entwickelt wurde und die Umwandlung von Code in Videobearbeitungsbefehle ermöglicht. Das System erlaubt eine nahtlose Integration von Programmierung und Videoproduktion.",
-        "applications": "Besonders nützlich für Entwickler, die Workflows zur Videobearbeitung programmatisch und skalierbar steuern wollen."
+        "translatedName": "editor (diffusionstudio)",
+        "features": "Ein Open-Source-Videoeditor, der speziell für KI-Agenten entwickelt wurde. Er transformiert Videobearbeitungsprozesse in ausführbaren Code, wodurch Videoerstellung vollständig programmierbar wird.",
+        "applications": "Perfekt für Teams, die Workflows zur Videoproduktion automatisieren oder KI-gestützte, skalierbare Videobearbeitung implementieren wollen."
       },
       {
         "rank": 3,
-        "name": "qwen-audio-agent",
-        "full_name": "QwenAudio/qwen-audio-agent",
-        "html_url": "https://github.com/QwenAudio/qwen-audio-agent",
-        "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-        "stargazers_count": 2342,
-        "language": "JavaScript",
-        "owner": {
-          "login": "QwenAudio",
-          "avatar_url": "https://avatars.githubusercontent.com/u/167062371?v=4"
-        },
-        "license": {
-          "name": "Apache License 2.0",
-          "spdx_id": "Apache-2.0"
-        },
-        "translatedName": "qwen-audio-agent",
-        "features": "Eine Echtzeit-Sprachlaufzeitumgebung, die KI-Agenten eine natürliche Konversation ermöglicht. Sie sorgt dafür, dass Agenten kontinuierlich kommunizieren und in Interaktionen präsent bleiben.",
-        "applications": "Perfekt für Entwickler von Voice-Chatbots oder KI-Assistenten, die eine Latenz-arme und lebendige Sprachinteraktion benötigen."
-      },
-      {
-        "rank": 4,
         "name": "audio.cpp",
         "full_name": "0xShug0/audio.cpp",
         "html_url": "https://github.com/0xShug0/audio.cpp",
         "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.",
-        "stargazers_count": 2285,
+        "stargazers_count": 2596,
         "language": "C++",
         "owner": {
           "login": "0xShug0",
@@ -1038,36 +1012,36 @@
           "spdx_id": "NOASSERTION"
         },
         "translatedName": "audio.cpp",
-        "features": "Eine hochoptimierte, reine C++-Inferenz-Engine für Audiomodelle, die ohne Python-Abhängigkeiten auskommt. Unterstützt TTS, STT, Sprachkonvertierung und Musikgenerierung auf Basis von ggml.",
-        "applications": "Ideal für rechenintensive Audioanwendungen, bei denen hohe Performance auf ressourcenschonende Weise gefordert ist."
+        "features": "Eine performante, reine C++ Inference-Engine für Audiomodelle, die auf ggml basiert. Sie unterstützt Text-to-Speech, Speech-to-Text und Musikgenerierung ohne Abhängigkeiten von Python.",
+        "applications": "Geeignet für Entwickler, die hochoptimierte Audioanwendungen in ressourcenbeschränkten Umgebungen oder eingebetteten Systemen benötigen."
+      },
+      {
+        "rank": 4,
+        "name": "qwen-audio-agent",
+        "full_name": "QwenAudio/qwen-audio-agent",
+        "html_url": "https://github.com/QwenAudio/qwen-audio-agent",
+        "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+        "stargazers_count": 2411,
+        "language": "JavaScript",
+        "owner": {
+          "login": "QwenAudio",
+          "avatar_url": "https://avatars.githubusercontent.com/u/167062371?v=4"
+        },
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "qwen-audio-agent",
+        "features": "Eine Echtzeit-Sprachlaufzeitumgebung, die eine nahtlose Interaktion mit KI-Agenten ermöglicht. Sie sorgt dafür, dass Agenten konstant präsent und kommunikationsfähig bleiben.",
+        "applications": "Besonders wertvoll für Entwickler von Voice-AI-Agenten, die eine latenzarme und zuverlässige Sprachschnittstelle für ihre Benutzer suchen."
       },
       {
         "rank": 5,
-        "name": "pixel2motion",
-        "full_name": "nolangz/pixel2motion",
-        "html_url": "https://github.com/nolangz/pixel2motion",
-        "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
-        "stargazers_count": 2155,
-        "language": "Python",
-        "owner": {
-          "login": "nolangz",
-          "avatar_url": "https://avatars.githubusercontent.com/u/64394910?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "pixel2motion",
-        "features": "Ein KI-Skill zur Animation von Logos, der statische Rastergrafiken in flüssige SVG-Animationen umwandelt. Das Tool bietet Vorschauformate in HTML, GIF und Video.",
-        "applications": "Unterstützt Designer und Marketer dabei, Branding-Assets schnell und effizient zu animieren."
-      },
-      {
-        "rank": 6,
         "name": "claude-real-video",
         "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
         "html_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
         "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-        "stargazers_count": 2119,
+        "stargazers_count": 2132,
         "language": "Python",
         "owner": {
           "login": "HUANGCHIHHUNGLeo",
@@ -1078,36 +1052,36 @@
           "spdx_id": "MIT"
         },
         "translatedName": "claude-real-video",
-        "features": "Ermöglicht es LLMs wie Claude, Videoinhalte durch Szenenerkennung und Transkripterstellung zu verstehen. Es läuft lokal und verarbeitet sowohl URL-basierte als auch lokale Videodateien.",
-        "applications": "Hilfreich für die Videoanalyse und Inhaltszusammenfassung, ohne auf externe Cloud-Dienste angewiesen zu sein."
+        "features": "Dieses Tool ermöglicht es LLMs wie Claude, Videoinhalte durch die Analyse von Einzelbildern und Transkripten zu verstehen. Es läuft lokal und verarbeitet sowohl lokale Dateien als auch URLs.",
+        "applications": "Nützlich für die automatisierte Inhaltsprüfung, Zusammenfassung von Videomaterial und datengestützte Videoanalyse."
+      },
+      {
+        "rank": 6,
+        "name": "threejs-game-skills",
+        "full_name": "majidmanzarpour/threejs-game-skills",
+        "html_url": "https://github.com/majidmanzarpour/threejs-game-skills",
+        "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+        "stargazers_count": 1968,
+        "language": "Python",
+        "owner": {
+          "login": "majidmanzarpour",
+          "avatar_url": "https://avatars.githubusercontent.com/u/13189110?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "threejs-game-skills",
+        "features": "Eine Sammlung von Agenten-Fähigkeiten für die Erstellung polierter Three.js-Browser-Spiele. Es umfasst Funktionen für Grafikdesign, UI-Entwicklung und die Integration KI-generierter Assets.",
+        "applications": "Ideal für Web-Entwickler und Game-Designer, die die Entwicklung browserbasierter Spiele durch KI-Agenten beschleunigen möchten."
       },
       {
         "rank": 7,
-        "name": "JoyAI-VL-Interaction",
-        "full_name": "jd-opensource/JoyAI-VL-Interaction",
-        "html_url": "https://github.com/jd-opensource/JoyAI-VL-Interaction",
-        "description": "JoyAI-VL-Interaction: An Open Real-time Video-Language Interaction System",
-        "stargazers_count": 1849,
-        "language": "Python",
-        "owner": {
-          "login": "jd-opensource",
-          "avatar_url": "https://avatars.githubusercontent.com/u/75349771?v=4"
-        },
-        "license": {
-          "name": "Apache License 2.0",
-          "spdx_id": "Apache-2.0"
-        },
-        "translatedName": "JoyAI-VL-Interaction",
-        "features": "Ein offenes System für Echtzeit-Interaktionen zwischen Video und Sprache. Es ermöglicht eine nahtlose KI-gestützte Kommunikation in Echtzeit während der Videowiedergabe.",
-        "applications": "Geeignet für interaktive Multimedia-Plattformen, bei denen Benutzer in Echtzeit mit Videoinhalten kommunizieren möchten."
-      },
-      {
-        "rank": 8,
         "name": "story-to-handdrawn-video",
         "full_name": "gnipbao/story-to-handdrawn-video",
         "html_url": "https://github.com/gnipbao/story-to-handdrawn-video",
         "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-        "stargazers_count": 1818,
+        "stargazers_count": 1926,
         "language": "JavaScript",
         "owner": {
           "login": "gnipbao",
@@ -1118,36 +1092,16 @@
           "spdx_id": "MIT"
         },
         "translatedName": "story-to-handdrawn-video",
-        "features": "Ein Agenten-Skill, der Textgeschichten oder Bildsequenzen automatisch in animierte Comic-Tagebücher umwandelt. Das Ergebnis ist ein lautloses MP4-Video im handgezeichneten Stil.",
-        "applications": "Ideal für Content-Ersteller, die komplexe Geschichten schnell in ein unterhaltsames, visuelles Comic-Format bringen wollen."
+        "features": "Dieses Agenten-Skill konvertiert chinesische Textgeschichten oder Bildsequenzen automatisch in handgezeichnete Tagebuch-Comic-Animationen. Das Resultat ist ein stummes MP4-Video.",
+        "applications": "Perfekt für Content-Ersteller, die schnell visuelle Storytelling-Inhalte für soziale Medien im Comic-Stil produzieren möchten."
       },
       {
-        "rank": 9,
-        "name": "JoyAI-Video-Edit",
-        "full_name": "jd-opensource/JoyAI-Video-Edit",
-        "html_url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
-        "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-        "stargazers_count": 1798,
-        "language": "Python",
-        "owner": {
-          "login": "jd-opensource",
-          "avatar_url": "https://avatars.githubusercontent.com/u/75349771?v=4"
-        },
-        "license": {
-          "name": "Apache License 2.0",
-          "spdx_id": "Apache-2.0"
-        },
-        "translatedName": "JoyAI-Video-Edit",
-        "features": "Ein offizielles Repository für autoregressive Diffusion-basierte Videobearbeitung in Echtzeit. Es erlaubt komplexe Bearbeitungen durch fortgeschrittene generative KI-Methoden.",
-        "applications": "Wird von Editoren und KI-Forschern eingesetzt, um kreative Videobearbeitung effizienter und automatisierter zu gestalten."
-      },
-      {
-        "rank": 10,
+        "rank": 8,
         "name": "vox-director",
         "full_name": "Alisa0808/vox-director",
         "html_url": "https://github.com/Alisa0808/vox-director",
         "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-        "stargazers_count": 1737,
+        "stargazers_count": 1857,
         "language": "Python",
         "owner": {
           "login": "Alisa0808",
@@ -1158,28 +1112,68 @@
           "spdx_id": "MIT"
         },
         "translatedName": "vox-director",
-        "features": "Ein vollautomatisierter Agenten-Skill zur Erstellung von Vox-artigen Erklärvideos auf Basis eines einzelnen Themas. Das System nutzt Atlas Cloud und ffmpeg für die End-to-End-Produktion.",
-        "applications": "Perfekt für Nachrichtenredaktionen oder Content-Creator, die schnell professionelle Erklärvideos im Collage-Stil produzieren möchten."
+        "features": "Verwandelt ein beliebiges Thema automatisch in ein Vox-ähnliches Erklärvideo im Papier-Collagen-Stil. Der gesamte Prozess wird über Atlas Cloud und ffmpeg gesteuert.",
+        "applications": "Ein effizientes Werkzeug für Bildungsanbieter und Marketer, um komplexe Themen schnell in visuell ansprechende Erklärvideos zu übersetzen."
       },
       {
-        "rank": 11,
-        "name": "yoinks",
-        "full_name": "pablostanley/yoinks",
-        "html_url": "https://github.com/pablostanley/yoinks",
-        "description": "yoink any video from your terminal. no shady ads.",
-        "stargazers_count": 1667,
-        "language": "TypeScript",
+        "rank": 9,
+        "name": "JoyAI-Video-Edit",
+        "full_name": "jd-opensource/JoyAI-Video-Edit",
+        "html_url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+        "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+        "stargazers_count": 1838,
+        "language": "Python",
         "owner": {
-          "login": "pablostanley",
-          "avatar_url": "https://avatars.githubusercontent.com/u/7430988?v=4"
+          "login": "jd-opensource",
+          "avatar_url": "https://avatars.githubusercontent.com/u/75349771?v=4"
+        },
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "JoyAI-Video-Edit",
+        "features": "Eine Open-Source-Lösung für die Echtzeit-Videobearbeitung auf Basis autoregressiver Diffusion. Sie bietet eine offene Architektur für komplexe Videomanipulation.",
+        "applications": "Unterstützt Forscher und Entwickler bei der Erforschung fortschrittlicher, KI-gesteuerter Videobearbeitungsmethoden in Echtzeit."
+      },
+      {
+        "rank": 10,
+        "name": "drama-skills",
+        "full_name": "zenstory-ai/drama-skills",
+        "html_url": "https://github.com/zenstory-ai/drama-skills",
+        "description": "AI 短剧/漫剧创作 skill 合集，覆盖剧本、资产、分镜、图片/视频提示词到独立审查全链路，适配 Claude Code 与 Codex。| An AI short-drama skill suite for Claude Code & Codex: scripts, assets, storyboards, image/video prompts, and independent review.",
+        "stargazers_count": 1803,
+        "language": "Python",
+        "owner": {
+          "login": "zenstory-ai",
+          "avatar_url": "https://avatars.githubusercontent.com/u/311489559?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "yoinks",
-        "features": "Ein Kommandozeilen-Tool, mit dem Videos direkt und ohne lästige Werbung heruntergeladen werden können. Der Fokus liegt auf Einfachheit und lokaler Kontrolle.",
-        "applications": "Nützlich für Power-User und Entwickler, die Video-Downloads effizient in ihre Terminal-Workflows integrieren wollen."
+        "translatedName": "drama-skills",
+        "features": "Ein umfassendes Skill-Set für die KI-gestützte Erstellung von Kurz- und Webdramen. Es deckt den gesamten Prozess von der Drehbucherstellung über Storyboards bis zur Qualitätskontrolle ab.",
+        "applications": "Entwickelt für Autoren und Produktionsstudios, die den Prozess der dramatischen Videoproduktion mithilfe von KI-Agenten industrialisieren wollen."
+      },
+      {
+        "rank": 11,
+        "name": "cuelume",
+        "full_name": "Danilaa1/cuelume",
+        "html_url": "https://github.com/Danilaa1/cuelume",
+        "description": "Cuelume is a curated sound palette, not an audio engine. It gives buttons, links, toggles, and completed actions clear feedback without asking developers to design sounds themselves. Add an attribute, call bind(), done.",
+        "stargazers_count": 1766,
+        "language": "TypeScript",
+        "owner": {
+          "login": "Danilaa1",
+          "avatar_url": "https://avatars.githubusercontent.com/u/51721416?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "cuelume",
+        "features": "Eine kuratierte Klangpalette, die Entwicklern hilft, Benutzern durch Sound-Feedback klare Interaktionssignale zu geben. Es ist kein klassisches Audio-Engine, sondern ein leicht integrierbares Framework.",
+        "applications": "Ideal für Frontend-Entwickler, die die Benutzererfahrung (UX) durch intuitive und einfach zu implementierende Klangsignale verbessern möchten."
       },
       {
         "rank": 12,
@@ -1187,7 +1181,7 @@
         "full_name": "0xsline/OpenChatCut",
         "html_url": "https://github.com/0xsline/OpenChatCut",
         "description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
-        "stargazers_count": 1583,
+        "stargazers_count": 1755,
         "language": "TypeScript",
         "owner": {
           "login": "0xsline",
@@ -1198,8 +1192,8 @@
           "spdx_id": "AGPL-3.0"
         },
         "translatedName": "OpenChatCut",
-        "features": "Ein Open-Source-Videoeditor mit Fokus auf lokale Ausführung und konversationelle KI-Steuerung. Er bietet eine professionelle Multitrack-Timeline, MCP-Integration und Remotion-Rendering.",
-        "applications": "Ideal für professionelle Editoren, die KI als interaktiven Assistenten in ihren Bearbeitungsprozess einbinden möchten."
+        "features": "Ein lokal installierbarer, auf Konversation basierender Videoeditor mit Unterstützung für Multitrack-Timelines. Er integriert MCP und nutzt Remotion für das Rendering.",
+        "applications": "Geeignet für Anwender, die einen professionellen, datenschutzfreundlichen Videoeditor suchen, der über einfache KI-Chat-Befehle gesteuert wird."
       }
     ]
   }
