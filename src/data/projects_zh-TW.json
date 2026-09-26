@@ -1,330 +1,276 @@
 {
-  "lastUpdated": "2026-09-19T03:22:35.775Z",
+  "lastUpdated": "2026-09-26T03:46:57.198Z",
   "periods": {
     "week": [
       {
         "rank": 1,
-        "name": "jev-ultrafast",
-        "full_name": "browser-use/jev-ultrafast",
-        "html_url": "https://github.com/browser-use/jev-ultrafast",
-        "description": "i. am. speed.",
-        "stargazers_count": 5767,
-        "language": "Python",
+        "name": "ZCode",
+        "full_name": "zai-org/ZCode",
+        "html_url": "https://github.com/zai-org/ZCode",
+        "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+        "stargazers_count": 6781,
+        "language": "TypeScript",
         "owner": {
-          "login": "browser-use",
-          "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+          "login": "zai-org",
+          "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
         },
         "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
         },
-        "translatedName": "jev-ultrafast",
-        "features": "一個專注於極致效能的 Python 專案，旨在透過優化架構實現超高速處理。其核心設計理念在於最大限度地提升運算效率。",
-        "applications": "適用於需要高頻處理或對效能有極高要求的 AI 代理與系統開發者。"
+        "translatedName": "ZCode (Z.ai 開發代理框架)",
+        "features": "這是一個由 Z.ai 開發的強大且具備擴充性的程式編寫代理框架。它專注於利用智慧化技術來輔助開發者編寫程式碼。",
+        "applications": "適用於需要提升開發效率與自動化程式編寫任務的軟體工程師與技術團隊。"
       },
       {
         "rank": 2,
-        "name": "fast-jev-compaction",
-        "full_name": "tamaratran/fast-jev-compaction",
-        "html_url": "https://github.com/tamaratran/fast-jev-compaction",
-        "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-        "stargazers_count": 3374,
-        "language": "TypeScript",
+        "name": "jev-chat-jarvis",
+        "full_name": "jev-chat/jev-chat-jarvis",
+        "html_url": "https://github.com/jev-chat/jev-chat-jarvis",
+        "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+        "stargazers_count": 6524,
+        "language": "Kotlin",
         "owner": {
-          "login": "tamaratran",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65584429?v=4"
+          "login": "jev-chat",
+          "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "fast-jev-compaction",
-        "features": "這是一個 Claude Code 外掛，能將資訊壓縮摘要替換為 Jev 決策機制。它能對工具呼叫與結果進行快速評分，並有效捨棄或截斷陳舊數據，保留關鍵內容。",
-        "applications": "適合 Claude Code 使用者，用於優化 AI 會話上下文的效率與準確性。"
+        "translatedName": "jev-chat-jarvis (手機 AI 對話副駕)",
+        "features": "這是一款運行在手機上的對話輔助工具，透過讀取螢幕內容來提供回覆建議。它採用非侵入式設計，不進行 Hook 或修改封包，確保使用上的安全性。",
+        "applications": "適合經常在 QQ、X 或飛書等社交平台溝通，需要快速生成回覆建議的用戶。"
       },
       {
         "rank": 3,
-        "name": "SemIf",
-        "full_name": "TheoLeeCJ/SemIf",
-        "html_url": "https://github.com/TheoLeeCJ/SemIf",
-        "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-        "stargazers_count": 1622,
+        "name": "laya-mlx",
+        "full_name": "mizorewww/laya-mlx",
+        "html_url": "https://github.com/mizorewww/laya-mlx",
+        "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+        "stargazers_count": 6351,
         "language": "Python",
         "owner": {
-          "login": "TheoLeeCJ",
-          "avatar_url": "https://avatars.githubusercontent.com/u/22087932?v=4"
+          "login": "mizorewww",
+          "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
         },
         "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
         },
-        "translatedName": "SemIf",
-        "features": "基於開放模型實現的語意化 if 邏輯處理工具。設計目標是在消費級硬體（如 RTX 3090）上高效運行，不依賴外部大型雲端服務。",
-        "applications": "適用於開發者在本地環境中實驗語意化控制流，實現輕量級的 AI 邏輯判斷。"
+        "translatedName": "laya-mlx (原生 MLX 決策執行環境)",
+        "features": "針對 Laya 型別決策模型設計的原生 MLX 執行環境，在 M3 Max 晶片上實現了 7-14 毫秒的超低延遲決策。此專案無需依賴 PyTorch 或雲端 API，強調輕量化與高效能。",
+        "applications": "適用於追求邊緣運算極致速度，且無需文字生成的即時決策系統開發。"
       },
       {
         "rank": 4,
-        "name": "mural",
-        "full_name": "Chuloo/mural",
-        "html_url": "https://github.com/Chuloo/mural",
-        "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
-        "stargazers_count": 1364,
-        "language": "Kotlin",
+        "name": "unreal-agent",
+        "full_name": "unreallabsai/unreal-agent",
+        "html_url": "https://github.com/unreallabsai/unreal-agent",
+        "description": "Async-first agent harness",
+        "stargazers_count": 1941,
+        "language": "Go",
         "owner": {
-          "login": "Chuloo",
-          "avatar_url": "https://avatars.githubusercontent.com/u/22301208?v=4"
+          "login": "unreallabsai",
+          "avatar_url": "https://avatars.githubusercontent.com/u/181495282?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "mural",
-        "features": "這是一款原生 iPhone 語言學習應用，透過對話練習來進行教學。其介面極簡，目標是成為用戶最終不需要依賴也能精通外語的學習助手。",
-        "applications": "適合想要透過自然對話提升語言能力，且偏好原生移動端體驗的學習者。"
+        "translatedName": "unreal-agent (非同步代理框架)",
+        "features": "這是一個強調非同步優先（Async-first）架構的代理開發框架。它旨在簡化複雜的代理任務流程，提供穩定且高效的運作環境。",
+        "applications": "適合需要處理高並發任務、構建自動化代理應用程式的開發者使用。"
       },
       {
         "rank": 5,
-        "name": "jianying-headless",
-        "full_name": "mcncarl/jianying-headless",
-        "html_url": "https://github.com/mcncarl/jianying-headless",
-        "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-        "stargazers_count": 1102,
-        "language": "Python",
+        "name": "Search",
+        "full_name": "driceroland/Search",
+        "html_url": "https://github.com/driceroland/Search",
+        "description": "A small, fast WebKit browser for macOS, by Office Commun.",
+        "stargazers_count": 1866,
+        "language": "Swift",
         "owner": {
-          "login": "mcncarl",
-          "avatar_url": "https://avatars.githubusercontent.com/u/204130968?v=4"
+          "login": "driceroland",
+          "avatar_url": "https://avatars.githubusercontent.com/u/74648512?v=4"
         },
         "license": {
-          "name": "Other",
-          "spdx_id": "NOASSERTION"
+          "name": "MIT License",
+          "spdx_id": "MIT"
         },
-        "translatedName": "jianying-headless",
-        "features": "提供剪映草稿的無頭（Headless）預覽與處理功能，支援隔離編輯與匯出。此工具可作為獨立的 Agent Skill 來執行自動化剪輯任務。",
-        "applications": "適用於需要自動化影像生產流程的開發者，將影片編輯功能整合至 AI 工作流中。"
+        "translatedName": "Search (WebKit 網頁瀏覽器)",
+        "features": "這是一款由 Office Commun 開發的輕量級 macOS 網頁瀏覽器，基於 WebKit 引擎建構。其核心優勢在於操作反應迅速，提供極簡的網頁瀏覽體驗。",
+        "applications": "適合需要簡潔、快速網頁瀏覽工具的 macOS 使用者。"
       },
       {
         "rank": 6,
-        "name": "jevlike",
-        "full_name": "vinnylarouge/jevlike",
-        "html_url": "https://github.com/vinnylarouge/jevlike",
-        "description": null,
-        "stargazers_count": 900,
+        "name": "laya-coreml",
+        "full_name": "mizorewww/laya-coreml",
+        "html_url": "https://github.com/mizorewww/laya-coreml",
+        "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+        "stargazers_count": 1470,
         "language": "Python",
         "owner": {
-          "login": "vinnylarouge",
-          "avatar_url": "https://avatars.githubusercontent.com/u/5328067?v=4"
+          "login": "mizorewww",
+          "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
         },
         "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
         },
-        "translatedName": "jevlike",
-        "features": "基於 Python 開發的工具，具體功能定義為 Jev 風格的處理邏輯。作為輕量級模組，提供特定場景下的執行架構。",
-        "applications": "適用於研究 Jev 相關技術架構或需要類 Jev 處理機制的開發者。"
+        "translatedName": "laya-coreml (Apple Core ML 決策引擎)",
+        "features": "專為 Apple Core ML 與神經網路引擎優化的決策模型執行環境，在 M3 Max 上可達成約 5 毫秒的決策效能。具備高度可重現的速度與能耗基準測試數據。",
+        "applications": "適用於需要將決策模型深度整合至 Apple 生態系，並追求極致硬體加速的開發者。"
       },
       {
         "rank": 7,
-        "name": "jev-trader",
-        "full_name": "jarrodwatts/jev-trader",
-        "html_url": "https://github.com/jarrodwatts/jev-trader",
-        "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-        "stargazers_count": 899,
-        "language": "TypeScript",
+        "name": "apk-reverse",
+        "full_name": "newliver666/apk-reverse",
+        "html_url": "https://github.com/newliver666/apk-reverse",
+        "description": "Suitable for Android APK reverse engineering analysis",
+        "stargazers_count": 1468,
+        "language": "Python",
         "owner": {
-          "login": "jarrodwatts",
-          "avatar_url": "https://avatars.githubusercontent.com/u/35651410?v=4"
+          "login": "newliver666",
+          "avatar_url": "https://avatars.githubusercontent.com/u/328839634?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "jev-trader",
-        "features": "這是一個基於 TypeScript 的 AI 交易機器人，能在 Monad 區塊鏈上進行自動化決策。它專注於 Kuru MON-USDC 交易對的自動執行。",
-        "applications": "適用於區塊鏈金融領域，協助交易員實現基於 AI 決策的自動化策略執行。"
+        "translatedName": "apk-reverse (APK 反向工程工具)",
+        "features": "這是一款專為 Android APK 反向工程與分析所設計的 Python 工具。它提供了一套基礎框架，幫助開發者拆解並理解 Android 應用程式的內部邏輯。",
+        "applications": "適合安全性分析師與對 Android 應用架構研究感興趣的資安人員。"
       },
       {
         "rank": 8,
-        "name": "recurrent-looped-tranformer",
-        "full_name": "yifanzhang-pro/recurrent-looped-tranformer",
-        "html_url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
-        "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
-        "stargazers_count": 879,
-        "language": "HTML",
+        "name": "CLM",
+        "full_name": "Contrastive-LM/CLM",
+        "html_url": "https://github.com/Contrastive-LM/CLM",
+        "description": null,
+        "stargazers_count": 1292,
+        "language": "Python",
         "owner": {
-          "login": "yifanzhang-pro",
-          "avatar_url": "https://avatars.githubusercontent.com/u/35550115?v=4"
+          "login": "Contrastive-LM",
+          "avatar_url": "https://avatars.githubusercontent.com/u/332430450?v=4"
         },
         "license": {
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "translatedName": "recurrent-looped-transformer (RLT)",
-        "features": "這是循環迴圈轉換器模型 (RLT) 的官方專案頁面。該架構旨在改進傳統 Transformer 在處理長序列時的效率與記憶特性。",
-        "applications": "適合深度學習研究人員與模型工程師，用於探索更高效的序列建模與推理方法。"
+        "translatedName": "CLM (對比式語言模型)",
+        "features": "這是一個專注於對比式學習技術的語言模型研究專案。它旨在探索如何透過對比方法提升模型對於語義的理解能力。",
+        "applications": "適合自然語言處理領域的研究人員，用於探索新型態的語言模型訓練技術。"
       },
       {
         "rank": 9,
-        "name": "AgentVerse-OS",
-        "full_name": "agentverse-os/AgentVerse-OS",
-        "html_url": "https://github.com/agentverse-os/AgentVerse-OS",
-        "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-        "stargazers_count": 866,
-        "language": "Rust",
+        "name": "ai-engineering-interview-questions-company-wise",
+        "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+        "html_url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+        "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+        "stargazers_count": 1164,
+        "language": "Markdown",
         "owner": {
-          "login": "agentverse-os",
-          "avatar_url": "https://avatars.githubusercontent.com/u/328451092?v=4"
+          "login": "pallavi-shekhar",
+          "avatar_url": "https://avatars.githubusercontent.com/u/79308235?v=4"
         },
         "license": {
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "translatedName": "AgentVerse-OS",
-        "features": "一個為開發者及其 AI 代理設計的個人化雲端作業系統。採用 Rust 核心與 Svelte UI，提供一鍵安裝、視窗化桌面、隔離 VS Code 環境及超過 900 種自託管應用。",
-        "applications": "適合希望擁有高度隱私、完全掌控 AI 開發環境的技術愛好者與工程師。"
+        "translatedName": "ai-engineering-interview-questions-company-wise (AI 工程師面試題庫)",
+        "features": "整理了全球頂尖 AI 企業的面試題目與詳細解答，是應對 AI 工程師職位面試的實用秘笈。內容按公司分類，涵蓋了該領域的熱門考點。",
+        "applications": "適合正在準備 AI 相關職位面試，希望提升面試過關率的求職者。"
       },
       {
         "rank": 10,
-        "name": "Awesome-Astra-Embodied-AI",
-        "full_name": "zjwzcx/Awesome-Astra-Embodied-AI",
-        "html_url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-        "description": "GPT-6 Astra for embodied AI and robotics.",
-        "stargazers_count": 859,
-        "language": null,
+        "name": "deepopen",
+        "full_name": "deepopen-com/deepopen",
+        "html_url": "https://github.com/deepopen-com/deepopen",
+        "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+        "stargazers_count": 1021,
+        "language": "Python",
         "owner": {
-          "login": "zjwzcx",
-          "avatar_url": "https://avatars.githubusercontent.com/u/43678835?v=4"
+          "login": "deepopen-com",
+          "avatar_url": "https://avatars.githubusercontent.com/u/331844194?v=4"
         },
-        "license": null,
-        "translatedName": "Awesome-Astra-Embodied-AI",
-        "features": "整理了與 GPT-6 Astra 相關的實體 AI 與機器人技術資源。涵蓋了將先進大型模型應用於實體機器人感知與交互的尖端研究。",
-        "applications": "適合機器人學家與 AI 研究人員，用於追蹤並學習實體 AI 領域的最新發展與技術框架。"
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "deepopen (System 1 決策引擎)",
+        "features": "一個支援多語言、非自回歸的 System 1 決策引擎，專為處理結構化類型的決策場景而設計。它強調快速與直接的邏輯推論，而非傳統的生成式方法。",
+        "applications": "適用於需要高速、確定性決策的商業系統或工業控制場景。"
       },
       {
         "rank": 11,
-        "name": "Compositor",
-        "full_name": "robbietilton/Compositor",
-        "html_url": "https://github.com/robbietilton/Compositor",
-        "description": "The Photoshop alternative for Mac",
-        "stargazers_count": 804,
-        "language": "Swift",
+        "name": "disktree",
+        "full_name": "tobi/disktree",
+        "html_url": "https://github.com/tobi/disktree",
+        "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+        "stargazers_count": 964,
+        "language": "Rust",
         "owner": {
-          "login": "robbietilton",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1269226?v=4"
+          "login": "tobi",
+          "avatar_url": "https://avatars.githubusercontent.com/u/347?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "Compositor (Mac 圖像編輯工具)",
-        "features": "一款專為 macOS 打造的影像編輯軟體，致力於成為 Photoshop 的高效替代品。提供直觀的介面與強大的專業影像處理功能。",
-        "applications": "適用於專業設計師或攝影師，尋求在 Mac 上更輕量、順暢的圖層與影像編輯工作流。"
+        "translatedName": "disktree (磁碟空間分析與清理工具)",
+        "features": "基於 Rust 與 GPUI 技術開發的視覺化磁碟分析工具，使用樹狀圖顯示磁碟空間使用情況。使用者可以直觀地找出並移除佔用空間的檔案。",
+        "applications": "適合需要管理磁碟儲存空間，並希望快速清理冗餘檔案的使用者。"
       },
       {
         "rank": 12,
-        "name": "Dream-RSI",
-        "full_name": "zhengkid/Dream-RSI",
-        "html_url": "https://github.com/zhengkid/Dream-RSI",
-        "description": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
-        "stargazers_count": 771,
-        "language": null,
+        "name": "golive-skill",
+        "full_name": "mikehasa/golive-skill",
+        "html_url": "https://github.com/mikehasa/golive-skill",
+        "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+        "stargazers_count": 951,
+        "language": "TypeScript",
         "owner": {
-          "login": "zhengkid",
-          "avatar_url": "https://avatars.githubusercontent.com/u/52874273?v=4"
+          "login": "mikehasa",
+          "avatar_url": "https://avatars.githubusercontent.com/u/91774998?v=4"
         },
-        "license": null,
-        "translatedName": "Dream-RSI",
-        "features": "遞迴自我提升（Recursive Self-Improvement）技術的研究專案，透過演化世界模型來達成。該架構探討如何讓 AI 系統在持續迭代中實現自我優化。",
-        "applications": "適用於人工智慧安全研究與通用人工智慧（AGI）開發者，探討模型自我演化的可能性。"
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "golive-skill (代理產品部署工具)",
+        "features": "協助開發者將代理產品快速部署上線，涵蓋託管、資料庫、域名與金流設定。透過 Node CLI 提供從偵測、規劃、審核到驗證的全流程自動化，無需第三方帳號或後端依賴。",
+        "applications": "適合希望快速將 AI 代理產品部署至個人帳號或自有伺服器的獨立開發者。"
       }
     ],
     "month": [
       {
         "rank": 1,
-        "name": "m3e-canvas",
-        "full_name": "lnkiai/m3e-canvas",
-        "html_url": "https://github.com/lnkiai/m3e-canvas",
-        "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-        "stargazers_count": 7427,
-        "language": "TypeScript",
+        "name": "laya",
+        "full_name": "NandhaKishorM/laya",
+        "html_url": "https://github.com/NandhaKishorM/laya",
+        "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+        "stargazers_count": 24787,
+        "language": "Python",
         "owner": {
-          "login": "lnkiai",
-          "avatar_url": "https://avatars.githubusercontent.com/u/187016380?v=4"
+          "login": "NandhaKishorM",
+          "avatar_url": "https://avatars.githubusercontent.com/u/48623612?v=4"
         },
         "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
         },
-        "translatedName": "m3e-canvas",
-        "features": "一個基於瀏覽器的 Material 3 設計草圖工具，能將畫面直接轉化為程式開發用的提示詞 (prompts)。它強調視覺化設計與 AI 程式碼編寫之間的無縫銜接。",
-        "applications": "適合 UI/UX 設計師與前端開發者，用來快速產生原型並透過 AI 自動生成實作代碼。"
+        "translatedName": "Laya (非自回歸決策引擎)",
+        "features": "Laya 是一個非自回歸的 System 1 決策引擎，能在單次前向傳遞中對文字進行類型化的選擇、評分及是非判斷。它支援超過 100 種語言，並內建路由機制，能針對不同請求選擇最合適的檢查點。",
+        "applications": "適用於需要極低延遲決策或自動化文字分析的場景，特別是大型語言模型的推理優化。"
       },
       {
         "rank": 2,
-        "name": "PRAXIST",
-        "full_name": "sapientinc/PRAXIST",
-        "html_url": "https://github.com/sapientinc/PRAXIST",
-        "description": "Autonomous research system for measurable, computer-executable research.",
-        "stargazers_count": 6082,
-        "language": "Python",
-        "owner": {
-          "login": "sapientinc",
-          "avatar_url": "https://avatars.githubusercontent.com/u/188930505?v=4"
-        },
-        "license": {
-          "name": "Other",
-          "spdx_id": "NOASSERTION"
-        },
-        "translatedName": "PRAXIST",
-        "features": "一套自動化研究系統，旨在執行可量化且具備電腦執行能力的研究任務。透過系統化流程提升科研的自動化水準。",
-        "applications": "適用於科研人員與數據分析師，用於加速文獻回顧、數據處理及自動化實驗流程。"
-      },
-      {
-        "rank": 3,
-        "name": "threeui",
-        "full_name": "MengTo/threeui",
-        "html_url": "https://github.com/MengTo/threeui",
-        "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
-        "stargazers_count": 5945,
-        "language": "HTML",
-        "owner": {
-          "login": "MengTo",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1065452?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "threeui",
-        "features": "一個開放原始碼的 ThreeUI 社群目錄，提供即時互動元件與完整的開發原始碼。使用者可以瀏覽並直接取用各類交互式設計組件。",
-        "applications": "適合前端設計師與網頁開發者，用來尋找高品質的 UI 互動元件並加快專案開發速度。"
-      },
-      {
-        "rank": 4,
-        "name": "DLSS5-Swapper",
-        "full_name": "rakanki911/DLSS5-Swapper",
-        "html_url": "https://github.com/rakanki911/DLSS5-Swapper",
-        "description": "Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.",
-        "stargazers_count": 5778,
-        "language": "JavaScript",
-        "owner": {
-          "login": "rakanki911",
-          "avatar_url": "https://avatars.githubusercontent.com/u/199753947?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "DLSS5-Swapper",
-        "features": "支援多種圖形 API 與模擬器，只需一鍵即可安裝、調整並還原遊戲中的 DLSS 5 技術。提供自動備份功能及社群相容性報告。",
-        "applications": "專為電腦遊戲玩家設計，解決舊款或不支援 DLSS 遊戲的效能提升需求。"
-      },
-      {
-        "rank": 5,
         "name": "jev-ultrafast",
         "full_name": "browser-use/jev-ultrafast",
         "html_url": "https://github.com/browser-use/jev-ultrafast",
-        "description": "i. am. speed.",
-        "stargazers_count": 5768,
+        "description": "Fastest and cheapest web agent",
+        "stargazers_count": 20288,
         "language": "Python",
         "owner": {
           "login": "browser-use",
@@ -334,37 +280,17 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "jev-ultrafast",
-        "features": "專注於極致效能的自動化瀏覽器操作框架，主打極速執行與反應效率。該專案以效能為核心目標，優化了代理程式的執行速度。",
-        "applications": "適合需要處理大量網頁自動化任務、數據爬取或需極低延遲運作的開發者。"
+        "translatedName": "jev-ultrafast (極速網頁代理)",
+        "features": "這是目前執行速度最快且成本最低的網頁操作代理工具。它優化了網頁互動流程，旨在實現高效的自動化任務執行。",
+        "applications": "適合需要大規模處理網頁抓取、自動化表單填寫或瀏覽器任務自動化的使用者。"
       },
       {
-        "rank": 6,
-        "name": "codex-with-chatgpt",
-        "full_name": "XiaoDuoYa/codex-with-chatgpt",
-        "html_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-        "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-        "stargazers_count": 5469,
-        "language": "TypeScript",
-        "owner": {
-          "login": "XiaoDuoYa",
-          "avatar_url": "https://avatars.githubusercontent.com/u/113528266?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "codex-with-chatgpt",
-        "features": "將 ChatGPT 作為邏輯思考的「大腦」，結合 Codex 的執行能力進行程式開發。這種組合模式既能規劃複雜任務，又能確保程式碼的準確撰寫。",
-        "applications": "適用於開發人員，解決單一 AI 模型在複雜程式開發中規劃不足或實作誤差的問題。"
-      },
-      {
-        "rank": 7,
+        "rank": 3,
         "name": "HowToLiveBetter",
         "full_name": "eternity4719/HowToLiveBetter",
         "html_url": "https://github.com/eternity4719/HowToLiveBetter",
         "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
-        "stargazers_count": 5182,
+        "stargazers_count": 16398,
         "language": "HTML",
         "owner": {
           "login": "eternity4719",
@@ -375,105 +301,188 @@
           "spdx_id": "Unlicense"
         },
         "translatedName": "HowToLiveBetter (循證生活指南)",
-        "features": "一份按性價比排序的循證生活指南，內容涵蓋醫療、財務、法律與育兒等多個面向。每項建議皆引用期刊論文與官方文件，確保資訊的可信度與實用性。",
-        "applications": "適合追求高效生活、理性決策的現代人，作為解決生活各項難題的權威參考手冊。"
+        "features": "這是一份按性價比排序的循證生活指南，內容涵蓋健康長壽、理財、法律及育兒等多個面向。每條建議皆明確標註成本、收益及證據等級，並僅引用權威期刊論文與官方文件。",
+        "applications": "適合尋求理性、科學化生活建議的現代人，用以提升生活品質並降低決策風險。"
+      },
+      {
+        "rank": 4,
+        "name": "m3e-canvas",
+        "full_name": "lnkiai/m3e-canvas",
+        "html_url": "https://github.com/lnkiai/m3e-canvas",
+        "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+        "stargazers_count": 8238,
+        "language": "TypeScript",
+        "owner": {
+          "login": "lnkiai",
+          "avatar_url": "https://avatars.githubusercontent.com/u/187016380?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "m3e-canvas (Material 3 設計畫布)",
+        "features": "此工具允許使用者在瀏覽器中快速繪製 Material 3 風格的介面。它能將設計草稿轉化為 Vibe-coding 提示詞，簡化設計到程式碼的轉換流程。",
+        "applications": "適用於前端開發者或 UI/UX 設計師，快速進行原型設計並生成 AI 編碼提示。"
+      },
+      {
+        "rank": 5,
+        "name": "kev",
+        "full_name": "jaredpalmer/kev",
+        "html_url": "https://github.com/jaredpalmer/kev",
+        "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
+        "stargazers_count": 7052,
+        "language": "Python",
+        "owner": {
+          "login": "jaredpalmer",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4060187?v=4"
+        },
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "kev (客製化決策模型)",
+        "features": "基於 Qwen3.5/3.8 模型構建的 Jev 系列決策模型，具備高度可訓練性。使用者可以在本地環境中輕鬆訓練與部署這些模型。",
+        "applications": "適合需要特定領域決策能力且重視資料隱私與本地部署的開發者。"
+      },
+      {
+        "rank": 6,
+        "name": "fast-jev-compaction",
+        "full_name": "tamaratran/fast-jev-compaction",
+        "html_url": "https://github.com/tamaratran/fast-jev-compaction",
+        "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+        "stargazers_count": 6875,
+        "language": "TypeScript",
+        "owner": {
+          "login": "tamaratran",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65584429?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "fast-jev-compaction (Claude Code 決策壓縮插件)",
+        "features": "作為 Claude Code 的插件，它將原本的上下文壓縮摘要替換為 Jev 決策機制。透過單次快速請求對工具調用結果進行評分，篩選重要內容並刪除過時資訊。",
+        "applications": "適用於使用 Claude Code 進行開發的工程師，以提升上下文管理的效率與精確度。"
+      },
+      {
+        "rank": 7,
+        "name": "ZCode",
+        "full_name": "zai-org/ZCode",
+        "html_url": "https://github.com/zai-org/ZCode",
+        "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+        "stargazers_count": 6781,
+        "language": "TypeScript",
+        "owner": {
+          "login": "zai-org",
+          "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+        },
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "ZCode (AI 編碼代理框架)",
+        "features": "Z.ai 推出的強大且智慧的編碼代理框架。其架構具備高度可擴展性，能協助處理複雜的軟體開發任務。",
+        "applications": "適合希望打造自動化編碼工作流，或尋求高效 AI 輔助開發工具的團隊。"
       },
       {
         "rank": 8,
-        "name": "ai-infra-book",
-        "full_name": "bojieli/ai-infra-book",
-        "html_url": "https://github.com/bojieli/ai-infra-book",
-        "description": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
-        "stargazers_count": 4391,
-        "language": "Python",
+        "name": "DLSS5-Swapper",
+        "full_name": "rakanki911/DLSS5-Swapper",
+        "html_url": "https://github.com/rakanki911/DLSS5-Swapper",
+        "description": "Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.",
+        "stargazers_count": 6725,
+        "language": "JavaScript",
         "owner": {
-          "login": "bojieli",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1421793?v=4"
+          "login": "rakanki911",
+          "avatar_url": "https://avatars.githubusercontent.com/u/199753947?v=4"
         },
         "license": {
-          "name": "Apache License 2.0",
-          "spdx_id": "Apache-2.0"
+          "name": "MIT License",
+          "spdx_id": "MIT"
         },
-        "translatedName": "ai-infra-book (深入理解 AI Infra)",
-        "features": "以硬體限制與模型架構為基礎，系統性地分析 AI 推理與訓練系統的設計。書中包含全書稿件、PDF 以及相關的配套計算工具。",
-        "applications": "適合人工智慧基礎設施工程師與系統架構師，用於深入學習大型語言模型底層系統設計與量化分析。"
+        "translatedName": "DLSS5-Swapper (DLSS 遊戲優化工具)",
+        "features": "一鍵安裝與調校 DLSS 5 的工具，支援 DirectX、Vulkan 及 OpenGL 等多種圖形 API。提供自動備份、遊戲內覆蓋介面以及社群相容性報告。",
+        "applications": "適用於 PC 遊戲玩家，用以提升遊戲畫質與效能，並在不支援 DLSS 的遊戲中強制啟用相關功能。"
       },
       {
         "rank": 9,
-        "name": "spotifast",
-        "full_name": "crmne/spotifast",
-        "html_url": "https://github.com/crmne/spotifast",
-        "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
-        "stargazers_count": 4374,
-        "language": "Rust",
+        "name": "codex-with-chatgpt",
+        "full_name": "XiaoDuoYa/codex-with-chatgpt",
+        "html_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+        "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+        "stargazers_count": 6674,
+        "language": "TypeScript",
         "owner": {
-          "login": "crmne",
-          "avatar_url": "https://avatars.githubusercontent.com/u/106617?v=4"
+          "login": "XiaoDuoYa",
+          "avatar_url": "https://avatars.githubusercontent.com/u/113528266?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "spotifast",
-        "features": "一個使用 Rust 語言編寫的高效 Spotify 用戶端，支援本機播放與 Spotify Connect 功能。該軟體輕量且支援多平台，強調原生運行的極致順暢感。",
-        "applications": "適合喜愛簡潔介面且追求高效能音樂播放體驗的 Linux、macOS 與 Windows 使用者。"
+        "translatedName": "codex-with-chatgpt (ChatGPT 規劃與 Codex 執行)",
+        "features": "結合了 ChatGPT 的思考規劃能力與 Codex 的程式執行架構。讓 ChatGPT 負責高層邏輯規劃，並由 Codex 接手具體的程式碼實現。",
+        "applications": "適用於需要複雜邏輯編寫的開發者，將 AI 的規劃能力與程式碼生成能力合二為一。"
       },
       {
         "rank": 10,
-        "name": "my-girlfriend-jingtian-latex",
-        "full_name": "HEJustinSun/my-girlfriend-jingtian-latex",
-        "html_url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
-        "description": null,
-        "stargazers_count": 4212,
-        "language": "TeX",
+        "name": "jev-chat-jarvis",
+        "full_name": "jev-chat/jev-chat-jarvis",
+        "html_url": "https://github.com/jev-chat/jev-chat-jarvis",
+        "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+        "stargazers_count": 6524,
+        "language": "Kotlin",
         "owner": {
-          "login": "HEJustinSun",
-          "avatar_url": "https://avatars.githubusercontent.com/u/320896847?v=4"
+          "login": "jev-chat",
+          "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
         },
-        "license": null,
-        "translatedName": "my-girlfriend-jingtian-latex",
-        "features": "一個使用 LaTeX 編寫的個人化文件或專案，呈現了精細的排版與設計結構。具備高度客製化的 LaTeX 文件模板特徵。",
-        "applications": "適合需要高品質排版與文檔管理的用戶，亦可作為學習 LaTeX 技術佈局的參考範例。"
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "jev-chat-jarvis (手機 AI 對話副駕)",
+        "features": "這是一款非侵入式的手機應用，透過讀取螢幕內容在通訊軟體中提供候選回覆。它不進行 Hook 或修改封包，確保使用安全性。",
+        "applications": "適合需要在通訊軟體中快速獲取 AI 建議或處理大量訊息的專業人士。"
       },
       {
         "rank": 11,
-        "name": "FrontierAgent",
-        "full_name": "ApodexAI/FrontierAgent",
-        "html_url": "https://github.com/ApodexAI/FrontierAgent",
-        "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-        "stargazers_count": 3887,
+        "name": "laya-mlx",
+        "full_name": "mizorewww/laya-mlx",
+        "html_url": "https://github.com/mizorewww/laya-mlx",
+        "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+        "stargazers_count": 6351,
         "language": "Python",
         "owner": {
-          "login": "ApodexAI",
-          "avatar_url": "https://avatars.githubusercontent.com/u/276468590?v=4"
+          "login": "mizorewww",
+          "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
         },
         "license": {
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "translatedName": "FrontierAgent",
-        "features": "一個輕量級且原生支援命令列 TUI 的代理框架，具備 ReAct 與代理團隊運作模式。安裝過程簡單，無需 Docker 或複雜的預安裝依賴。",
-        "applications": "適用於開發者與技術人員，用於快速部署高效能、可擴充的 AI 代理人應用程式。"
+        "translatedName": "laya-mlx (原生 MLX 執行環境)",
+        "features": "專為 Laya 決策模型打造的原生 MLX 運行環境。能在 Apple M3 Max 晶片上達成 7–14 毫秒的極短決策時間，且無需依賴 PyTorch 或雲端 API。",
+        "applications": "適合在 Apple Silicon 硬體上開發高效能離線決策系統的工程師。"
       },
       {
         "rank": 12,
-        "name": "human-atlas",
-        "full_name": "ashemag/human-atlas",
-        "html_url": "https://github.com/ashemag/human-atlas",
-        "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-        "stargazers_count": 3646,
-        "language": "TypeScript",
+        "name": "Compositor",
+        "full_name": "robbietilton/Compositor",
+        "html_url": "https://github.com/robbietilton/Compositor",
+        "description": "The Photoshop alternative for Mac",
+        "stargazers_count": 5604,
+        "language": "Swift",
         "owner": {
-          "login": "ashemag",
-          "avatar_url": "https://avatars.githubusercontent.com/u/8096590?v=4"
+          "login": "robbietilton",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1269226?v=4"
         },
         "license": {
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "human-atlas (人體解剖圖譜)",
-        "features": "一個開放原始碼的 3D 人體解剖探索工具，收錄超過 2,000 個可互動的部位網格。支援系統分層瀏覽、搜尋功能以及爆炸視圖。",
-        "applications": "適合醫學系學生、生物教師或 3D 建模愛好者，用於直觀地學習與探索人體構造。"
+        "translatedName": "Compositor (Mac 設計工具)",
+        "features": "一款專為 Mac 設計的專業影像處理軟體，旨在成為 Photoshop 的強大替代品。提供直觀且高效的工具集，以滿足現代設計師的創作需求。",
+        "applications": "適用於平面設計師、藝術家及需要處理複雜影像編輯工作的 Mac 使用者。"
       }
     ],
     "three_months": [
@@ -483,7 +492,7 @@
         "full_name": "deepseek-ai/deepseek-harness",
         "html_url": "https://github.com/deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
-        "stargazers_count": 229237,
+        "stargazers_count": 236145,
         "language": "TypeScript",
         "owner": {
           "login": "deepseek-ai",
@@ -494,36 +503,16 @@
           "spdx_id": "MIT"
         },
         "translatedName": "DeepSeek Harness",
-        "features": "一個以插件為核心架構的開發框架，強調將所有功能模組化。透過 TypeScript 實作，讓開發者能高度客製化與擴充系統功能。",
-        "applications": "適用於需要彈性插件系統的 AI 開發環境，適合希望打造模組化應用架構的工程師。"
+        "features": "這是一個基於插件架構的開發框架，強調「萬物皆插件」的模組化設計。它透過高度可擴充的介面，允許開發者輕鬆整合各種功能模組。",
+        "applications": "適用於需要靈活組合各類 AI 或自動化工具的開發者，能顯著提升專案的擴充性與維護效率。"
       },
       {
         "rank": 2,
-        "name": "gods-eye-view",
-        "full_name": "bilawalsidhu/gods-eye-view",
-        "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "stargazers_count": 37907,
-        "language": "JavaScript",
-        "owner": {
-          "login": "bilawalsidhu",
-          "avatar_url": "https://avatars.githubusercontent.com/u/106619546?v=4"
-        },
-        "license": {
-          "name": "Other",
-          "spdx_id": "NOASSERTION"
-        },
-        "translatedName": "God's Eye View (太空衛星模擬器)",
-        "features": "這是一個在瀏覽器中運行的實時衛星偵察模擬器，利用真實數據在 3D 地球模型上進行視覺化呈現。結合了空間情報數據，提供極具沉浸感的地理觀測體驗。",
-        "applications": "適用於地理空間數據分析、軍事教育模擬，或作為展示地理情報系統的視覺化工具。"
-      },
-      {
-        "rank": 3,
         "name": "colibri",
         "full_name": "JustVugg/colibri",
         "html_url": "https://github.com/JustVugg/colibri",
         "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "stargazers_count": 36190,
+        "stargazers_count": 37667,
         "language": "C",
         "owner": {
           "login": "JustVugg",
@@ -533,17 +522,17 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "translatedName": "Colibri",
-        "features": "使用純 C 語言撰寫的高效能推理引擎，具備零外部依賴的特性。它能直接從硬碟串流載入並運行大型專家混合 (MoE) 模型，極大化硬體利用率。",
-        "applications": "適合在硬體資源有限的個人電腦上運行先進的 AI 模型，適合追求極致效能與輕量化架構的開發者。"
+        "translatedName": "Colibri (MoE 執行引擎)",
+        "features": "這是一款使用純 C 語言編寫的輕量級推理引擎，專為在一般個人電腦上運行大規模混合專家 (MoE) 模型而設計。其特點是零相依性，並能直接從硬碟串流載入專家參數，大幅降低硬體門檻。",
+        "applications": "適合想要在一般家用電腦或輕量級硬體上運行高效能 AI 模型，並追求極致執行效率的使用者。"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "dsh-desktop",
         "full_name": "anywhere-labs/dsh-desktop",
         "html_url": "https://github.com/anywhere-labs/dsh-desktop",
         "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-        "stargazers_count": 27601,
+        "stargazers_count": 29007,
         "language": "TypeScript",
         "owner": {
           "login": "anywhere-labs",
@@ -553,17 +542,17 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "DSH Desktop (DeepSeek Harness 桌面端)",
-        "features": "為 DeepSeek Harness 生態系統打造的現代化桌面解決方案，桌面環境本身也作為插件存在。透過一致的介面，將所有開發工具與服務整合在單一工作區。",
-        "applications": "適合經常使用 DeepSeek Harness 進行開發的工程師，提供更便捷的桌面操作體驗與插件管理。"
+        "translatedName": "DSH Desktop (桌面端解決方案)",
+        "features": "這是專為 DeepSeek Harness 生態系統打造的現代化桌面應用程式。該工具將桌面環境本身也視為一個插件，提供統一且一致的操作體驗。",
+        "applications": "適合 DeepSeek Harness 的使用者，透過圖形化介面更直觀地管理與互動各類 AI 插件。"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "grok-build",
         "full_name": "xai-org/grok-build",
         "html_url": "https://github.com/xai-org/grok-build",
         "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-        "stargazers_count": 26865,
+        "stargazers_count": 27105,
         "language": "Rust",
         "owner": {
           "login": "xai-org",
@@ -573,9 +562,29 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "translatedName": "Grok Build",
-        "features": "由 xAI 開發的編碼代理框架與終端使用者介面 (TUI)，支援全螢幕顯示與滑鼠互動功能。架構具有極高擴展性，能協助使用者更有效地管理編碼流程。",
-        "applications": "適用於開發人員在終端環境中管理 AI 輔助編碼任務，提升開發效率與工作流程的自動化程度。"
+        "translatedName": "Grok Build (編碼代理框架)",
+        "features": "這是由 xAI 開發的編碼代理框架與終端使用者介面 (TUI)，具備全螢幕互動與滑鼠支援。其設計強調高擴充性，能協助開發者更流暢地進行程式碼編寫與測試。",
+        "applications": "適合需要高效、可客製化且支援鍵盤滑鼠互動的 AI 輔助編碼環境的軟體工程師。"
+      },
+      {
+        "rank": 5,
+        "name": "laya",
+        "full_name": "NandhaKishorM/laya",
+        "html_url": "https://github.com/NandhaKishorM/laya",
+        "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+        "stargazers_count": 24787,
+        "language": "Python",
+        "owner": {
+          "login": "NandhaKishorM",
+          "avatar_url": "https://avatars.githubusercontent.com/u/48623612?v=4"
+        },
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "Laya (決策引擎)",
+        "features": "這是一款非自回歸的系統 1 決策引擎，能以單次前向傳遞過程針對任何語言文本進行分類與決策。內建路由機制可根據不同請求自動選擇最適合的檢查點。",
+        "applications": "適用於需要高速、跨語言且具備精確決策能力的自動化處理系統，特別是在處理大量決策邏輯的場景中。"
       },
       {
         "rank": 6,
@@ -583,7 +592,7 @@
         "full_name": "guillaumemeyer/watermarks-remover",
         "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
         "description": "A privacy-first app that strips AI watermarks from content you own.",
-        "stargazers_count": 22326,
+        "stargazers_count": 22832,
         "language": "Python",
         "owner": {
           "login": "guillaumemeyer",
@@ -594,8 +603,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "Watermarks Remover (AI 浮水印移除器)",
-        "features": "一款優先考慮隱私保護的應用程式，專門用於移除內容中產生的 AI 浮水印。透過本地處理機制，確保使用者對其個人資產擁有完整的控制權。",
-        "applications": "適合需要清理 AI 生成內容元數據或視覺標記的創作者與隱私注重者。"
+        "features": "這是一款以隱私優先為核心的應用程式，旨在移除個人內容中的 AI 浮水印。它專注於讓使用者能完全控制並清理自己擁有的數位資產。",
+        "applications": "適合需要移除 AI 生成內容中痕跡，以進行後續創作或保護個人資料隱私的內容創作者。"
       },
       {
         "rank": 7,
@@ -603,7 +612,7 @@
         "full_name": "firecrawl/anydoc",
         "html_url": "https://github.com/firecrawl/anydoc",
         "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-        "stargazers_count": 21757,
+        "stargazers_count": 22057,
         "language": "Rust",
         "owner": {
           "login": "firecrawl",
@@ -613,17 +622,37 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "AnyDoc",
-        "features": "使用 Rust 編寫的高效能文件轉換工具，能將 Word、PDF、EPUB 等多種格式快速轉換為整潔的 Markdown。提供 Node.js 與 Python 綁定，方便整合於現有工作流。",
-        "applications": "適用於自動化文件處理管線或需要將大量舊檔案轉化為 LLM 可讀格式的開發者。"
+        "translatedName": "AnyDoc (文件轉換工具)",
+        "features": "由 Rust 編寫的高效能文件轉換工具，能將 Word、PowerPoint、Excel、PDF 等多種格式轉為乾淨的 Markdown 格式。同時支援 Node.js 與 Python 的開發者綁定。",
+        "applications": "適用於需要將大量異質文件格式統一轉入 Markdown 以便進行大語言模型訓練或知識庫建構的開發者。"
       },
       {
         "rank": 8,
+        "name": "jev-ultrafast",
+        "full_name": "browser-use/jev-ultrafast",
+        "html_url": "https://github.com/browser-use/jev-ultrafast",
+        "description": "Fastest and cheapest web agent",
+        "stargazers_count": 20288,
+        "language": "Python",
+        "owner": {
+          "login": "browser-use",
+          "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "Jev-Ultrafast (網頁代理)",
+        "features": "這是一款專為速度與成本最佳化所設計的網頁自動化代理程式。它透過精簡的架構，在執行自動化網頁任務時能達到極高的效率與低營運成本。",
+        "applications": "適合需要大規模執行網頁爬取或自動化操作，且對預算與執行效能有嚴格要求的企業與開發者。"
+      },
+      {
+        "rank": 9,
         "name": "openworker",
         "full_name": "andrewyng/openworker",
         "html_url": "https://github.com/andrewyng/openworker",
         "description": null,
-        "stargazers_count": 18030,
+        "stargazers_count": 18277,
         "language": "Python",
         "owner": {
           "login": "andrewyng",
@@ -634,36 +663,36 @@
           "spdx_id": "MIT"
         },
         "translatedName": "OpenWorker",
-        "features": "一個旨在簡化與標準化工作流程代理的開發專案。透過 Python 實作，提供基礎架構以支援 AI 代理執行各種自動化任務。",
-        "applications": "適合需要建構自動化 AI 代理團隊或部署分散式工作任務的開發者與數據工程師。"
-      },
-      {
-        "rank": 9,
-        "name": "openwiki",
-        "full_name": "langchain-ai/openwiki",
-        "html_url": "https://github.com/langchain-ai/openwiki",
-        "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
-        "stargazers_count": 16628,
-        "language": "TypeScript",
-        "owner": {
-          "login": "langchain-ai",
-          "avatar_url": "https://avatars.githubusercontent.com/u/126733545?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "OpenWiki",
-        "features": "一個 CLI 命令行工具，專為程式碼庫自動編寫與維護代理文件而生。它能即時追蹤程式碼變更並自動同步更新相關說明文件。",
-        "applications": "適合軟體開發團隊使用，旨在減輕技術文件維護負擔並確保開發文件隨時保持最新狀態。"
+        "features": "由 Andrew Ng 團隊推出的專案，雖然說明較簡略，但通常定位於處理並行運算任務或分佈式工作節點的架構。其設計目標在於簡化運算資源的調度與管理。",
+        "applications": "適合需要建置大規模分散式運算系統，或需要有效率管理機器學習工作負載的工程團隊。"
       },
       {
         "rank": 10,
+        "name": "awesome-dsh-plugin",
+        "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+        "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+        "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+        "stargazers_count": 16904,
+        "language": "JavaScript",
+        "owner": {
+          "login": "awesome-dsh-plugin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/316603077?v=4"
+        },
+        "license": {
+          "name": "Creative Commons Zero v1.0 Universal",
+          "spdx_id": "CC0-1.0"
+        },
+        "translatedName": "Awesome DSH Plugin (插件精選列表)",
+        "features": "這是一份精心篩選的 DeepSeek Harness 插件列表，旨在協助開發者快速尋找所需的擴充功能。內容涵蓋了社群中最強大與實用的工具資源。",
+        "applications": "適合正在使用 DeepSeek Harness 框架，並希望透過安裝優質插件來增強開發工作流程的開發者。"
+      },
+      {
+        "rank": 11,
         "name": "img2threejs",
         "full_name": "img2threejs/img2threejs",
         "html_url": "https://github.com/img2threejs/img2threejs",
         "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-        "stargazers_count": 16365,
+        "stargazers_count": 16769,
         "language": "Python",
         "owner": {
           "login": "img2threejs",
@@ -673,49 +702,29 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "translatedName": "Img2Threejs",
-        "features": "利用 Python 將參考影像中的物件轉換為代碼驅動的 Three.js 模型，支援過程化建模與動畫準備。具備高 Token 效率，能精準重現 3D 物件。",
-        "applications": "適合前端開發人員與 3D 藝術家，快速將 2D 設計草圖轉化為網頁互動式 3D 模型。"
-      },
-      {
-        "rank": 11,
-        "name": "awesome-dsh-plugin",
-        "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
-        "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-        "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-        "stargazers_count": 16197,
-        "language": "Python",
-        "owner": {
-          "login": "awesome-dsh-plugin",
-          "avatar_url": "https://avatars.githubusercontent.com/u/316603077?v=4"
-        },
-        "license": {
-          "name": "Creative Commons Zero v1.0 Universal",
-          "spdx_id": "CC0-1.0"
-        },
-        "translatedName": "Awesome DSH Plugin (插件精選)",
-        "features": "一個精選的 DeepSeek Harness 插件清單，收集了各類實用工具與模組。幫助使用者快速尋找並安裝所需擴充功能。",
-        "applications": "適合 DeepSeek Harness 用戶快速發掘與擴充開發環境功能，提升專案開發效能。"
+        "translatedName": "Img2ThreeJS (影像轉 3D 工具)",
+        "features": "這是一款具備高 Token 效率的影像轉 3D 模型生成器，能將參考圖重構成符合 Three.js 標準的程序式程式碼模型。產出的模型品質穩定且易於進行動畫處理。",
+        "applications": "適用於網頁 3D 開發者，能將靜態圖片快速轉化為輕量級、可程式化的互動式 3D 資源。"
       },
       {
         "rank": 12,
-        "name": "qm",
-        "full_name": "yc-software/qm",
-        "html_url": "https://github.com/yc-software/qm",
-        "description": "Multiplayer agent harness for work.",
-        "stargazers_count": 15158,
-        "language": "TypeScript",
+        "name": "HowToLiveBetter",
+        "full_name": "eternity4719/HowToLiveBetter",
+        "html_url": "https://github.com/eternity4719/HowToLiveBetter",
+        "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+        "stargazers_count": 16398,
+        "language": "HTML",
         "owner": {
-          "login": "yc-software",
-          "avatar_url": "https://avatars.githubusercontent.com/u/153323858?v=4"
+          "login": "eternity4719",
+          "avatar_url": "https://avatars.githubusercontent.com/u/230156667?v=4"
         },
         "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
+          "name": "The Unlicense",
+          "spdx_id": "Unlicense"
         },
-        "translatedName": "QM (Multiplayer Agent Harness)",
-        "features": "專為團隊協作設計的多人 AI 代理工作框架，支援多人即時協同作業。透過 TypeScript 開發，打造高效的工作環境。",
-        "applications": "適用於需要多人共同調度或管理 AI 代理任務的企業團隊，促進協同工作與任務透明度。"
+        "translatedName": "HowToLiveBetter (循證生活指南)",
+        "features": "這是一份基於嚴謹學術期刊與官方文件所彙整的生活指南，內容涵蓋理財、醫療、法律與育兒等領域。每項建議皆標註了成本、收益及證據等級，強調真實性與實用性。",
+        "applications": "適合追求科學理性生活，希望在個人理財、健康管理或應對生活風險時獲取高可信度建議的一般大眾。"
       }
     ],
     "year": [
@@ -725,7 +734,7 @@
         "full_name": "openclaw/openclaw",
         "html_url": "https://github.com/openclaw/openclaw",
         "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-        "stargazers_count": 390062,
+        "stargazers_count": 390526,
         "language": "TypeScript",
         "owner": {
           "login": "openclaw",
@@ -736,8 +745,8 @@
           "spdx_id": "NOASSERTION"
         },
         "translatedName": "openclaw",
-        "features": "這是一個跨作業系統與平台的通用 AI 自動化框架，主打「真正執行任務」的能力。它透過獨特的機制讓 AI 能夠跨環境執行實體操作，實現高度的任務自主性。",
-        "applications": "適合需要跨平台自動化執行複雜任務的開發者或企業，解決不同作業系統間 AI 協作的技術落差。"
+        "features": "一個跨作業系統與平台的通用 AI 代理框架，強調以「龍蝦之道」的高效實踐方式來執行各種任務。該工具旨在為開發者提供一個能夠處理實際事務的 AI 自動化解決方案。",
+        "applications": "適用於需要跨平台自動化執行複雜任務的開發人員，協助提升日常工作流程的效率。"
       },
       {
         "rank": 2,
@@ -745,7 +754,7 @@
         "full_name": "obra/superpowers",
         "html_url": "https://github.com/obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
-        "stargazers_count": 288568,
+        "stargazers_count": 291703,
         "language": "Shell",
         "owner": {
           "login": "obra",
@@ -756,8 +765,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "superpowers",
-        "features": "這是一個專注於代理人（Agent）技能的開發框架，強調一套實用的軟體開發方法論。它幫助開發者結構化地賦予 AI 代理人特定技能，從而提升作業執行的可靠度。",
-        "applications": "適用於需要建構具備特定專業能力的 AI 代理人開發團隊，用以規範並優化代理人的工作流程。"
+        "features": "一個強調代理人技能框架與軟體開發方法的工具，旨在建立可執行的代理行為模式。該專案整合了開發方法論，讓 AI 代理在軟體開發生命週期中更具實用價值。",
+        "applications": "適合尋求建立標準化 AI 代理開發流程的工程師，用於優化 AI 輔助開發的工作品質。"
       },
       {
         "rank": 3,
@@ -765,7 +774,7 @@
         "full_name": "mattpocock/skills",
         "html_url": "https://github.com/mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "stargazers_count": 265320,
+        "stargazers_count": 269780,
         "language": "Shell",
         "owner": {
           "login": "mattpocock",
@@ -776,8 +785,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "skills",
-        "features": "這是一個專為資深工程師設計的技能庫，匯集了直接從實戰環境中汲取的 AI 代理人技巧。這些腳本與配置旨在提升工程 AI 的處理精確度與執行效率。",
-        "applications": "適合希望優化 AI 輔助開發流程的資深工程師，透過現成的高效能配置直接提升 AI 代理人的實戰表現。"
+        "features": "此專案匯集了一系列專為實戰工程師設計的代理技能，這些技能直接從作者的 .agents 目錄中提取。專注於提供即插即用的專業級開發技能模組。",
+        "applications": "適合希望透過配置特定技能來擴展 AI 代理能力的專業軟體工程師。"
       },
       {
         "rank": 4,
@@ -785,7 +794,7 @@
         "full_name": "affaan-m/ECC",
         "html_url": "https://github.com/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stargazers_count": 262141,
+        "stargazers_count": 267561,
         "language": "JavaScript",
         "owner": {
           "login": "affaan-m",
@@ -795,9 +804,9 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "ECC (Agent Harness)",
-        "features": "這是一套針對 AI 代理人環境的效能優化系統，整合了技能、記憶管理、安全性與研究導向的開發模式。它廣泛支援 Claude Code、Codex 及 Cursor 等多種主流開發工具。",
-        "applications": "適用於深度依賴 AI 代理人進行軟體開發的團隊，解決 AI 在處理複雜任務時的效能瓶頸與安全性問題。"
+        "translatedName": "ECC (Agent Harness Performance Optimization System)",
+        "features": "這是一個針對代理人執行架構進行效能優化的系統，涵蓋了技能、直覺、記憶、安全性與研究導向開發。支援 Claude Code、Codex 與 Cursor 等主流 AI 編碼工具。",
+        "applications": "適用於深度依賴 AI 編碼助理的開發團隊，用於提升大型專案開發中的代理執行效能與安全性。"
       },
       {
         "rank": 5,
@@ -805,7 +814,7 @@
         "full_name": "deepseek-ai/deepseek-harness",
         "html_url": "https://github.com/deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
-        "stargazers_count": 229237,
+        "stargazers_count": 236145,
         "language": "TypeScript",
         "owner": {
           "login": "deepseek-ai",
@@ -816,8 +825,8 @@
           "spdx_id": "MIT"
         },
         "translatedName": "deepseek-harness",
-        "features": "這是一個基於 DeepSeek 架構的插件式開發框架，核心設計理念為「一切皆為插件」。它具備極高的擴充性，讓使用者能靈活組裝各類 AI 功能模組。",
-        "applications": "適合想要在 DeepSeek 生態系內自定義 AI 功能或擴充開發代理人能力的開發人員。"
+        "features": "一個模組化架構，遵循「一切皆為外掛（Everything is a Plugin）」的設計哲學。允許使用者靈活地擴展 AI 代理的功能與行為。",
+        "applications": "適合需要高度客製化 AI 開發環境的開發者，透過插件系統快速整合所需的功能。"
       },
       {
         "rank": 6,
@@ -825,7 +834,7 @@
         "full_name": "multica-ai/andrej-karpathy-skills",
         "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "stargazers_count": 213994,
+        "stargazers_count": 215178,
         "language": null,
         "owner": {
           "login": "multica-ai",
@@ -833,8 +842,8 @@
         },
         "license": null,
         "translatedName": "andrej-karpathy-skills",
-        "features": "這是一個基於 Andrej Karpathy 對於 LLM 編碼陷阱觀察所整理的配置檔案。透過單一 CLAUDE.md 檔案優化 Claude Code 的行為，減少 AI 常見的邏輯錯誤。",
-        "applications": "適合使用 Claude Code 的開發者，用以提升 AI 生成程式碼的品質，避免常見的邏輯與架構誤區。"
+        "features": "基於 Andrej Karpathy 對 LLM 編碼缺陷的觀察，透過單一 CLAUDE.md 設定檔來優化 Claude Code 的行為模式。旨在減少 AI 編碼過程中的常見錯誤。",
+        "applications": "適合使用 Claude Code 的開發者，用以導入專家經驗並提升 AI 生成程式碼的準確度。"
       },
       {
         "rank": 7,
@@ -842,7 +851,7 @@
         "full_name": "ultraworkers/claw-code",
         "html_url": "https://github.com/ultraworkers/claw-code",
         "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-        "stargazers_count": 195259,
+        "stargazers_count": 195290,
         "language": "Rust",
         "owner": {
           "login": "ultraworkers",
@@ -853,33 +862,16 @@
           "spdx_id": "MIT"
         },
         "translatedName": "claw-code",
-        "features": "這是一個以 Rust 語言開發的代理人管理系統，標榜能在完全無需人類介入的情況下進行維護與開發。它實現了一種高度自動化的展演式軟體維護模式。",
-        "applications": "適用於研究無人介入的自動化開發系統，或需要長效、自主運行程式碼維護任務的技術專案。"
+        "features": "這是一個由 AI 代理完全自主管理與維護的專案，使用 Rust 語言編寫並運行在模擬博物館情境中。展示了在無需人類介入情況下進行軟體開發與維護的可能性。",
+        "applications": "適合研究 AI 自主代理能力與自動化維護流程的技術人員參考。"
       },
       {
         "rank": 8,
-        "name": "skills",
-        "full_name": "anthropics/skills",
-        "html_url": "https://github.com/anthropics/skills",
-        "description": "Public repository for Agent Skills",
-        "stargazers_count": 177055,
-        "language": "Python",
-        "owner": {
-          "login": "anthropics",
-          "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
-        },
-        "license": null,
-        "translatedName": "skills (Anthropic)",
-        "features": "這是 Anthropic 官方發佈的 AI 代理人技能公開儲存庫。它提供了標準化且經過驗證的 AI 操作技能，幫助開發者建構更具智慧與邏輯的代理人。",
-        "applications": "適合正在使用 Anthropic 相關技術棧開發 AI 代理人的開發者，用於尋找標準化與官方認可的實作範例。"
-      },
-      {
-        "rank": 9,
         "name": "agency-agents",
         "full_name": "msitarzewski/agency-agents",
         "html_url": "https://github.com/msitarzewski/agency-agents",
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "stargazers_count": 153406,
+        "stargazers_count": 154655,
         "language": "Shell",
         "owner": {
           "login": "msitarzewski",
@@ -890,16 +882,16 @@
           "spdx_id": "MIT"
         },
         "translatedName": "agency-agents",
-        "features": "這是一套功能齊全的 AI 代理人代理機構，每個代理人皆具備專業角色、個性與執行流程。從前端開發到社群經營，它提供了多樣化的專門專家供使用者調度。",
-        "applications": "適用於個人創業者或小型工作室，需要透過 AI 代理人來補足團隊成員，實現全方位自動化的數位營運。"
+        "features": "一個功能齊全的 AI 代理集合，包含前端開發、社群互動、創意注入與品質檢查等多種專業角色。每個代理皆擁有獨特的個性與工作流程，確保交付成果的專業度。",
+        "applications": "適合需要快速建立虛擬團隊或自動化代理工作流的創業者與開發主管。"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "ponytail",
         "full_name": "DietrichGebert/ponytail",
         "html_url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stargazers_count": 142073,
+        "stargazers_count": 146044,
         "language": "JavaScript",
         "owner": {
           "login": "DietrichGebert",
@@ -910,16 +902,16 @@
           "spdx_id": "MIT"
         },
         "translatedName": "ponytail",
-        "features": "這個工具旨在訓練 AI 代理人模仿「團隊中最懶惰的資深開發者」思考模式。它強調以最小化的程式碼實現需求，遵循「最好的程式碼就是你沒寫的那一段」之哲學。",
-        "applications": "適合追求極簡開發與程式碼優化的團隊，透過限制 AI 過度編寫程式碼，從而提高開發效率與程式碼品質。"
+        "features": "這項工具引導 AI 代理採取「最懶惰的資深開發者」心態進行程式設計。其核心哲學是透過最簡潔的程式碼達成目標，避免過度工程化。",
+        "applications": "適用於希望提升開發效率、追求簡潔程式架構並減少冗餘開發工作的工程師。"
       },
       {
-        "rank": 11,
+        "rank": 10,
         "name": "gstack",
         "full_name": "garrytan/gstack",
         "html_url": "https://github.com/garrytan/gstack",
         "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "stargazers_count": 133603,
+        "stargazers_count": 134223,
         "language": "TypeScript",
         "owner": {
           "login": "garrytan",
@@ -930,16 +922,16 @@
           "spdx_id": "MIT"
         },
         "translatedName": "gstack",
-        "features": "這是由 Garry Tan 精心規劃的 Claude Code 部署方案，包含 23 種專業級工具。這些工具涵蓋了執行長、設計師、專案經理與 QA 等多個領域的專業能力。",
-        "applications": "適用於希望快速獲得專業級 AI 開發配置的創業團隊，將整個軟體開發生命週期委託給專業配置的 AI 系統。"
+        "features": "整合了 Garry Tan 的 Claude Code 配置，包含 23 種具備特定觀點的工具。涵蓋了從執行長、設計師到 QA 等多個職能角色，提供完整的專案管理支援。",
+        "applications": "適合想要複製成功創業導師工作流，並在 Claude Code 中實現全面職能自動化的開發者。"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "name": "ui-ux-pro-max-skill",
         "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
         "html_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-        "stargazers_count": 128858,
+        "stargazers_count": 130681,
         "language": "Python",
         "owner": {
           "login": "nextlevelbuilder",
@@ -950,8 +942,28 @@
           "spdx_id": "MIT"
         },
         "translatedName": "ui-ux-pro-max-skill",
-        "features": "這是一個專注於 UI/UX 設計智慧的 AI 技能模組，支援跨多平台的使用者介面建構。它提供專業的設計建議與實作指南，確保產出的介面符合專業標準。",
-        "applications": "適合前端開發者或設計師，透過此技能來提升 AI 在生成 UI 元件與UX 規劃時的專業度與美感。"
+        "features": "專為 UI/UX 設計提供的智慧技能模組，支援跨平台的專業介面開發。該工具能夠協助 AI 在編碼過程中主動考慮設計準則與使用者體驗。",
+        "applications": "適合全端開發者或前端工程師，用於在編碼階段自動整合專業設計思維。"
+      },
+      {
+        "rank": 12,
+        "name": "graphify",
+        "full_name": "Graphify-Labs/graphify",
+        "html_url": "https://github.com/Graphify-Labs/graphify",
+        "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "stargazers_count": 121467,
+        "language": "Python",
+        "owner": {
+          "login": "Graphify-Labs",
+          "avatar_url": "https://avatars.githubusercontent.com/u/297659074?v=4"
+        },
+        "license": {
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "translatedName": "graphify",
+        "features": "能將包含文件、SQL 綱要、設定檔與 PDF 在內的程式庫轉換為可查詢的知識圖譜。採用本地確定性 AST 解析方式，無需向量資料庫即可進行精確的程式碼分析。",
+        "applications": "適合大型專案開發者，用於快速檢索 codebase 資訊並協助 AI 代理更好地理解複雜的專案架構。"
       }
     ],
     "audio_video": [
@@ -961,7 +973,7 @@
         "full_name": "hypit-ai/hypit",
         "html_url": "https://github.com/hypit-ai/hypit",
         "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-        "stargazers_count": 10194,
+        "stargazers_count": 16039,
         "language": "TypeScript",
         "owner": {
           "login": "hypit-ai",
@@ -971,9 +983,9 @@
           "name": "Other",
           "spdx_id": "NOASSERTION"
         },
-        "translatedName": "hypit (AI 病毒式影片生成器)",
-        "features": "透過 AI 代理程序實現病毒式影片的一鍵式複製流程。它能自動處理換臉、文案編寫、B-roll 素材替換，並支援單指令產生百種影片變體。",
-        "applications": "適用於行銷人員與創作者快速大量產出短影音，旨在協助達成極高流量的曝光目標。"
+        "translatedName": "hypit (AI 病毒式影片生成代理)",
+        "features": "透過 AI 代理自動化處理影片製作的全流程，包括臉部替換、文案改寫及 B-roll 素材替換。支援一鍵生成 100 種變體，大幅提升創作效率。",
+        "applications": "適合短影音內容創作者，用於快速量產具有病毒傳播潛力的社交媒體影片。"
       },
       {
         "rank": 2,
@@ -981,7 +993,7 @@
         "full_name": "Vincentwei1021/video-shotcraft",
         "html_url": "https://github.com/Vincentwei1021/video-shotcraft",
         "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
-        "stargazers_count": 8960,
+        "stargazers_count": 9572,
         "language": "TypeScript",
         "owner": {
           "login": "Vincentwei1021",
@@ -991,9 +1003,9 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "translatedName": "video-shotcraft (Claude Code 影片製作外掛)",
-        "features": "專為 Claude Code 與 Codex 設計的 AI 影片創作工具，整合 Remotion 技術提供專業級的運鏡模板。內建 152 種鏡頭配方與 209 種動態預覽，實現可立即投入生產的影片生成。",
-        "applications": "適合需要快速製作高質感產品展示影片的團隊，有效減少剪輯工作負擔並確保視覺風格一致性。"
+        "translatedName": "video-shotcraft (AI 影片運鏡腳本)",
+        "features": "專為 Claude Code 與 Codex 設計的 AI 影片製作模組，結合 Remotion 提供 152 種鏡頭配方與 209 種動態預覽。提供開箱即用的生產級模板。",
+        "applications": "適合影片製作人員與開發者，用於快速建立專業級的產品展示影片。"
       },
       {
         "rank": 3,
@@ -1001,24 +1013,24 @@
         "full_name": "wide-trace/open-higgsfield",
         "html_url": "https://github.com/wide-trace/open-higgsfield",
         "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-        "stargazers_count": 3144,
+        "stargazers_count": 3751,
         "language": "TypeScript",
         "owner": {
           "login": "wide-trace",
           "avatar_url": "https://avatars.githubusercontent.com/u/321257738?v=4"
         },
         "license": null,
-        "translatedName": "open-higgsfield (整合式影音生成工作室)",
-        "features": "一個專注於影像與影片生成的中央控制台，透過單一提示詞輸入框即可管理多種 AI 模型。它將不同模型的參數設定整合在同一介面，並提供直觀的成果瀏覽圖庫。",
-        "applications": "適合同時嘗試多種生成式 AI 模型的藝術家與開發者，提供更高效的實驗環境與工作流管理。"
+        "translatedName": "open-higgsfield (AI 影音生成工作室)",
+        "features": "整合式影音生成平台，透過統一的指令列介面控管各類模型設定。將所有生成結果集中管理於圖庫中，方便創作者檢視與追蹤。",
+        "applications": "適合需要頻繁嘗試不同 AI 生成模型的創作者，解決了模型切換與資源管理繁瑣的問題。"
       },
       {
         "rank": 4,
         "name": "fugleramme",
         "full_name": "arnegiacomo/fugleramme",
         "html_url": "https://github.com/arnegiacomo/fugleramme",
-        "description": "E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.",
-        "stargazers_count": 3059,
+        "description": "Bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.",
+        "stargazers_count": 3368,
         "language": "Python",
         "owner": {
           "login": "arnegiacomo",
@@ -1028,37 +1040,17 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "fugleramme (樹莓派 E-ink 鳥類監測器)",
-        "features": "基於樹莓派的電子墨水屏裝置，利用音訊偵測進行即時鳥類辨識。全機在本地執行 AI 模型，並以 1800 年代手繪插圖風格呈現鳥類資訊。",
-        "applications": "適合賞鳥愛好者或追求復古科技美學的用戶，實現低功耗、隱私友善的自然觀察紀錄。"
+        "translatedName": "fugleramme (智慧鳥類觀測框架)",
+        "features": "基於 Raspberry Pi 的本地端 AI 系統，具備即時聲音鳥類偵測功能。能將辨識結果以 19 世紀復古鳥類插畫風格輸出至電子紙或電視螢幕。",
+        "applications": "適合鳥類觀察愛好者或家庭裝飾，將科技監控轉化為藝術化的視覺體驗。"
       },
       {
         "rank": 5,
-        "name": "audio.cpp",
-        "full_name": "0xShug0/audio.cpp",
-        "html_url": "https://github.com/0xShug0/audio.cpp",
-        "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.",
-        "stargazers_count": 2855,
-        "language": "C++",
-        "owner": {
-          "login": "0xShug0",
-          "avatar_url": "https://avatars.githubusercontent.com/u/231717474?v=4"
-        },
-        "license": {
-          "name": "Other",
-          "spdx_id": "NOASSERTION"
-        },
-        "translatedName": "audio.cpp (高效能 C++ 音訊推理引擎)",
-        "features": "基於 ggml 的全能型音訊推理框架，支援 TTS、STT、語音轉換與音樂生成等功能。完全不依賴 Python，具備極致的效能優化與低延遲表現。",
-        "applications": "適合需要將音訊 AI 模型部署在邊緣運算裝置或效能要求極高環境的開發者。"
-      },
-      {
-        "rank": 6,
         "name": "editor",
         "full_name": "diffusionstudio/editor",
         "html_url": "https://github.com/diffusionstudio/editor",
         "description": "An open-source video editor built for agents. Edits become code, code becomes video.",
-        "stargazers_count": 2851,
+        "stargazers_count": 3079,
         "language": "TypeScript",
         "owner": {
           "login": "diffusionstudio",
@@ -1068,17 +1060,17 @@
           "name": "Mozilla Public License 2.0",
           "spdx_id": "MPL-2.0"
         },
-        "translatedName": "editor (代理程序專用影片編輯器)",
-        "features": "一套開源的自動化影片編輯平台，專門為 AI 代理程序設計。將影片編輯流程轉化為程式碼驅動，實現編輯與程式碼的高效交互。",
-        "applications": "適合開發自動化媒體工作流的工程師，將內容創作流程標準化為程式邏輯。"
+        "translatedName": "editor (代理化影片編輯器)",
+        "features": "專為 AI 代理設計的開源影片編輯器，將編輯流程轉化為程式碼邏輯。透過程式碼直接控制影片內容，實現自動化影視製作。",
+        "applications": "適合自動化內容生產團隊，用於解決重複性高的剪輯工作並提升製作流程的可程式化程度。"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "qwen-audio-agent",
         "full_name": "QwenAudio/qwen-audio-agent",
         "html_url": "https://github.com/QwenAudio/qwen-audio-agent",
         "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-        "stargazers_count": 2707,
+        "stargazers_count": 2763,
         "language": "JavaScript",
         "owner": {
           "login": "QwenAudio",
@@ -1088,37 +1080,17 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "translatedName": "qwen-audio-agent (即時語音 AI 代理)",
-        "features": "提供即時語音處理的運行時環境，讓 AI 代理程序能維持持續對話與互動。專為需要保持工作狀態與存在感的語音代理開發。",
-        "applications": "適用於需要即時語音溝通的客服機器人、AI 助手或互動式語音應用的開發。"
+        "translatedName": "qwen-audio-agent (即時語音代理運行環境)",
+        "features": "提供高效的即時語音運行環境，確保 AI 代理在互動過程中保持順暢的對話與工作狀態。支援低延遲的語音互動處理。",
+        "applications": "適用於需要語音交互的 AI 客服或個人助理，強化使用者與 AI 之間的互動流暢度。"
       },
       {
-        "rank": 8,
-        "name": "claude-real-video",
-        "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
-        "html_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-        "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-        "stargazers_count": 2160,
-        "language": "Python",
-        "owner": {
-          "login": "HUANGCHIHHUNGLeo",
-          "avatar_url": "https://avatars.githubusercontent.com/u/207666334?v=4"
-        },
-        "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
-        },
-        "translatedName": "claude-real-video (Claude 影片理解工具)",
-        "features": "讓 LLM（如 Claude）具備讀取並分析影片內容的能力，支援 URL 或本地檔案導入。透過場景感知與影格去重技術，精準提取影片資訊與逐字稿。",
-        "applications": "適合需要快速彙整長影片內容、建立索引或自動撰寫影音摘要的專業研究人員。"
-      },
-      {
-        "rank": 9,
+        "rank": 7,
         "name": "drama-skills",
         "full_name": "zenstory-ai/drama-skills",
         "html_url": "https://github.com/zenstory-ai/drama-skills",
         "description": "开源 AI 短剧/漫剧创作 skill 合集：剧本、角色资产、分镜 storyboard、图片/视频提示词、审查，适配 Claude Code 与 Codex | Open-source AI short drama / micro-drama skills for Claude Code & Codex: script, assets, storyboard, image & video prompts, review. MIT.",
-        "stargazers_count": 2044,
+        "stargazers_count": 2270,
         "language": "Python",
         "owner": {
           "login": "zenstory-ai",
@@ -1128,9 +1100,49 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "drama-skills (AI 短劇創作工具集)",
-        "features": "開源的 AI 短劇創作技能包，整合了劇本編寫、角色資產管理、分鏡腳本繪製與審查機制。無縫對接 Claude Code 與 Codex 生態系。",
-        "applications": "適用於數位內容創作者，大幅簡化從腳本到短劇成品的創意製作流程。"
+        "translatedName": "drama-skills (AI 短劇創作套件)",
+        "features": "開源的 AI 短劇與漫劇創作工具集，整合了劇本生成、角色資產管理、分鏡繪製與內容審查等功能。完美適配 Claude Code 與 Codex 工作流。",
+        "applications": "適合數位內容創作者與網路短劇製作人，大幅降低短劇從腳本到成品的製作門檻。"
+      },
+      {
+        "rank": 8,
+        "name": "vmodal_sdk_flutter",
+        "full_name": "v-modal/vmodal_sdk_flutter",
+        "html_url": "https://github.com/v-modal/vmodal_sdk_flutter",
+        "description": "V- Modal AI: Visual Video / Image Search - SDK Flutter",
+        "stargazers_count": 2193,
+        "language": "Dart",
+        "owner": {
+          "login": "v-modal",
+          "avatar_url": "https://avatars.githubusercontent.com/u/286898453?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "vmodal_sdk_flutter (V-Modal 視覺搜尋 SDK)",
+        "features": "基於 Flutter 的視覺影音搜尋軟體開發工具包，支援高效的影像與影片內容檢索。提供穩定且跨平台的整合能力。",
+        "applications": "適合移動端開發者，用於在 App 中快速加入先進的 AI 視覺識別與搜尋功能。"
+      },
+      {
+        "rank": 9,
+        "name": "claude-real-video",
+        "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
+        "html_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+        "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+        "stargazers_count": 2186,
+        "language": "Python",
+        "owner": {
+          "login": "HUANGCHIHHUNGLeo",
+          "avatar_url": "https://avatars.githubusercontent.com/u/207666334?v=4"
+        },
+        "license": {
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "translatedName": "claude-real-video (Claude 影片分析工具)",
+        "features": "讓 Claude 或其他大型語言模型具備觀看影片的能力，支援解析 URL 或本地檔案。透過提取場景、去重影格與轉錄文字，實現對影音內容的精確理解。",
+        "applications": "適合需要自動化摘要長影片內容或分析影音素材的使用者，解決影片資訊處理的困難。"
       },
       {
         "rank": 10,
@@ -1138,8 +1150,8 @@
         "full_name": "gnipbao/story-to-handdrawn-video",
         "html_url": "https://github.com/gnipbao/story-to-handdrawn-video",
         "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-        "stargazers_count": 1994,
-        "language": "JavaScript",
+        "stargazers_count": 2077,
+        "language": "HTML",
         "owner": {
           "login": "gnipbao",
           "avatar_url": "https://avatars.githubusercontent.com/u/16514704?v=4"
@@ -1148,29 +1160,29 @@
           "name": "MIT License",
           "spdx_id": "MIT"
         },
-        "translatedName": "story-to-handdrawn-video (日記漫畫轉換器)",
-        "features": "AI 代理技能之一，能將故事文案或系列圖片自動轉換為手繪風格的日記漫畫動畫。產出專注於視覺敘事的靜音 MP4 格式影片。",
-        "applications": "適合社群媒體經營者或個人創作者，將圖文內容快速轉化為具有藝術感的動態短片。"
+        "translatedName": "story-to-handdrawn-video (手繪風格日記動畫轉換器)",
+        "features": "將文字故事或圖片集自動轉換為手繪日記風格的漫畫動畫。專注於靜音 mp4 畫面的自動生成，展現獨特的視覺敘事效果。",
+        "applications": "適合數位日記記錄者或社群媒體創作者，將簡單的故事素材轉化為生動的短片呈現。"
       },
       {
         "rank": 11,
-        "name": "vox-director",
-        "full_name": "Alisa0808/vox-director",
-        "html_url": "https://github.com/Alisa0808/vox-director",
-        "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-        "stargazers_count": 1965,
-        "language": "Python",
+        "name": "anything2explainer",
+        "full_name": "Vincentwei1021/anything2explainer",
+        "html_url": "https://github.com/Vincentwei1021/anything2explainer",
+        "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+        "stargazers_count": 2065,
+        "language": "TypeScript",
         "owner": {
-          "login": "Alisa0808",
-          "avatar_url": "https://avatars.githubusercontent.com/u/68321694?v=4"
+          "login": "Vincentwei1021",
+          "avatar_url": "https://avatars.githubusercontent.com/u/18239147?v=4"
         },
         "license": {
-          "name": "MIT License",
-          "spdx_id": "MIT"
+          "name": "Other",
+          "spdx_id": "NOASSERTION"
         },
-        "translatedName": "vox-director (自動化解釋型影片產生器)",
-        "features": "自動化端到端解決方案，利用 Atlas Cloud 與 ffmpeg 將單一主題轉換為 Vox 風格的拼貼式科普影片或廣告。專為 AI 代理程序編排的專業技能。",
-        "applications": "適用於教育工作者或行銷團隊，快速將複雜知識或產品賣點製作成具備視覺說服力的短片。"
+        "translatedName": "anything2explainer (自動化知識解說影片生成器)",
+        "features": "輸入主題即可自動生成具備旁白、字幕與進度條的知識解說影片。利用 Remotion 在程式碼中即時繪製每一影格，支援中英文。",
+        "applications": "適合知識型網紅與教育者，能快速將複雜觀念轉換為動態簡報風格的知識解說片。"
       },
       {
         "rank": 12,
@@ -1178,7 +1190,7 @@
         "full_name": "xzf-thu/VoiceMem",
         "html_url": "https://github.com/xzf-thu/VoiceMem",
         "description": "Infrastructure for the next generation of voice agents, designed to provide universal memory. It is divided into a left brain and a right brain, storing information and emotions respectively, while a fully streaming architecture eliminates latency at the fundamental level.",
-        "stargazers_count": 1908,
+        "stargazers_count": 2042,
         "language": "Python",
         "owner": {
           "login": "xzf-thu",
@@ -1188,9 +1200,9 @@
           "name": "Apache License 2.0",
           "spdx_id": "Apache-2.0"
         },
-        "translatedName": "VoiceMem (語音代理記憶架構)",
-        "features": "為次世代語音代理設計的通用記憶基礎設施，將記憶分為負責資訊的左腦與負責情感的右腦。採用完全串流架構，從根本上消除了交互延遲。",
-        "applications": "適合開發具備長期記憶與情感反應的複雜 AI 對話系統，提升語音代理的人性化表現。"
+        "translatedName": "VoiceMem (語音代理通用記憶系統)",
+        "features": "為新一代語音代理打造的基礎設施，將記憶分為左右腦以分別儲存事實資訊與情感內容。採用全串流架構，從根本上消除了語音互動的延遲。",
+        "applications": "適用於開發高互動性、具備長效記憶功能的 AI 語音助手，提升使用者的人格化互動體驗。"
       }
     ]
   }
